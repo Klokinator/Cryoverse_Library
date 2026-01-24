@@ -1,65 +1,65 @@
 {
-    "total_words": 18661,
+    "total_words": 19360,
     "total_chars": 101223,
     "parts": [
         {
             "name": "Buyable Power",
-            "words": 794,
+            "words": 826,
             "chars": 4046
         },
         {
             "name": "Humanity's AI",
-            "words": 1991,
+            "words": 2023,
             "chars": 11141
         },
         {
             "name": "Mild Inconvenience Note",
-            "words": 501,
+            "words": 517,
             "chars": 2726
         },
         {
             "name": "My Cat Kills Monsters",
-            "words": 608,
+            "words": 625,
             "chars": 3345
         },
         {
             "name": "My Dog is a WHAT",
-            "words": 2459,
+            "words": 2543,
             "chars": 13348
         },
         {
             "name": "Stalker",
-            "words": 1667,
+            "words": 1750,
             "chars": 8774
         },
         {
             "name": "Summoned Succubus",
-            "words": 1156,
+            "words": 1210,
             "chars": 6201
         },
         {
             "name": "THE ENEMY IS COMING",
-            "words": 1019,
+            "words": 1038,
             "chars": 5841
         },
         {
             "name": "The Australian Empire",
-            "words": 654,
+            "words": 679,
             "chars": 3429
         },
         {
             "name": "Tutorial Mode",
-            "words": 1522,
+            "words": 1558,
             "chars": 8545
         },
         {
             "name": "[CEU] Romance Buds in Christmas",
-            "words": 2041,
+            "words": 2146,
             "chars": 11046
         },
         {
             "name": "[CEU] The Deadliest Marksman",
-            "words": 4249,
+            "words": 4445,
             "chars": 22781
         }
     ]

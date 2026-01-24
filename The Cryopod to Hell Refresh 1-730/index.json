@@ -1,3651 +1,3651 @@
 {
-    "total_words": 2869755,
+    "total_words": 2958317,
     "total_chars": 16652528,
     "parts": [
         {
-            "name": "Part 1 Entering the Labyrinth",
-            "words": 5798,
+            "name": "Part 001 Entering the Labyrinth",
+            "words": 5977,
             "chars": 30798
         },
         {
-            "name": "Part 10 The Tests",
-            "words": 5714,
+            "name": "Part 002 The Secret House",
+            "words": 1335,
+            "chars": 7222
+        },
+        {
+            "name": "Part 003 The Prison",
+            "words": 3283,
+            "chars": 17276
+        },
+        {
+            "name": "Part 004 New Friends New Enemies",
+            "words": 4805,
+            "chars": 25811
+        },
+        {
+            "name": "Part 005 A Cute New Friend",
+            "words": 6225,
+            "chars": 33331
+        },
+        {
+            "name": "Part 006 Sloppy Wet Kisses",
+            "words": 2256,
+            "chars": 11766
+        },
+        {
+            "name": "Part 007 The Demon Leaders",
+            "words": 5751,
+            "chars": 30760
+        },
+        {
+            "name": "Part 008 Size Matters Not",
+            "words": 5579,
+            "chars": 29773
+        },
+        {
+            "name": "Part 009 The Labyrinth Core",
+            "words": 4331,
+            "chars": 23702
+        },
+        {
+            "name": "Part 010 The Tests",
+            "words": 5881,
             "chars": 31351
         },
         {
+            "name": "Part 011 Riddle Me This Hero",
+            "words": 5762,
+            "chars": 31014
+        },
+        {
+            "name": "Part 012 The Past The Present And The Monster Within",
+            "words": 5077,
+            "chars": 26805
+        },
+        {
+            "name": "Part 013 Shattered Mind Severed Link",
+            "words": 4233,
+            "chars": 22973
+        },
+        {
+            "name": "Part 014 A Weapon to Surpass Metal Gear",
+            "words": 6984,
+            "chars": 37245
+        },
+        {
+            "name": "Part 015 Jedi",
+            "words": 2795,
+            "chars": 14905
+        },
+        {
+            "name": "Part 016 Crippled Man Broken Bond",
+            "words": 2197,
+            "chars": 11302
+        },
+        {
+            "name": "Part 017 Trauma Ancient Wounds Ancient Allies",
+            "words": 6552,
+            "chars": 34871
+        },
+        {
+            "name": "Part 018 Freedom Comes With a Price",
+            "words": 5236,
+            "chars": 27897
+        },
+        {
+            "name": "Part 019 A Taste of the Good Life",
+            "words": 1725,
+            "chars": 9038
+        },
+        {
+            "name": "Part 020 Lightsaber Tradition",
+            "words": 2518,
+            "chars": 13277
+        },
+        {
+            "name": "Part 021 I Demon",
+            "words": 4145,
+            "chars": 22423
+        },
+        {
+            "name": "Part 022 Unforgivable Sins Blemished Past",
+            "words": 4684,
+            "chars": 25011
+        },
+        {
+            "name": "Part 023 Wordsmith Unleashed An Indecent Proposal",
+            "words": 5580,
+            "chars": 29895
+        },
+        {
+            "name": "Part 024 Violence Begets Violence",
+            "words": 2446,
+            "chars": 13007
+        },
+        {
+            "name": "Part 025 Battle Against the Black Witch",
+            "words": 5170,
+            "chars": 28172
+        },
+        {
+            "name": "Part 026 Roland And The Shrieking Devil",
+            "words": 5484,
+            "chars": 29637
+        },
+        {
+            "name": "Part 027 The Overlords Power Overwhelming",
+            "words": 3680,
+            "chars": 20046
+        },
+        {
+            "name": "Part 028 A Million Voices Cry Out In Terror",
+            "words": 3185,
+            "chars": 17190
+        },
+        {
+            "name": "Part 029 Return Of The Monster",
+            "words": 5183,
+            "chars": 28024
+        },
+        {
+            "name": "Part 030 Beelzebubs Burning Desire",
+            "words": 2151,
+            "chars": 11239
+        },
+        {
+            "name": "Part 031 Loss",
+            "words": 2604,
+            "chars": 13917
+        },
+        {
+            "name": "Part 032 Specter of Death",
+            "words": 2191,
+            "chars": 11792
+        },
+        {
+            "name": "Part 033 Stab and Seek",
+            "words": 2528,
+            "chars": 13758
+        },
+        {
+            "name": "Part 034 The Sweet Life of Phoebe",
+            "words": 3031,
+            "chars": 16252
+        },
+        {
+            "name": "Part 035 Battle For The Core Beelzebub Unleashed",
+            "words": 4135,
+            "chars": 22631
+        },
+        {
+            "name": "Part 036 Aftermath Agony Accusation",
+            "words": 3779,
+            "chars": 19997
+        },
+        {
+            "name": "Part 037 Irredeemable Evil Unlimited Regret",
+            "words": 1788,
+            "chars": 9374
+        },
+        {
+            "name": "Part 038 Hellfire And Brimstone",
+            "words": 2122,
+            "chars": 11686
+        },
+        {
+            "name": "Part 039 A Forbidden Power Emerges",
+            "words": 2291,
+            "chars": 12419
+        },
+        {
+            "name": "Part 040 Joan - The Maid of Orleans",
+            "words": 2942,
+            "chars": 16167
+        },
+        {
+            "name": "Part 041 When Heroes Become Villains",
+            "words": 2950,
+            "chars": 16164
+        },
+        {
+            "name": "Part 042 The Invincible Satan",
+            "words": 3390,
+            "chars": 17969
+        },
+        {
+            "name": "Part 043 Calm Before The Storm",
+            "words": 1537,
+            "chars": 8237
+        },
+        {
+            "name": "Part 044 The Devil Wears Ill-Fitting Suits Surprisingly",
+            "words": 4729,
+            "chars": 26009
+        },
+        {
+            "name": "Part 045 Hero-King Unleashed Battle For Survival",
+            "words": 2944,
+            "chars": 16376
+        },
+        {
+            "name": "Part 046 War For The Labyrinth",
+            "words": 6226,
+            "chars": 34545
+        },
+        {
+            "name": "Part 047 Balrog VS Hero-King The Onslaught Begins",
+            "words": 2988,
+            "chars": 16663
+        },
+        {
+            "name": "Part 048 The Ultimate Battle The Archdemon Awakens",
+            "words": 3037,
+            "chars": 16895
+        },
+        {
+            "name": "Part 049 Hoarhiims Awakening A Sacred Dawn",
+            "words": 3805,
+            "chars": 21035
+        },
+        {
+            "name": "Part 050 Unstoppable Force Immovable Object",
+            "words": 3009,
+            "chars": 16585
+        },
+        {
+            "name": "Part 051 Mephistos Ultimate Weapon Amelias Best Friend Returns",
+            "words": 2536,
+            "chars": 14718
+        },
+        {
+            "name": "Part 052 Everything Into The Void",
+            "words": 1981,
+            "chars": 11252
+        },
+        {
+            "name": "Part 053 The Council Regroups A New Hierarchy",
+            "words": 3300,
+            "chars": 18540
+        },
+        {
+            "name": "Part 054 Prepare For Trouble Make It Double",
+            "words": 4084,
+            "chars": 21949
+        },
+        {
+            "name": "Part 055 The Puppetmaster",
+            "words": 4685,
+            "chars": 24917
+        },
+        {
+            "name": "Part 056 Phoebes Tortured Past An Unlikely Connection",
+            "words": 6902,
+            "chars": 38254
+        },
+        {
+            "name": "Part 057 Her Country Or Her Morality",
+            "words": 5599,
+            "chars": 30636
+        },
+        {
+            "name": "Part 058 Time Heals All Wounds",
+            "words": 3516,
+            "chars": 18771
+        },
+        {
+            "name": "Part 059 Sticks And Bones May Break My Stones- Wait Thats Not Right",
+            "words": 5810,
+            "chars": 33163
+        },
+        {
+            "name": "Part 060 Beelzebubs Final Test The Duke Arises",
+            "words": 4804,
+            "chars": 27300
+        },
+        {
+            "name": "Part 061 Thanks for the Frienemies",
+            "words": 3557,
+            "chars": 19140
+        },
+        {
+            "name": "Part 062 Hell Harbor",
+            "words": 3069,
+            "chars": 17230
+        },
+        {
+            "name": "Part 063 Inner Monster Outer Monster - Whats The Difference",
+            "words": 4224,
+            "chars": 22631
+        },
+        {
+            "name": "Part 064 Dinner With the Demons",
+            "words": 2454,
+            "chars": 13578
+        },
+        {
+            "name": "Part 065 CENTURION",
+            "words": 3951,
+            "chars": 21173
+        },
+        {
+            "name": "Part 066 Humanitys Potential",
+            "words": 4358,
+            "chars": 23997
+        },
+        {
+            "name": "Part 067 Brother Tormentor - Barbatos Unleashed",
+            "words": 2751,
+            "chars": 14883
+        },
+        {
+            "name": "Part 068 The White Wedding",
+            "words": 5056,
+            "chars": 27434
+        },
+        {
+            "name": "Part 069 DArchangel",
+            "words": 2711,
+            "chars": 14813
+        },
+        {
+            "name": "Part 070 Art Is An Explosion",
+            "words": 3536,
+            "chars": 19701
+        },
+        {
+            "name": "Part 071 A New Hope",
+            "words": 3659,
+            "chars": 20276
+        },
+        {
+            "name": "Part 072 Crossroads of Fate",
+            "words": 3050,
+            "chars": 17070
+        },
+        {
+            "name": "Part 073 Face-Off",
+            "words": 5364,
+            "chars": 29319
+        },
+        {
+            "name": "Part 074 Rip And Tear",
+            "words": 3758,
+            "chars": 20721
+        },
+        {
+            "name": "Part 075 The Meaning of Pain",
+            "words": 6552,
+            "chars": 35808
+        },
+        {
+            "name": "Part 076 Mindgame",
+            "words": 4255,
+            "chars": 22783
+        },
+        {
+            "name": "Part 077 Treaty Traitor Terror",
+            "words": 4276,
+            "chars": 23058
+        },
+        {
+            "name": "Part 078 The Knowledge-Seeker",
+            "words": 5617,
+            "chars": 30530
+        },
+        {
+            "name": "Part 079 Trust Issues",
+            "words": 3873,
+            "chars": 21454
+        },
+        {
+            "name": "Part 080 The Next Generation",
+            "words": 6447,
+            "chars": 35045
+        },
+        {
+            "name": "Part 081 Like Uncle Like Nephew",
+            "words": 4537,
+            "chars": 24095
+        },
+        {
+            "name": "Part 082 End of Chapter One - Birdy",
+            "words": 3642,
+            "chars": 20407
+        },
+        {
+            "name": "Part 083 A Day In The Life",
+            "words": 3087,
+            "chars": 16704
+        },
+        {
+            "name": "Part 084 The Bestest Birthday Ever",
+            "words": 3351,
+            "chars": 17800
+        },
+        {
+            "name": "Part 085 Ambush",
+            "words": 4060,
+            "chars": 22203
+        },
+        {
+            "name": "Part 086 Master of Puppets",
+            "words": 4925,
+            "chars": 26822
+        },
+        {
+            "name": "Part 087 Birds Of A Feather",
+            "words": 2912,
+            "chars": 16005
+        },
+        {
+            "name": "Part 088 Cast Aside",
+            "words": 4855,
+            "chars": 25484
+        },
+        {
+            "name": "Part 089 Tarus III",
+            "words": 4238,
+            "chars": 23167
+        },
+        {
+            "name": "Part 090 Devour Devour",
+            "words": 4177,
+            "chars": 23157
+        },
+        {
+            "name": "Part 091 The Creation Mythos",
+            "words": 3705,
+            "chars": 20520
+        },
+        {
+            "name": "Part 092 The Archangel of Creation",
+            "words": 5790,
+            "chars": 32127
+        },
+        {
+            "name": "Part 093 The King Under The Mountain",
+            "words": 4847,
+            "chars": 26356
+        },
+        {
+            "name": "Part 094 The Grim Reaper",
+            "words": 6994,
+            "chars": 37736
+        },
+        {
+            "name": "Part 095 The Archangel Gambit",
+            "words": 6628,
+            "chars": 36236
+        },
+        {
+            "name": "Part 096 Attack On Chimera",
+            "words": 3835,
+            "chars": 21474
+        },
+        {
+            "name": "Part 097 Vengeance Postponed",
+            "words": 2539,
+            "chars": 14125
+        },
+        {
+            "name": "Part 098 Hades",
+            "words": 4663,
+            "chars": 25232
+        },
+        {
+            "name": "Part 099 Heavens Forge",
+            "words": 3953,
+            "chars": 22249
+        },
+        {
             "name": "Part 100 Attack On Titan",
-            "words": 4405,
+            "words": 4511,
             "chars": 24831
         },
         {
             "name": "Part 101 Dont Fear The Reaper",
-            "words": 4825,
+            "words": 5016,
             "chars": 27138
         },
         {
             "name": "Part 102 A Shocking Revelation",
-            "words": 4783,
+            "words": 4936,
             "chars": 27537
         },
         {
             "name": "Part 103 Lies Damned Lies and Destiny",
-            "words": 4480,
+            "words": 4608,
             "chars": 25889
         },
         {
             "name": "Part 104 The Ice Queen",
-            "words": 4697,
+            "words": 4882,
             "chars": 27019
         },
         {
             "name": "Part 105 Uzziels Lament",
-            "words": 1968,
+            "words": 2015,
             "chars": 11182
         },
         {
             "name": "Part 106 The Soul Bridge",
-            "words": 4625,
+            "words": 4791,
             "chars": 26001
         },
         {
             "name": "Part 107 Set In Stone",
-            "words": 2431,
+            "words": 2481,
             "chars": 13950
         },
         {
             "name": "Part 108 Liar Liar Satan the Liar",
-            "words": 3381,
+            "words": 3501,
             "chars": 19338
         },
         {
             "name": "Part 109 The Infinite Tsukuyomi",
-            "words": 3396,
+            "words": 3503,
             "chars": 19447
         },
         {
-            "name": "Part 11 Riddle Me This Hero",
-            "words": 5601,
-            "chars": 31014
-        },
-        {
             "name": "Part 110 The Cosmic Realm",
-            "words": 4531,
+            "words": 4693,
             "chars": 26209
         },
         {
             "name": "Part 111 The Unstoppable Archangels",
-            "words": 6049,
+            "words": 6256,
             "chars": 35345
         },
         {
             "name": "Part 112 The Unstoppable Valac",
-            "words": 5874,
+            "words": 6059,
             "chars": 33743
         },
         {
             "name": "Part 113 Dragonslayer",
-            "words": 4906,
+            "words": 5039,
             "chars": 28409
         },
         {
             "name": "Part 114 Solving the Puzzle",
-            "words": 3341,
+            "words": 3488,
             "chars": 19151
         },
         {
             "name": "Part 115 For The Horde",
-            "words": 5102,
+            "words": 5298,
             "chars": 29111
         },
         {
             "name": "Part 116 Sanctity of Heaven",
-            "words": 6301,
+            "words": 6444,
             "chars": 36815
         },
         {
             "name": "Part 117 Raphaels Secrets of Yore",
-            "words": 3682,
+            "words": 3788,
             "chars": 21268
         },
         {
             "name": "Part 118 War Is Coming",
-            "words": 3429,
+            "words": 3598,
             "chars": 19207
         },
         {
             "name": "Part 119 He Who Suffers",
-            "words": 2922,
+            "words": 3002,
             "chars": 16627
         },
         {
-            "name": "Part 12 The Past The Present And The Monster Within",
-            "words": 4883,
-            "chars": 26805
-        },
-        {
             "name": "Part 120 Shepherds Journey - The Damned",
-            "words": 4192,
+            "words": 4336,
             "chars": 23815
         },
         {
             "name": "Part 121 Unlikely Brothers",
-            "words": 5644,
+            "words": 5811,
             "chars": 31822
         },
         {
             "name": "Part 122 Reptilian Ancestry",
-            "words": 4048,
+            "words": 4213,
             "chars": 23177
         },
         {
             "name": "Part 123 Vengeance of the Damned",
-            "words": 3989,
+            "words": 4098,
             "chars": 22849
         },
         {
             "name": "Part 124 Battle Against the Black Soul",
-            "words": 3684,
+            "words": 3801,
             "chars": 21398
         },
         {
             "name": "Part 125 Return of the King",
-            "words": 3223,
+            "words": 3329,
             "chars": 18618
         },
         {
             "name": "Part 126 King of the Seas",
-            "words": 4752,
+            "words": 4966,
             "chars": 27663
         },
         {
             "name": "Part 127 A Brave New World",
-            "words": 5413,
+            "words": 5670,
             "chars": 31106
         },
         {
             "name": "Part 128 Prepare for Trouble",
-            "words": 4818,
+            "words": 5025,
             "chars": 27191
         },
         {
             "name": "Part 129 Make it Double",
-            "words": 4572,
+            "words": 4784,
             "chars": 26055
         },
         {
-            "name": "Part 13 Shattered Mind Severed Link",
-            "words": 4102,
-            "chars": 22973
-        },
-        {
             "name": "Part 130 Emperor of the Damned",
-            "words": 5327,
+            "words": 5572,
             "chars": 30176
         },
         {
             "name": "Part 131 Soul Controller",
-            "words": 4606,
+            "words": 4805,
             "chars": 26226
         },
         {
             "name": "Part 132 Clash of the Titans",
-            "words": 5719,
+            "words": 5917,
             "chars": 32145
         },
         {
             "name": "Part 133 LEGION",
-            "words": 6491,
+            "words": 6703,
             "chars": 38397
         },
         {
             "name": "Part 134 Master of all Elements",
-            "words": 5919,
+            "words": 6125,
             "chars": 34368
         },
         {
             "name": "Part 135 Balrogs Folly",
-            "words": 6603,
+            "words": 6799,
             "chars": 38835
         },
         {
             "name": "Part 136 Newtons Third Law",
-            "words": 4668,
+            "words": 4879,
             "chars": 26777
         },
         {
             "name": "Part 137 Digging Up The Past",
-            "words": 2881,
+            "words": 2977,
             "chars": 16645
         },
         {
             "name": "Part 138 Game of Emperors",
-            "words": 5493,
+            "words": 5734,
             "chars": 31504
         },
         {
             "name": "Part 139 Crouching Artisan Hidden Voyeur",
-            "words": 4826,
+            "words": 5051,
             "chars": 27637
         },
         {
-            "name": "Part 14 A Weapon to Surpass Metal Gear",
-            "words": 6745,
-            "chars": 37245
-        },
-        {
             "name": "Part 140 Enter the Dragon Part 1",
-            "words": 4046,
+            "words": 4175,
             "chars": 23200
         },
         {
             "name": "Part 141 Enter the Dragon Part 2",
-            "words": 5896,
+            "words": 6082,
             "chars": 34428
         },
         {
             "name": "Part 142 Release the Dragon",
-            "words": 4975,
+            "words": 5206,
             "chars": 28458
         },
         {
             "name": "Part 143 The Emperor of Passion",
-            "words": 2374,
+            "words": 2456,
             "chars": 13840
         },
         {
             "name": "Part 144 Return of a Legend",
-            "words": 6341,
+            "words": 6568,
             "chars": 36022
         },
         {
             "name": "Part 145 The War in Heaven",
-            "words": 6177,
+            "words": 6341,
             "chars": 35890
         },
         {
             "name": "Part 146 Demons Deception",
-            "words": 5476,
+            "words": 5644,
             "chars": 31720
         },
         {
             "name": "Part 147 The Trojan Horse",
-            "words": 4932,
+            "words": 5088,
             "chars": 28892
         },
         {
             "name": "Part 148 Scattered Chaos",
-            "words": 4640,
+            "words": 4757,
             "chars": 27120
         },
         {
             "name": "Part 149 The Infinity King",
-            "words": 3583,
+            "words": 3675,
             "chars": 20530
         },
         {
-            "name": "Part 15 Jedi",
-            "words": 2695,
-            "chars": 14905
-        },
-        {
             "name": "Part 150 Archangels and Emperors",
-            "words": 5515,
+            "words": 5655,
             "chars": 32168
         },
         {
             "name": "Part 150-5 The Illusory Realm",
-            "words": 4452,
+            "words": 4598,
             "chars": 26121
         },
         {
             "name": "Part 151 Battle of the Blades",
-            "words": 4605,
+            "words": 4771,
             "chars": 27121
         },
         {
             "name": "Part 152 Battle of the Souls",
-            "words": 6673,
+            "words": 6875,
             "chars": 39105
         },
         {
             "name": "Part 153 Deaths Arrival",
-            "words": 3620,
+            "words": 3718,
             "chars": 20821
         },
         {
             "name": "Part 154 The Birth of Evil",
-            "words": 5284,
+            "words": 5477,
             "chars": 31144
         },
         {
             "name": "Part 155 The Zhurms Rampage",
-            "words": 5114,
+            "words": 5253,
             "chars": 29726
         },
         {
             "name": "Part 156 The Search for a Master",
-            "words": 5982,
+            "words": 6153,
             "chars": 35356
         },
         {
             "name": "Part 157 All Is Fair in Love and War",
-            "words": 5751,
+            "words": 6033,
             "chars": 33326
         },
         {
             "name": "Part 158 Reanimation",
-            "words": 5134,
+            "words": 5262,
             "chars": 30005
         },
         {
             "name": "Part 159 The Might of Valhalla",
-            "words": 6418,
+            "words": 6588,
             "chars": 37892
         },
         {
-            "name": "Part 16 Crippled Man Broken Bond",
-            "words": 2111,
-            "chars": 11302
-        },
-        {
             "name": "Part 160 A Messengers Appearance",
-            "words": 3457,
+            "words": 3596,
             "chars": 19792
         },
         {
             "name": "Part 161 Cherished Memories",
-            "words": 5281,
+            "words": 5496,
             "chars": 31275
         },
         {
             "name": "Part 162 Michaels Wrath",
-            "words": 5466,
+            "words": 5677,
             "chars": 32372
         },
         {
             "name": "Part 163 Heaven and Hell Hate Hercules",
-            "words": 5070,
+            "words": 5268,
             "chars": 29256
         },
         {
             "name": "Part 164 The Unending Flame",
-            "words": 4240,
+            "words": 4358,
             "chars": 24824
         },
         {
             "name": "Part 165 Angels and Titans United",
-            "words": 6142,
+            "words": 6315,
             "chars": 36252
         },
         {
             "name": "Part 166 The Archdemons Rampage",
-            "words": 4701,
+            "words": 4831,
             "chars": 27696
         },
         {
             "name": "Part 167 A Rare Catch",
-            "words": 5852,
+            "words": 6075,
             "chars": 34117
         },
         {
             "name": "Part 168 The Creators Rain",
-            "words": 6514,
+            "words": 6736,
             "chars": 38179
         },
         {
             "name": "Part 169 Heavens Destruction",
-            "words": 6021,
+            "words": 6259,
             "chars": 36152
         },
         {
-            "name": "Part 17 Trauma Ancient Wounds Ancient Allies",
-            "words": 6360,
-            "chars": 34871
-        },
-        {
             "name": "Part 170 Return of the Balrog",
-            "words": 6272,
+            "words": 6510,
             "chars": 36897
         },
         {
             "name": "Part 171 The Neverending Cycle",
-            "words": 6792,
+            "words": 7058,
             "chars": 39282
         },
         {
             "name": "Part 172 End of Chapter Two - Abandoned",
-            "words": 4736,
+            "words": 4875,
             "chars": 26733
         },
         {
             "name": "Part 173 Hopes Crowning Achievement",
-            "words": 4728,
+            "words": 4973,
             "chars": 27009
         },
         {
             "name": "Part 174 Superhuman",
-            "words": 4146,
+            "words": 4320,
             "chars": 22983
         },
         {
             "name": "Part 175 The Quest for Peace",
-            "words": 2521,
+            "words": 2639,
             "chars": 14259
         },
         {
             "name": "Part 176 Hail Hydra",
-            "words": 3853,
+            "words": 3931,
             "chars": 22386
         },
         {
             "name": "Part 177 Deadly Hydration",
-            "words": 3404,
+            "words": 3527,
             "chars": 19629
         },
         {
             "name": "Part 178 Helpless Belial",
-            "words": 3732,
+            "words": 3875,
             "chars": 21805
         },
         {
             "name": "Part 179 Wordsmith VS Wordsmith",
-            "words": 4258,
+            "words": 4451,
             "chars": 24471
         },
         {
-            "name": "Part 18 Freedom Comes With a Price",
-            "words": 5061,
-            "chars": 27897
-        },
-        {
             "name": "Part 180 Mental Defenses",
-            "words": 2854,
+            "words": 2978,
             "chars": 15504
         },
         {
             "name": "Part 181 Emperor of Shadows",
-            "words": 6220,
+            "words": 6432,
             "chars": 35443
         },
         {
             "name": "Part 182 Demonic Machinations",
-            "words": 3839,
+            "words": 3982,
             "chars": 21847
         },
         {
             "name": "Part 183 The Road to El-Dorado",
-            "words": 2455,
+            "words": 2537,
             "chars": 14529
         },
         {
             "name": "Part 184 Intertwined Flesh",
-            "words": 2466,
+            "words": 2586,
             "chars": 13871
         },
         {
             "name": "Part 185 Sphinxs Might",
-            "words": 5820,
+            "words": 6001,
             "chars": 33201
         },
         {
             "name": "Part 186 Maries Oasis",
-            "words": 3619,
+            "words": 3777,
             "chars": 20844
         },
         {
             "name": "Part 187 Humanitys Former Glory",
-            "words": 4906,
+            "words": 5031,
             "chars": 28371
         },
         {
             "name": "Part 188 Humanity Containment Project",
-            "words": 4049,
+            "words": 4155,
             "chars": 23906
         },
         {
             "name": "Part 189 The Three Kings",
-            "words": 2398,
+            "words": 2461,
             "chars": 14148
         },
         {
-            "name": "Part 19 A Taste of the Good Life",
-            "words": 1653,
-            "chars": 9038
-        },
-        {
             "name": "Part 190 The Satyr",
-            "words": 4717,
+            "words": 4872,
             "chars": 27381
         },
         {
             "name": "Part 191 Family Ties",
-            "words": 6569,
+            "words": 6801,
             "chars": 37418
         },
         {
             "name": "Part 192 Mad Madam Mildred",
-            "words": 5977,
+            "words": 6182,
             "chars": 34303
         },
         {
             "name": "Part 193 Tuckers Mirage",
-            "words": 6591,
+            "words": 6813,
             "chars": 39391
         },
         {
             "name": "Part 194 Unexpected Visitors",
-            "words": 6257,
+            "words": 6453,
             "chars": 36664
         },
         {
             "name": "Part 195 Umis Core",
-            "words": 3890,
+            "words": 4017,
             "chars": 23229
         },
         {
             "name": "Part 196 Samsons Strength",
-            "words": 6866,
+            "words": 7137,
             "chars": 38900
         },
         {
             "name": "Part 197 Consequences",
-            "words": 4514,
+            "words": 4667,
             "chars": 25217
         },
         {
             "name": "Part 198 Jepthaths Origin",
-            "words": 4464,
+            "words": 4550,
             "chars": 25537
         },
         {
             "name": "Part 199 Jepthaths Burden",
-            "words": 4351,
+            "words": 4468,
             "chars": 25113
         },
         {
-            "name": "Part 2 The Secret House",
-            "words": 1314,
-            "chars": 7222
-        },
-        {
-            "name": "Part 20 Lightsaber Tradition",
-            "words": 2434,
-            "chars": 13277
-        },
-        {
             "name": "Part 200 Jepthaths Inheritance",
-            "words": 4570,
+            "words": 4740,
             "chars": 26842
         },
         {
             "name": "Part 201 Jepthaths Domination",
-            "words": 4188,
+            "words": 4352,
             "chars": 24691
         },
         {
             "name": "Part 202 Jepthaths Ultimatum",
-            "words": 6086,
+            "words": 6238,
             "chars": 35733
         },
         {
             "name": "Part 203 Jepthaths Resolve",
-            "words": 6593,
+            "words": 6761,
             "chars": 39083
         },
         {
             "name": "Part 204 The Heroic Auras Origin",
-            "words": 3004,
+            "words": 3128,
             "chars": 17495
         },
         {
             "name": "Part 205 Hopes Terror",
-            "words": 4049,
+            "words": 4241,
             "chars": 23547
         },
         {
             "name": "Part 206 The Plains of Pain",
-            "words": 6704,
+            "words": 6933,
             "chars": 38751
         },
         {
             "name": "Part 207 Rosalias Desire",
-            "words": 6553,
+            "words": 6846,
             "chars": 36944
         },
         {
             "name": "Part 208 Destiny Cards",
-            "words": 5663,
+            "words": 5873,
             "chars": 32197
         },
         {
             "name": "Part 209 Olive Branch",
-            "words": 6241,
+            "words": 6502,
             "chars": 35465
         },
         {
-            "name": "Part 21 I Demon",
-            "words": 3999,
-            "chars": 22423
-        },
-        {
             "name": "Part 210 The Demon Homeworld",
-            "words": 5730,
+            "words": 5954,
             "chars": 32523
         },
         {
             "name": "Part 211 Harboring a Grudge",
-            "words": 6813,
+            "words": 7088,
             "chars": 38634
         },
         {
             "name": "Part 212 Blinkers Array of Talents",
-            "words": 3701,
+            "words": 3855,
             "chars": 20795
         },
         {
             "name": "Part 213 Confronting Ose",
-            "words": 6620,
+            "words": 6862,
             "chars": 37800
         },
         {
             "name": "Part 214 The Swelling Storm",
-            "words": 4772,
+            "words": 4946,
             "chars": 27427
         },
         {
             "name": "Part 215 Lets Go To Space",
-            "words": 3521,
+            "words": 3608,
             "chars": 21080
         },
         {
             "name": "Part 216 An Anomaly Among Anomalies",
-            "words": 2529,
+            "words": 2578,
             "chars": 15187
         },
         {
             "name": "Part 217 Its a Trap",
-            "words": 3034,
+            "words": 3122,
             "chars": 17183
         },
         {
             "name": "Part 218 The Mystical Cube",
-            "words": 4352,
+            "words": 4451,
             "chars": 25200
         },
         {
             "name": "Part 219 The Cubes Secret",
-            "words": 2303,
+            "words": 2385,
             "chars": 13232
         },
         {
-            "name": "Part 22 Unforgivable Sins Blemished Past",
-            "words": 4543,
-            "chars": 25011
-        },
-        {
             "name": "Part 220 The Phoenixs Power",
-            "words": 4354,
+            "words": 4533,
             "chars": 25478
         },
         {
             "name": "Part 221 An Unlikely Hero",
-            "words": 3600,
+            "words": 3731,
             "chars": 21545
         },
         {
             "name": "Part 222 Preparing For War",
-            "words": 5498,
+            "words": 5624,
             "chars": 31836
         },
         {
             "name": "Part 223 Insurance",
-            "words": 4912,
+            "words": 5045,
             "chars": 28104
         },
         {
             "name": "Part 224 Gressils Children",
-            "words": 2360,
+            "words": 2425,
             "chars": 14388
         },
         {
             "name": "Part 225 Stormbringer Begins",
-            "words": 2399,
+            "words": 2449,
             "chars": 14387
         },
         {
             "name": "Part 226 Humanitys Might",
-            "words": 3504,
+            "words": 3606,
             "chars": 21201
         },
         {
             "name": "Part 227 Oses Plan",
-            "words": 2187,
+            "words": 2273,
             "chars": 12768
         },
         {
             "name": "Part 228 Casual Domination",
-            "words": 2586,
+            "words": 2689,
             "chars": 15608
         },
         {
             "name": "Part 229 Gressils Regret",
-            "words": 3537,
+            "words": 3706,
             "chars": 20932
         },
         {
-            "name": "Part 23 Wordsmith Unleashed An Indecent Proposal",
-            "words": 5416,
-            "chars": 29895
-        },
-        {
             "name": "Part 230 Neils Investigation",
-            "words": 4243,
+            "words": 4397,
             "chars": 25273
         },
         {
             "name": "Part 231 One Punch Monster",
-            "words": 3468,
+            "words": 3572,
             "chars": 20447
         },
         {
             "name": "Part 232 The Sphinxs Game",
-            "words": 5085,
+            "words": 5297,
             "chars": 29584
         },
         {
             "name": "Part 233 The Dukes Onslaught",
-            "words": 3288,
+            "words": 3404,
             "chars": 19598
         },
         {
             "name": "Part 234 A Shocking Development",
-            "words": 2894,
+            "words": 3013,
             "chars": 16802
         },
         {
             "name": "Part 235 Preparing for Round Two",
-            "words": 3199,
+            "words": 3344,
             "chars": 18737
         },
         {
             "name": "Part 236 Bael the Negotiator",
-            "words": 3329,
+            "words": 3467,
             "chars": 19217
         },
         {
             "name": "Part 237 The Balrogs Only Weakness",
-            "words": 2648,
+            "words": 2709,
             "chars": 15746
         },
         {
             "name": "Part 238 Phoebe Humanitys Leader",
-            "words": 3181,
+            "words": 3314,
             "chars": 18898
         },
         {
             "name": "Part 239 Baels Brain Spiders",
-            "words": 3540,
+            "words": 3662,
             "chars": 20556
         },
         {
-            "name": "Part 24 Violence Begets Violence",
-            "words": 2335,
-            "chars": 13007
-        },
-        {
             "name": "Part 240 Commander Phoebes Strategy",
-            "words": 6428,
+            "words": 6600,
             "chars": 38152
         },
         {
             "name": "Part 241 Invasion",
-            "words": 3621,
+            "words": 3724,
             "chars": 21708
         },
         {
             "name": "Part 242 Pandemonium",
-            "words": 3687,
+            "words": 3782,
             "chars": 22561
         },
         {
             "name": "Part 243 Mephistos Counterattack",
-            "words": 3772,
+            "words": 3878,
             "chars": 23160
         },
         {
             "name": "Part 244 Darkness",
-            "words": 3563,
+            "words": 3682,
             "chars": 21553
         },
         {
             "name": "Part 245 Prison Break",
-            "words": 3208,
+            "words": 3333,
             "chars": 18944
         },
         {
             "name": "Part 246 The Wordsmith Returns",
-            "words": 3631,
+            "words": 3782,
             "chars": 21722
         },
         {
             "name": "Part 247 Jasons Attack",
-            "words": 3508,
+            "words": 3607,
             "chars": 20671
         },
         {
             "name": "Part 248 Wordsmithexe",
-            "words": 4112,
+            "words": 4267,
             "chars": 23898
         },
         {
             "name": "Part 249 Maras Great Escape",
-            "words": 2998,
+            "words": 3113,
             "chars": 17827
         },
         {
-            "name": "Part 25 Battle Against the Black Witch",
-            "words": 5018,
-            "chars": 28172
-        },
-        {
             "name": "Part 250 The Battle Brothers Resurgence",
-            "words": 3156,
+            "words": 3304,
             "chars": 18525
         },
         {
             "name": "Part 251 Swift Soul Searching",
-            "words": 3963,
+            "words": 4103,
             "chars": 22646
         },
         {
             "name": "Part 252 Astral Soul-Eater",
-            "words": 6345,
+            "words": 6533,
             "chars": 36191
         },
         {
             "name": "Part 253 Lazarus Tower",
-            "words": 3523,
+            "words": 3637,
             "chars": 20391
         },
         {
             "name": "Part 254 Shady Skulduggery",
-            "words": 4023,
+            "words": 4195,
             "chars": 23235
         },
         {
             "name": "Part 255 Two Mommies",
-            "words": 2653,
+            "words": 2773,
             "chars": 15507
         },
         {
             "name": "Part 256 Belials Demise",
-            "words": 2818,
+            "words": 2935,
             "chars": 16663
         },
         {
             "name": "Part 257 Daisys Fate",
-            "words": 3256,
+            "words": 3370,
             "chars": 19288
         },
         {
             "name": "Part 258 War Recap",
-            "words": 2700,
+            "words": 2820,
             "chars": 16200
         },
         {
             "name": "Part 259 Beelzebubs Prison Break",
-            "words": 4989,
+            "words": 5162,
             "chars": 29410
         },
         {
-            "name": "Part 26 Roland And The Shrieking Devil",
-            "words": 5342,
-            "chars": 29637
-        },
-        {
             "name": "Part 260 Battlefield Interference",
-            "words": 3807,
+            "words": 3931,
             "chars": 22335
         },
         {
             "name": "Part 261 Tactical Wordsmithing",
-            "words": 3771,
+            "words": 3908,
             "chars": 21894
         },
         {
             "name": "Part 262 Wordsmiths Omnipresence",
-            "words": 5929,
+            "words": 6165,
             "chars": 34570
         },
         {
             "name": "Part 263 Jasons Brain Drain",
-            "words": 3143,
+            "words": 3239,
             "chars": 18121
         },
         {
             "name": "Part 264 Oriass Origins",
-            "words": 5117,
+            "words": 5217,
             "chars": 28534
         },
         {
             "name": "Part 265 Humanity Encircled",
-            "words": 4424,
+            "words": 4576,
             "chars": 26438
         },
         {
             "name": "Part 266 Belials Rage",
-            "words": 3780,
+            "words": 3924,
             "chars": 22232
         },
         {
             "name": "Part 267 Brightest Cave Darkest Dawn",
-            "words": 4510,
+            "words": 4666,
             "chars": 25648
         },
         {
             "name": "Part 268 Kars Vengeance",
-            "words": 5077,
+            "words": 5245,
             "chars": 29972
         },
         {
             "name": "Part 269 Visiting the Oracles",
-            "words": 3773,
+            "words": 3902,
             "chars": 21859
         },
         {
-            "name": "Part 27 The Overlords Power Overwhelming",
-            "words": 3567,
-            "chars": 20046
-        },
-        {
             "name": "Part 270 Amelias Quest for Hope",
-            "words": 4778,
+            "words": 4936,
             "chars": 27328
         },
         {
             "name": "Part 271 Oses Exasperation",
-            "words": 4606,
+            "words": 4785,
             "chars": 26110
         },
         {
             "name": "Part 272 Zamiels Siren Song",
-            "words": 4519,
+            "words": 4680,
             "chars": 26262
         },
         {
             "name": "Part 273 Sphinx-Slayer",
-            "words": 4657,
+            "words": 4786,
             "chars": 27592
         },
         {
             "name": "Part 274 Battle Against Belial",
-            "words": 3315,
+            "words": 3442,
             "chars": 19673
         },
         {
             "name": "Part 275 Lightning and Fire",
-            "words": 3136,
+            "words": 3241,
             "chars": 18643
         },
         {
             "name": "Part 276 Stealing the Archangels Thunder",
-            "words": 3487,
+            "words": 3582,
             "chars": 20569
         },
         {
             "name": "Part 277 Killer in the Shadows",
-            "words": 4725,
+            "words": 4857,
             "chars": 27810
         },
         {
             "name": "Part 278 Sphinx VS Duke Finale",
-            "words": 3805,
+            "words": 3938,
             "chars": 22097
         },
         {
             "name": "Part 279 Blinkers Gain Blinkers Loss",
-            "words": 3612,
+            "words": 3750,
             "chars": 21506
         },
         {
-            "name": "Part 28 A Million Voices Cry Out In Terror",
-            "words": 3106,
-            "chars": 17190
-        },
-        {
             "name": "Part 280 Best Friends Forever",
-            "words": 3625,
+            "words": 3741,
             "chars": 21685
         },
         {
             "name": "Part 281 Friendship Is Magic",
-            "words": 3365,
+            "words": 3489,
             "chars": 19840
         },
         {
             "name": "Part 282 Oses Checkmate",
-            "words": 3496,
+            "words": 3606,
             "chars": 20771
         },
         {
             "name": "Part 283 Oses Final Gambit",
-            "words": 3349,
+            "words": 3459,
             "chars": 19526
         },
         {
             "name": "Part 284 Baels Bestest Buddy",
-            "words": 3649,
+            "words": 3810,
             "chars": 20720
         },
         {
             "name": "Part 285 Clumsy Bael",
-            "words": 4061,
+            "words": 4208,
             "chars": 23406
         },
         {
             "name": "Part 286 Baels Decision",
-            "words": 3535,
+            "words": 3644,
             "chars": 21067
         },
         {
             "name": "Part 287 Powderkeg",
-            "words": 4930,
+            "words": 5123,
             "chars": 28055
         },
         {
             "name": "Part 288 Unyielding Rage",
-            "words": 3142,
+            "words": 3250,
             "chars": 18896
         },
         {
             "name": "Part 289 Fallen Father",
-            "words": 3594,
+            "words": 3727,
             "chars": 20918
         },
         {
-            "name": "Part 29 Return Of The Monster",
-            "words": 5006,
-            "chars": 28024
-        },
-        {
             "name": "Part 290 Advent of Chaos",
-            "words": 3770,
+            "words": 3914,
             "chars": 22033
         },
         {
             "name": "Part 291 Hall of the Damned",
-            "words": 3705,
+            "words": 3790,
             "chars": 22231
         },
         {
             "name": "Part 292 Mothers Grief",
-            "words": 4039,
+            "words": 4163,
             "chars": 23165
         },
         {
             "name": "Part 293 Retaking the Core",
-            "words": 4022,
+            "words": 4164,
             "chars": 23442
         },
         {
             "name": "Part 294 Mirror of Samsara",
-            "words": 3258,
+            "words": 3341,
             "chars": 18972
         },
         {
             "name": "Part 295 Meeting of the Hidden Emperors Part 1",
-            "words": 5726,
+            "words": 5847,
             "chars": 32960
         },
         {
             "name": "Part 296 Meeting of the Hidden Emperors Part 2",
-            "words": 5372,
+            "words": 5490,
             "chars": 30860
         },
         {
             "name": "Part 297 How to Kill a Wordsmith",
-            "words": 5653,
+            "words": 5791,
             "chars": 33463
         },
         {
             "name": "Part 298 Reviving the Fallen",
-            "words": 3708,
+            "words": 3822,
             "chars": 22351
         },
         {
             "name": "Part 299 Mephistos Screw-up",
-            "words": 3411,
+            "words": 3536,
             "chars": 19689
         },
         {
-            "name": "Part 3 The Prison",
-            "words": 3182,
-            "chars": 17276
-        },
-        {
-            "name": "Part 30 Beelzebubs Burning Desire",
-            "words": 2064,
-            "chars": 11239
-        },
-        {
             "name": "Part 300 First Hells Return",
-            "words": 4020,
+            "words": 4106,
             "chars": 23376
         },
         {
             "name": "Part 301 Archangels Rampage",
-            "words": 4491,
+            "words": 4600,
             "chars": 26402
         },
         {
             "name": "Part 302 Raphaels Secret",
-            "words": 2496,
+            "words": 2562,
             "chars": 14829
         },
         {
             "name": "Part 303 The Unifier",
-            "words": 2892,
+            "words": 2975,
             "chars": 17123
         },
         {
             "name": "Part 304 Uriels Counterattack",
-            "words": 2954,
+            "words": 3020,
             "chars": 17531
         },
         {
             "name": "Part 305 Beyond the Grave",
-            "words": 3515,
+            "words": 3687,
             "chars": 20349
         },
         {
             "name": "Part 306 Saving Humanitys Hope",
-            "words": 3508,
+            "words": 3658,
             "chars": 19916
         },
         {
             "name": "Part 307 Infernos Return",
-            "words": 3653,
+            "words": 3761,
             "chars": 20758
         },
         {
             "name": "Part 308 Approaching Faiths End",
-            "words": 3657,
+            "words": 3789,
             "chars": 21226
         },
         {
             "name": "Part 309 Prison Assault",
-            "words": 3617,
+            "words": 3719,
             "chars": 21226
         },
         {
-            "name": "Part 31 Loss",
-            "words": 2520,
-            "chars": 13917
-        },
-        {
             "name": "Part 310 Little Lost Birdy",
-            "words": 3844,
+            "words": 4024,
             "chars": 22531
         },
         {
             "name": "Part 311 Passionate Providence",
-            "words": 2930,
+            "words": 3038,
             "chars": 17279
         },
         {
             "name": "Part 312 Buddhas Failure",
-            "words": 3978,
+            "words": 4034,
             "chars": 22003
         },
         {
             "name": "Part 313 Satans Fall",
-            "words": 4334,
+            "words": 4450,
             "chars": 24803
         },
         {
             "name": "Part 314 End of Faith",
-            "words": 3342,
+            "words": 3433,
             "chars": 19753
         },
         {
             "name": "Part 315 Rescue Success",
-            "words": 3301,
+            "words": 3444,
             "chars": 19331
         },
         {
             "name": "Part 316 The Glyphmancers Game",
-            "words": 4548,
+            "words": 4652,
             "chars": 26517
         },
         {
             "name": "Part 317 Body Snatcher",
-            "words": 4198,
+            "words": 4287,
             "chars": 24254
         },
         {
             "name": "Part 318 A Little Lost Whisper",
-            "words": 3724,
+            "words": 3826,
             "chars": 21365
         },
         {
             "name": "Part 319 Crows Sacrifice",
-            "words": 4017,
+            "words": 4121,
             "chars": 23999
         },
         {
-            "name": "Part 32 Specter of Death",
-            "words": 2119,
-            "chars": 11792
-        },
-        {
             "name": "Part 320 Cherubiims Judgment",
-            "words": 2717,
+            "words": 2773,
             "chars": 16773
         },
         {
             "name": "Part 321 Demon Deitys Wrath",
-            "words": 4098,
+            "words": 4193,
             "chars": 24975
         },
         {
             "name": "Part 322 Confessors Plight",
-            "words": 4263,
+            "words": 4343,
             "chars": 26513
         },
         {
             "name": "Part 323 Emperor Mephisto",
-            "words": 3250,
+            "words": 3332,
             "chars": 19369
         },
         {
             "name": "Part 324 Planetary Cataclysm",
-            "words": 3409,
+            "words": 3490,
             "chars": 20312
         },
         {
             "name": "Part 325 The Mightiest Demon",
-            "words": 3083,
+            "words": 3131,
             "chars": 18044
         },
         {
             "name": "Part 326 The Galactic Threat",
-            "words": 2770,
+            "words": 2798,
             "chars": 16961
         },
         {
             "name": "Part 327 Hand of the Founders",
-            "words": 4187,
+            "words": 4252,
             "chars": 26005
         },
         {
             "name": "Part 328 History And Future",
-            "words": 4638,
+            "words": 4665,
             "chars": 28225
         },
         {
             "name": "Part 329 Fear The Wordsmith",
-            "words": 5232,
+            "words": 5273,
             "chars": 31523
         },
         {
-            "name": "Part 33 Stab and Seek",
-            "words": 2450,
-            "chars": 13758
-        },
-        {
             "name": "Part 330 Grand Assemblys Conclusion",
-            "words": 3757,
+            "words": 3802,
             "chars": 22696
         },
         {
             "name": "Part 331 Prodigys Promotion",
-            "words": 4318,
+            "words": 4402,
             "chars": 25602
         },
         {
             "name": "Part 332 Fortified Future",
-            "words": 3304,
+            "words": 3434,
             "chars": 19554
         },
         {
             "name": "Part 333 Back From the Dead",
-            "words": 3582,
+            "words": 3758,
             "chars": 20856
         },
         {
             "name": "Part 334 Trauma Torture Terror",
-            "words": 3579,
+            "words": 3724,
             "chars": 20269
         },
         {
             "name": "Part 335 The Power Glove",
-            "words": 3808,
+            "words": 3982,
             "chars": 22243
         },
         {
             "name": "Part 336 Too Many Spies",
-            "words": 4383,
+            "words": 4523,
             "chars": 25642
         },
         {
             "name": "Part 337 First Contact",
-            "words": 3847,
+            "words": 3938,
             "chars": 23408
         },
         {
             "name": "Part 338 Tension and Longing",
-            "words": 4821,
+            "words": 5052,
             "chars": 27793
         },
         {
             "name": "Part 339 Memory Restoration",
-            "words": 3586,
+            "words": 3701,
             "chars": 20701
         },
         {
-            "name": "Part 34 The Sweet Life of Phoebe",
-            "words": 2930,
-            "chars": 16252
-        },
-        {
             "name": "Part 340 Baels News",
-            "words": 3752,
+            "words": 3903,
             "chars": 21452
         },
         {
             "name": "Part 341 Shaxs Return",
-            "words": 3339,
+            "words": 3497,
             "chars": 18830
         },
         {
             "name": "Part 342 Let Sleeping Devils Lie",
-            "words": 3429,
+            "words": 3558,
             "chars": 19668
         },
         {
             "name": "Part 343 Deception Disgrace Lying Face",
-            "words": 3732,
+            "words": 3859,
             "chars": 21490
         },
         {
             "name": "Part 344 Tarot Sect",
-            "words": 3430,
+            "words": 3485,
             "chars": 19952
         },
         {
             "name": "Part 345 Raphaels Revelation",
-            "words": 3461,
+            "words": 3536,
             "chars": 20635
         },
         {
             "name": "Part 346 Heavens Daughter",
-            "words": 3357,
+            "words": 3430,
             "chars": 20050
         },
         {
             "name": "Part 347 Phoebes Request",
-            "words": 3592,
+            "words": 3767,
             "chars": 21071
         },
         {
             "name": "Part 348 Changelings",
-            "words": 4129,
+            "words": 4226,
             "chars": 24457
         },
         {
             "name": "Part 349 Hope Awakens",
-            "words": 3716,
+            "words": 3878,
             "chars": 21232
         },
         {
-            "name": "Part 35 Battle For The Core Beelzebub Unleashed",
-            "words": 4005,
-            "chars": 22631
-        },
-        {
             "name": "Part 350 Oses Ascension",
-            "words": 3936,
+            "words": 4057,
             "chars": 22920
         },
         {
             "name": "Part 351 Belials Choice",
-            "words": 4095,
+            "words": 4231,
             "chars": 23355
         },
         {
             "name": "Part 352 New Allies",
-            "words": 3844,
+            "words": 3977,
             "chars": 22593
         },
         {
             "name": "Part 353 Jasons Speech",
-            "words": 3827,
+            "words": 3905,
             "chars": 21767
         },
         {
             "name": "Part 354 Benjamins Backstory",
-            "words": 3678,
+            "words": 3776,
             "chars": 21210
         },
         {
             "name": "Part 355 Karma and Fate",
-            "words": 3424,
+            "words": 3510,
             "chars": 19802
         },
         {
             "name": "Part 356 A Quiet Lull",
-            "words": 3229,
+            "words": 3345,
             "chars": 19069
         },
         {
             "name": "Part 357 Wordsmiths Surprise",
-            "words": 3568,
+            "words": 3676,
             "chars": 21009
         },
         {
             "name": "Part 358 Wordsmiths Cunning",
-            "words": 5281,
+            "words": 5472,
             "chars": 30830
         },
         {
             "name": "Part 359 Ive Come to Bargain",
-            "words": 5207,
+            "words": 5342,
             "chars": 30249
         },
         {
-            "name": "Part 36 Aftermath Agony Accusation",
-            "words": 3614,
-            "chars": 19997
-        },
-        {
             "name": "Part 360 Shattered Sharmur",
-            "words": 3855,
+            "words": 3958,
             "chars": 22396
         },
         {
             "name": "Part 361 Fallen World",
-            "words": 3576,
+            "words": 3695,
             "chars": 20624
         },
         {
             "name": "Part 362 Rescuing Neil",
-            "words": 3592,
+            "words": 3731,
             "chars": 20801
         },
         {
             "name": "Part 363 Mephistos Flight",
-            "words": 3607,
+            "words": 3687,
             "chars": 21560
         },
         {
             "name": "Part 364 Humanitys Rise",
-            "words": 3891,
+            "words": 3962,
             "chars": 23052
         },
         {
             "name": "Part 365 Organizational Directives Part 1",
-            "words": 4122,
+            "words": 4239,
             "chars": 23829
         },
         {
             "name": "Part 366 Organizational Directives Part 2",
-            "words": 3473,
+            "words": 3584,
             "chars": 20369
         },
         {
             "name": "Part 367 Sinners Revelation",
-            "words": 3522,
+            "words": 3627,
             "chars": 20259
         },
         {
             "name": "Part 368 Beelzebubs Guilt",
-            "words": 3201,
+            "words": 3313,
             "chars": 18606
         },
         {
             "name": "Part 369 His True Identity",
-            "words": 3445,
+            "words": 3562,
             "chars": 20072
         },
         {
-            "name": "Part 37 Irredeemable Evil Unlimited Regret",
-            "words": 1705,
-            "chars": 9374
-        },
-        {
             "name": "Part 370 Emperor Gorns Dao",
-            "words": 3597,
+            "words": 3704,
             "chars": 20781
         },
         {
             "name": "Part 371 Infernos Imprisonment",
-            "words": 3663,
+            "words": 3771,
             "chars": 21063
         },
         {
             "name": "Part 372 Death and Shadows",
-            "words": 3555,
+            "words": 3623,
             "chars": 20860
         },
         {
             "name": "Part 373 Garden of Eden",
-            "words": 3358,
+            "words": 3455,
             "chars": 19823
         },
         {
             "name": "Part 374 Gorns Seclusion",
-            "words": 3875,
+            "words": 3924,
             "chars": 22071
         },
         {
             "name": "Part 375 Lorents Golden Garden",
-            "words": 4194,
+            "words": 4297,
             "chars": 24472
         },
         {
             "name": "Part 376 Marching Toward the Future",
-            "words": 3779,
+            "words": 3895,
             "chars": 21313
         },
         {
             "name": "Part 377 Desire Unleashed",
-            "words": 3655,
+            "words": 3790,
             "chars": 21105
         },
         {
             "name": "Part 378 Cube World",
-            "words": 3596,
+            "words": 3756,
             "chars": 21046
         },
         {
             "name": "Part 379 Foundational Formation Contemplation",
-            "words": 3304,
+            "words": 3419,
             "chars": 19426
         },
         {
-            "name": "Part 38 Hellfire And Brimstone",
-            "words": 2048,
-            "chars": 11686
-        },
-        {
             "name": "Part 380 Jasons Departure",
-            "words": 3666,
+            "words": 3746,
             "chars": 21212
         },
         {
             "name": "Part 381 The Psionic Laws",
-            "words": 3610,
+            "words": 3666,
             "chars": 21505
         },
         {
             "name": "Part 382 Kordoniss Secrets",
-            "words": 3403,
+            "words": 3496,
             "chars": 20469
         },
         {
             "name": "Part 383 Holdem Foldem",
-            "words": 3398,
+            "words": 3482,
             "chars": 19822
         },
         {
             "name": "Part 384 Cassiels Road to Recovery",
-            "words": 3537,
+            "words": 3675,
             "chars": 21057
         },
         {
             "name": "Part 385 Approaching Volgarius",
-            "words": 3135,
+            "words": 3197,
             "chars": 18974
         },
         {
             "name": "Part 386 Arrival on Volgarius",
-            "words": 3587,
+            "words": 3678,
             "chars": 21235
         },
         {
             "name": "Part 387 The First Founder Part 1",
-            "words": 3862,
+            "words": 3957,
             "chars": 22872
         },
         {
             "name": "Part 388 The First Founder Part 2",
-            "words": 3389,
+            "words": 3476,
             "chars": 20047
         },
         {
             "name": "Part 389 The First Founder Part 3",
-            "words": 3611,
+            "words": 3708,
             "chars": 21463
         },
         {
-            "name": "Part 39 A Forbidden Power Emerges",
-            "words": 2202,
-            "chars": 12419
-        },
-        {
             "name": "Part 390 Hopeful Arrival",
-            "words": 3342,
+            "words": 3393,
             "chars": 19918
         },
         {
             "name": "Part 391 The Respected",
-            "words": 3202,
+            "words": 3285,
             "chars": 18645
         },
         {
             "name": "Part 392 Valhallas Daughter",
-            "words": 3825,
+            "words": 3932,
             "chars": 22647
         },
         {
             "name": "Part 393 Dolgris Guides Us",
-            "words": 4219,
+            "words": 4302,
             "chars": 24685
         },
         {
             "name": "Part 394 Psionic Enclave",
-            "words": 3395,
+            "words": 3427,
             "chars": 19743
         },
         {
             "name": "Part 395 Psionic Enclave",
-            "words": 3390,
+            "words": 3445,
             "chars": 19614
         },
         {
             "name": "Part 396 Maras Crimes",
-            "words": 3654,
+            "words": 3807,
             "chars": 20610
         },
         {
             "name": "Part 397 Baels Return",
-            "words": 4182,
+            "words": 4326,
             "chars": 24270
         },
         {
             "name": "Part 398 Order to Chaos",
-            "words": 3625,
+            "words": 3714,
             "chars": 21573
         },
         {
             "name": "Part 399 Cosmic Corruption",
-            "words": 3632,
+            "words": 3720,
             "chars": 21422
         },
         {
-            "name": "Part 4 New Friends New Enemies",
-            "words": 4661,
-            "chars": 25811
-        },
-        {
-            "name": "Part 40 Joan - The Maid of Orleans",
-            "words": 2856,
-            "chars": 16167
-        },
-        {
             "name": "Part 400 Gallaxs Fall",
-            "words": 3303,
+            "words": 3394,
             "chars": 19067
         },
         {
             "name": "Part 401 Samuels Strength",
-            "words": 3784,
+            "words": 3891,
             "chars": 22088
         },
         {
             "name": "Part 402 Emerging from Her Shell",
-            "words": 3767,
+            "words": 3943,
             "chars": 21911
         },
         {
             "name": "Part 403 Psion Realization",
-            "words": 3423,
+            "words": 3454,
             "chars": 19847
         },
         {
             "name": "Part 404 The Hall of Ascension",
-            "words": 4129,
+            "words": 4187,
             "chars": 24549
         },
         {
             "name": "Part 405 Right to Rule",
-            "words": 3326,
+            "words": 3430,
             "chars": 19285
         },
         {
             "name": "Part 406 Unarins Gains",
-            "words": 3415,
+            "words": 3489,
             "chars": 20177
         },
         {
             "name": "Part 407 Jason Goes Home",
-            "words": 3671,
+            "words": 3812,
             "chars": 21316
         },
         {
             "name": "Part 408 An Uncertain Future",
-            "words": 3414,
+            "words": 3548,
             "chars": 19589
         },
         {
             "name": "Part 409 The Demila Dilemma",
-            "words": 4604,
+            "words": 4747,
             "chars": 26513
         },
         {
-            "name": "Part 41 When Heroes Become Villains",
-            "words": 2814,
-            "chars": 16164
-        },
-        {
             "name": "Part 410 The Cosmic Scale",
-            "words": 3584,
+            "words": 3620,
             "chars": 20928
         },
         {
             "name": "Part 411 Demonic Collaborator",
-            "words": 3273,
+            "words": 3364,
             "chars": 18983
         },
         {
             "name": "Part 412 Camaels Choice",
-            "words": 3641,
+            "words": 3752,
             "chars": 21103
         },
         {
             "name": "Part 413 Lilys Lovely Life",
-            "words": 3540,
+            "words": 3676,
             "chars": 20245
         },
         {
             "name": "Part 414 Guerilla Warfare",
-            "words": 3831,
+            "words": 3920,
             "chars": 22533
         },
         {
             "name": "Part 415 Pushing Benjamins Button",
-            "words": 3364,
+            "words": 3504,
             "chars": 19485
         },
         {
             "name": "Part 416 The Stormbringer Tribunal Part 1",
-            "words": 3358,
+            "words": 3439,
             "chars": 19846
         },
         {
             "name": "Part 417 The Stormbringer Tribunal Part 2",
-            "words": 3280,
+            "words": 3340,
             "chars": 19111
         },
         {
             "name": "Part 418 The Stormbringer Tribunal Part 3",
-            "words": 3610,
+            "words": 3731,
             "chars": 21320
         },
         {
             "name": "Part 419 The Stormbringer Tribunal Part 4",
-            "words": 3626,
+            "words": 3693,
             "chars": 20656
         },
         {
-            "name": "Part 42 The Invincible Satan",
-            "words": 3251,
-            "chars": 17969
-        },
-        {
             "name": "Part 420 The Stormbringer Tribunal Part 5",
-            "words": 4824,
+            "words": 4966,
             "chars": 27862
         },
         {
             "name": "Part 421 EMPEROR OF HELLFIRE",
-            "words": 3605,
+            "words": 3739,
             "chars": 21598
         },
         {
             "name": "Part 422 Demilas Disappearance",
-            "words": 3488,
+            "words": 3591,
             "chars": 20265
         },
         {
             "name": "Part 423 Planet Mudball",
-            "words": 3583,
+            "words": 3651,
             "chars": 21369
         },
         {
             "name": "Part 424 Using Protection",
-            "words": 3645,
+            "words": 3770,
             "chars": 21154
         },
         {
             "name": "Part 425 Tribunals Conclusion",
-            "words": 3683,
+            "words": 3845,
             "chars": 21571
         },
         {
             "name": "Part 426 Augers Ambition",
-            "words": 3437,
+            "words": 3519,
             "chars": 20177
         },
         {
             "name": "Part 427 Hopes Quest",
-            "words": 3416,
+            "words": 3486,
             "chars": 20485
         },
         {
             "name": "Part 428 Secret Experiments",
-            "words": 3279,
+            "words": 3351,
             "chars": 19691
         },
         {
             "name": "Part 429 The Excalibur Initiative",
-            "words": 3359,
+            "words": 3423,
             "chars": 19962
         },
         {
-            "name": "Part 43 Calm Before The Storm",
-            "words": 1469,
-            "chars": 8237
-        },
-        {
             "name": "Part 430 Moonbase Serris",
-            "words": 3265,
+            "words": 3359,
             "chars": 19265
         },
         {
             "name": "Part 431 Nether Gate",
-            "words": 3665,
+            "words": 3722,
             "chars": 21541
         },
         {
             "name": "Part 432 Fragmented Past",
-            "words": 3454,
+            "words": 3532,
             "chars": 20215
         },
         {
             "name": "Part 433 SWORD",
-            "words": 4288,
+            "words": 4398,
             "chars": 25099
         },
         {
             "name": "Part 434 Cleansed Mud",
-            "words": 3431,
+            "words": 3530,
             "chars": 20533
         },
         {
             "name": "Part 435 Serriss Fate",
-            "words": 3786,
+            "words": 3916,
             "chars": 22286
         },
         {
             "name": "Part 436 Fate of the Galaxy",
-            "words": 4173,
+            "words": 4278,
             "chars": 24304
         },
         {
             "name": "Part 437 Confessors Revival",
-            "words": 3354,
+            "words": 3420,
             "chars": 20003
         },
         {
             "name": "Part 438 The Far-Seer",
-            "words": 4085,
+            "words": 4140,
             "chars": 24160
         },
         {
             "name": "Part 439 A Pleasant Picnic",
-            "words": 3809,
+            "words": 3956,
             "chars": 21921
         },
         {
-            "name": "Part 44 The Devil Wears Ill-Fitting Suits Surprisingly",
-            "words": 4584,
-            "chars": 26009
-        },
-        {
             "name": "Part 440 Humanitys Divergence",
-            "words": 3852,
+            "words": 3970,
             "chars": 22178
         },
         {
             "name": "Part 441 Karma and Chaos",
-            "words": 3120,
+            "words": 3180,
             "chars": 18150
         },
         {
             "name": "Part 442 Archangels Surprise",
-            "words": 3326,
+            "words": 3395,
             "chars": 19819
         },
         {
             "name": "Part 443 Assembling a Team",
-            "words": 2991,
+            "words": 3119,
             "chars": 17325
         },
         {
             "name": "Part 444 Cassiels Confidence",
-            "words": 3449,
+            "words": 3540,
             "chars": 20127
         },
         {
             "name": "Part 445 Saving the Children",
-            "words": 3404,
+            "words": 3485,
             "chars": 20285
         },
         {
             "name": "Part 446 The Chaos Culprit",
-            "words": 3388,
+            "words": 3481,
             "chars": 19901
         },
         {
             "name": "Part 447 Making a Choice",
-            "words": 3299,
+            "words": 3448,
             "chars": 19284
         },
         {
             "name": "Part 448 Lindas Love",
-            "words": 4326,
+            "words": 4485,
             "chars": 24465
         },
         {
             "name": "Part 449 Ambush on Diabolus",
-            "words": 3681,
+            "words": 3771,
             "chars": 21643
         },
         {
-            "name": "Part 45 Hero-King Unleashed Battle For Survival",
-            "words": 2840,
-            "chars": 16376
-        },
-        {
             "name": "Part 450 Sects Strike the Shadows",
-            "words": 4435,
+            "words": 4534,
             "chars": 26271
         },
         {
             "name": "Part 451 Oasis Journey",
-            "words": 3304,
+            "words": 3395,
             "chars": 19752
         },
         {
             "name": "Part 452 Meeting Marie",
-            "words": 3367,
+            "words": 3487,
             "chars": 19761
         },
         {
             "name": "Part 453 Jasons Inadequacy",
-            "words": 3476,
+            "words": 3571,
             "chars": 20138
         },
         {
             "name": "Part 454 Hunting Chaos",
-            "words": 3622,
+            "words": 3696,
             "chars": 21644
         },
         {
             "name": "Part 455 Chaos Control",
-            "words": 3313,
+            "words": 3404,
             "chars": 19381
         },
         {
             "name": "Part 456 A Futile Struggle",
-            "words": 3446,
+            "words": 3573,
             "chars": 20737
         },
         {
             "name": "Part 457 Wordsmiths New Ambition",
-            "words": 3118,
+            "words": 3186,
             "chars": 18209
         },
         {
             "name": "Part 458 Maries Exotic Interests",
-            "words": 3429,
+            "words": 3526,
             "chars": 19956
         },
         {
             "name": "Part 459 Demilas Desire",
-            "words": 3590,
+            "words": 3658,
             "chars": 20964
         },
         {
-            "name": "Part 46 War For The Labyrinth",
-            "words": 6018,
-            "chars": 34545
-        },
-        {
             "name": "Part 460 A Galactic Secret",
-            "words": 3544,
+            "words": 3651,
             "chars": 21269
         },
         {
             "name": "Part 461 The Secret Garden",
-            "words": 3503,
+            "words": 3642,
             "chars": 20472
         },
         {
             "name": "Part 462 Unwanted Harem",
-            "words": 3153,
+            "words": 3264,
             "chars": 18518
         },
         {
             "name": "Part 463 Gorgoraths Promise",
-            "words": 3239,
+            "words": 3329,
             "chars": 19191
         },
         {
             "name": "Part 464 Maries Grand Plan",
-            "words": 3850,
+            "words": 3965,
             "chars": 22843
         },
         {
             "name": "Part 465 Wordsmiths Ascension",
-            "words": 3277,
+            "words": 3392,
             "chars": 18725
         },
         {
             "name": "Part 466 Wheres Mephisto",
-            "words": 3285,
+            "words": 3372,
             "chars": 20028
         },
         {
             "name": "Part 467 Five Field Fight",
-            "words": 3417,
+            "words": 3480,
             "chars": 20190
         },
         {
             "name": "Part 468 Beelzebubs Secret",
-            "words": 3312,
+            "words": 3432,
             "chars": 19514
         },
         {
             "name": "Part 469 Humans Are Insects",
-            "words": 3009,
+            "words": 3126,
             "chars": 17440
         },
         {
-            "name": "Part 47 Balrog VS Hero-King The Onslaught Begins",
-            "words": 2881,
-            "chars": 16663
-        },
-        {
             "name": "Part 470 Soul Stealer Strikes",
-            "words": 3514,
+            "words": 3623,
             "chars": 20938
         },
         {
             "name": "Part 471 Desperate Deal",
-            "words": 3284,
+            "words": 3443,
             "chars": 18988
         },
         {
             "name": "Part 472 Fairys Feint",
-            "words": 3154,
+            "words": 3280,
             "chars": 18482
         },
         {
             "name": "Part 473 All Sides Converge",
-            "words": 3476,
+            "words": 3578,
             "chars": 21140
         },
         {
             "name": "Part 474 Crushing the Demon",
-            "words": 3562,
+            "words": 3670,
             "chars": 21794
         },
         {
             "name": "Part 475 A Glinch in the Matrix",
-            "words": 3019,
+            "words": 3093,
             "chars": 18155
         },
         {
             "name": "Part 476 Respected Evolution",
-            "words": 3072,
+            "words": 3169,
             "chars": 17766
         },
         {
             "name": "Part 477 Lost in the Labyrinth",
-            "words": 3818,
+            "words": 3945,
             "chars": 21734
         },
         {
             "name": "Part 478 Pushing Benjamins Buttons",
-            "words": 3294,
+            "words": 3398,
             "chars": 19232
         },
         {
             "name": "Part 479 A Secret Meeting Part 1 of 2",
-            "words": 4128,
+            "words": 4272,
             "chars": 24036
         },
         {
-            "name": "Part 48 The Ultimate Battle The Archdemon Awakens",
-            "words": 2921,
-            "chars": 16895
-        },
-        {
             "name": "Part 480 A Secret Meeting Part 2 of 2",
-            "words": 4677,
+            "words": 4772,
             "chars": 27156
         },
         {
             "name": "Part 481 The Hall of Heroes",
-            "words": 3780,
+            "words": 3904,
             "chars": 21870
         },
         {
             "name": "Part 482 Hopes Desire",
-            "words": 3139,
+            "words": 3278,
             "chars": 17904
         },
         {
             "name": "Part 483 Chamber of Waiting",
-            "words": 3283,
+            "words": 3390,
             "chars": 19108
         },
         {
             "name": "Part 484 Hammurabis Code",
-            "words": 3936,
+            "words": 4006,
             "chars": 23441
         },
         {
             "name": "Part 485 Voice of the King",
-            "words": 2784,
+            "words": 2864,
             "chars": 16150
         },
         {
             "name": "Part 486 The Mountain Hermit",
-            "words": 3084,
+            "words": 3159,
             "chars": 18105
         },
         {
             "name": "Part 487 Consortium of Sages",
-            "words": 4132,
+            "words": 4253,
             "chars": 24309
         },
         {
             "name": "Part 488 Wordsmithings Limitations",
-            "words": 3469,
+            "words": 3602,
             "chars": 20161
         },
         {
             "name": "Part 489 The Exodus Deliverers",
-            "words": 3335,
+            "words": 3411,
             "chars": 19155
         },
         {
-            "name": "Part 49 Hoarhiims Awakening A Sacred Dawn",
-            "words": 3679,
-            "chars": 21035
-        },
-        {
             "name": "Part 490 Warframes",
-            "words": 3165,
+            "words": 3228,
             "chars": 18995
         },
         {
             "name": "Part 491 Killing Unarin",
-            "words": 3349,
+            "words": 3452,
             "chars": 19613
         },
         {
             "name": "Part 492 Glinchs Thralls",
-            "words": 3642,
+            "words": 3744,
             "chars": 21202
         },
         {
             "name": "Part 493 Glinchs Game",
-            "words": 3455,
+            "words": 3550,
             "chars": 20662
         },
         {
             "name": "Part 494 Intellect Awakens",
-            "words": 3729,
+            "words": 3852,
             "chars": 21687
         },
         {
             "name": "Part 495 Bael the Leader",
-            "words": 3375,
+            "words": 3507,
             "chars": 19980
         },
         {
             "name": "Part 496 The Cosmic Truths",
-            "words": 5554,
+            "words": 5693,
             "chars": 32857
         },
         {
             "name": "Part 497 Myriad Deity",
-            "words": 3169,
+            "words": 3278,
             "chars": 18923
         },
         {
             "name": "Part 498 Battle Across Numaria",
-            "words": 3988,
+            "words": 4122,
             "chars": 23696
         },
         {
             "name": "Part 499 Summoning The Devil",
-            "words": 4257,
+            "words": 4400,
             "chars": 24842
         },
         {
-            "name": "Part 5 A Cute New Friend",
-            "words": 6036,
-            "chars": 33331
-        },
-        {
-            "name": "Part 50 Unstoppable Force Immovable Object",
-            "words": 2912,
-            "chars": 16585
-        },
-        {
             "name": "Part 500 APEX COSMIC",
-            "words": 3983,
+            "words": 4102,
             "chars": 22928
         },
         {
             "name": "Part 501 PRIMORDIAL PREDATOR",
-            "words": 3837,
+            "words": 3896,
             "chars": 22696
         },
         {
             "name": "Part 502 Future Protagonist",
-            "words": 3576,
+            "words": 3699,
             "chars": 20409
         },
         {
             "name": "Part 503 The Spynet Sphere",
-            "words": 3950,
+            "words": 4064,
             "chars": 23468
         },
         {
             "name": "Part 504 Jasons Experiments",
-            "words": 3697,
+            "words": 3812,
             "chars": 21488
         },
         {
             "name": "Part 505 Jasons Decision",
-            "words": 3763,
+            "words": 3919,
             "chars": 21769
         },
         {
             "name": "Part 506 Curiosity Killed Mephisto",
-            "words": 3170,
+            "words": 3247,
             "chars": 19246
         },
         {
             "name": "Part 507 Archdemons Return",
-            "words": 3546,
+            "words": 3645,
             "chars": 21150
         },
         {
             "name": "Part 508 Mephisto Outmatched",
-            "words": 3471,
+            "words": 3569,
             "chars": 20734
         },
         {
             "name": "Part 509 Cosmic Levels",
-            "words": 2939,
+            "words": 3024,
             "chars": 17192
         },
         {
-            "name": "Part 51 Mephistos Ultimate Weapon Amelias Best Friend Returns",
-            "words": 2477,
-            "chars": 14718
-        },
-        {
             "name": "Part 510 Myriad Assault",
-            "words": 3226,
+            "words": 3318,
             "chars": 19754
         },
         {
             "name": "Part 511 Hidden Wordsmith",
-            "words": 3700,
+            "words": 3769,
             "chars": 22601
         },
         {
             "name": "Part 512 Bennys Brain Battle",
-            "words": 3105,
+            "words": 3214,
             "chars": 18639
         },
         {
             "name": "Part 513 The Myriad War",
-            "words": 3028,
+            "words": 3120,
             "chars": 17868
         },
         {
             "name": "Part 514 Wordsmith Mix-Up",
-            "words": 3131,
+            "words": 3217,
             "chars": 18570
         },
         {
             "name": "Part 515 Dronesmith",
-            "words": 3536,
+            "words": 3616,
             "chars": 20785
         },
         {
             "name": "Part 516 Deity Defeated",
-            "words": 3040,
+            "words": 3133,
             "chars": 18008
         },
         {
             "name": "Part 517 Void Beast Assault",
-            "words": 3714,
+            "words": 3811,
             "chars": 21789
         },
         {
             "name": "Part 518 Captured Psions",
-            "words": 2915,
+            "words": 2983,
             "chars": 16782
         },
         {
             "name": "Part 519 The Artificer",
-            "words": 3796,
+            "words": 3911,
             "chars": 22078
         },
         {
-            "name": "Part 52 Everything Into The Void",
-            "words": 1912,
-            "chars": 11252
-        },
-        {
             "name": "Part 520 Diablos Secret",
-            "words": 3652,
+            "words": 3771,
             "chars": 20825
         },
         {
             "name": "Part 521 Reconstruction",
-            "words": 3345,
+            "words": 3460,
             "chars": 19922
         },
         {
             "name": "Part 522 The Camael Conspiracy",
-            "words": 3952,
+            "words": 4029,
             "chars": 23686
         },
         {
             "name": "Part 523 What Makes a Human",
-            "words": 3603,
+            "words": 3734,
             "chars": 21019
         },
         {
             "name": "Part 524 Psychological Imbalance",
-            "words": 3818,
+            "words": 3950,
             "chars": 22121
         },
         {
             "name": "Part 525 Upgrayd Time",
-            "words": 3126,
+            "words": 3216,
             "chars": 18739
         },
         {
             "name": "Part 526 Down With the Sickness",
-            "words": 4907,
+            "words": 5041,
             "chars": 29301
         },
         {
             "name": "Part 527 Diablos Offensive",
-            "words": 4287,
+            "words": 4396,
             "chars": 24999
         },
         {
             "name": "Part 528 Blinkers Recovery",
-            "words": 3649,
+            "words": 3813,
             "chars": 21095
         },
         {
             "name": "Part 529 Amelias Story",
-            "words": 3206,
+            "words": 3311,
             "chars": 18641
         },
         {
-            "name": "Part 53 The Council Regroups A New Hierarchy",
-            "words": 3180,
-            "chars": 18540
-        },
-        {
             "name": "Part 530 Laws of Creation",
-            "words": 3547,
+            "words": 3632,
             "chars": 20417
         },
         {
             "name": "Part 531 Transmorphium",
-            "words": 3674,
+            "words": 3799,
             "chars": 21780
         },
         {
             "name": "Part 532 Enlightened Cultivation",
-            "words": 4289,
+            "words": 4377,
             "chars": 25266
         },
         {
             "name": "Part 533 Liberating Sharmur",
-            "words": 4122,
+            "words": 4178,
             "chars": 24706
         },
         {
             "name": "Part 534 Planar Wardens",
-            "words": 4047,
+            "words": 4118,
             "chars": 23062
         },
         {
             "name": "Part 535 Hope Awakens",
-            "words": 3922,
+            "words": 4033,
             "chars": 22870
         },
         {
             "name": "Part 536 Melodys Ascension",
-            "words": 3982,
+            "words": 4063,
             "chars": 23336
         },
         {
             "name": "Part 537 A Challenger Appears",
-            "words": 3579,
+            "words": 3665,
             "chars": 20998
         },
         {
             "name": "Part 538 Melodys Defiance",
-            "words": 3463,
+            "words": 3566,
             "chars": 20067
         },
         {
             "name": "Part 539 Dosenas Wrath",
-            "words": 4806,
+            "words": 4946,
             "chars": 28035
         },
         {
-            "name": "Part 54 Prepare For Trouble Make It Double",
-            "words": 3922,
-            "chars": 21949
-        },
-        {
             "name": "Part 540 Standoff",
-            "words": 3527,
+            "words": 3628,
             "chars": 20778
         },
         {
             "name": "Part 541 The Archdemons Offer",
-            "words": 3869,
+            "words": 3946,
             "chars": 22456
         },
         {
             "name": "Part 542 Fionas Discovery",
-            "words": 3594,
+            "words": 3717,
             "chars": 21131
         },
         {
             "name": "Part 543 Jasons Plan",
-            "words": 4243,
+            "words": 4410,
             "chars": 24312
         },
         {
             "name": "Part 544 Indomitable",
-            "words": 3534,
+            "words": 3668,
             "chars": 20020
         },
         {
             "name": "Part 545 Act of Defiance",
-            "words": 4004,
+            "words": 4121,
             "chars": 22972
         },
         {
             "name": "Part 546 New Milky Way Menace",
-            "words": 3270,
+            "words": 3343,
             "chars": 19314
         },
         {
             "name": "Part 547 Unwanted Visitor",
-            "words": 3716,
+            "words": 3804,
             "chars": 21098
         },
         {
             "name": "Part 548 Future Apex Predator",
-            "words": 3879,
+            "words": 3985,
             "chars": 22684
         },
         {
             "name": "Part 549 Bubblegum Battlesuit",
-            "words": 4093,
+            "words": 4164,
             "chars": 23576
         },
         {
-            "name": "Part 55 The Puppetmaster",
-            "words": 4476,
-            "chars": 24917
-        },
-        {
             "name": "Part 550 Chrona Advancements",
-            "words": 3392,
+            "words": 3480,
             "chars": 19805
         },
         {
             "name": "Part 551 Flashpoint",
-            "words": 3486,
+            "words": 3607,
             "chars": 19879
         },
         {
             "name": "Part 552 The Great Debate",
-            "words": 4015,
+            "words": 4098,
             "chars": 23279
         },
         {
             "name": "Part 553 Counter-Attack",
-            "words": 5202,
+            "words": 5288,
             "chars": 28998
         },
         {
             "name": "Part 554 HUMAN SUPREMACY",
-            "words": 3384,
+            "words": 3460,
             "chars": 19722
         },
         {
             "name": "Part 555 What Makes a Human",
-            "words": 4791,
+            "words": 4895,
             "chars": 27284
         },
         {
             "name": "Part 556 A Welcome Reprieve",
-            "words": 4301,
+            "words": 4456,
             "chars": 24539
         },
         {
             "name": "Part 557 Ascension Net",
-            "words": 3628,
+            "words": 3675,
             "chars": 21340
         },
         {
             "name": "Part 558 Matriarch Calanthra",
-            "words": 3498,
+            "words": 3583,
             "chars": 20485
         },
         {
             "name": "Part 559 Eye of Yredelemnul",
-            "words": 3999,
+            "words": 4063,
             "chars": 23626
         },
         {
-            "name": "Part 56 Phoebes Tortured Past An Unlikely Connection",
-            "words": 6703,
-            "chars": 38254
-        },
-        {
             "name": "Part 560 Ancient Domains",
-            "words": 3949,
+            "words": 4028,
             "chars": 23443
         },
         {
             "name": "Part 561 Milky Ways Agent",
-            "words": 3498,
+            "words": 3590,
             "chars": 20557
         },
         {
             "name": "Part 562 Parahuman Corps",
-            "words": 3545,
+            "words": 3666,
             "chars": 20218
         },
         {
             "name": "Part 563 Deal with a Devil",
-            "words": 3807,
+            "words": 3880,
             "chars": 21756
         },
         {
             "name": "Part 564 Hardcore Henry",
-            "words": 4258,
+            "words": 4396,
             "chars": 24548
         },
         {
             "name": "Part 565 Henrys Humility",
-            "words": 4556,
+            "words": 4744,
             "chars": 26095
         },
         {
             "name": "Part 566 Test of Unity",
-            "words": 3697,
+            "words": 3806,
             "chars": 21433
         },
         {
             "name": "Part 567 Reaver Invasion",
-            "words": 3657,
+            "words": 3733,
             "chars": 21456
         },
         {
             "name": "Part 568 Reaversal of Fate",
-            "words": 5868,
+            "words": 6036,
             "chars": 35327
         },
         {
             "name": "Part 569 Reavers End",
-            "words": 3856,
+            "words": 3943,
             "chars": 22981
         },
         {
-            "name": "Part 57 Her Country Or Her Morality",
-            "words": 5395,
-            "chars": 30636
-        },
-        {
             "name": "Part 570 Elevated Threat",
-            "words": 3769,
+            "words": 3838,
             "chars": 22463
         },
         {
             "name": "Part 571 Henrys Promise",
-            "words": 3887,
+            "words": 4040,
             "chars": 22307
         },
         {
             "name": "Part 572 Beauty and the Beast",
-            "words": 4280,
+            "words": 4444,
             "chars": 24685
         },
         {
             "name": "Part 573 New Horizons",
-            "words": 3102,
+            "words": 3159,
             "chars": 18085
         },
         {
             "name": "Part 574 Tactical Preparations",
-            "words": 3055,
+            "words": 3151,
             "chars": 18139
         },
         {
             "name": "Part 575 New Hall Resident",
-            "words": 3792,
+            "words": 3870,
             "chars": 22294
         },
         {
             "name": "Part 576 Seven Months Later",
-            "words": 3968,
+            "words": 4093,
             "chars": 22792
         },
         {
             "name": "Part 577 Birthday Boy",
-            "words": 3716,
+            "words": 3848,
             "chars": 21417
         },
         {
             "name": "Part 578 Meeting With Unarin",
-            "words": 3632,
+            "words": 3707,
             "chars": 20815
         },
         {
             "name": "Part 579 Queens Gambit",
-            "words": 5015,
+            "words": 5176,
             "chars": 29068
         },
         {
-            "name": "Part 58 Time Heals All Wounds",
-            "words": 3384,
-            "chars": 18771
-        },
-        {
             "name": "Part 580 Daughters Defiance",
-            "words": 5049,
+            "words": 5216,
             "chars": 29462
         },
         {
             "name": "Part 581 Evolution Revolution",
-            "words": 6166,
+            "words": 6326,
             "chars": 36053
         },
         {
             "name": "Part 582 Beginning of the End",
-            "words": 4220,
+            "words": 4393,
             "chars": 24113
         },
         {
             "name": "Part 583 All Hell Breaks Loose",
-            "words": 3641,
+            "words": 3770,
             "chars": 21298
         },
         {
             "name": "Part 584 Observing the Chaos",
-            "words": 3918,
+            "words": 4015,
             "chars": 23541
         },
         {
             "name": "Part 585 Battlefield Star",
-            "words": 3458,
+            "words": 3556,
             "chars": 20763
         },
         {
             "name": "Part 586 Runes and Dragons",
-            "words": 3412,
+            "words": 3499,
             "chars": 20516
         },
         {
             "name": "Part 587 Megavaxian",
-            "words": 3724,
+            "words": 3822,
             "chars": 22221
         },
         {
             "name": "Part 588 Hopeful Struggle",
-            "words": 3818,
+            "words": 3880,
             "chars": 22935
         },
         {
             "name": "Part 589 Energon",
-            "words": 3442,
+            "words": 3572,
             "chars": 19792
         },
         {
-            "name": "Part 59 Sticks And Bones May Break My Stones- Wait Thats Not Right",
-            "words": 5623,
-            "chars": 33163
-        },
-        {
             "name": "Part 590 Sartran Switchup",
-            "words": 3506,
+            "words": 3582,
             "chars": 21144
         },
         {
             "name": "Part 591 Beelzebubs Imagination",
-            "words": 3615,
+            "words": 3703,
             "chars": 21591
         },
         {
             "name": "Part 592 The Weakest Executors",
-            "words": 3668,
+            "words": 3731,
             "chars": 22035
         },
         {
             "name": "Part 593 Divinator Fellrun",
-            "words": 3413,
+            "words": 3475,
             "chars": 20641
         },
         {
             "name": "Part 594 The Kolvaxian Conspiracy",
-            "words": 4480,
+            "words": 4559,
             "chars": 27015
         },
         {
             "name": "Part 595 The Usual Suspects",
-            "words": 3457,
+            "words": 3581,
             "chars": 20243
         },
         {
             "name": "Part 596 Planetquakes",
-            "words": 3496,
+            "words": 3640,
             "chars": 19849
         },
         {
             "name": "Part 597 Tarnished History",
-            "words": 3518,
+            "words": 3683,
             "chars": 20575
         },
         {
             "name": "Part 598 The Demon Inside",
-            "words": 3488,
+            "words": 3623,
             "chars": 20494
         },
         {
             "name": "Part 599 Hopes Deception",
-            "words": 3193,
+            "words": 3347,
             "chars": 18575
         },
         {
-            "name": "Part 6 Sloppy Wet Kisses",
-            "words": 2163,
-            "chars": 11766
-        },
-        {
-            "name": "Part 60 Beelzebubs Final Test The Duke Arises",
-            "words": 4634,
-            "chars": 27300
-        },
-        {
             "name": "Part 600 Shocking Testimony",
-            "words": 3250,
+            "words": 3294,
             "chars": 19372
         },
         {
             "name": "Part 601 Duel of Fates",
-            "words": 3404,
+            "words": 3528,
             "chars": 20233
         },
         {
             "name": "Part 602 Devourer",
-            "words": 3583,
+            "words": 3745,
             "chars": 20905
         },
         {
             "name": "Part 603 HUMAN NO MORE",
-            "words": 3588,
+            "words": 3722,
             "chars": 21050
         },
         {
             "name": "Part 604 Demonization",
-            "words": 3938,
+            "words": 4124,
             "chars": 23299
         },
         {
             "name": "Part 605 The Final Wordsmith",
-            "words": 3907,
+            "words": 4035,
             "chars": 23358
         },
         {
             "name": "Part 606 Our Darkest Day",
-            "words": 3880,
+            "words": 3978,
             "chars": 23552
         },
         {
             "name": "Part 607 Our Brightest Night",
-            "words": 3691,
+            "words": 3783,
             "chars": 22135
         },
         {
             "name": "Part 608 Friends of Phoenix",
-            "words": 3439,
+            "words": 3530,
             "chars": 20364
         },
         {
             "name": "Part 609 Wordsmiths Woe END OF BOOK 5",
-            "words": 5271,
+            "words": 5472,
             "chars": 30948
         },
         {
-            "name": "Part 61 Thanks for the Frienemies",
-            "words": 3396,
-            "chars": 19140
-        },
-        {
             "name": "Part 610 REWIND",
-            "words": 6013,
+            "words": 6210,
             "chars": 34256
         },
         {
             "name": "Part 611 Taken",
-            "words": 4531,
+            "words": 4657,
             "chars": 26166
         },
         {
             "name": "Part 612 The Illuminatis Haven",
-            "words": 6499,
+            "words": 6696,
             "chars": 38035
         },
         {
             "name": "Part 613 Back to the Future",
-            "words": 4480,
+            "words": 4605,
             "chars": 26159
         },
         {
             "name": "Part 614 Bubble Worlds",
-            "words": 3317,
+            "words": 3386,
             "chars": 19789
         },
         {
             "name": "Part 615 Entering Sharmur",
-            "words": 4264,
+            "words": 4398,
             "chars": 24768
         },
         {
             "name": "Part 616 Meeting the Lowborn",
-            "words": 3864,
+            "words": 3964,
             "chars": 22265
         },
         {
             "name": "Part 617 Meeting the Ancestors",
-            "words": 4401,
+            "words": 4523,
             "chars": 25314
         },
         {
             "name": "Part 618 Escape",
-            "words": 3483,
+            "words": 3571,
             "chars": 19646
         },
         {
             "name": "Part 619 Cat Mask",
-            "words": 4607,
+            "words": 4764,
             "chars": 26508
         },
         {
-            "name": "Part 62 Hell Harbor",
-            "words": 2975,
-            "chars": 17230
-        },
-        {
             "name": "Part 620 Harold The Last Trueborn",
-            "words": 3669,
+            "words": 3792,
             "chars": 20746
         },
         {
             "name": "Part 621 Cat Masks Madness",
-            "words": 3806,
+            "words": 3909,
             "chars": 21813
         },
         {
             "name": "Part 622 THE GREAT SHATTERING",
-            "words": 3327,
+            "words": 3451,
             "chars": 19146
         },
         {
             "name": "Part 623 Hiro Stratagem",
-            "words": 3605,
+            "words": 3738,
             "chars": 20976
         },
         {
             "name": "Part 624 The New LEGION",
-            "words": 3417,
+            "words": 3524,
             "chars": 19359
         },
         {
             "name": "Part 625 Humanitys Pillars",
-            "words": 4150,
+            "words": 4284,
             "chars": 24830
         },
         {
             "name": "Part 626 Dance Dance Illuminati",
-            "words": 3684,
+            "words": 3768,
             "chars": 21538
         },
         {
             "name": "Part 627 The Human Conspiracy",
-            "words": 3243,
+            "words": 3295,
             "chars": 19101
         },
         {
             "name": "Part 628 Jason The Idiot Trueborn",
-            "words": 3410,
+            "words": 3513,
             "chars": 20228
         },
         {
             "name": "Part 629 Papa Vasily Sokolov",
-            "words": 3661,
+            "words": 3752,
             "chars": 20828
         },
         {
-            "name": "Part 63 Inner Monster Outer Monster - Whats The Difference",
-            "words": 4040,
-            "chars": 22631
-        },
-        {
             "name": "Part 630 Road Trip",
-            "words": 3385,
+            "words": 3497,
             "chars": 19250
         },
         {
             "name": "Part 631 Oses Revelation",
-            "words": 3934,
+            "words": 4031,
             "chars": 23225
         },
         {
             "name": "Part 632 Ancient Rivalries",
-            "words": 3646,
+            "words": 3753,
             "chars": 21410
         },
         {
             "name": "Part 633 Haven Infiltration",
-            "words": 3269,
+            "words": 3366,
             "chars": 19302
         },
         {
             "name": "Part 634 Annoying Archseer",
-            "words": 3481,
+            "words": 3576,
             "chars": 20169
         },
         {
             "name": "Part 635 Shes Only a Baron",
-            "words": 3519,
+            "words": 3606,
             "chars": 20370
         },
         {
             "name": "Part 636 MindCores",
-            "words": 3928,
+            "words": 4016,
             "chars": 23280
         },
         {
             "name": "Part 637 Oses Bugs",
-            "words": 3922,
+            "words": 4077,
             "chars": 22412
         },
         {
             "name": "Part 638 Compromised",
-            "words": 4343,
+            "words": 4491,
             "chars": 24759
         },
         {
             "name": "Part 639 Overpowering Ose",
-            "words": 3548,
+            "words": 3681,
             "chars": 19960
         },
         {
-            "name": "Part 64 Dinner With the Demons",
-            "words": 2364,
-            "chars": 13578
-        },
-        {
             "name": "Part 640 Peasants Mere Peasants",
-            "words": 3114,
+            "words": 3199,
             "chars": 18865
         },
         {
             "name": "Part 641 The Curse of Intellect",
-            "words": 3286,
+            "words": 3346,
             "chars": 19698
         },
         {
             "name": "Part 642 Collapsing Empire",
-            "words": 3643,
+            "words": 3698,
             "chars": 21358
         },
         {
             "name": "Part 643 Myriad Escape",
-            "words": 3358,
+            "words": 3421,
             "chars": 19870
         },
         {
             "name": "Part 644 Mephistos Massacre",
-            "words": 3827,
+            "words": 3886,
             "chars": 22665
         },
         {
             "name": "Part 645 Demilas Delusions",
-            "words": 3743,
+            "words": 3804,
             "chars": 21522
         },
         {
             "name": "Part 646 Demilas Destruction",
-            "words": 4423,
+            "words": 4526,
             "chars": 25851
         },
         {
             "name": "Part 647 Keen Instincts",
-            "words": 3835,
+            "words": 3887,
             "chars": 22180
         },
         {
             "name": "Part 648 Fallen Empire",
-            "words": 3427,
+            "words": 3485,
             "chars": 20406
         },
         {
-            "name": "Part 65 CENTURION",
-            "words": 3762,
-            "chars": 21173
-        },
-        {
             "name": "Part 650 Unarins Concession",
-            "words": 4014,
+            "words": 4091,
             "chars": 22856
         },
         {
             "name": "Part 651 Rebuilding",
-            "words": 3729,
+            "words": 3822,
             "chars": 21786
         },
         {
             "name": "Part 652 Beelzebubs Bluff",
-            "words": 3386,
+            "words": 3517,
             "chars": 20113
         },
         {
             "name": "Part 653 Demons Deal",
-            "words": 3352,
+            "words": 3449,
             "chars": 19529
         },
         {
             "name": "Part 654 Torn Dimension",
-            "words": 3612,
+            "words": 3687,
             "chars": 21035
         },
         {
             "name": "Part 655 Buddhabubs Battle",
-            "words": 3394,
+            "words": 3441,
             "chars": 20001
         },
         {
             "name": "Part 656 Aevum Argent",
-            "words": 3336,
+            "words": 3389,
             "chars": 19637
         },
         {
             "name": "Part 657 Operation Birdcage",
-            "words": 3464,
+            "words": 3521,
             "chars": 20287
         },
         {
             "name": "Part 658 President Steven Johannesburg",
-            "words": 3848,
+            "words": 3938,
             "chars": 22533
         },
         {
             "name": "Part 659 AMBITION",
-            "words": 3568,
+            "words": 3658,
             "chars": 20542
         },
         {
-            "name": "Part 66 Humanitys Potential",
-            "words": 4147,
-            "chars": 23997
-        },
-        {
             "name": "Part 660 Hidekis Evolution",
-            "words": 3578,
+            "words": 3671,
             "chars": 20428
         },
         {
             "name": "Part 661 Blacksite 41",
-            "words": 3932,
+            "words": 4037,
             "chars": 23103
         },
         {
             "name": "Part 662 Project Iron Bone",
-            "words": 3762,
+            "words": 3864,
             "chars": 22447
         },
         {
             "name": "Part 663 Russias Secret Hero",
-            "words": 3614,
+            "words": 3723,
             "chars": 20816
         },
         {
             "name": "Part 664 The Weakest Superhumans",
-            "words": 3608,
+            "words": 3735,
             "chars": 20494
         },
         {
             "name": "Part 665 Nadias Body-Brain Drain",
-            "words": 3642,
+            "words": 3746,
             "chars": 20738
         },
         {
             "name": "Part 666 HELL ON EARTH",
-            "words": 3916,
+            "words": 3981,
             "chars": 22572
         },
         {
             "name": "Part 667 Hellspawn vs Heavenspawn",
-            "words": 3608,
+            "words": 3680,
             "chars": 20906
         },
         {
             "name": "Part 668 Temporal Divergence",
-            "words": 6585,
+            "words": 6739,
             "chars": 38213
         },
         {
             "name": "Part 669 Double Drone Decision",
-            "words": 3721,
+            "words": 3841,
             "chars": 21677
         },
         {
-            "name": "Part 67 Brother Tormentor - Barbatos Unleashed",
-            "words": 2652,
-            "chars": 14883
-        },
-        {
             "name": "Part 670 Mindcores v2",
-            "words": 3870,
+            "words": 4048,
             "chars": 22647
         },
         {
             "name": "Part 671 Area 51 Assault",
-            "words": 3962,
+            "words": 4065,
             "chars": 23069
         },
         {
             "name": "Part 672 Emperor Ose VS Cat Mask",
-            "words": 3938,
+            "words": 4078,
             "chars": 21978
         },
         {
             "name": "Part 673 Father Why",
-            "words": 3521,
+            "words": 3636,
             "chars": 20136
         },
         {
             "name": "Part 674 Superior Sasha",
-            "words": 3339,
+            "words": 3459,
             "chars": 19624
         },
         {
             "name": "Part 675 Marco Snaps",
-            "words": 3604,
+            "words": 3721,
             "chars": 20975
         },
         {
             "name": "Part 676 A Dialogue With Dolgris",
-            "words": 4407,
+            "words": 4499,
             "chars": 25418
         },
         {
             "name": "Part 677 Chronas Biggest Loser",
-            "words": 3931,
+            "words": 4086,
             "chars": 22654
         },
         {
             "name": "Part 678 The King Network",
-            "words": 3400,
+            "words": 3484,
             "chars": 20022
         },
         {
-            "name": "Part 68 The White Wedding",
-            "words": 4839,
-            "chars": 27434
-        },
-        {
             "name": "Part 680 The Power of Friendship",
-            "words": 3463,
+            "words": 3553,
             "chars": 20255
         },
         {
             "name": "Part 681 Im Not a Fraud",
-            "words": 4962,
+            "words": 5143,
             "chars": 28165
         },
         {
             "name": "Part 682 Truth and Desire",
-            "words": 4129,
+            "words": 4268,
             "chars": 23536
         },
         {
             "name": "Part 683 Swim and Smash",
-            "words": 3449,
+            "words": 3572,
             "chars": 19921
         },
         {
             "name": "Part 684 Levels and Loot",
-            "words": 4614,
+            "words": 4726,
             "chars": 27316
         },
         {
             "name": "Part 685 Clarity of Mind",
-            "words": 3347,
+            "words": 3411,
             "chars": 19652
         },
         {
             "name": "Part 686 Maximizing Gains",
-            "words": 3503,
+            "words": 3567,
             "chars": 20474
         },
         {
             "name": "Part 687 Pain in the Gut",
-            "words": 3808,
+            "words": 3862,
             "chars": 21520
         },
         {
             "name": "Part 688 A New Player",
-            "words": 3477,
+            "words": 3576,
             "chars": 19906
         },
         {
             "name": "Part 689 Fionas Ascension",
-            "words": 3692,
+            "words": 3782,
             "chars": 21903
         },
         {
-            "name": "Part 69 DArchangel",
-            "words": 2654,
-            "chars": 14813
-        },
-        {
             "name": "Part 690 Journeys Beginning",
-            "words": 3928,
+            "words": 4004,
             "chars": 22939
         },
         {
             "name": "Part 691 The Burning Deity",
-            "words": 3964,
+            "words": 4053,
             "chars": 23272
         },
         {
             "name": "Part 692 Healing Barbatos",
-            "words": 3494,
+            "words": 3585,
             "chars": 20486
         },
         {
             "name": "Part 693 Creators Conspiracy",
-            "words": 3718,
+            "words": 3771,
             "chars": 21678
         },
         {
             "name": "Part 694 Hyphytes",
-            "words": 4135,
+            "words": 4217,
             "chars": 24016
         },
         {
             "name": "Part 695 A Brothers Love",
-            "words": 2791,
+            "words": 2841,
             "chars": 16539
         },
         {
             "name": "Part 696 The Wound That Never Heals",
-            "words": 4043,
+            "words": 4131,
             "chars": 24147
         },
         {
             "name": "Part 697 Galactic Unification",
-            "words": 3681,
+            "words": 3738,
             "chars": 20814
         },
         {
             "name": "Part 698 Alone Again",
-            "words": 4873,
+            "words": 5029,
             "chars": 28148
         },
         {
             "name": "Part 699 Humanitys Backup Plan",
-            "words": 3499,
+            "words": 3627,
             "chars": 20211
         },
         {
-            "name": "Part 7 The Demon Leaders",
-            "words": 5519,
-            "chars": 30760
-        },
-        {
-            "name": "Part 70 Art Is An Explosion",
-            "words": 3414,
-            "chars": 19701
-        },
-        {
             "name": "Part 700 Unarins Obstinance",
-            "words": 3767,
+            "words": 3866,
             "chars": 21755
         },
         {
             "name": "Part 701 Too Easy",
-            "words": 3435,
+            "words": 3539,
             "chars": 19848
         },
         {
             "name": "Part 702 Mentally Corrupted MindCore",
-            "words": 3397,
+            "words": 3483,
             "chars": 19665
         },
         {
             "name": "Part 703 RealitySim Online",
-            "words": 4214,
+            "words": 4370,
             "chars": 24547
         },
         {
             "name": "Part 704 Survivors Guilt",
-            "words": 3458,
+            "words": 3572,
             "chars": 19577
         },
         {
             "name": "Part 705 Respect",
-            "words": 3846,
+            "words": 3977,
             "chars": 21776
         },
         {
             "name": "Part 706 False Reality",
-            "words": 3298,
+            "words": 3407,
             "chars": 19055
         },
         {
             "name": "Part 707 A Woman Now",
-            "words": 3573,
+            "words": 3709,
             "chars": 20005
         },
         {
             "name": "Part 708 Sarabiya",
-            "words": 3906,
+            "words": 3965,
             "chars": 22463
         },
         {
             "name": "Part 709 Sphinx Slaughter",
-            "words": 3609,
+            "words": 3674,
             "chars": 20464
         },
         {
-            "name": "Part 71 A New Hope",
-            "words": 3527,
-            "chars": 20276
-        },
-        {
             "name": "Part 710 Rekindled Flame",
-            "words": 3769,
+            "words": 3848,
             "chars": 21016
         },
         {
             "name": "Part 711 SIGIL",
-            "words": 3892,
+            "words": 3954,
             "chars": 22091
         },
         {
             "name": "Part 712 Grief",
-            "words": 3565,
+            "words": 3694,
             "chars": 19866
         },
         {
             "name": "Part 713 Sparring",
-            "words": 4011,
+            "words": 4105,
             "chars": 23392
         },
         {
             "name": "Part 714 Reunited",
-            "words": 3657,
+            "words": 3793,
             "chars": 20795
         },
         {
             "name": "Part 715 Soul Splicing",
-            "words": 3751,
+            "words": 3899,
             "chars": 21422
         },
         {
             "name": "Part 716 Soul Surgery",
-            "words": 3462,
+            "words": 3601,
             "chars": 19869
         },
         {
             "name": "Part 717 New Confidantes",
-            "words": 3646,
+            "words": 3755,
             "chars": 20912
         },
         {
             "name": "Part 718 Titan Tensions",
-            "words": 6334,
+            "words": 6462,
             "chars": 36340
         },
         {
             "name": "Part 719 Countermeasures Coalescing",
-            "words": 3453,
+            "words": 3541,
             "chars": 19980
         },
         {
-            "name": "Part 72 Crossroads of Fate",
-            "words": 2968,
-            "chars": 17070
-        },
-        {
             "name": "Part 720 The Lord of Heroes",
-            "words": 3631,
+            "words": 3718,
             "chars": 21199
         },
         {
             "name": "Part 721 Second Chances",
-            "words": 3514,
+            "words": 3637,
             "chars": 20021
         },
         {
             "name": "Part 722 Vulpanixs Will",
-            "words": 3767,
+            "words": 3801,
             "chars": 22135
         },
         {
             "name": "Part 723 Becoming a Founder",
-            "words": 3536,
+            "words": 3581,
             "chars": 20664
         },
         {
             "name": "Part 724 The Ancient Volgrim Empire",
-            "words": 3528,
+            "words": 3559,
             "chars": 21166
         },
         {
             "name": "Part 725 Deep Space Horrors",
-            "words": 3881,
+            "words": 3947,
             "chars": 22916
         },
         {
             "name": "Part 726 Philosophical Stagnation",
-            "words": 3509,
+            "words": 3565,
             "chars": 20333
         },
         {
             "name": "Part 727 Making New Friends",
-            "words": 3709,
+            "words": 3769,
             "chars": 22107
         },
         {
             "name": "Part 728 Making New Enemies",
-            "words": 4125,
+            "words": 4189,
             "chars": 24336
         },
         {
             "name": "Part 729 Unjustly Imprisoned",
-            "words": 3262,
+            "words": 3305,
             "chars": 19071
         },
         {
-            "name": "Part 73 Face-Off",
-            "words": 5166,
-            "chars": 29319
-        },
-        {
             "name": "Part 730 ASCENDED",
-            "words": 3962,
+            "words": 4043,
             "chars": 22860
-        },
-        {
-            "name": "Part 74 Rip And Tear",
-            "words": 3650,
-            "chars": 20721
-        },
-        {
-            "name": "Part 75 The Meaning of Pain",
-            "words": 6335,
-            "chars": 35808
-        },
-        {
-            "name": "Part 76 Mindgame",
-            "words": 4053,
-            "chars": 22783
-        },
-        {
-            "name": "Part 77 Treaty Traitor Terror",
-            "words": 4091,
-            "chars": 23058
-        },
-        {
-            "name": "Part 78 The Knowledge-Seeker",
-            "words": 5408,
-            "chars": 30530
-        },
-        {
-            "name": "Part 79 Trust Issues",
-            "words": 3749,
-            "chars": 21454
-        },
-        {
-            "name": "Part 8 Size Matters Not",
-            "words": 5419,
-            "chars": 29773
-        },
-        {
-            "name": "Part 80 The Next Generation",
-            "words": 6204,
-            "chars": 35045
-        },
-        {
-            "name": "Part 81 Like Uncle Like Nephew",
-            "words": 4348,
-            "chars": 24095
-        },
-        {
-            "name": "Part 82 End of Chapter One - Birdy",
-            "words": 3499,
-            "chars": 20407
-        },
-        {
-            "name": "Part 83 A Day In The Life",
-            "words": 2954,
-            "chars": 16704
-        },
-        {
-            "name": "Part 84 The Bestest Birthday Ever",
-            "words": 3203,
-            "chars": 17800
-        },
-        {
-            "name": "Part 85 Ambush",
-            "words": 3911,
-            "chars": 22203
-        },
-        {
-            "name": "Part 86 Master of Puppets",
-            "words": 4765,
-            "chars": 26822
-        },
-        {
-            "name": "Part 87 Birds Of A Feather",
-            "words": 2806,
-            "chars": 16005
-        },
-        {
-            "name": "Part 88 Cast Aside",
-            "words": 4622,
-            "chars": 25484
-        },
-        {
-            "name": "Part 89 Tarus III",
-            "words": 4062,
-            "chars": 23167
-        },
-        {
-            "name": "Part 9 The Labyrinth Core",
-            "words": 4205,
-            "chars": 23702
-        },
-        {
-            "name": "Part 90 Devour Devour",
-            "words": 4041,
-            "chars": 23157
-        },
-        {
-            "name": "Part 91 The Creation Mythos",
-            "words": 3624,
-            "chars": 20520
-        },
-        {
-            "name": "Part 92 The Archangel of Creation",
-            "words": 5634,
-            "chars": 32127
-        },
-        {
-            "name": "Part 93 The King Under The Mountain",
-            "words": 4735,
-            "chars": 26356
-        },
-        {
-            "name": "Part 94 The Grim Reaper",
-            "words": 6727,
-            "chars": 37736
-        },
-        {
-            "name": "Part 95 The Archangel Gambit",
-            "words": 6391,
-            "chars": 36236
-        },
-        {
-            "name": "Part 96 Attack On Chimera",
-            "words": 3732,
-            "chars": 21474
-        },
-        {
-            "name": "Part 97 Vengeance Postponed",
-            "words": 2464,
-            "chars": 14125
-        },
-        {
-            "name": "Part 98 Hades",
-            "words": 4510,
-            "chars": 25232
-        },
-        {
-            "name": "Part 99 Heavens Forge",
-            "words": 3867,
-            "chars": 22249
         }
     ]
 }

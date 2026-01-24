@@ -1,2450 +1,2450 @@
 {
-    "total_words": 1025760,
+    "total_words": 1056600,
     "total_chars": 5658991,
     "parts": [
         {
             "name": "Part 001",
-            "words": 1289,
+            "words": 1339,
             "chars": 6881
         },
         {
             "name": "Part 002",
-            "words": 867,
+            "words": 903,
             "chars": 4698
         },
         {
             "name": "Part 003",
-            "words": 468,
+            "words": 481,
             "chars": 2463
         },
         {
             "name": "Part 004",
-            "words": 434,
+            "words": 446,
             "chars": 2282
         },
         {
             "name": "Part 005",
-            "words": 551,
+            "words": 567,
             "chars": 2825
         },
         {
             "name": "Part 006",
-            "words": 981,
+            "words": 997,
             "chars": 5292
         },
         {
             "name": "Part 007",
-            "words": 713,
+            "words": 736,
             "chars": 3719
         },
         {
             "name": "Part 008",
-            "words": 858,
+            "words": 881,
             "chars": 4522
         },
         {
             "name": "Part 009",
-            "words": 494,
+            "words": 512,
             "chars": 2714
         },
         {
             "name": "Part 010",
-            "words": 411,
+            "words": 419,
             "chars": 2214
         },
         {
             "name": "Part 011",
-            "words": 835,
+            "words": 860,
             "chars": 4407
         },
         {
             "name": "Part 012",
-            "words": 834,
+            "words": 858,
             "chars": 4472
         },
         {
             "name": "Part 013",
-            "words": 513,
+            "words": 523,
             "chars": 2730
         },
         {
             "name": "Part 014",
-            "words": 798,
+            "words": 819,
             "chars": 4322
         },
         {
             "name": "Part 015",
-            "words": 798,
+            "words": 804,
             "chars": 4416
         },
         {
             "name": "Part 016",
-            "words": 848,
+            "words": 870,
             "chars": 4584
         },
         {
             "name": "Part 017 - The Crown",
-            "words": 774,
+            "words": 786,
             "chars": 4285
         },
         {
             "name": "Part 018",
-            "words": 633,
+            "words": 649,
             "chars": 3438
         },
         {
             "name": "Part 019 - Revenge",
-            "words": 453,
+            "words": 464,
             "chars": 2496
         },
         {
             "name": "Part 020 - Amelia",
-            "words": 1383,
+            "words": 1418,
             "chars": 7744
         },
         {
             "name": "Part 022 - Conviction",
-            "words": 785,
+            "words": 803,
             "chars": 4284
         },
         {
             "name": "Part 023",
-            "words": 694,
+            "words": 716,
             "chars": 3853
         },
         {
             "name": "Part 024",
-            "words": 563,
+            "words": 571,
             "chars": 3036
         },
         {
             "name": "Part 025 - Monster",
-            "words": 887,
+            "words": 908,
             "chars": 4833
         },
         {
             "name": "Part 026 - Feet In The Deep",
-            "words": 776,
+            "words": 790,
             "chars": 4242
         },
         {
             "name": "Part 027 - History",
-            "words": 697,
+            "words": 712,
             "chars": 3665
         },
         {
             "name": "Part 028",
-            "words": 927,
+            "words": 953,
             "chars": 5089
         },
         {
             "name": "Part 029 - Error",
-            "words": 995,
+            "words": 1018,
             "chars": 5271
         },
         {
             "name": "Part 030 - Throne",
-            "words": 718,
+            "words": 734,
             "chars": 3766
         },
         {
             "name": "Part 031",
-            "words": 555,
+            "words": 565,
             "chars": 3014
         },
         {
             "name": "Part 032 - Chosen",
-            "words": 709,
+            "words": 717,
             "chars": 3778
         },
         {
             "name": "Part 033 - The Test Part 1",
-            "words": 879,
+            "words": 889,
             "chars": 4840
         },
         {
             "name": "Part 034 - The Test Part 2",
-            "words": 473,
+            "words": 475,
             "chars": 2692
         },
         {
             "name": "Part 035 - The Test Part 3",
-            "words": 616,
+            "words": 620,
             "chars": 3426
         },
         {
             "name": "Part 036 - The Test Part 4",
-            "words": 955,
+            "words": 979,
             "chars": 5263
         },
         {
             "name": "Part 037 - Gabriel",
-            "words": 498,
+            "words": 500,
             "chars": 2615
         },
         {
             "name": "Part 038 - Hero",
-            "words": 1021,
+            "words": 1037,
             "chars": 5410
         },
         {
             "name": "Part 039 - Awakening",
-            "words": 387,
+            "words": 392,
             "chars": 2134
         },
         {
             "name": "Part 040",
-            "words": 418,
+            "words": 422,
             "chars": 2296
         },
         {
             "name": "Part 041",
-            "words": 650,
+            "words": 668,
             "chars": 3502
         },
         {
             "name": "Part 042",
-            "words": 539,
+            "words": 541,
             "chars": 3174
         },
         {
             "name": "Part 043",
-            "words": 1165,
+            "words": 1198,
             "chars": 6233
         },
         {
             "name": "Part 044 - Dellfingler",
-            "words": 628,
+            "words": 651,
             "chars": 3432
         },
         {
             "name": "Part 045 - Jedi",
-            "words": 1118,
+            "words": 1146,
             "chars": 6122
         },
         {
             "name": "Part 046 - Regret",
-            "words": 429,
+            "words": 452,
             "chars": 2303
         },
         {
             "name": "Part 047 - Resolve",
-            "words": 771,
+            "words": 794,
             "chars": 4065
         },
         {
             "name": "Part 048 - Choice",
-            "words": 351,
+            "words": 354,
             "chars": 1808
         },
         {
             "name": "Part 049 - Raphael",
-            "words": 889,
+            "words": 900,
             "chars": 4695
         },
         {
             "name": "Part 050 - Michael",
-            "words": 890,
+            "words": 891,
             "chars": 4645
         },
         {
             "name": "Part 051",
-            "words": 644,
+            "words": 653,
             "chars": 3344
         },
         {
             "name": "Part 052",
-            "words": 974,
+            "words": 988,
             "chars": 5169
         },
         {
             "name": "Part 053 - Journey",
-            "words": 618,
+            "words": 638,
             "chars": 3293
         },
         {
             "name": "Part 054 - Athelticism",
-            "words": 649,
+            "words": 664,
             "chars": 3486
         },
         {
             "name": "Part 055 - Nemesis",
-            "words": 927,
+            "words": 956,
             "chars": 5098
         },
         {
             "name": "Part 056 - Hunted",
-            "words": 531,
+            "words": 549,
             "chars": 2904
         },
         {
             "name": "Part 057",
-            "words": 598,
+            "words": 614,
             "chars": 3349
         },
         {
             "name": "Part 058",
-            "words": 393,
+            "words": 409,
             "chars": 2193
         },
         {
             "name": "Part 059",
-            "words": 578,
+            "words": 590,
             "chars": 3169
         },
         {
             "name": "Part 060",
-            "words": 689,
+            "words": 698,
             "chars": 3764
         },
         {
             "name": "Part 061",
-            "words": 1052,
+            "words": 1063,
             "chars": 5709
         },
         {
             "name": "Part 062 - Roland",
-            "words": 1072,
+            "words": 1078,
             "chars": 5980
         },
         {
             "name": "Part 063 - Chase",
-            "words": 740,
+            "words": 751,
             "chars": 3894
         },
         {
             "name": "Part 064 - Confrontation",
-            "words": 676,
+            "words": 678,
             "chars": 3648
         },
         {
             "name": "Part 065",
-            "words": 705,
+            "words": 713,
             "chars": 3648
         },
         {
             "name": "Part 066",
-            "words": 628,
+            "words": 635,
             "chars": 3341
         },
         {
             "name": "Part 067",
-            "words": 1016,
+            "words": 1038,
             "chars": 5558
         },
         {
             "name": "Part 068 - Loss",
-            "words": 1008,
+            "words": 1019,
             "chars": 5575
         },
         {
             "name": "Part 069 - ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)",
-            "words": 909,
+            "words": 941,
             "chars": 4883
         },
         {
             "name": "Part 070 - Umi",
-            "words": 525,
+            "words": 533,
             "chars": 2965
         },
         {
             "name": "Part 071 - Fright",
-            "words": 676,
+            "words": 703,
             "chars": 3754
         },
         {
             "name": "Part 072 - Battle Bowl",
-            "words": 951,
+            "words": 983,
             "chars": 5478
         },
         {
             "name": "Part 073 - Godlike",
-            "words": 713,
+            "words": 730,
             "chars": 3960
         },
         {
             "name": "Part 074 - Emergency",
-            "words": 624,
+            "words": 640,
             "chars": 3427
         },
         {
             "name": "Part 075 - Portent",
-            "words": 561,
+            "words": 581,
             "chars": 3061
         },
         {
             "name": "Part 076 - Discovery",
-            "words": 356,
+            "words": 361,
             "chars": 1900
         },
         {
             "name": "Part 077 - Rage",
-            "words": 1022,
+            "words": 1062,
             "chars": 5767
         },
         {
             "name": "Part 078 - Regret",
-            "words": 459,
+            "words": 466,
             "chars": 2415
         },
         {
             "name": "Part 079 - Unexpected",
-            "words": 743,
+            "words": 775,
             "chars": 4009
         },
         {
             "name": "Part 080 - Battle Bowl 2",
-            "words": 805,
+            "words": 819,
             "chars": 4516
         },
         {
             "name": "Part 081 - Darkness",
-            "words": 760,
+            "words": 771,
             "chars": 4147
         },
         {
             "name": "Part 082",
-            "words": 729,
+            "words": 746,
             "chars": 4012
         },
         {
             "name": "Part 083 - Catherine",
-            "words": 958,
+            "words": 973,
             "chars": 5209
         },
         {
             "name": "Part 084 - Sword",
-            "words": 592,
+            "words": 610,
             "chars": 3253
         },
         {
             "name": "Part 085 - Rabid",
-            "words": 537,
+            "words": 551,
             "chars": 2964
         },
         {
             "name": "Part 086",
-            "words": 886,
+            "words": 904,
             "chars": 4784
         },
         {
             "name": "Part 087 - Satan",
-            "words": 1712,
+            "words": 1752,
             "chars": 9390
         },
         {
             "name": "Part 088 - Hoarhiim",
-            "words": 752,
+            "words": 760,
             "chars": 4041
         },
         {
             "name": "Part 089",
-            "words": 323,
+            "words": 328,
             "chars": 1723
         },
         {
             "name": "Part 090 - Battle Bowl 3",
-            "words": 738,
+            "words": 745,
             "chars": 3994
         },
         {
             "name": "Part 091 - Finale",
-            "words": 816,
+            "words": 832,
             "chars": 4549
         },
         {
             "name": "Part 092 - Chapter 1 End",
-            "words": 682,
+            "words": 709,
             "chars": 3774
         },
         {
             "name": "Part 093 - Epilogue",
-            "words": 846,
+            "words": 871,
             "chars": 4721
         },
         {
             "name": "Part 094 - Epilogue 2",
-            "words": 736,
+            "words": 762,
             "chars": 4006
         },
         {
             "name": "Part 095 - Truly Final Epilogue",
-            "words": 488,
+            "words": 495,
             "chars": 2796
         },
         {
             "name": "Part 096 - The Beginning",
-            "words": 813,
+            "words": 826,
             "chars": 4349
         },
         {
             "name": "Part 097 - Hatred",
-            "words": 485,
+            "words": 494,
             "chars": 2756
         },
         {
             "name": "Part 098 - Oracle",
-            "words": 726,
+            "words": 730,
             "chars": 4085
         },
         {
             "name": "Part 099 - Heaven",
-            "words": 772,
+            "words": 777,
             "chars": 4336
         },
         {
             "name": "Part 100 - A Beautiful Day",
-            "words": 1518,
+            "words": 1548,
             "chars": 8312
         },
         {
             "name": "Part 101",
-            "words": 1212,
+            "words": 1247,
             "chars": 6674
         },
         {
             "name": "Part 102",
-            "words": 1259,
+            "words": 1298,
             "chars": 6731
         },
         {
             "name": "Part 103 - Plans",
-            "words": 919,
+            "words": 940,
             "chars": 5258
         },
         {
             "name": "Part 104 - Inventor",
-            "words": 642,
+            "words": 661,
             "chars": 3531
         },
         {
             "name": "Part 105 - Doom",
-            "words": 810,
+            "words": 833,
             "chars": 4499
         },
         {
             "name": "Part 106 - Boomstick",
-            "words": 1032,
+            "words": 1057,
             "chars": 5625
         },
         {
             "name": "Part 107",
-            "words": 824,
+            "words": 845,
             "chars": 4566
         },
         {
             "name": "Part 108 - Remnants",
-            "words": 1168,
+            "words": 1186,
             "chars": 6508
         },
         {
             "name": "Part 109 - Blast",
-            "words": 878,
+            "words": 887,
             "chars": 4909
         },
         {
             "name": "Part 110 - Holes",
-            "words": 912,
+            "words": 925,
             "chars": 5216
         },
         {
             "name": "Part 111 - Grez",
-            "words": 722,
+            "words": 731,
             "chars": 4075
         },
         {
             "name": "Part 112",
-            "words": 1310,
+            "words": 1347,
             "chars": 7215
         },
         {
             "name": "Part 113",
-            "words": 1075,
+            "words": 1095,
             "chars": 5986
         },
         {
             "name": "Part 114",
-            "words": 1154,
+            "words": 1168,
             "chars": 6137
         },
         {
             "name": "Part 115 - Hercules",
-            "words": 1128,
+            "words": 1134,
             "chars": 6359
         },
         {
             "name": "Part 116 - Secrets",
-            "words": 2031,
+            "words": 2047,
             "chars": 11518
         },
         {
             "name": "Part 117",
-            "words": 502,
+            "words": 513,
             "chars": 2834
         },
         {
             "name": "Part 118",
-            "words": 1205,
+            "words": 1232,
             "chars": 6579
         },
         {
             "name": "Part 119",
-            "words": 864,
+            "words": 896,
             "chars": 4644
         },
         {
             "name": "Part 120 - Angel",
-            "words": 1239,
+            "words": 1269,
             "chars": 6641
         },
         {
             "name": "Part 121",
-            "words": 1313,
+            "words": 1340,
             "chars": 7225
         },
         {
             "name": "Part 122",
-            "words": 927,
+            "words": 928,
             "chars": 5172
         },
         {
             "name": "Part 123 - Unbridled Rage",
-            "words": 960,
+            "words": 969,
             "chars": 5321
         },
         {
             "name": "Part 124 - Nerves",
-            "words": 2021,
+            "words": 2082,
             "chars": 10792
         },
         {
             "name": "Part 125 - Quiet",
-            "words": 857,
+            "words": 886,
             "chars": 4679
         },
         {
             "name": "Part 126 - Suspended",
-            "words": 923,
+            "words": 961,
             "chars": 4912
         },
         {
             "name": "Part 127",
-            "words": 736,
+            "words": 768,
             "chars": 3863
         },
         {
             "name": "Part 128",
-            "words": 957,
+            "words": 972,
             "chars": 5062
         },
         {
             "name": "Part 129",
-            "words": 1016,
+            "words": 1023,
             "chars": 5643
         },
         {
             "name": "Part 130 - Clash Of The Titans",
-            "words": 908,
+            "words": 920,
             "chars": 5115
         },
         {
             "name": "Part 131",
-            "words": 918,
+            "words": 922,
             "chars": 4879
         },
         {
             "name": "Part 132 - Colossus",
-            "words": 930,
+            "words": 953,
             "chars": 4971
         },
         {
             "name": "Part 133 - Rogue Clone",
-            "words": 628,
+            "words": 637,
             "chars": 3444
         },
         {
             "name": "Part 134",
-            "words": 800,
+            "words": 827,
             "chars": 4332
         },
         {
             "name": "Part 135",
-            "words": 973,
+            "words": 1006,
             "chars": 5250
         },
         {
             "name": "Part 136 - Retribution",
-            "words": 1238,
+            "words": 1269,
             "chars": 6835
         },
         {
             "name": "Part 137 - Stages Of Grief",
-            "words": 1432,
+            "words": 1514,
             "chars": 7769
         },
         {
             "name": "Part 138",
-            "words": 959,
+            "words": 991,
             "chars": 5142
         },
         {
             "name": "Part 139",
-            "words": 750,
+            "words": 782,
             "chars": 4169
         },
         {
             "name": "Part 140 - Adams",
-            "words": 1030,
+            "words": 1053,
             "chars": 5569
         },
         {
             "name": "Part 141",
-            "words": 664,
+            "words": 683,
             "chars": 3601
         },
         {
             "name": "Part 142",
-            "words": 795,
+            "words": 824,
             "chars": 4101
         },
         {
             "name": "Part 143",
-            "words": 875,
+            "words": 894,
             "chars": 4771
         },
         {
             "name": "Part 144",
-            "words": 728,
+            "words": 752,
             "chars": 4053
         },
         {
             "name": "Part 145",
-            "words": 934,
+            "words": 947,
             "chars": 5176
         },
         {
             "name": "Part 146",
-            "words": 1104,
+            "words": 1143,
             "chars": 5924
         },
         {
             "name": "Part 147",
-            "words": 1049,
+            "words": 1081,
             "chars": 5586
         },
         {
             "name": "Part 148",
-            "words": 631,
+            "words": 658,
             "chars": 3402
         },
         {
             "name": "Part 149 - Coronation",
-            "words": 776,
+            "words": 803,
             "chars": 4143
         },
         {
             "name": "Part 150 - Extermination",
-            "words": 770,
+            "words": 796,
             "chars": 4428
         },
         {
             "name": "Part 151",
-            "words": 832,
+            "words": 853,
             "chars": 4807
         },
         {
             "name": "Part 152",
-            "words": 907,
+            "words": 921,
             "chars": 4910
         },
         {
             "name": "Part 153 - Imprisoned",
-            "words": 870,
+            "words": 874,
             "chars": 4752
         },
         {
             "name": "Part 154",
-            "words": 916,
+            "words": 929,
             "chars": 5030
         },
         {
             "name": "Part 155",
-            "words": 1214,
+            "words": 1227,
             "chars": 6570
         },
         {
             "name": "Part 156",
-            "words": 663,
+            "words": 667,
             "chars": 3605
         },
         {
             "name": "Part 157",
-            "words": 1122,
+            "words": 1140,
             "chars": 6159
         },
         {
             "name": "Part 158 - Forbidden",
-            "words": 886,
+            "words": 890,
             "chars": 4973
         },
         {
             "name": "Part 159",
-            "words": 1742,
+            "words": 1765,
             "chars": 9393
         },
         {
             "name": "Part 160",
-            "words": 845,
+            "words": 869,
             "chars": 4711
         },
         {
             "name": "Part 161 - Valac",
-            "words": 1248,
+            "words": 1281,
             "chars": 6690
         },
         {
             "name": "Part 162",
-            "words": 1172,
+            "words": 1190,
             "chars": 6259
         },
         {
             "name": "Part 163 - Honor",
-            "words": 889,
+            "words": 905,
             "chars": 5042
         },
         {
             "name": "Part 164",
-            "words": 810,
+            "words": 826,
             "chars": 4579
         },
         {
             "name": "Part 165",
-            "words": 912,
+            "words": 936,
             "chars": 4992
         },
         {
             "name": "Part 166",
-            "words": 1180,
+            "words": 1193,
             "chars": 6606
         },
         {
             "name": "Part 167",
-            "words": 736,
+            "words": 757,
             "chars": 4087
         },
         {
             "name": "Part 168 - Battle For Heaven",
-            "words": 1339,
+            "words": 1351,
             "chars": 7547
         },
         {
             "name": "Part 169 - Fated",
-            "words": 1133,
+            "words": 1146,
             "chars": 6313
         },
         {
             "name": "Part 170",
-            "words": 1161,
+            "words": 1170,
             "chars": 6586
         },
         {
             "name": "Part 171 - Aftermath",
-            "words": 1677,
+            "words": 1692,
             "chars": 9362
         },
         {
             "name": "Part 172",
-            "words": 753,
+            "words": 760,
             "chars": 4123
         },
         {
             "name": "Part 173",
-            "words": 1124,
+            "words": 1134,
             "chars": 6158
         },
         {
             "name": "Part 174 - Innocence",
-            "words": 1659,
+            "words": 1687,
             "chars": 9018
         },
         {
             "name": "Part 175",
-            "words": 1478,
+            "words": 1532,
             "chars": 8106
         },
         {
             "name": "Part 176",
-            "words": 1315,
+            "words": 1361,
             "chars": 6870
         },
         {
             "name": "Part 177 - Ship",
-            "words": 1088,
+            "words": 1114,
             "chars": 5825
         },
         {
             "name": "Part 178",
-            "words": 722,
+            "words": 729,
             "chars": 4118
         },
         {
             "name": "Part 179",
-            "words": 1034,
+            "words": 1049,
             "chars": 5736
         },
         {
             "name": "Part 180",
-            "words": 594,
+            "words": 613,
             "chars": 3333
         },
         {
             "name": "Part 181",
-            "words": 1116,
+            "words": 1132,
             "chars": 6219
         },
         {
             "name": "Part 182 - The Great",
-            "words": 1662,
+            "words": 1689,
             "chars": 9256
         },
         {
             "name": "Part 183 - Immortality",
-            "words": 1210,
+            "words": 1216,
             "chars": 6664
         },
         {
             "name": "Part 184",
-            "words": 1167,
+            "words": 1183,
             "chars": 6648
         },
         {
             "name": "Part 185",
-            "words": 1215,
+            "words": 1222,
             "chars": 6781
         },
         {
             "name": "Part 186",
-            "words": 674,
+            "words": 682,
             "chars": 3546
         },
         {
             "name": "Part 187 - Son Of Man",
-            "words": 2069,
+            "words": 2080,
             "chars": 11206
         },
         {
             "name": "Part 188",
-            "words": 1242,
+            "words": 1266,
             "chars": 6883
         },
         {
             "name": "Part 189 - Deus Ex",
-            "words": 1394,
+            "words": 1419,
             "chars": 7590
         },
         {
             "name": "Part 190",
-            "words": 874,
+            "words": 893,
             "chars": 4738
         },
         {
             "name": "Part 191",
-            "words": 1487,
+            "words": 1545,
             "chars": 8238
         },
         {
             "name": "Part 192",
-            "words": 658,
+            "words": 670,
             "chars": 3617
         },
         {
             "name": "Part 193",
-            "words": 836,
+            "words": 861,
             "chars": 4534
         },
         {
             "name": "Part 194",
-            "words": 940,
+            "words": 959,
             "chars": 5249
         },
         {
             "name": "Part 195",
-            "words": 616,
+            "words": 628,
             "chars": 3432
         },
         {
             "name": "Part 196",
-            "words": 896,
+            "words": 922,
             "chars": 4989
         },
         {
             "name": "Part 197",
-            "words": 1513,
+            "words": 1571,
             "chars": 8065
         },
         {
             "name": "Part 198 - Demon",
-            "words": 987,
+            "words": 997,
             "chars": 5515
         },
         {
             "name": "Part 199",
-            "words": 721,
+            "words": 738,
             "chars": 3992
         },
         {
             "name": "Part 200 - End Of Chapter 2",
-            "words": 942,
+            "words": 966,
             "chars": 5180
         },
         {
             "name": "Part 201a - A New Beginning",
-            "words": 805,
+            "words": 839,
             "chars": 4174
         },
         {
             "name": "Part 202a - CryoTek",
-            "words": 1172,
+            "words": 1214,
             "chars": 6220
         },
         {
             "name": "Part 203a - Recollection",
-            "words": 1427,
+            "words": 1485,
             "chars": 7854
         },
         {
             "name": "Part 204a",
-            "words": 626,
+            "words": 645,
             "chars": 3303
         },
         {
             "name": "Part 205a",
-            "words": 855,
+            "words": 884,
             "chars": 4579
         },
         {
             "name": "Part 206a - Espionage",
-            "words": 1098,
+            "words": 1131,
             "chars": 5976
         },
         {
             "name": "Part 207a - Alex",
-            "words": 949,
+            "words": 981,
             "chars": 5248
         },
         {
             "name": "Part 208a",
-            "words": 1139,
+            "words": 1183,
             "chars": 6199
         },
         {
             "name": "Part 209a",
-            "words": 926,
+            "words": 958,
             "chars": 5078
         },
         {
             "name": "Part 210a",
-            "words": 1121,
+            "words": 1161,
             "chars": 5963
         },
         {
             "name": "Part 211a",
-            "words": 2488,
+            "words": 2529,
             "chars": 13366
         },
         {
             "name": "Part 212a",
-            "words": 1248,
+            "words": 1294,
             "chars": 6586
         },
         {
             "name": "Part 213a - Dolfraxis",
-            "words": 699,
+            "words": 700,
             "chars": 4032
         },
         {
             "name": "Part 214a - Deadlines",
-            "words": 1268,
+            "words": 1303,
             "chars": 7183
         },
         {
             "name": "Part 215a",
-            "words": 1325,
+            "words": 1351,
             "chars": 7240
         },
         {
             "name": "Part 216a",
-            "words": 1144,
+            "words": 1158,
             "chars": 6416
         },
         {
             "name": "Part 217a",
-            "words": 1694,
+            "words": 1721,
             "chars": 9473
         },
         {
             "name": "Part 218a",
-            "words": 1322,
+            "words": 1332,
             "chars": 7651
         },
         {
             "name": "Part 219a",
-            "words": 1640,
+            "words": 1694,
             "chars": 8895
         },
         {
             "name": "Part 220a",
-            "words": 1093,
+            "words": 1102,
             "chars": 6228
         },
         {
             "name": "Part 221a",
-            "words": 1982,
+            "words": 2012,
             "chars": 10975
         },
         {
             "name": "Part 222a - Escape",
-            "words": 1651,
+            "words": 1668,
             "chars": 9271
         },
         {
             "name": "Part 223a",
-            "words": 738,
+            "words": 762,
             "chars": 4055
         },
         {
             "name": "Part 224a",
-            "words": 998,
+            "words": 1022,
             "chars": 5523
         },
         {
             "name": "Part 225a",
-            "words": 2074,
+            "words": 2121,
             "chars": 11209
         },
         {
             "name": "Part 226a",
-            "words": 2620,
+            "words": 2679,
             "chars": 14680
         },
         {
             "name": "Part 227a",
-            "words": 1137,
+            "words": 1190,
             "chars": 6151
         },
         {
             "name": "Part 228a",
-            "words": 1203,
+            "words": 1241,
             "chars": 6608
         },
         {
             "name": "Part 229a",
-            "words": 1152,
+            "words": 1168,
             "chars": 6561
         },
         {
             "name": "Part 230a - The Founders",
-            "words": 2089,
+            "words": 2101,
             "chars": 11957
         },
         {
             "name": "Part 231a",
-            "words": 2263,
+            "words": 2323,
             "chars": 12126
         },
         {
             "name": "Part 232a - Tear",
-            "words": 2887,
+            "words": 2952,
             "chars": 15909
         },
         {
             "name": "Part 233a",
-            "words": 1082,
+            "words": 1090,
             "chars": 6075
         },
         {
             "name": "Part 234a",
-            "words": 1255,
+            "words": 1277,
             "chars": 6953
         },
         {
             "name": "Part 235a",
-            "words": 1267,
+            "words": 1285,
             "chars": 7145
         },
         {
             "name": "Part 236a",
-            "words": 2182,
+            "words": 2210,
             "chars": 12402
         },
         {
             "name": "Part 237a",
-            "words": 1051,
+            "words": 1060,
             "chars": 5933
         },
         {
             "name": "Part 238a",
-            "words": 1844,
+            "words": 1886,
             "chars": 10450
         },
         {
             "name": "Part 239a",
-            "words": 993,
+            "words": 1002,
             "chars": 5426
         },
         {
             "name": "Part 240a",
-            "words": 2426,
+            "words": 2467,
             "chars": 13264
         },
         {
             "name": "Part 241a",
-            "words": 2144,
+            "words": 2198,
             "chars": 11552
         },
         {
             "name": "Part 242a",
-            "words": 2352,
+            "words": 2409,
             "chars": 12850
         },
         {
             "name": "Part 243a",
-            "words": 1400,
+            "words": 1446,
             "chars": 7736
         },
         {
             "name": "Part 244a - Day Of Reckoning",
-            "words": 1034,
+            "words": 1045,
             "chars": 5973
         },
         {
             "name": "Part 245a",
-            "words": 1009,
+            "words": 1033,
             "chars": 5614
         },
         {
             "name": "Part 246a",
-            "words": 1464,
+            "words": 1484,
             "chars": 8174
         },
         {
             "name": "Part 247a",
-            "words": 1965,
+            "words": 2024,
             "chars": 10684
         },
         {
             "name": "Part 248a - Monologue",
-            "words": 747,
+            "words": 752,
             "chars": 4164
         },
         {
             "name": "Part 249a",
-            "words": 1779,
+            "words": 1808,
             "chars": 10276
         },
         {
             "name": "Part 250a - Fate",
-            "words": 2699,
+            "words": 2760,
             "chars": 14857
         },
         {
             "name": "Part 251a",
-            "words": 1236,
+            "words": 1270,
             "chars": 6889
         },
         {
             "name": "Part 252a",
-            "words": 1229,
+            "words": 1244,
             "chars": 6769
         },
         {
             "name": "Part 253a",
-            "words": 1158,
+            "words": 1195,
             "chars": 6400
         },
         {
             "name": "Part 254a",
-            "words": 1195,
+            "words": 1232,
             "chars": 6533
         },
         {
             "name": "Part 255a",
-            "words": 900,
+            "words": 925,
             "chars": 4893
         },
         {
             "name": "Part 256a",
-            "words": 909,
+            "words": 918,
             "chars": 5389
         },
         {
             "name": "Part 257a",
-            "words": 1368,
+            "words": 1397,
             "chars": 8009
         },
         {
             "name": "Part 258a",
-            "words": 1570,
+            "words": 1597,
             "chars": 8598
         },
         {
             "name": "Part 259a",
-            "words": 1577,
+            "words": 1604,
             "chars": 8752
         },
         {
             "name": "Part 260a",
-            "words": 2381,
+            "words": 2414,
             "chars": 13693
         },
         {
             "name": "Part 261a",
-            "words": 1492,
+            "words": 1540,
             "chars": 8452
         },
         {
             "name": "Part 262a",
-            "words": 793,
+            "words": 807,
             "chars": 4433
         },
         {
             "name": "Part 263a",
-            "words": 1480,
+            "words": 1503,
             "chars": 8320
         },
         {
             "name": "Part 264a",
-            "words": 839,
+            "words": 865,
             "chars": 4843
         },
         {
             "name": "Part 265a",
-            "words": 1533,
+            "words": 1566,
             "chars": 8668
         },
         {
             "name": "Part 266a - Shift",
-            "words": 1876,
+            "words": 1942,
             "chars": 10744
         },
         {
             "name": "Part 267a - Discoveries",
-            "words": 1811,
+            "words": 1883,
             "chars": 10198
         },
         {
             "name": "Part 268a - Familiar Face",
-            "words": 2010,
+            "words": 2048,
             "chars": 11467
         },
         {
             "name": "Part 269a",
-            "words": 1503,
+            "words": 1528,
             "chars": 8284
         },
         {
             "name": "Part 270a - Barbarism",
-            "words": 1790,
+            "words": 1817,
             "chars": 9593
         },
         {
             "name": "Part 271a - Passion",
-            "words": 1894,
+            "words": 1948,
             "chars": 10107
         },
         {
             "name": "Part 272a",
-            "words": 1649,
+            "words": 1683,
             "chars": 9142
         },
         {
             "name": "Part 273a",
-            "words": 2107,
+            "words": 2138,
             "chars": 11690
         },
         {
             "name": "Part 274a",
-            "words": 1956,
+            "words": 1982,
             "chars": 10841
         },
         {
             "name": "Part 275a - A Piece Of Peace",
-            "words": 2895,
+            "words": 2985,
             "chars": 15839
         },
         {
             "name": "Part 276a",
-            "words": 1814,
+            "words": 1879,
             "chars": 9757
         },
         {
             "name": "Part 277a",
-            "words": 1764,
+            "words": 1796,
             "chars": 9256
         },
         {
             "name": "Part 278a",
-            "words": 1314,
+            "words": 1368,
             "chars": 7028
         },
         {
             "name": "Part 279a",
-            "words": 1419,
+            "words": 1478,
             "chars": 7700
         },
         {
             "name": "Part 280a",
-            "words": 3319,
+            "words": 3430,
             "chars": 18080
         },
         {
             "name": "Part 281a",
-            "words": 2017,
+            "words": 2079,
             "chars": 10594
         },
         {
             "name": "Part 282a - Sparring",
-            "words": 2022,
+            "words": 2073,
             "chars": 10894
         },
         {
             "name": "Part 283a",
-            "words": 2671,
+            "words": 2725,
             "chars": 14758
         },
         {
             "name": "Part 284a",
-            "words": 1849,
+            "words": 1874,
             "chars": 10004
         },
         {
             "name": "Part 285a",
-            "words": 2419,
+            "words": 2500,
             "chars": 13013
         },
         {
             "name": "Part 286a - Christmas",
-            "words": 3182,
+            "words": 3261,
             "chars": 17590
         },
         {
             "name": "Part 287a",
-            "words": 2669,
+            "words": 2727,
             "chars": 15035
         },
         {
             "name": "Part 288a",
-            "words": 2669,
+            "words": 2727,
             "chars": 15035
         },
         {
             "name": "Part 289a",
-            "words": 2517,
+            "words": 2572,
             "chars": 14059
         },
         {
             "name": "Part 290a - Hunger",
-            "words": 3684,
+            "words": 3788,
             "chars": 20140
         },
         {
             "name": "Part 291a - Lance",
-            "words": 2416,
+            "words": 2464,
             "chars": 13412
         },
         {
             "name": "Part 292a",
-            "words": 3510,
+            "words": 3610,
             "chars": 20046
         },
         {
             "name": "Part 293a",
-            "words": 3103,
+            "words": 3144,
             "chars": 17544
         },
         {
             "name": "Part 294a",
-            "words": 3575,
+            "words": 3653,
             "chars": 19797
         },
         {
             "name": "Part 295a - Dream",
-            "words": 3044,
+            "words": 3128,
             "chars": 16529
         },
         {
             "name": "Part 296a",
-            "words": 2387,
+            "words": 2447,
             "chars": 12992
         },
         {
             "name": "Part 297a",
-            "words": 3517,
+            "words": 3647,
             "chars": 19937
         },
         {
             "name": "Part 298a",
-            "words": 2690,
+            "words": 2777,
             "chars": 14590
         },
         {
             "name": "Part 299a - Wormhole",
-            "words": 2308,
+            "words": 2369,
             "chars": 13098
         },
         {
             "name": "Part 300a - Sentinel",
-            "words": 2370,
+            "words": 2410,
             "chars": 13327
         },
         {
             "name": "Part 301a",
-            "words": 2873,
+            "words": 2945,
             "chars": 15855
         },
         {
             "name": "Part 302a",
-            "words": 3100,
+            "words": 3178,
             "chars": 17617
         },
         {
             "name": "Part 303a",
-            "words": 1972,
+            "words": 2034,
             "chars": 10858
         },
         {
             "name": "Part 304a - Unexpected",
-            "words": 3824,
+            "words": 3915,
             "chars": 21761
         },
         {
             "name": "Part 305a - Introspection",
-            "words": 3834,
+            "words": 3907,
             "chars": 21383
         },
         {
             "name": "Part 306a - Meeting",
-            "words": 3143,
+            "words": 3230,
             "chars": 17118
         },
         {
             "name": "Part 307a - Daughter",
-            "words": 6587,
+            "words": 6801,
             "chars": 36369
         },
         {
             "name": "Part 308a",
-            "words": 2981,
+            "words": 3055,
             "chars": 16430
         },
         {
             "name": "Part 309a",
-            "words": 4291,
+            "words": 4340,
             "chars": 24229
         },
         {
             "name": "Part 310a - New World Order",
-            "words": 4133,
+            "words": 4246,
             "chars": 23407
         },
         {
             "name": "Part 311a",
-            "words": 2847,
+            "words": 2949,
             "chars": 15802
         },
         {
             "name": "Part 312a",
-            "words": 3798,
+            "words": 3880,
             "chars": 21153
         },
         {
             "name": "Part 313a",
-            "words": 3457,
+            "words": 3589,
             "chars": 19196
         },
         {
             "name": "Part 314a - Appearances",
-            "words": 2202,
+            "words": 2240,
             "chars": 12149
         },
         {
             "name": "Part 315a",
-            "words": 5248,
+            "words": 5386,
             "chars": 28973
         },
         {
             "name": "Part 316a",
-            "words": 2313,
+            "words": 2381,
             "chars": 12979
         },
         {
             "name": "Part 317a",
-            "words": 2358,
+            "words": 2469,
             "chars": 12944
         },
         {
             "name": "Part 318a",
-            "words": 3228,
+            "words": 3285,
             "chars": 18100
         },
         {
             "name": "Part 319a",
-            "words": 2379,
+            "words": 2431,
             "chars": 13540
         },
         {
             "name": "Part 320a - Turning Tides",
-            "words": 2429,
+            "words": 2525,
             "chars": 13441
         },
         {
             "name": "Part 321a - Confrontation 2",
-            "words": 2605,
+            "words": 2677,
             "chars": 13882
         },
         {
             "name": "Part 322a",
-            "words": 2133,
+            "words": 2226,
             "chars": 11406
         },
         {
             "name": "Part 323a",
-            "words": 2341,
+            "words": 2424,
             "chars": 12638
         },
         {
             "name": "Part 324a - Betrayal",
-            "words": 4136,
+            "words": 4220,
             "chars": 23217
         },
         {
             "name": "Part 325a - Departure",
-            "words": 3206,
+            "words": 3282,
             "chars": 17982
         },
         {
             "name": "Part 326a",
-            "words": 2479,
+            "words": 2554,
             "chars": 13418
         },
         {
             "name": "Part 327a",
-            "words": 2842,
+            "words": 2913,
             "chars": 15610
         },
         {
             "name": "Part 328a - Revelations",
-            "words": 3825,
+            "words": 3958,
             "chars": 20789
         },
         {
             "name": "Part 329a",
-            "words": 4362,
+            "words": 4497,
             "chars": 23994
         },
         {
             "name": "Part 330a",
-            "words": 3575,
+            "words": 3679,
             "chars": 19411
         },
         {
             "name": "Part 331a",
-            "words": 2904,
+            "words": 3002,
             "chars": 16070
         },
         {
             "name": "Part 332a",
-            "words": 2312,
+            "words": 2389,
             "chars": 12651
         },
         {
             "name": "Part 333a",
-            "words": 2137,
+            "words": 2198,
             "chars": 11907
         },
         {
             "name": "Part 334a",
-            "words": 3638,
+            "words": 3767,
             "chars": 20078
         },
         {
             "name": "Part 335a - Alterations",
-            "words": 4314,
+            "words": 4413,
             "chars": 23838
         },
         {
             "name": "Part 336a",
-            "words": 2738,
+            "words": 2822,
             "chars": 15065
         },
         {
             "name": "Part 337a - Moles",
-            "words": 2562,
+            "words": 2633,
             "chars": 14344
         },
         {
             "name": "Part 338a",
-            "words": 2866,
+            "words": 2957,
             "chars": 15863
         },
         {
             "name": "Part 339a",
-            "words": 2818,
+            "words": 2923,
             "chars": 15741
         },
         {
             "name": "Part 340a",
-            "words": 2198,
+            "words": 2288,
             "chars": 12006
         },
         {
             "name": "Part 341a",
-            "words": 3854,
+            "words": 3959,
             "chars": 21093
         },
         {
             "name": "Part 342a - Reversal",
-            "words": 2302,
+            "words": 2396,
             "chars": 12622
         },
         {
             "name": "Part 343a",
-            "words": 3131,
+            "words": 3252,
             "chars": 17158
         },
         {
             "name": "Part 344a",
-            "words": 2382,
+            "words": 2471,
             "chars": 13214
         },
         {
             "name": "Part 345a - Pokerface",
-            "words": 2558,
+            "words": 2639,
             "chars": 14158
         },
         {
             "name": "Part 346a - Artist",
-            "words": 3688,
+            "words": 3830,
             "chars": 20283
         },
         {
             "name": "Part 347a",
-            "words": 3670,
+            "words": 3786,
             "chars": 20281
         },
         {
             "name": "Part 348a - Pretty Monster",
-            "words": 2913,
+            "words": 2996,
             "chars": 16163
         },
         {
             "name": "Part 349a",
-            "words": 2971,
+            "words": 3032,
             "chars": 16595
         },
         {
             "name": "Part 350a - Endless Hatred",
-            "words": 2020,
+            "words": 2048,
             "chars": 11322
         },
         {
             "name": "Part 351a - Allegiance",
-            "words": 2910,
+            "words": 2985,
             "chars": 16025
         },
         {
             "name": "Part 352a",
-            "words": 3312,
+            "words": 3431,
             "chars": 18244
         },
         {
             "name": "Part 353a",
-            "words": 3080,
+            "words": 3217,
             "chars": 16657
         },
         {
             "name": "Part 354a - Grasp Of Evil",
-            "words": 2187,
+            "words": 2235,
             "chars": 12190
         },
         {
             "name": "Part 355a - False Prophets",
-            "words": 2451,
+            "words": 2504,
             "chars": 13489
         },
         {
             "name": "Part 356a - Longing",
-            "words": 3557,
+            "words": 3675,
             "chars": 19808
         },
         {
             "name": "Part 357a",
-            "words": 2432,
+            "words": 2518,
             "chars": 13769
         },
         {
             "name": "Part 358a",
-            "words": 2204,
+            "words": 2307,
             "chars": 12383
         },
         {
             "name": "Part 359a",
-            "words": 2801,
+            "words": 2901,
             "chars": 15749
         },
         {
             "name": "Part 360a",
-            "words": 3187,
+            "words": 3311,
             "chars": 17595
         },
         {
             "name": "Part 361a - Revenge",
-            "words": 2199,
+            "words": 2254,
             "chars": 12107
         },
         {
             "name": "Part 362a - Crisis Of Conscience",
-            "words": 6315,
+            "words": 6509,
             "chars": 34833
         },
         {
             "name": "Part 363a - Framed",
-            "words": 2448,
+            "words": 2538,
             "chars": 13397
         },
         {
             "name": "Part 364a",
-            "words": 3846,
+            "words": 3975,
             "chars": 21652
         },
         {
             "name": "Part 365a - Recursion",
-            "words": 3046,
+            "words": 3134,
             "chars": 16916
         },
         {
             "name": "Part 366a",
-            "words": 4140,
+            "words": 4285,
             "chars": 22995
         },
         {
             "name": "Part 367a - Battle For Neptune",
-            "words": 2473,
+            "words": 2556,
             "chars": 14002
         },
         {
             "name": "Part 368a - Inversion",
-            "words": 3222,
+            "words": 3302,
             "chars": 18178
         },
         {
             "name": "Part 369a - Refuge",
-            "words": 2437,
+            "words": 2522,
             "chars": 13696
         },
         {
             "name": "Part 370a - Titanfall (1 of 2)",
-            "words": 4083,
+            "words": 4242,
             "chars": 22230
         },
         {
             "name": "Part 371a - Titanfall (2 of 2)",
-            "words": 2217,
+            "words": 2324,
             "chars": 11863
         },
         {
             "name": "Part 372a - Sacrifice",
-            "words": 3600,
+            "words": 3729,
             "chars": 20637
         },
         {
             "name": "Part 373a - Styx And Stones",
-            "words": 3156,
+            "words": 3272,
             "chars": 17152
         },
         {
             "name": "Part 374a",
-            "words": 3918,
+            "words": 4025,
             "chars": 21876
         },
         {
             "name": "Part 375a - Dark Horse",
-            "words": 4183,
+            "words": 4328,
             "chars": 23211
         },
         {
             "name": "Part 376a - Mulgris",
-            "words": 2899,
+            "words": 2967,
             "chars": 16584
         },
         {
             "name": "Part 377a - Awakened Terror",
-            "words": 4157,
+            "words": 4237,
             "chars": 24125
         },
         {
             "name": "Part 378a - The Lost Ones",
-            "words": 4732,
+            "words": 4902,
             "chars": 26423
         },
         {
             "name": "Part 379a",
-            "words": 2058,
+            "words": 2115,
             "chars": 12033
         },
         {
             "name": "Part 380a",
-            "words": 5345,
+            "words": 5536,
             "chars": 29875
         },
         {
             "name": "Part 381a - Culmination",
-            "words": 3207,
+            "words": 3315,
             "chars": 17477
         },
         {
             "name": "Part 382a - Oh Dear",
-            "words": 3825,
+            "words": 3931,
             "chars": 20882
         },
         {
             "name": "Part 383a - Departure, Return",
-            "words": 3802,
+            "words": 4002,
             "chars": 20210
         },
         {
             "name": "Part 384a",
-            "words": 2102,
+            "words": 2166,
             "chars": 11359
         },
         {
             "name": "Part 385a - Route A Finale",
-            "words": 4220,
+            "words": 4346,
             "chars": 23768
         },
         {
             "name": "Part 386b - Reawakening (201b and 202b +more)",
-            "words": 2788,
+            "words": 2861,
             "chars": 14937
         },
         {
             "name": "Part 387b",
-            "words": 3449,
+            "words": 3575,
             "chars": 18803
         },
         {
             "name": "Part 388b",
-            "words": 4026,
+            "words": 4164,
             "chars": 21853
         },
         {
             "name": "Part 389b - Squire",
-            "words": 5591,
+            "words": 5749,
             "chars": 30607
         },
         {
             "name": "Part 390b",
-            "words": 3794,
+            "words": 3910,
             "chars": 21048
         },
         {
             "name": "Part 391b - Limit Breaker",
-            "words": 4895,
+            "words": 5049,
             "chars": 26839
         },
         {
             "name": "Part 392b - Understanding",
-            "words": 4126,
+            "words": 4264,
             "chars": 22411
         },
         {
             "name": "Part 393b - Looming Shadows",
-            "words": 3631,
+            "words": 3721,
             "chars": 19837
         },
         {
             "name": "Part 394b - Snap",
-            "words": 5959,
+            "words": 6131,
             "chars": 32117
         },
         {
             "name": "Part 395b - Repression",
-            "words": 3568,
+            "words": 3699,
             "chars": 19167
         },
         {
             "name": "Part 396b - Pawn",
-            "words": 3404,
+            "words": 3526,
             "chars": 18503
         },
         {
             "name": "Part 397b - Railgun",
-            "words": 3674,
+            "words": 3809,
             "chars": 19745
         },
         {
             "name": "Part 398b",
-            "words": 2906,
+            "words": 2997,
             "chars": 16041
         },
         {
             "name": "Part 399b - Source",
-            "words": 3642,
+            "words": 3807,
             "chars": 19693
         },
         {
             "name": "Part 400b - Stranger In A Strange Land",
-            "words": 5010,
+            "words": 5178,
             "chars": 27323
         },
         {
             "name": "Part 401b - Trepidation",
-            "words": 3169,
+            "words": 3304,
             "chars": 16714
         },
         {
             "name": "Part 402b - Family Ties",
-            "words": 5011,
+            "words": 5156,
             "chars": 27041
         },
         {
             "name": "Part 403b - The Dark Descent",
-            "words": 4845,
+            "words": 5023,
             "chars": 26440
         },
         {
             "name": "Part 404b - The Slammer",
-            "words": 2743,
+            "words": 2853,
             "chars": 14185
         },
         {
             "name": "Part 405b - Tarus II",
-            "words": 3801,
+            "words": 3946,
             "chars": 20502
         },
         {
             "name": "Part 406b",
-            "words": 3237,
+            "words": 3347,
             "chars": 18169
         },
         {
             "name": "Part 407b",
-            "words": 4030,
+            "words": 4168,
             "chars": 20972
         },
         {
             "name": "Part 408b - Echoes Of The Past",
-            "words": 4122,
+            "words": 4264,
             "chars": 22329
         },
         {
             "name": "Part 409b - Revengeance",
-            "words": 7189,
+            "words": 7438,
             "chars": 39364
         },
         {
             "name": "Part 410b - Killing Machine",
-            "words": 4558,
+            "words": 4714,
             "chars": 23985
         },
         {
             "name": "Part 411b - Pain",
-            "words": 3612,
+            "words": 3760,
             "chars": 19532
         },
         {
             "name": "Part 412b - Maelgamish",
-            "words": 2077,
+            "words": 2164,
             "chars": 11382
         },
         {
             "name": "Part 413b - Lineage",
-            "words": 3399,
+            "words": 3512,
             "chars": 18720
         },
         {
             "name": "Part 414b - Fifteen",
-            "words": 4180,
+            "words": 4335,
             "chars": 22344
         },
         {
             "name": "Part 415b - Purity, Falsehoods",
-            "words": 4159,
+            "words": 4267,
             "chars": 23150
         },
         {
             "name": "Part 416b - Written In Blood",
-            "words": 3534,
+            "words": 3632,
             "chars": 19281
         },
         {
             "name": "Part 417b - The Uprising",
-            "words": 5307,
+            "words": 5464,
             "chars": 28888
         },
         {
             "name": "Part 418b - The Inquisition",
-            "words": 4614,
+            "words": 4757,
             "chars": 25999
         },
         {
             "name": "Part 419b - Kolvaxian",
-            "words": 3715,
+            "words": 3858,
             "chars": 20501
         },
         {
             "name": "Part 420b - (\u25e5\u25b6\u1a0e\u25c0\u25e4)",
-            "words": 3929,
+            "words": 4070,
             "chars": 21286
         },
         {
             "name": "Part 421b - Discovery",
-            "words": 3814,
+            "words": 3956,
             "chars": 20929
         },
         {
             "name": "Part 422b - Broken Home",
-            "words": 4773,
+            "words": 4996,
             "chars": 25874
         },
         {
             "name": "Part 423b - The Calm",
-            "words": 3581,
+            "words": 3767,
             "chars": 19458
         },
         {
             "name": "Part 424b - Usurper",
-            "words": 5557,
+            "words": 5732,
             "chars": 30410
         },
         {
             "name": "Part 425b - I, Human",
-            "words": 3671,
+            "words": 3795,
             "chars": 20167
         },
         {
             "name": "Part 426b - Route B Finale",
-            "words": 6267,
+            "words": 6492,
             "chars": 34452
         },
         {
             "name": "Part 427c - Doubt",
-            "words": 3620,
+            "words": 3738,
             "chars": 20087
         },
         {
             "name": "Part 428c - Return To The Ship",
-            "words": 4031,
+            "words": 4179,
             "chars": 23191
         },
         {
             "name": "Part 429c - The Bunker",
-            "words": 4015,
+            "words": 4172,
             "chars": 22472
         },
         {
             "name": "Part 430c - Ionis",
-            "words": 5347,
+            "words": 5519,
             "chars": 29855
         },
         {
             "name": "Part 431c - Nightmare",
-            "words": 4158,
+            "words": 4303,
             "chars": 22808
         },
         {
             "name": "Part 432c - Dead Space",
-            "words": 5109,
+            "words": 5301,
             "chars": 28919
         },
         {
             "name": "Part 433c - I Am Mad Scientist!",
-            "words": 4976,
+            "words": 5166,
             "chars": 27670
         },
         {
             "name": "Part 434c - Tortured Past",
-            "words": 4244,
+            "words": 4372,
             "chars": 23516
         },
         {
             "name": "Part 435c - Enigma",
-            "words": 3539,
+            "words": 3680,
             "chars": 19897
         },
         {
             "name": "Part 436c - Voldarius",
-            "words": 4340,
+            "words": 4457,
             "chars": 24269
         },
         {
             "name": "Part 437c - War Never Changes",
-            "words": 5622,
+            "words": 5745,
             "chars": 32014
         },
         {
             "name": "Part 438c - Surprise",
-            "words": 511,
+            "words": 536,
             "chars": 2866
         },
         {
             "name": "Part 439c - Creeping Terror",
-            "words": 3110,
+            "words": 3206,
             "chars": 17535
         },
         {
             "name": "Part 440c - The Phantom Menace",
-            "words": 3043,
+            "words": 3145,
             "chars": 16902
         },
         {
             "name": "Part 441c - The Butterfly Effect",
-            "words": 6370,
+            "words": 6612,
             "chars": 35510
         },
         {
             "name": "Part 442c - Values, Ethics, Lies",
-            "words": 3554,
+            "words": 3722,
             "chars": 19590
         },
         {
             "name": "Part 443c - Mercy",
-            "words": 5112,
+            "words": 5320,
             "chars": 28035
         },
         {
             "name": "Part 444c - Commander Unit",
-            "words": 3426,
+            "words": 3554,
             "chars": 18828
         },
         {
             "name": "Part 445c - Meet The King",
-            "words": 4341,
+            "words": 4507,
             "chars": 23759
         },
         {
             "name": "Part 446c - Prelude Of Light",
-            "words": 3807,
+            "words": 3950,
             "chars": 21013
         },
         {
             "name": "Part 447c - Usurper",
-            "words": 4519,
+            "words": 4666,
             "chars": 25019
         },
         {
             "name": "Part 448c - Sealed",
-            "words": 1955,
+            "words": 2010,
             "chars": 10978
         },
         {
             "name": "Part 449c - The Creator",
-            "words": 2865,
+            "words": 2977,
             "chars": 15579
         },
         {
             "name": "Part 450c - I, Demon",
-            "words": 3654,
+            "words": 3804,
             "chars": 19985
         },
         {
             "name": "Part 451c - Bloody Good Times",
-            "words": 3771,
+            "words": 3882,
             "chars": 20821
         },
         {
             "name": "Part 452c - Realization",
-            "words": 1474,
+            "words": 1511,
             "chars": 8182
         },
         {
             "name": "Part 453c - Stripped",
-            "words": 3620,
+            "words": 3717,
             "chars": 19775
         },
         {
             "name": "Part 454c - Savior",
-            "words": 3992,
+            "words": 4138,
             "chars": 21691
         },
         {
             "name": "Part 455c - Investigation",
-            "words": 2631,
+            "words": 2766,
             "chars": 14286
         },
         {
             "name": "Part 456c - The Clone Wars",
-            "words": 2597,
+            "words": 2700,
             "chars": 14342
         },
         {
             "name": "Part 457c - Explosion",
-            "words": 2137,
+            "words": 2228,
             "chars": 11833
         },
         {
             "name": "Part 458c - Born In Fire",
-            "words": 2962,
+            "words": 3029,
             "chars": 16356
         },
         {
             "name": "Part 459c - Deception, Disgrace",
-            "words": 3699,
+            "words": 3899,
             "chars": 20042
         },
         {
             "name": "Part 460c",
-            "words": 1875,
+            "words": 1970,
             "chars": 10121
         },
         {
             "name": "Part 461c - Kolpox",
-            "words": 2806,
+            "words": 2923,
             "chars": 15357
         },
         {
             "name": "Part 462c - Force Of Nature",
-            "words": 3484,
+            "words": 3626,
             "chars": 18896
         },
         {
             "name": "Part 463c - Prime",
-            "words": 2206,
+            "words": 2262,
             "chars": 12374
         },
         {
             "name": "Part 464c - Guerilla",
-            "words": 2600,
+            "words": 2706,
             "chars": 14263
         },
         {
             "name": "Part 465c - Confession",
-            "words": 2651,
+            "words": 2786,
             "chars": 14453
         },
         {
             "name": "Part 466c - Prophet",
-            "words": 2780,
+            "words": 2894,
             "chars": 15352
         },
         {
             "name": "Part 467c - Go Go Gadget",
-            "words": 3902,
+            "words": 4026,
             "chars": 21566
         },
         {
             "name": "Part 468c - The Emperor Of Flames",
-            "words": 2033,
+            "words": 2119,
             "chars": 11585
         },
         {
             "name": "Part 469c - Unexpected Guests",
-            "words": 3023,
+            "words": 3144,
             "chars": 17158
         },
         {
             "name": "Part 470c",
-            "words": 4407,
+            "words": 4592,
             "chars": 24425
         },
         {
             "name": "Part 471c - Premonition",
-            "words": 6177,
+            "words": 6432,
             "chars": 34088
         },
         {
             "name": "Part 472c - Murderer",
-            "words": 3626,
+            "words": 3785,
             "chars": 20067
         },
         {
             "name": "Part 473c - The Turduckians",
-            "words": 3972,
+            "words": 4138,
             "chars": 21974
         },
         {
             "name": "Part 474c - Axis Mundi",
-            "words": 3196,
+            "words": 3321,
             "chars": 18255
         },
         {
             "name": "Part 475c - Portal",
-            "words": 3248,
+            "words": 3386,
             "chars": 18386
         },
         {
             "name": "Part 476c - Apocalypse",
-            "words": 3673,
+            "words": 3802,
             "chars": 20760
         },
         {
             "name": "Part 477c - The Floor Is Lava",
-            "words": 4212,
+            "words": 4357,
             "chars": 23747
         },
         {
             "name": "Part 478c - Consequences",
-            "words": 1782,
+            "words": 1872,
             "chars": 10056
         },
         {
             "name": "Part 479c - Bonds",
-            "words": 3209,
+            "words": 3308,
             "chars": 17923
         },
         {
             "name": "Part 480c - Dilation",
-            "words": 3489,
+            "words": 3665,
             "chars": 19565
         },
         {
             "name": "Part 481c - The Central Hub",
-            "words": 4669,
+            "words": 4835,
             "chars": 26251
         },
         {
             "name": "Part 482c - Paralysis",
-            "words": 3752,
+            "words": 3916,
             "chars": 21180
         },
         {
             "name": "Part 483c - Disorientation",
-            "words": 3251,
+            "words": 3381,
             "chars": 18232
         },
         {
             "name": "Part 484c - Deus Ex Machina",
-            "words": 4800,
+            "words": 5000,
             "chars": 27152
         },
         {
             "name": "Part 485c - One Little Mouse",
-            "words": 3802,
+            "words": 3927,
             "chars": 21581
         },
         {
             "name": "Part 486c - Cache, Money, Dough",
-            "words": 3812,
+            "words": 3982,
             "chars": 21693
         },
         {
             "name": "Part 487c - The Last Promise",
-            "words": 2327,
+            "words": 2416,
             "chars": 12886
         },
         {
             "name": "Part 488c - Abandoned",
-            "words": 3399,
+            "words": 3554,
             "chars": 18445
         },
         {
             "name": "Part 489c - Paradox",
-            "words": 4644,
+            "words": 4798,
             "chars": 26378
         },
         {
             "name": "Part 490c - Route C Finale",
-            "words": 4934,
+            "words": 5111,
             "chars": 27844
         }
     ]

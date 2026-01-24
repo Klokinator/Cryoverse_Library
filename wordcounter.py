@@ -82,17 +82,30 @@ def update_readme(path, wordcount_data, is_root=False):
     if is_root:
         new_section += "| Series | Total Words | Total Characters |\n"
         new_section += "| --- | --- | --- |\n"
-        for folder, data in wordcount_data.items():
+        for folder, data in sorted(wordcount_data.items()):
             folder_name = folder.replace("[", "\[").replace("]", "\]")
-            new_section += f"| <details><summary>{folder_name}</summary><ul>"
-            for part in data['parts']:
-                new_section += f"<li>{part['name']}: {part['words']:,} words</li>"
-            new_section += f"</ul></details> | {data['total_words']:,} | {data['total_chars']:,} |\n"
+            # Root: Only show folder totals
+            new_section += f"| {folder_name} | {data['total_words']:,} | {data['total_chars']:,} |\n"
     else:
-        new_section += "| Part Name | Word Count | Character Count |\n"
-        new_section += "| --- | --- | --- |\n"
-        for part in wordcount_data['parts']:
-            new_section += f"| {part['name']} | {part['words']:,} | {part['chars']:,} |\n"
+        parts = wordcount_data['parts']
+        if len(parts) <= 50:
+            new_section += "| Part Name | Word Count | Character Count |\n"
+            new_section += "| --- | --- | --- |\n"
+            for part in parts:
+                new_section += f"| {part['name']} | {part['words']:,} | {part['chars']:,} |\n"
+        else:
+            # Group into chunks of 50
+            for i in range(0, len(parts), 50):
+                chunk = parts[i:i+50]
+                start_part = i + 1
+                end_part = min(i + 50, len(parts))
+                new_section += f"<details><summary>Parts {start_part} - {end_part}</summary>\n\n"
+                new_section += "| Part Name | Word Count | Character Count |\n"
+                new_section += "| --- | --- | --- |\n"
+                for part in chunk:
+                    new_section += f"| {part['name']} | {part['words']:,} | {part['chars']:,} |\n"
+                new_section += "\n</details>\n\n"
+
         new_section += f"\n**Total Words:** {wordcount_data['total_words']:,}\n"
         new_section += f"**Total Characters:** {wordcount_data['total_chars']:,}\n"
 

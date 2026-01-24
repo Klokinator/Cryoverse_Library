@@ -1,490 +1,490 @@
 {
-    "total_words": 369041,
+    "total_words": 380187,
     "total_chars": 2183070,
     "parts": [
         {
             "name": "Part 000 Prologue - The Forgotten Juggernaut",
-            "words": 6919,
+            "words": 7035,
             "chars": 41872
         },
         {
             "name": "Part 001 Reviving Private Rodriguez",
-            "words": 4458,
+            "words": 4572,
             "chars": 27245
         },
         {
             "name": "Part 002 The Terrifying Terran",
-            "words": 4013,
+            "words": 4117,
             "chars": 23838
         },
         {
             "name": "Part 003 Super-Soldier Pets the Kitty",
-            "words": 2599,
+            "words": 2653,
             "chars": 15777
         },
         {
             "name": "Part 004 A Terran's Mercy",
-            "words": 5159,
+            "words": 5290,
             "chars": 30419
         },
         {
             "name": "Part 005 A Terran's Conviction",
-            "words": 3438,
+            "words": 3525,
             "chars": 20497
         },
         {
             "name": "Part 006 Crushing the Kraktol",
-            "words": 3567,
+            "words": 3691,
             "chars": 20439
         },
         {
             "name": "Part 007 Terran Adaptiveness",
-            "words": 2755,
+            "words": 2853,
             "chars": 16363
         },
         {
             "name": "Part 008 The Bloodbearer's Condition",
-            "words": 3184,
+            "words": 3266,
             "chars": 18975
         },
         {
             "name": "Part 009 Terran Power Levels",
-            "words": 3686,
+            "words": 3806,
             "chars": 21900
         },
         {
             "name": "Part 010 Megla's Honesty",
-            "words": 3223,
+            "words": 3334,
             "chars": 19323
         },
         {
             "name": "Part 011 My Vision is Augmented",
-            "words": 2759,
+            "words": 2829,
             "chars": 17005
         },
         {
             "name": "Part 012 Terran's Sorrow",
-            "words": 2030,
+            "words": 2090,
             "chars": 11696
         },
         {
             "name": "Part 013 Temporal Mechanics Lesson",
-            "words": 7588,
+            "words": 7749,
             "chars": 45053
         },
         {
             "name": "Part 014 The Bloodbearer's Food Crisis",
-            "words": 2314,
+            "words": 2394,
             "chars": 13673
         },
         {
             "name": "Part 015 What Killed Humanity",
-            "words": 3298,
+            "words": 3425,
             "chars": 19581
         },
         {
             "name": "Part 016 The Th\u00fclvik's Cunning",
-            "words": 9949,
+            "words": 10214,
             "chars": 59177
         },
         {
             "name": "Part 017 Terrans Love Kittens",
-            "words": 2917,
+            "words": 3030,
             "chars": 17121
         },
         {
             "name": "Part 018 Rapid Reconstruction",
-            "words": 3171,
+            "words": 3275,
             "chars": 18874
         },
         {
             "name": "Part 019 Holodeck Training",
-            "words": 4397,
+            "words": 4560,
             "chars": 25976
         },
         {
             "name": "Part 020 Jos\u00e9, the True Troll",
-            "words": 4991,
+            "words": 5153,
             "chars": 29122
         },
         {
             "name": "Part 021 Order to Chaos",
-            "words": 4377,
+            "words": 4516,
             "chars": 25934
         },
         {
             "name": "Part 022 Hidden Reserves",
-            "words": 2732,
+            "words": 2839,
             "chars": 16226
         },
         {
             "name": "Part 023 Knife in the Dark",
-            "words": 4205,
+            "words": 4369,
             "chars": 24617
         },
         {
             "name": "Part 024 Kessu Survivors",
-            "words": 3498,
+            "words": 3630,
             "chars": 20323
         },
         {
             "name": "Part 025 A Hero's Return",
-            "words": 4353,
+            "words": 4496,
             "chars": 25646
         },
         {
             "name": "Part 026 Titanfall",
-            "words": 3736,
+            "words": 3843,
             "chars": 22709
         },
         {
             "name": "Part 027 Flashpoint",
-            "words": 3404,
+            "words": 3511,
             "chars": 19766
         },
         {
             "name": "Part 028 Soren the Savior",
-            "words": 4494,
+            "words": 4615,
             "chars": 26657
         },
         {
             "name": "Part 029 Leader Lele",
-            "words": 3115,
+            "words": 3233,
             "chars": 18286
         },
         {
             "name": "Part 030 Battle in the Caves",
-            "words": 4375,
+            "words": 4521,
             "chars": 25665
         },
         {
             "name": "Part 031 Grief, Guilt, Loss",
-            "words": 4494,
+            "words": 4640,
             "chars": 27182
         },
         {
             "name": "Part 032 Reviving Private Rodriguez",
-            "words": 2735,
+            "words": 2832,
             "chars": 15685
         },
         {
             "name": "Part 033 Biases and Assumptions",
-            "words": 3593,
+            "words": 3744,
             "chars": 20907
         },
         {
             "name": "Part 034 Umi's Ultimatum",
-            "words": 3257,
+            "words": 3358,
             "chars": 19516
         },
         {
             "name": "Part 035 Shock and Denial",
-            "words": 2925,
+            "words": 3025,
             "chars": 17257
         },
         {
             "name": "Part 036 Anger and Bargaining",
-            "words": 3147,
+            "words": 3261,
             "chars": 18388
         },
         {
             "name": "Part 037 Depression and Acceptance",
-            "words": 3699,
+            "words": 3871,
             "chars": 21609
         },
         {
             "name": "Part 038 A Greater Conspiracy",
-            "words": 2720,
+            "words": 2792,
             "chars": 16470
         },
         {
             "name": "Part 039 My Admiral is Augmented",
-            "words": 3563,
+            "words": 3701,
             "chars": 21213
         },
         {
             "name": "Part 040 Meeting Roaring Dragon",
-            "words": 3112,
+            "words": 3203,
             "chars": 18093
         },
         {
             "name": "Part 041 Crouching Kessu, Hidden Kraktol",
-            "words": 5218,
+            "words": 5326,
             "chars": 30650
         },
         {
             "name": "Part 042 Kisa's Struggle",
-            "words": 4334,
+            "words": 4515,
             "chars": 24844
         },
         {
             "name": "Part 043 Monolith",
-            "words": 4351,
+            "words": 4424,
             "chars": 25866
         },
         {
             "name": "Part 044 A Terran's Empathy",
-            "words": 5793,
+            "words": 5997,
             "chars": 33324
         },
         {
             "name": "Part 045 The Next Step",
-            "words": 4101,
+            "words": 4221,
             "chars": 24249
         },
         {
             "name": "Part 046 Slipstream Supremacy",
-            "words": 3651,
+            "words": 3745,
             "chars": 22422
         },
         {
             "name": "Part 047 Assembling the Troops",
-            "words": 3890,
+            "words": 4003,
             "chars": 22468
         },
         {
             "name": "Part 048 The Kraktol Tournament",
-            "words": 3640,
+            "words": 3785,
             "chars": 21640
         },
         {
             "name": "Part 049 Ruuki Awakens",
-            "words": 4895,
+            "words": 5054,
             "chars": 28458
         },
         {
             "name": "Part 050 The Eradication and Extermination Mission",
-            "words": 4240,
+            "words": 4376,
             "chars": 24951
         },
         {
             "name": "Part 051 Engaging the Enemy",
-            "words": 3420,
+            "words": 3513,
             "chars": 20588
         },
         {
             "name": "Part 052 Jos\u00e9's Rampage",
-            "words": 3516,
+            "words": 3634,
             "chars": 21005
         },
         {
             "name": "Part 053 Lord Drall's Plot",
-            "words": 3574,
+            "words": 3662,
             "chars": 21305
         },
         {
             "name": "Part 054 Buzor's Ultimate Weapon",
-            "words": 3815,
+            "words": 3933,
             "chars": 22733
         },
         {
             "name": "Part 055 Warpgate's Secrets",
-            "words": 3395,
+            "words": 3499,
             "chars": 19590
         },
         {
             "name": "Part 056 Kessu Legacy",
-            "words": 3820,
+            "words": 3915,
             "chars": 22413
         },
         {
             "name": "Part 057 Lord Drall's Desperation",
-            "words": 3650,
+            "words": 3778,
             "chars": 20831
         },
         {
             "name": "Part 058 Clashing Kessu, Cornered Kraktol",
-            "words": 3368,
+            "words": 3486,
             "chars": 19785
         },
         {
             "name": "Part 059 A Bitter Departure",
-            "words": 3081,
+            "words": 3195,
             "chars": 17843
         },
         {
             "name": "Part 060 Half a Decade",
-            "words": 3137,
+            "words": 3231,
             "chars": 18293
         },
         {
             "name": "Part 061 Year One - Conflict",
-            "words": 3521,
+            "words": 3609,
             "chars": 20510
         },
         {
             "name": "Part 062 Year Two - Competition",
-            "words": 3346,
+            "words": 3454,
             "chars": 19462
         },
         {
             "name": "Part 063 Year Three - Preparations",
-            "words": 4049,
+            "words": 4187,
             "chars": 23677
         },
         {
             "name": "Part 064 Year Four - Training",
-            "words": 3708,
+            "words": 3837,
             "chars": 21808
         },
         {
             "name": "Part 065 Year Five - Arrival",
-            "words": 3826,
+            "words": 3977,
             "chars": 23276
         },
         {
             "name": "Part 066 New Pongi's Border",
-            "words": 3554,
+            "words": 3684,
             "chars": 21199
         },
         {
             "name": "Part 067 Terran Infiltrator",
-            "words": 3228,
+            "words": 3316,
             "chars": 19309
         },
         {
             "name": "Part 068 The Alfras's Greed",
-            "words": 3838,
+            "words": 3899,
             "chars": 22733
         },
         {
             "name": "Part 069 Invasion!",
-            "words": 4613,
+            "words": 4703,
             "chars": 26896
         },
         {
             "name": "Part 070 Departing Mallali Space",
-            "words": 3232,
+            "words": 3302,
             "chars": 18775
         },
         {
             "name": "Part 071 Year-Long Time Inversion",
-            "words": 3938,
+            "words": 4105,
             "chars": 23068
         },
         {
             "name": "Part 072 Veter's Invasion",
-            "words": 3384,
+            "words": 3440,
             "chars": 20431
         },
         {
             "name": "Part 073 Yama's Ploy",
-            "words": 3315,
+            "words": 3398,
             "chars": 20322
         },
         {
             "name": "Part 074 A Race Against Time",
-            "words": 3891,
+            "words": 4006,
             "chars": 23166
         },
         {
             "name": "Part 075 A Mother's Love",
-            "words": 3950,
+            "words": 4051,
             "chars": 22751
         },
         {
             "name": "Part 076 The Ancient Terror",
-            "words": 5305,
+            "words": 5418,
             "chars": 31462
         },
         {
             "name": "Part 077 Multiverse Bio-Fungal Plague",
-            "words": 4037,
+            "words": 4164,
             "chars": 24014
         },
         {
             "name": "Part 078 Attack on Bloodbearer",
-            "words": 3565,
+            "words": 3665,
             "chars": 21328
         },
         {
             "name": "Part 079 The Th\u00fclvik's Precautions",
-            "words": 3126,
+            "words": 3200,
             "chars": 18278
         },
         {
             "name": "Part 080 Tricky Terran Tactics",
-            "words": 3894,
+            "words": 4024,
             "chars": 23741
         },
         {
             "name": "Part 081 The Xanatos Gambit",
-            "words": 3525,
+            "words": 3625,
             "chars": 21341
         },
         {
             "name": "Part 082 A Well-Earned Victory",
-            "words": 3423,
+            "words": 3526,
             "chars": 20319
         },
         {
             "name": "Part 083 The Primordial Terror",
-            "words": 3324,
+            "words": 3393,
             "chars": 20382
         },
         {
             "name": "Part 084 I Am Become Death...",
-            "words": 3195,
+            "words": 3319,
             "chars": 19518
         },
         {
             "name": "Part 085 Heartbreak, Aftermath",
-            "words": 3430,
+            "words": 3522,
             "chars": 20412
         },
         {
             "name": "Part 086 Hollow Man",
-            "words": 3368,
+            "words": 3484,
             "chars": 19628
         },
         {
             "name": "Part 087 Interception",
-            "words": 3729,
+            "words": 3865,
             "chars": 22576
         },
         {
             "name": "Part 088 Humanity, Lost",
-            "words": 3543,
+            "words": 3648,
             "chars": 20985
         },
         {
             "name": "Part 089 ...The Destroyer of Worlds",
-            "words": 3545,
+            "words": 3626,
             "chars": 20804
         },
         {
             "name": "Part 090 Honoring the Fallen",
-            "words": 3158,
+            "words": 3288,
             "chars": 18206
         },
         {
             "name": "Part 091 The Galaxy's Final Stand",
-            "words": 4114,
+            "words": 4282,
             "chars": 23904
         },
         {
             "name": "Part 092 No More Suffering",
-            "words": 3922,
+            "words": 4087,
             "chars": 22426
         },
         {
             "name": "Part 093 MY DESIGNATION IS UMI",
-            "words": 3915,
+            "words": 3994,
             "chars": 23571
         },
         {
             "name": "Part 094 Goodbye, And Farewell",
-            "words": 3719,
+            "words": 3856,
             "chars": 21919
         },
         {
             "name": "Part 095 Shattered Reality",
-            "words": 4385,
+            "words": 4438,
             "chars": 25820
         },
         {
             "name": "Part 096 Entering the Unknown (SERIES FINALE!) [Q&A Post!]",
-            "words": 2588,
+            "words": 2642,
             "chars": 15720
         }
     ]
