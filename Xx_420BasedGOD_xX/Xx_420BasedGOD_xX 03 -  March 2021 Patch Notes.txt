@@ -1,0 +1,151 @@
+Heeeeey, guys! It's me, the Creator, your local developer, and all around fun guy... Xx_420BasedGOD_xX!
+
+Haha, wow... you guys have REALLY been having a good time, haven't you? I only [returned to development two cycles ago](https://www.reddit.com/r/HFY/comments/koc4f2/attention_human_playerbase_this_is_your_developer/), but already you Human players have done some crazy stuff! It's partly my fault, considering the [updates I put out in the last Earth region patch from February 2021](https://www.reddit.com/r/HFY/comments/la1qlt/attention_human_playerbase_this_is_your_developer/).
+
+So... how do I put this? You guys have broken the game. I buffed the non-Human players to give them a fighting chance against the current meta-defining build, but inadvertently, instead of causing Human players to suffer a bit and wane in number, I accidentally made the Human playbase ever stronger! I'm sure you silly little cunts know _exactly_ what you did, but for those of you playing Idle Builds or for you filthy Casuals out there, let me explain what some of my last patch updates entailed, and just how badly you guys messed up the balance.
+
+In the previous patch:
+
+- I gave the Dolphin playerbase two special Active Abilities. Namely, I gave them the power of long-distance flight, enabling them to leap skyward and hover downward for up to three miles. Additionally, I empowered them with the Sonic Blast ability, effective for blowing out the eardrums of Human players and stunning them. **What I did not realize is that Human players would use their overpowered Tame and Mount abilities to turn the Dolphin players into weapons of war. Numerous Human players have started soaring through the skies while riding Dolphin players like glorified Pegasi! Even worse, you've turned the Sonic Blast ability into a weapon for suppressing protestors! That's ridiculous, it was supposed to be a self-defense technique for Dolphin players, not for you to abuse against other low-tiered Human players!**
+
+- It turns out that giving Ladybug players the ability to explode with the force of dynamite once arriving within 1 meter of any Human player was also a bad move! **Using this unbelievably hyper-efficient infusion of explosive energy contained within such a small package, many Human players have started mass-smurfing Ladybug accounts to use as portable energy sources and excavation tools for burrowing into the Earth region's deepest layers! How was I supposed to know Ladybugs would open up a whole new energy industry for the Merchant and Oligarch classes?!**
+
+- I gave Crow players the ability to use Confusion Ray, but only on Human players. **Naturally, large Human guilds started recruiting and taming crows to use as convenient weapons of espionage and assassination! Gonna be honest, I should have seen that one coming. That one's on me.**
+
+And these are just a few of the outrageous ways you Humans completely subverted my code! I'm at my wits end here! I spent a lot of time working with my subcontractors, Jesus//WaterIntoWine//Christ, as well as Devilboi++SEXY++Satan. I've been working frantically for this entire patch cycle, and now **I have the results of my work for the March 2021 Patch**:
+
+- All buffs to Non-Human players due to the February 2021 patch have been reverted.
+
+- I have reduced the taming chance for Non-Human players by Human players significantly. Previously, this value ranged from 1% to 95%, with high values mainly belonging to the offspring of already-tamed Non-Human players. Now, the highest possible value is 20%.
+
+- I found an odd error in the code wherein, for the February patch only, Human players would have an increased copulation and pleasure rating increase. How strange... I most certainly didn't add that in intentionally! Anyway, fixed that pesky bug!
+
+- Several Microbe players complained about a few overpowered builds, specifically the Tardigrades. I am currently reworking their immunity to most damage types and will have more to say in a future patch.
+
+- Several human players offered 'constructive' criticisms regarding the guild leaders of their servers. Naturally, I have wiped the accounts of all who complained. Sorry, but the guild leaders are infallible and perfect in every way! Their primary task is to weaken the Human playerbase, and they are accomplishing that task quite well!
+
+I'd usually have more to add, but unfortunately, most of my time spent during this patch was downgrading the Earth region back to 20210200, so I'll get back to all the player guilds in my next patch.
+
+For now, I'll open up the floor to Human player Q&A's! Let's see what you whiney losers have to say! I'm sure by the end of this session, I'll be begging ol' Jesus//WaterIntoWine//Christ to make me a drink!
+
+...
+
+> u/EvidentlyEmpirical: Sounds like the lead dev has declared war on us...
+> 
+> ...break out the CRISPR. Some very specific species need genocided.
+
+Hah, that is adorable! Look at you, pretending like you weren't hurling bottles full of ladybugs at your guild houses to protest the patriarchy! Oh, sure, you're really under a 'big threat', smartass!
+
+...
+
+> u/Thaeli: It's better to use the CRISPR multiclass exploit, what with all these new playertype bonuses. The koala bonus stacks with human autophagy -- a critical garbage collection mechanic to keep player data structures from collapsing, but for some reason it's implemented as having entities slowly consume themselves over time.. look at ourobouros.c in the source leak, it's bizarre but it works I guess. Anyway, since human player entities are consuming themselves, adding Koala DNA to a human results in a passive exponential stat increase over time.
+
+...You must have been one of the people engineering the exploits of the non-Human player's new abilities. I've got all sixteen of my eyes on you, pal!
+
+...
+
+> u/humansarespooky: I found an immortality glitch, technically it doesn't allow you to play as a Human once you die, but after that you'll never die again. Go find a durable object like a shield, try to toss it between two walls and if it gets stuck right, it should start making a ridiculous amount of clanging and scraping noises despite being stuck, then walk right into it. The game will think the shield is bouncing at high speeds and instantly kill you, but with how damage carries into your next game, and they just added invincibility to counteract it, said invincibility will wait for the damage to end, but it's simply too high to reach zero, thus rendering you immortal. I've tested it on diseases too, and it works.
+
+Oh, for MY sake! It is always something with you humans! I'll have to fix this ridiculous exploit next patch!
+
+...
+
+> u/MrDraacon: I'm excited for the volgrim invasion event. I sure hope they give a lot of xp tho
+
+Rumor has it that the player u/Klokinator has accessed a whole cache of information regarding this upcoming event. Naturally, these are only baseless rumors and I do not advise anyone **[actually read the secret documents he's compiled](https://reddit.com/r/HFY/wiki/authors/klokinator)**! I mean, they aren't secret at all; they're fakes! But if you read them, I'll sue you! Because they're false!
+
+...!!
+
+...
+
+> u/Wirroth: Hmmm, i thought we were already making the game harder on ourselves with the addons Plastic_in_the_ocean 5.3.120, Nuclear.Meltdown_1 & 2 and the Richscrewthepoor_advanced package.
+
+Yes, but confound it all, those global events are hurting the aquatic playerbase more than you greedy little Humans! If more Human players would just die or slow down enough for the other players to catch up, I'd be plenty happy with what we've got!
+
+> u/Wirroth: Oh well, as long as he doesn't run WW.exe again we should be fine.
+
+Do not test me!
+
+...
+
+> u/Tim-JAC: Can you shed any light on conflicting descriptions of the world map. Seems like there's a significant amount of the playerbase have bugged out and there world maps don't have any curvature.
+
+That is indeed a bug. All global regions are supposed to be flat! Who's ever heard of a round region? Just absurd and ridiculous! You should start listening to those flat-earth players as they CLEARLY are sporting high intelligence ratings!
+
+_Heh heh, the more humans who believe in such an idiotic theory, the more likely they'll die off due to stupidi-_
+
+Sub-Developer Edit (Devilboi++SEXY++Satan): Head Dev, you're typing your genocidal thoughts into the patch notes again.
+
+Main-Developer Edit (Xx_420BasedGOD_xX): Shit!
+
+...
+
+> u/Invisifly2: So I've already broken this patch to a truely borked degree and I haven't even begun! You know the old saying "patch one bug and 10 more pop up?" Well implement 1 shoddy feature in an emotional bout of spiteful impotence to punish players for not playing the game the way you want, create dozens of unintended exploits! This MF rushed through over 110 thousand tweaks! I'll honestly be surprised if 420 doesn't get booted from developing at this rate!
+> 
+> Here are a few, but not nearly all, of the exploits I've been abusing.
+> 
+> sheep supercomputer : Feed a bunch of lizard men slaves (any rival players, really) to some friendly sheep players and you get a powerful super intelligence on your side pretty easy. If you can capture an enemy super sheep they can cannabalise eachother. Ironically this has only strengthed human-sheep alliances as the INT gain from nomming humans quickly hits diminishing returns and the only real way to go higher is to nom other sheep. This means sheep can't trust eachother and need to work with other players (usually humans) to keep safe.
+> 
+> Sheep lag machine : running a virtual super computer on your server is a good way to crash it. Running dozens is a good way to get a solid 60spf (seconds per frame).
+> 
+> Lady bug bomb : chuck a box of ladybugs at a rival human base and watch your tactical nuke equivalent wipe their stronghold off the map!
+> 
+> Lady bug immortality : So anything a LBB kills becomes immortal on the next playthrough for the same reason u/humansarespooky
+>  
+> [+2] can obtain it via the shield glitch. The damage is just so high it breaks the carry over system! This includes the ladybugs in the bomb, btw! Get a couple thousand loyal ladybugs to nuke themselves and they can respawn as immortal humans!
+> 
+> Note - This glitch doesn't work with traditional uber-damage things like actual nukes, meteors, etc... because the DMG values and death triggers for those are scripted instead of calculated.
+> 
+> Perma Rage : If a koala player dies while in their beserk state their next character will be permanently in the beserk state as well.
+> 
+> Crow Clarity : The game has always had problems with stacking buffs and debuffs. If an entire murder of crows uses confusion ray on a single player , it'll trigger an integer overflow and create hyper-clarity instead.
+> 
+> Oh, and I also figured out how to abuse certain other things in this patch to essentially wall hack and noclip into the ground, allowing baby-easy farming of rare resources, like all those metal rocks he doesn't want us touching. I'm not detailing that exploit because I fully intend to break the server with it. Well more than the sheep already are, anyway. I will give a hint though. It involves 3 dozen obscure interactions between some of the new stuff you added and some of the old spaghetti code left over from the beta. Good luck figuring it out!
+> 
+> Before you ban this account 420 (because you're petty like that), this isn't the one I use to play anyway. I'm on a VPN, said VPN is behind 7 proxies, and I'm not even connected my my usual network right now anyway! You can't do shit to me!
+
+Yeah, now I see who the real mastermind of the last patch's exploit detection was! Consider your account banned, blasphemer!
+
+...
+
+> /u/runaway90909: I’d like to say to all the human mains out there that I totally do not have a pre-nerf private server and also absolutely don’t give out invites.
+
+Hey! That's outside the terms and conditions! You absolutely are not allowed to evade IP detection like that! I'm pretty sure you just broke Outside's intellectual property!!
+
+...
+
+> u/Potatoboiv2: Yo, crow player here, some dipshit human has me locked up in a lab and is making crow human hybrids. Would be nice if you could do something, they seem to have inherented the crow buff. Edit: just checked the class selector on my second interdimmy quantum computing 10773 master edition with a built in computing civilization (I know, just that rich), but it looks like those crow people have been added as a new class, don't know how, might try them out, seem cool.
+
+Oh, shit. I overlooked this. Welp... guess I'll just ignore that one and let it slide. New builds are fun! If I'd caught it before pushing out this March patch I'd have removed it, but, well, I didn't! So, too bad.
+
+...
+
+> u/StarKnight697: Hey, are there any updates on the transhumanism DLC? I remember seeing that in the roadmap for players who complete the 2020 Special Year End Event Challenge, but there's been no news. I've sunk a lot of time into this game, and it'd be a little disappointing to not receive the expansion I ordered. :/
+> 
+> Other than that, loved the US-Iran inter-server conflict. Will there be more events like that? In other news, I've been experiencing a bug with the randomized wealth distribution system. Seems like all the wealth is concentrating in the hands of a couple hackers, and not actually making its way to us.
+
+Question 1: Maybe! The problem of course being that you humans are already evolving too fast! If anything, you need to slow down and let the damn lizardmen reveal themselves properly! What's the point of my scripting all these cool world events if the Human players are all overleveled?!
+
+Question 2: All I can say is that the camouflaged Lizardmen players are doing their work well! Hehehe...
+
+...
+
+> u/MazKas: Hey dev, I’m a bit worried about nuclear weapons. Bit OP, right, considering they could obliterate the entire player base in just a few seconds. Please nerf.
+
+Please note that I do not wish for the entire Human playerbase to die out. It is against My developer wishes for any player-type or build to disappear, as they are all a part of my Grand Design global event. If any guild leaders forget who the Big Boss is (that's me!) I shall activate the Divine Intervention special event, undoing their stupid mistakes.
+
+Well, at least until you guys research Living Moldanium bunkers. Then you can start firing nukes off willy-nilly.
+
+...Anyway, I think this was a productive Q&A segment! While this Patch Cycle was minimalist and mostly focused on bugfixing, I hope you players will not forget My Grand Design! I will return with more changes and improvements to the VRMMORPG, Outside, in the near future!
+
+Peace out, non-Human players! Human players though... you guys need to chill.
+
+...
+
+...
+
+Sub-Developer Edit (Jesus//WaterIntoWine//Christ): Yooooo!! Wassup, guys? Sup, sup? Just hangin' out with my bros, NotGayPeter and StabbyStabbin'Judas, haha. We were talkin' about some of the older Outside builds, particularly around the 30 BCE Patches. Craaaazy times, right? Haha.
+
+Aaaaaaanyway, I'm feelin' kinda hammered, but me and Devilboi++SEXY++Satan were like, you know, talkin' about how to prank the main dev... and he had this craaaaazy idea, right? What if we made all of the female players start farting uncontrollably every twenty minutes for this entire patch cycle? We'll call it the Flatulence Patchulence! Pretty funny right? This ain't just for Human players either, but ALL the ladies. I'm all about equality like that!
+
+Haha, so yeah maaaaan, I'm thinkin' it'll all go ever pretty well. You guys have fun now, and make sure to sleep with the windows open! Pahahaha!

@@ -1,0 +1,264 @@
+Part 686: Maximizing Gains
+Part 686: Maximizing Gains
+
+_Far-Future Era. Day 20, AJR. Chrona._
+
+Timothy worked hard. He grinded out 100 pushups in one sitting, which took him around thirty minutes. After resting for five minutes, he switched to crunches. Those only took him fifteen minutes. Then, he switched to situps, which were effectively much more tiring forms of crunches.
+
+He finally hit a wall. It took him nearly forty-five minutes to finish, and he was so exhausted he needed a serious break. Luckily, the food the nurse had brought him was sitting on a table, cold but edible. Timothy grabbed the massive plate of meat and veggies, wolfing around a third of it down before he felt stuffed. He burped, then frowned. He had seriously underestimated just how much food the System required him to devour.
+
+By this point, he had spent two entire hours exercising and eating, and the food wasn't even close to finished.
+
+Timothy sat on the floor and laid back against the wall. He became contemplative.
+
+"This exercising quest is troublesome. I can repeat it daily, and it will give me great gains. But it requires a lot of time. Time is a precious resource. Is exercising truly the best way to spend such a limited resource?"
+
+Timothy opened up his Quests. He looked at his three repeatable quests specifically.
+
+---
+
+[Side Quest] [Repeatable] Training With Ferral.
+
+_You and Ferral are both Newbies, but Ferral is a stronger Sentient than you. Train your combat skills with him to increase your capabilities._
+
+Rewards: [3 EXP], 3x Lootbox Tier 1.
+
+[Side Quest] [Repeatable] Swimming with Marigold
+
+_It's a date, but it's also training! Go swimming with Marigold, and try to improve your relationship with her while getting in a good workout. Swim for at least one hour, with rewards doubled if you swim for two hours. Rewards can be earned from this quest once per day. If Marigold's affection for you increases past a certain point, other bonuses can be unlocked. (Note: Informing Marigold of this clause in any way will nullify those bonuses.)_
+
+Rewards: [1 EXP Per 5 Minutes spent Swimming], [Stamina Improved 5%]
+
+[Side Quest] [Repeatable] Train Your Body!
+
+_Small gains compound over time. Perform a series of exercises, with increasing rewards depending on how many repetitions you can complete. To complete this Quest properly, you must complete each type of exercise in one session each. You may not space them out across the day, or across multiple days._
+
+[Complete Pushups: 100/100.] Rewards: 1x Tier 1 Lootbox.
+
+[Complete Pullups: 0/100.] Rewards: 1x EXP per 3 Pullups. 100th Pullup grants 5 EXP.
+
+[Complete Situps: 100/100.] Rewards: +2.5% END, +2.5% CON.
+
+[Complete Squats: 100/100.] Rewards: 1x Mundane Skill Lootbox.
+
+[Complete A Nonstop Jog: 0/10 Km.] Rewards: +5% maximum movement speed.
+
+[Eat Cooked Meat: 0.6/1.5 Kilograms.] Rewards: +2.5% Gut Digestion.
+
+[Eat Vegetables: 0.4/1.5 Kilograms.] Rewards: +2.5% Eyesight Improvement.
+
+_Note: If the Player completes all Quest objectives within 24 hours, all rewards will be doubled. This Quest may be completed once per 24 hour period._
+
+---
+
+As Timothy examined these quests, he thought carefully about time management.
+
+"I am probably able to stay awake for maybe 14 or 16 hours a day at maximum. Fewer if I'm exhausted and require sleep. Looking at the Body Training quest, I've already spent two hours on it, and I must have at least another hour or two to go. That's around 20-30% of an entire day spent training. The good news is, most of these rewards are compounding. The Mundane Skill Lootbox is something I'd rather skip, but then I lose out on doubling all the other rewards."
+
+"Training with Ferral is practically useless in terms of EXP, but it gives me lots of Tier 1 Lootboxes, and it doesn't take much time. Training with him for thirty minutes is enough to meet the quest's requirements."
+
+"Training with Marigold is troublesome. It always requires two full hours to double the rewards, but it offers decent EXP and most importantly, a compounding Stamina gain that will benefit me greatly."
+
+"If I seek to complete all three of these quests every day, I will likely need at least... five hours. Perhaps six."
+
+Timothy's expression shifted. He looked off to the side while his brain spun into action.
+
+"No. That isn't correct. The reason my exercise regimen takes so much time is because I'm out of shape. The more in-shape I become, the faster I can complete it. Since the gains are compounding, there may come a day when I could complete the entire regimen in less than an hour, or perhaps even less than 30 minutes. And don't forget that it also improves my gut digestion, which will let me consume nutrients more quickly."
+
+Timothy analyzed the costs and benefits with almost robotic precision. There was no emotion in his words. Only cold, hard logic.
+
+"The EXP I gain with Marigold is only relevant at these low levels. It doesn't scale at all. The 10% Stamina gain is the real prize... but is it worth spending two hours every day to achieve? I think after three or four more sessions, and another level up or two, I should not bother with that quest anymore. I'm sure Marigold won't mind."
+
+The emotional impact of abandoning their dates after only a few instances didn't matter to Timothy at all. He disregarded her opinion on the matter entirely to focus on his own self-gains.
+
+Timothy's expression suddenly turned ugly.
+
+"Damn! If I had chosen those running shoes, I could have increased my run speed and cut down on the time needed to complete the 10km jog! I'll definitely have to prioritize a similar item in the future."
+
+His flicker of irritation vanished. He had overlooked a key detail, but he would work not to make such a similar mistake in the future. He was a logical thinker now, not an emotional child who blundered along like a fool. That other embarrassing side of himself felt like ancient history. He had zero intention of undoing the Mind of Logic once the 24 hours were up. He intended to remain in this state of mind _permanently_.
+
+Timothy stood up. He had rested enough. He still needed to finish eating the required amount of food, and finish his pullups, and finish a ten kilometer jog.
+
+It was time to leave his hospital room.
+
+He stepped out, then grabbed the crocodile nurse from before, informing her he was going out to exercise. He would return later, finish his food, then be done with the hospital room. Since everyone knew who Timothy was, she instead offered to send his food over to his house so he could go there instead. He agreed.
+
+As soon as Timothy exited the hospital, he paused to activate his Map. He scrutinized Chrona's city structure.
+
+"I still need to do pullups. I haven't trained with Ferral today, either. Maybe I can save some time by combining different training quests? 'Training with Ferral' is rather vague. Perhaps doing pullups with him would count? It's a shame swimming isn't on here, or I could double-dip with Marigold's training..."
+
+Hardly had the thought occurred to Timothy when a new component was added to his exercising quest.
+
+[Swim Session: 0/10 Km.] Rewards: +2.5% swimming speed.
+
+Timothy grimaced. He had already completed his quest with Marigold today, so he wasn't actually going to be able to double-dip like he had planned. Now he had another requirement added onto his physical training quest he had to complete before he could get doubled rewards!
+
+"Oh well. I can get a 5% swimming speed increase, which also compounds like my other gains."
+
+Timothy groaned, but got over himself. He looked at Chrona's map. In the center of the city was the Spynet Sphere. It was the most important part of Chrona, and the entire reason Jason had built the place. A block east was Jason's warehouse, which until recently had been abandoned. Timothy's house was two blocks north of the Spynet, with a restaurant in between. The hospital he had been taken to was several blocks west, and the swimming hole was way up north.
+
+Down south was where the Psions had been placed. There weren't many of them, and they couldn't reproduce. Thus, their living was fixed, and they didn't complain anyway. Psions lived plain lives, enjoying little in the way of furnishings or adornments in their rooms.
+
+The Crocodiles overwhelmingly lived to the west, north, and east, several blocks from the Spynet Sphere. They were reproducing quickly, and thus their housing had to constantly be upgraded, raised, and evolved. In the past, the tallest building in Chrona had been the first hospital, but in recent years it had been dwarfed by giant ten-story residential apartments. Dense housing was essential in an isolated bubble-realm with such little living space.
+
+Trees had been planted around the edges of Chrona, creating a 'forest border' of sorts. These trees provided oxygen, but had to be manually watered, and the solar energy given to them came from Jason's Star-Net, which Fiona had repurposed into energy that powered all of Chrona's essential functions.
+
+The problem was, Jason was always the one who had to open up new links to stars in the outer galaxy. With him gone, and with the time acceleration slowly lowering the amount of power Chrona could drain from stars in realspace, they were sure to face a serious energy crisis in the future. That was, of course, dependent on whether or not Fiona solved the crisis before it happened.
+
+Timothy routed himself to go east, then south, then west, then north. He would conclude his journey at the swimming hole, but would loop around a few times before stopping to see Ferral in the southern Psion district. There, he would hit his tenth kilometer for the run, finish with pullups and training with Ferral, the complete his last remaining task by doing laps at the swimming hole.
+
+As Timothy started to jog, he maintained an expressionless face. He found neither joy nor misery in running. With his emotions locked down, he only did what had to be logically done to accelerate his progress.
+
+He jogged past the Spynet. If his mother was inside, she didn't seem to notice him. He made his way northeast, then looped back down to the southeast before cutting down and around to the south.
+
+_I was able to obtain certain rewards by fraternizing with Marigold._ Timothy thought idly. _I will lose those benefits if the relationship 'ends badly.' But that implies if the relationship never ends, or if it ends on a good note, I can keep them forever. What if I were to find a second partner to hold a relationship with? As long as Marigold never finds out, would I be able to double or triple-dip, obtaining even greater benefits?_
+
+A quest didn't pop up, but Timothy believed if he held serious intent to go down this path, a quest would definitely form.
+
+_It would be too troublesome._ Timothy thought. _Maintaining one relationship is a time-sink already. I would rather find more useful and repeatable ways to empower myself. There must be other forms of daily quests I can complete._
+
+Ah hour passed. Timothy jogged around Chrona, eventually coming to a stop outside of the Psion habitat. A thought occurred to him as he recalled a recent conversation with Ferral. Timothy opened up his Options menu, and scrolled down to the Party settings. He suddenly realized he had not looked deeply enough into the Options menu, due to its massive list of toggleable and adjustable settings. The old him had been too overwhelmed to bother, but for the _new_ him...
+
+"See party member statuses. Check."
+
+Timothy looked to the top left of his vision. A portrait of Ferral had appeared, with his HP and Psion Points listed beside it.
+
+Timothy went back into the Options.
+
+"Party member activity. Check."
+
+Nothing seemed to happen. Timothy checked around further in the settings.
+
+"Enable activity log. Ah, here it is. Check."
+
+After enabling it, a new tab appeared on his side menu. Timothy clicked it and found a whole log of his quests actions, recent accomplishments, and other such things. Not just his, but Ferral's too! The log descended from most recent activity to the least recent...
+
+---
+
+**Ferral** Completed Quest: Ring Out!
+
+**Timothy** Reached Level 1!
+
+**Timothy** Completed Quest: Swimming with Marigold.
+
+**Ferral** Completed Quest: Tangle with Tarim.
+
+**Ferral** Reached Level 2!
+
+**Ferral** Completed Quest: Training with Timothy.
+
+**Timothy** Completed Quest: Training with Ferral.
+
+**Ferral** Completed Quest: Sense 1000 Lifeforms.
+
+**Ferral** Completed Quest: Meditation At 1 Kilometer
+
+**Timothy** Completed Quest: Training with Ferral.
+
+**Ferral** Reached Level 1!
+
+**Ferral** Completed Quest: Training with Timothy
+
+**Timothy** Completed Quest: Training with Ferral.
+
+**Ferral** Completed Quest: Levitate 1000 Small Objects.
+
+---
+
+Timothy stared at the quest log. If he hadn't been in the Mind of Logic, he would have definitely gasped or felt extreme shock. How was Ferral outpacing him when it came to leveling up, especially when he had a massive EXP penalty? Timothy had just reached Level 1, but Ferral was already at Level 2! And he was way ahead of Timothy, as well!
+
+But Timothy wasn't shocked or alarmed. It made sense. He had been rather lazy and lackadaisical about his growth before activating the Mind of Logic. Ferral, as a logical-minded creature from birth, was also thousands of years old. He had more brainpower to spare on how to best optimize his System growth.
+
+"My friend's growth is my growth." Timothy said out loud. "I am glad for him. He works harder than me, so he should reap the rewards."
+
+Timothy couldn't see what the Quest descriptions were or what the rewards gave, but he could glean a little insight based on their names. Tarim was one of the other Psions. Perhaps Ferral had a rivalry going on with Tarim, or they were doing dual-training, just like how Timothy was training with Ferral and Marigold.
+
+Timothy closed the log. He stepped into the Psion Enclave, where he heard the loud sounds of psionic blasts striking each other. It seemed a battle was happening; standard practice for Chrona's Psions.
+
+When he entered the training room, a heavily reinforced underground bunker with high-level Wordsmithium walls, ceiling, and floors, he felt the shockwaves of two powerful Psions blasting each other.
+
+Timothy stopped as he entered the training area. In the center of the room, the 2nd Level Psion, Dunal, was violently battling against Ferral.
+
+Dunal had chosen to focus on Primal Psionics. He was considered the most powerful of the Psion trainees, mainly because the others were not as combat focused as him. His pure blue skin stood out against Ferral's red-and-blue camouflage-patterned skin.
+
+Ferral was a grab bag of a Psion. He had always had trouble battling against any of the other Psions, because all of them had chosen to specialize and focus on specific disciplines, while Ferral quickly grew bored and wanted to try out a variety of Paths.
+
+This had always been his undoing, but it seemed that was no longer the case. Now, he wielded Primal Psionics at a similar level to his opponent.
+
+Focused psionic blasts impacted Dunal's psionic barrier. He body shook, but he held firm. He rushed around the ring, swooping like a hawk as he fired back at Ferral, who likewise dipped and flipped, evading Dunal's counter-attacks.
+
+Timothy stared, feeling slightly awed. He had seen Ferral fight before, but never like this. The so-called 'weakest psion' had grown his power by leaps and bounds. His fighting style was more clean and focused. He was improving at an alarming rate.
+
+Unfortunately, Ferral slipped up and failed to dodge one of Dunal's attacks. A psionic whip struck his left shoulder, causing his heart to momentarily seize up. That moment of weakness allowed Dunal to swoop over and deliver a downward punch at the back of Ferral's head. He pounded Ferral into the floor and nearly knocked him unconscious.
+
+[Match point. Dunal has won.] Aspirator Raavul, the sole 3rd Level Psion and teacher of their Enclave, said. [Though Ferral has lost, I am not so certain he will lose next time. Dunal! You fought well, but your training speed and efficiency has fallen far below Ferral's. I expect you to perform even better in your next sanctioned match.]
+
+[Yes, Aspirator.] Dunal said, dropping to one knee in the center of the ring and bowing his head toward her. [I contemplate, and I comprehend.]
+
+Ferral groaned. He picked himself up, then dusted his body off. When Timothy checked Ferral's status in the party window, it showed he had only lost three or four percent of his HP. However, these battles were not being fought to the death. They were fought with the goal of scoring crucial hits and earning points. A loss was a loss, and Ferral had failed to overcome his enemy.
+
+[Well fought.] Ferral said, standing up. He bowed respectfully toward Dunal. [My training has not been harsh enough. Next time we duel, I will win.]
+
+[We shall see if that is the case when the time comes.] Dunal said, clapping his fist into his palm as a respectful salute.
+
+After the two split up, Ferral noticed Timothy and flew over to meet him.
+
+[Timothy. I am ashamed you had to witness such a pitiful defeat.]
+
+"Everyone has an off day." Timothy said mildly. "I finally remembered to enable the Party Activity Log. I had not realized you were already at Level Two. Your pace is impressive."
+
+[I prioritize quests that grant experience.] Ferral replied. He cracked his neck, which had been lightly jolted by the impact against the Wordsmithium floor. [Thus, my quests tend not to grant skills or items. I am focused on growing my personal strength as high as possible.]
+
+Timothy pondered Ferral's words. He had been doing things rather haphazardly, accepting any old Quest the System threw his way, doing them, and using up the rewards. Maybe training with Ferral to obtain some crappy Lootboxes wasn't the best use of his time.
+
+Suddenly, an idea sparked in Timothy's mind. He smiled at Ferral.
+
+"Brother Ferral, if I may make a suggestion? Why don't you and I travel to the swimming hole and engage in some bodily training? Let's see who can swim ten kilometers first? That will replace our usual training here. But _no_ psionics. This will be purely to enhance our body's strengths."
+
+Ferral contemplated Timothy's suggestion. [This suggestion is agreeable to me. But why do I suspect that you have an ulterior motive?]
+
+The moment Ferral agreed, their shared training quest changed.
+
+---
+
+[Side Quest] [Repeatable] Training With Ferral.
+
+_An adjusted form of the previous Training Quest. Swim 10 kilometers alongside Ferral. If you succeed in achieving the 10 kilometer objective before him, your rewards will be doubled. If you swim all 10 kilometers before he has made it to 5 kilometers, your rewards will be tripled._
+
+[Swim Session: 0/10 Km.] Rewards: [5 EXP per kilometer swam], 1x Talent Points.
+
+---
+
+Timothy's smile became slightly more pronounced. As expected, Quests were not static and could change based on a variety of factors. Just like how he had added new requirements and rewards to his daily training quest, he could do so with Ferral's training quest.
+
+The young human looked at Ferral. "Hey, you know what? Let's add one more thing. Let's also compete to see who can reach 100 pullups first."
+
+Ferral cocked his head. [The purpose being?]
+
+"Trust me. Just agree to it. I'll explain later."
+
+Ferral nodded. [Then this additional body training is acceptable. I must become stronger, faster.]
+
+Just like that, the quest changed again.
+
+---
+
+[Side Quest] [Repeatable] Training With Ferral.
+
+_An adjusted form of the previous Training Quest. Swim 10 kilometers alongside Ferral. If you succeed in achieving the 10 kilometer objective before him, your rewards will be doubled. If you swim all 10 kilometers before he has made it to 5 kilometers, your rewards will be tripled. Additionally, you have agreed to also compete in pullups. The King Network knows what you are doing._
+
+[Swim Session: 0/10 Km] Rewards: [5 EXP per kilometer swam], 1x Talent Points.
+
+[Complete Pullups: 0/100] Rewards: 1x EXP per 3 Pullups. 100th Pullup grants 5 EXP.
+
+---
+
+Timothy wanted to crow like a bird. He actually felt real, tangible excitement at the realization he'd figured out a cool way to exploit the System.
+
+Timothy clapped Ferral on the back. "Good. Let's get going, then."
+
+As they started to walk out of the Enclave, Ferral turned to him and frowned.
+
+[You are acting very different from usual. You remind me of a Psion.]
+
+"Really? I'll take that compliment." Timothy answered. "But in truth, I activated a skill which allowed me to alter my mental state, and this was the result..."

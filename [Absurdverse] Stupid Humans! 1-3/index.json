@@ -1,0 +1,21 @@
+{
+    "total_words": 4939,
+    "total_chars": 29022,
+    "parts": [
+        {
+            "name": "Part 01 - Stupid Humans!",
+            "words": 949,
+            "chars": 5169
+        },
+        {
+            "name": "Part 02 - Stupid Humans! What Easy Prey!",
+            "words": 2950,
+            "chars": 17849
+        },
+        {
+            "name": "Part 03 - REALLY Stupid Humans!",
+            "words": 1040,
+            "chars": 6004
+        }
+    ]
+}

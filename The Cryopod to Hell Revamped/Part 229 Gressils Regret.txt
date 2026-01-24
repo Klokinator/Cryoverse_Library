@@ -1,0 +1,334 @@
+Part 229: Gressil's Regret
+Part 229: Gressil's Regret
+
+The sun rises on Tarus II, spreading its warmth across the planet's surface. As the start of a mild, mid-summer's day, most people might feel obligated to pause and take a deep breath, inhaling nature's scent. Compared to the world humanity once originated on, Earth, Tarus II possesses a universally mild climate, aside from its north and south poles.
+
+However, as Daisy and Phoebe enter Hero City's singular hospital, their hurried movements betray their lack of interest in the beauty of the environment surrounding them.
+
+Inside, dozens upon dozens of humans and monsters sit on benches or chairs while clutching the gruesome wounds inflicted upon them. Their broken T-REX's sit in collection bins placed at random along the walls, useless after suffering catastrophic damage from the Grez and monster attacks.
+
+Having visited the hospital hundreds of times over the years, Daisy doesn't even bat an eye at the bloodied and beaten soldiers limping around the hallway. Already, the child has grown used to the horrors of war.
+
+Phoebe trots over to the receptionist desk, where Grima, the well-spoken goblin, shuffles dozens of patient reports together, categorizing them into different color levels. Red patients require immediate care, while yellow and green will probably survive without Belial's intervention, even if only for a few hours.
+
+"Grima. Do you know where Samantha is? Have you seen her recently?"
+
+Phoebe keeps her voice calm while glancing around at the injured soldiers. Her gaze flicks to two kobolds and a harpie assisting Grima behind the reception desk, though the Harpie is not Doctor Fathy, but someone else entirely.
+
+Grima barely looks at Phoebe before returning to her papers. "Miss Hiro. Now is not the best time. We've over 600 wounded, with 137 in critical condition. The Second Emperor is sure to run her mana dry just taking care of this first wave."
+
+As always, Grima's excellent linguistic skills stand apart from other goblins, making his words simple to parse, while his deep voice commands a certain level of innate respect among those listening. Phoebe nods in response.
+
+"I know, but I have to see her before I head to the Core. Please, if you know where she is-"
+
+"Room 73," Grima says, interrupting the hero's wife. "Please be quick with your visit. Ten people have already died while waiting for care."
+
+Grima raises his head again, revealing deep, dark circles beneath his eyes. "One of them was my closest friend."
+
+Phoebe flinches, taken aback by Grima's suppressed emotions. "I... I understand. I won't need more than a minute. Thank you, Grima. And... I'm sorry for your loss."
+
+"I will not be the only one who suffers today," Grima mutters. He continues shuffling his papers, before yelling out, "Adrian Hunts! Next!"
+
+Phoebe bows away from the reception desk and hurries down the hall to the left, dragging Daisy along behind her. Eventually, she reaches a long line of people, all of them laying in gurneys while moaning in pain.
+
+"Mother... hngh, mother... help me..." One man whimpers. A huge stab wound through his ribs reveals where a Grez impaled him, while he managed to survive, but with a heavy injury.
+
+Daisy looks at each person as they walk. Despite the calm expression on her face, the young girl clenches her mother's hand tighter. "Mommy... is everyone going to be okay?"
+
+"Of course, sweetheart," Phoebe lies through her teeth. "Aunt Samantha can heal any injury, don't you worry."
+
+Daisy grimaces when she spots a man with a face covered in blood. Both of his eye sockets appear gouged out by some horrific attack, causing him to fall into a coma from the injury.
+
+Neither Phoebe nor Daisy voice their concerns. _Samantha can't heal injuries to the brain. Only a Wordsmith can, and only if he possesses Solomon's Crown._
+
+Sadly, the comatose man may never awaken from his sleep.
+
+...
+
+Phoebe arrives at the doorway to room 73. Inside, she spots Belial, the 2nd Emperor of Demonkind, covered in sweat. Belial's chest heaves with great difficulty as she casts a healing spell, revitalizing her current patient with all of her power. However, unlike during normal times, when Belial might heal even the deepest wound within seconds, it takes her nearly a minute to fix the man's broken ribs, then his lung, before moving onto his shattered leg and knee. Eventually she finishes, but doesn't bother with several dozen other superficial scratches and gouge marks covering his skin.
+
+"Th-there. You're fit for duty, Private Reynolds. Next."
+
+The young man nods at Belial, even while trying to hide his pained expression. He tries to lift himself off the bed, but his remaining injuries clearly slow him down.
+
+However, not once does the man complain. Clearly thankful for having his life saved, he staggers out of the room while looking like a ghost, barely acknowledging Phoebe's presence.
+
+The hero's wife watches the man as he limps down the corridor. She grabs the stretcher nearest the door and wheels it inside to help Belial's assistant, Rosalia. Rosalia notices Phoebe, but her thousand-yard stare reveals her preoccupation with other matters. 
+
+"Oh, it's you."
+
+"Yes," Phoebe confirms. She helps Rosalia lift the injured soldier onto the blood-soaked bed next to Belial, not even bothering with swapping out its sheets. Presumably, once the Wordsmiths return, they'll be able to cure any bloodborne diseases, or Belial can do it after the war.
+
+_But that's only assuming we survive,_ Phoebe thinks, grimly.
+
+"Sam," Phoebe says, getting Belial's attention. "I've brought Daisy. They need me at the Core."
+
+Belial finally notices Phoebe, even though it takes her a second to register the human's words. "Huh? Oh, right. I wish I could go with you, but as you can see..."
+
+Belial trails off. She quickly weaves another healing spell, then grits her teeth as she activates its effects. She manages to heal the man's broken shoulder and regrow his missing ear, but it takes slightly longer than the previous patient.
+
+"That's fine. Daisy's can help you while I fight. Isn't that right, sweetheart? Help aunt Sammy with anything she needs. Fetch tools for her, anything you can to help. If she doesn't need anything, then sit quietly and don't get in the way."
+
+Phoebe directs her words toward her daughter. However, to her surprise, Rosalia pipes up. "We don't have time to babysit, _hero's wife._ Can't you see all the injured men and women outside? Take your daughter to the shelter with all the other kids."
+
+"Rosalia!" Belial snaps, her irritability rising through the roof. "Shut your mouth! I already arranged to protect Daisy. She's not like the other kids. Ose is likely to target the Hero's daughter, so it's best if she's near me for protection."
+
+"We have two thousand heavily armed guards at the children's shelter," Rosalia counters. "I don't want some little brat getting in our way! Put your personal feelings aside and-"
+
+"Not another word," Belial interrupts, her voice deadly calm. "Don't presume upon your position, little _grunt._ I am still the Second Emperor. Know your place."
+
+Rosalia's eyes lock onto Belial's. "Y-yes. Of course. My apologies, Second Emperor."
+
+A chill descends upon the room. Phoebe keeps her expression neutral, but inside, her emotions turn chaotic.
+
+_I've never seen Sam so... so angry. I didn't know she had a side like this._
+
+Daisy bows her head. "I'm sorry. I'll stay out of the way, aunt S'matha. The fat lady is right."
+
+"Daisy..." Phoebe growls. She starts to chide her daughter's rudeness, only to sigh. "...I don't have time for this. Sit over there, in the corner. If you need to go to the bathroom, come back immediately. Don't go far, alright?"
+
+Belial helps her second patient out of the bed while ignoring another half-dozen cuts and gashes on his arms. "My senses are far sharper than you might think, Phoebe. Don't worry. If anyone leaks even an ounce of bloodlust for your little girl, I'll rip them a new... _you know._"
+
+"Alright. Take care, then," Phoebe says. She waits for the second patient to leave the room before striding out behind him, leaving her daughter behind.
+
+...However, not ten seconds later, Daisy comes running out and grabs her mother's leg, nearly tripping Phoebe.
+
+"Mommy! I'm scared. Where's daddy? Why hasn't he come back? Where are you going??"
+
+Phoebe starts to to push her daughter away, only to pause.
+
+_Today might be the last time I see Daisy. What if Jason doesn't return? What if I don't? I need to leave her in a good place._
+
+Phoebe sighs. She ignores the glances of the injured in the hallway and drops to one knee while resting a hand on her daughter's head.
+
+"Mommy has to fight, Daisy. Just like daddy. I want to stay with you, but they need me in the battle."
+
+"You'll get hurt!" Daisy cries. "I don't wanna lose you!"
+
+"You won't, love, you won't," Phoebe coos. She caresses Daisy's face while forcing a pained smile. Phoebe steadies her trembling lower lip before continuing. "You and me are good girls, so we have to stop the bad people. We have to stand up against evil, even when it seems useless. You understand, right?"
+
+Daisy shakes her head. "No! I don't! Stay with me, mommy! Don't go... don't leave me, not like daddy did..."
+
+The hero's wife lowers her eyes. She swallows hard while trying to reassure herself of Jason's safety.
+
+"Daddy... he'll be fine, sweetheart. Don't you know? The hero always shows up at the last minute. You have to believe in your father. He's never failed us, and he never will. Your daddy can do all kinds of incredible things. That's why the demons waited to attack until they thought he was gone. Once he shows up, they'll run away."
+
+"But... but daddy _is_ gone..." Daisy protests. "Mommy can't even find him."
+
+Daisy touches a ruby hanging from a necklace on Phoebe's chest.
+
+"Mommy said she could call daddy whenever she wanted... but you can't! Daddy's gone! He's gone!!"
+
+Daisy breaks down into tears, finally succumbing to her suppress emotions. She grabs her face and bawls, unable to control the anguish in her heart.
+
+Several of the more lucid soldiers watch with pitying eyes as the symbol of their pride, the jewel of humanity, Phoebe Hiro, tries to console her daughter. All of them respect the hero's wife. She's been there for them and brightened their days on numerous occasions.
+
+However, all of them fall silent, secretly agreeing with Daisy's words.
+
+Hope, gone.
+
+Jason, gone.
+
+Both of the Wordsmiths left nearly a month earlier, and neither of them have contacted the Core.
+
+The injured men and women glance at one another while imagining the worst.
+
+_The demons chose today to attack because they've captured our heroes. Even Jason's daughter knows the truth._
+
+Phoebe entertains similar thoughts for only a moment before pushing them away. She gently leans forward and cradles her daughter, patting the back of Daisy's head affectionately.
+
+"You're a good girl, sweetheart. Daddy will never disappoint you. Have faith in him. There's no way a bunch of weak little bully demons can take him down."
+
+Daisy sniffles. "R-really?"
+
+"Yes. I bet wherever daddy is, he's thinking about you right now."
+
+Phoebe rises to her feet. She caresses her daughter's cheek and wipes away her tears while flashing a genuine, radiant smile.
+
+"Jason brings me joy, and he brings me purpose. He freed me from the shackles of my past, and he gave me a beautiful little girl. I'll never stop believeing in him. Jason is our hero. He's _my_ hero."
+
+Phoebe sweeps her gaze across the people gathered in the hallway. Her conviction sends tingles down their spines, temporarily dulling the pain wracking their bodies.
+
+Several soldiers feel a sense of shame. How could they doubt their king? Phoebe never once wavered in her convictions, and neither should they.
+
+Eventually, Phoebe straightens her daughter out and sends her back to Belial's ward with a sigh. "Be good to your aunt, Daisy. I'll come back as soon as possible."
+
+Daisy waves goodbye, having finally dried the tears from her eyes. "Okay, mommy. I love you! Bye!"
+
+"Bye-bye," Phoebe waves.
+
+Once Daisy disappears into Belial's ward, Phoebe inhales a deep breath, then releases it, allowing her tension to drain away.
+
+She rests her hand against the magical medallion Jason gave her, wondering when he'll reply.
+
+"Jason. Come back soon. We need you."
+
+---
+
+**[Recommended Listening.](https://www.youtube.com/watch?v=014z7lFnWCc)**
+
+_Elsewhere._
+
+Deep within the Labyrinth's recesses, lurking within the confines of its darkest, dankest prison...
+
+"Mmmmghhh!!"
+
+Hope screams through the cloth gag covering his mouth while tears pour from his eyes. His head lolls from side to side as his lucidity continues to slowly slip away.
+
+Ten feet from the Hero, a two-headed demon stands with his back to the human and all four of his arms crossed. He gazes at a shimmering mirror hovering before him with rapt attention, watching as it displays scenes of hellish carnage between monsters and humans.
+
+"Haha. What a wonderful sight. Your people are putting up quite the fight, Hope. They'll fall, of course. Humanity's numbers are finite, while the demons' are neverending."
+
+Gressil, the prison warden, and the head of Faith's End, chuckles softly to himself.
+
+"Haha. It took a hellishly long time, but finally, the chaos I've awaited has begun to play out on a galactic stage. What a beautiful symphony of death and destruction."
+
+"Mmmhhngh! Mgggnn! Huk-huk..."
+
+Hope groans and whimpers as his head continues thrashing from side to side. Eventually, Gressil turns around to stare at the drugged and bound human.
+
+"Quiet."
+
+Immediately, Hope falls silent. A terrible, unspeakable fear grips the hero's mind, penetrating even the basest survival instincts begging for his freedom.
+
+Gressil's gaze falls upon the blood covering Hope's body. With Hope's arms and legs sawed off, the casually thrown-together gauze holding his guts in place only slows 99% of the blood flowing from his wounds. Trickles of plasma leak through the rotting, infected bandages, landing on Gressil's metal torture table with soft _plips._
+
+Hope's limbs rest inside buckets thrown off in the corner of the room. Their decayed stench, capable of gagging even the hardiest orc, doesn't affect Gressil at all.
+
+A metal shackle wraps around Hope's neck, pinning him to the table with less than an inch of movement room. Gressil, ever the kind torturer, allows his prisoner enough slack to thrash around. Hope's helpless motions only serve to exascerbate his terror, making Gressil smile.
+
+"Haha. Even now, as a quadruple amputee, you still have enough spirit to scream and beg for mercy. That is what I like about you... Hope. There's nothing more boring than a prisoner who doesn't fight back. It isn't fun. It isn't... satisfying."
+
+Slowly, Gressil walks over to the helpless human, making Hope freeze in place and stare at his tormentor with widened eyes.
+
+"Haha. Poke."
+
+Gressil jams a claw into one of Hope's open wounds, making the young man chomp down on his gag and howl in pain. "Hnnnghh!!! Hmungh! Hrrrgh!!"
+
+The warden's smile fades away.
+
+"It's been a while since I could play with someone as fun as you. Birdy lost her voice a long time ago. The other humans I capture usually die within an hour. But you... your little nano-bugs are quite handy. You can really take a beating. Haha."
+
+_Poke._
+
+Gressil jams his finger into Hope's groin, making the human scream three times louder than before.
+
+"Haha. It never gets old. Pain. Torment. Misery."
+
+Gressil pulls away from Hiro, removing his claws from the helpless human's body. Hope sags in place, while tears roll down his cheeks.
+
+"I wasn't always like this, you know."
+
+Gressil returns to his magical mirror, but this time, he pays little attention to the events unfolding on its surface.
+
+"Mother made me this way. She wouldn't let me be."
+
+Hope's chest heaves as he struggles to breathe. He barely even hears Gressil's words through the frantic flaring of his nostrils, let alone comprehends them.
+
+The prison warden sighs.
+
+"Did you know? Demons are the worst creatures in existence. Violent. Psychopathic. Torturous. Barbaric."
+
+"You're not wrong to hate us, but you shouldn't hate me. I'm not the monster here. I'm a victim. A creation of the twisted aberrations leading our society."
+
+Gressil raises his lower right arm. He opens his palm face-up, summoning the illusion of a jade-colored butterfly.
+
+"All I ever wanted was to play with my butterflies. I was gentle. I was kind."
+
+"I was a bad demon. That's why they hurt me."
+
+The warden's eyes gloss over, as his memory travels back in time, to a different era, a time before humanity fell.
+
+"Mother always loved Ose more than me. I was a burden. An obligation. Haha."
+
+Gressil's laugh comes out with the same raspy tone as the rest of his cold, dead speech.
+
+"All demons have to be strong. They have to become powerful. But why? Nobody ever answers that question. Nobody ever asks."
+
+...
+
+"I don't remember when it happened. I don't even remember why. I snapped. I killed Mother."
+
+"It was the first time I ever felt joy — the first time I experienced the taste of someone else's misery. I understood why Mother trampled me."
+
+Gressil closes his eyes.
+
+"You never had a mother. Your parents abandoned you when you were a child. Many think it's better to have a bad parent than none at all."
+
+"But what do they know? I envy you. I wish I didn't have to suffer. My mother made me who I am, today. A monster."
+
+The warden opens his eyes. He glances at the still, unmoving second head attached to his left shoulder.
+
+"Look at you. Sleeping. Haha. After everything you've done to me... you get to spend your days living in a dream. Must be nice."
+
+Gressil curls his right arms into fists. A flash of rage appears in his eyes.
+
+"Even in death... you still taunt me. I hate you. I hate everything about you."
+
+_Wham!_
+
+Gressil's fists crash against his second head, jarring it awake.
+
+"Ack! Hey, what do you think you're doing, hitting your mother?!"
+
+Lucifer, the Emperor of Providence, awakens. Her eyes turn crystal-clear as she turns to look at the other head attached to her body.
+
+"Little brat! Worthless! What sort of filthy little mongrel raises his hand to the one who raised him?! I'll teach you a lesson!!"
+
+Gressil's anger vanishes. Instead, a look of fear appears in his eyes.
+
+"N-no, Mother! It... it wasn't me! I'd never-"
+
+_Crash!_
+
+Gressil's left arms reach up and grab his throat while punching his face. Lucifer takes over the entire left side of Gressil's body, pummelling and beating him without mercy. Gressil tries to cower, but all he can do is fall against the wall while screaming.
+
+"No, Mother! Please! I didn't mean it! I'm sorry! Augh!!"
+
+Lucifer continues beating and bashing her son. Her power swells within him, eventually overtaking even his right side. All of Gressil's body, except for his head, turns into a self-harming weapon.
+
+Lucifer punches her son without rest. She slams his head against one wall and then another, making his cries of pain ring out throughout all of the nearby Labyrinth corridors.
+
+Ten minutes later, Gressil whimpers and moans, his pitiful figure echoing Hope's. Lucifer inhales and exhales ferociously, her anger spent.
+
+"Ptuh! Filthy little runt! Look at you, pissing yourself in fear! That's why you'll never measure up to my precious little Ose! You're a weak, worthless little shit! Sorry excuse for a demon!!"
+
+However, Lucifer's energy begins to drain. Eventually, her eyes flutter closed.
+
+"Now... don't disturb me again... I need... need to sleep. So very... tired."
+
+Lucifer's head lolls forward as she falls unconscious, returning control to Gressil.
+
+The prison warden crumples in the corner of the room. For half an hour, he whimpers like a beaten dog.
+
+"Why... why does Mother hurt me..."
+
+Gressil's vicious aura disappears, replaced instead with the figure of a battered, broken child.
+
+...
+
+Eventually.
+
+Gressil pulls himself together. He leans against the wall and wipes his tears away, all while casting furtive glances at his second head.
+
+"No... stupid. Foolish! Why did I hit Mother? I can't do that. I shouldn't."
+
+Slowly, Gressil turns to face Hope. The young man stares at Gressil with a strange look. Pain, pity, and fear mix into a bizarre cocktail of emotions, darkening Gressil's eyes.
+
+"You... don't you _dare_ look at me like that."
+
+Gressil's lingering fear washes away, replaced instead with hatred and malice.
+
+"That's right, _human._ After I make you one of my _eyes_, I can finally rid myself of Mother, forever."
+
+Gressil's mouth curls up into a horrifying smile.
+
+"Haha. Playing with you is too much fun. I nearly forgot my original plan."
+
+Before Hope can react, Gressil charges toward him and jabs multiple fingers into different wounds on Hope's body. The Wordsmith screams so hard that he nearly faints from the agony.
+
+"Yes. Scream. SCREAM! The more pain you feel, the sooner I can integrate you. The moment you beg me for death, you'll become _mine._"
+
+Gressil chuckles.
+
+"Haha. Hahaha!"

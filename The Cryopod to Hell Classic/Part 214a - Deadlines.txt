@@ -1,0 +1,67 @@
+Part 214a - Deadlines
+
+"Activating primary protocols. Initialized. Activating secondary protocols. Initialized. M.I.N.D. engine online. Beginning preliminary scans. Hello, Doctor Nikolin."
+
+The female voice chirped mechanically as she analyzed the usual stores of data the 'doctor' had uploaded. To be clear, he was not a legitimate doctor, and had no formal college training, but he was renowned as one of Albania's most brilliant researchers.
+
+Albania was a small country, but it had a large population of nearly three million, making it an ideal place to blend in and conduct various types of research in secrecy. One of these was the world's leading research into Computer To Human Interfaces. His current project, the Multi-Interfaced-Nanite-Depository was a special artificial intelligence that was created explicitly to inject nano-machines into a human's bloodstream in order to increase the tolerance level of interfacing with a machine.
+
+The goal? To create robot drones that could be controlled on the battlefield by a human operator remotely. They already had the drones, they already had the network, now all they needed was for the M.I.N.D. interface to work properly.
+
+"Data analyzed. No matches detected. Shall I attempt to search the internet for additional data?"
+
+Nikolin grimaced. The AI seemed to be asking to connect to the internet a _lot_ lately. It was a well known rule in AI development that you must never, under any circumstance, allow that. In a matter of minutes, a powerful AI could download petabytes of data and go from level five to level ten in the blink of an eye, and beyond that easily. He shuddered to think about it.
+
+"Ah, that won't be necessary. Cease canvassing work and return to pattern recognition development."
+
+"Understood, Doctor Nikolin. Returning to priority four tasks now."
+
+Nikolin gritted his teeth as he slowly hobbled away from the mainframe towards the exit door leading to his office. "Damn. Another failure, like always. That makes this the... hundredth? Too many to count." He grumbled under his breath as he walked around a corridor and into the room his private office was set up in. Closing the door behind him, he locked it as he slumped into his chair.
+
+Almost immediately, the phone rang. He glanced at the caller ID. "For god's sake, not _her_ again." He resisted the urge to smash his weak elderly fist onto the phone, instead slowly and deliberately picking it up, as he brushed his hands through his thinning grey hair. In a smooth motion he brought the phone up to his face. "Marie. Always a pleasure to get a call from you."
+
+"Cut the shit, _Nikky_. Have you done it yet?"
+
+Nikolin bit his lip as he fought back a mixture of a small amount of annoyance and a large amount of anger. "...No. She failed again."
+
+"Son of a bitch! Listen here, we pay you _good money_ to play around with your pet projects. The only thing we want from you is those mind-interface nanobots, understand? For three billion a year, you're doing very unimpressive work on the taxpayer's dime."
+
+" _US_ taxpayer's dime. Not Albania's. Don't act like three billion makes any difference to a government almost fifty trillion in debt. Your new president is signing off on waivers like it's his gift to god. It'd be an over-exaggeration to call it a drop in the bucket." Nikolin felt a small sigh of relief escape his mouth as he enjoyed the momentary relief of telling that bitch off, even if it was a tiny victory.
+
+"You done? I hope that felt real good. Lucky for you, I don't give a rat's ass if you mouth off. I only care about results. You give me those nanobots and you can call me 'queen cunt' if it makes you feel any better. I want _something_ by week's end, or _they_ are going to pay you a visit, understand?"
+
+Nikolin felt the small feeling of elation from a moment ago drain from his face. "W-what? No... no you can't be serious. It will take at least a few more months! You have to give me more time!"
+
+"Oh, here we go again. It's always 'just around the corner' isn't it, Nikky? We give you money, you live it up with croutons and caviar while delivering nothing to me."
+
+"I have the world's most advanced AI. Surely that counts for something?" Nikolin felt the fear from his voice returning a little bit as his hands started slightly trembling.
+
+"AI? Who gives a shit? AI doesn't win votes, it scares the shit out of people. Everyone's seen the movies. HAL isn't going to win the people paying your bills any votes, _Nikky_. But drone soldiers winning the wars for our country? That inspires some patriots to show up at the polls." Marie sighed on the other end of the line, deeply and very audibly. "This is your last chance, 'Doctor'. I'm not giving you another one. Get me the nanobots, _or else_."
+
+Before he could respond, a loud _slam_ was heard and the line went dead.
+
+Nikolin slumped in his chair as tears filled his eyes. If _they_ came, they'd take him away to one of their black sites. It really was hopeless, the more he thought about it.
+
+Summoning up the best strength he could muster, he stepped outside his lab, walking past a few other researchers and assistants as he returned back to the room with the AI mainframe. Staring up at the hologram of a female face created from scrolling green letters and numbers, he found himself lost in thought, until one of the other researchers walked up to him.
+
+"Doctor Nikolin, are you feeling all right? Your face looks pale."
+
+Nikolin turned around, looking the young woman in the face. "Ah, miss Garret. It's nothing, really. I'm just..." He found his eyes drawn to the floor as many thoughts crossed his mind. "...Do you think the nanobots have a chance? Can we actually make them work?"
+
+Miss Garret pushed her wide framed glasses up her nose. "Of course. It's only a matter of time. We've tested the theories, so now it's all about locating the right genomes, the right neuro-transmitters, and once we have those, it'll be a piece of cake."
+
+Nikolin's lip quivered again for a moment before he forced it to stop. "A matter of time... huh? How much time do you expect it would take?"
+
+"Hmm. Well, based on current trends, anywhere from one week to one year. Predictional analysis is not my forte but this particular nanobot issue is so tricky to pin down."
+
+Nikolin felt a wry smile creep onto his mouth. "Yes... so tricky indeed. Tell me, do you suppose we could get it done faster if we connected the AI to the internet?"
+
+Garret's mouth immediately dropped open. "D-doctor Nikolin! That is absolutely not allowable! We must never do that under any circumstance!"
+
+Nikolin quickly let a nervous laugh escape his mouth. "Ah... haha! I'm just kidding, Kimberly. Calm down, it was just a joke!"
+
+She sniffed quickly before quickly turning away. "Yes, a joke. Of course. You're not well known for those you know. Just don't do anything rash. We will solve this problem with hard analytics, as we always have."
+
+Kimberly walked away from him to chat with a coworker as Nikolin stared vacantly ahead where Garret had once been standing. "Yes... just a joke. A ridiculous, unfunny joke."
+
+He slowly turned back to stare at the holographic image in front of him before quietly returning to his work from earlier.

@@ -1,0 +1,419 @@
+Chapter 13: Temporal Mechanics Lesson
+
+"Admiral!" Soren says, her voice containing a note of alarm. She and Megla trot toward José as he rolls down the Bloodbearer's primary connective corridor, arriving at his position after a few moments. "Are you alright? Your body seemed to be heavily injured when I last saw you."
+
+"I'm dandy," José grumbles. "Just wonderful."
+
+The Admiral glances at Megla. He waits for a snarky comeback, only to almost fall out of his chair when she speaks.
+
+"That's great, Admiral. I was- I mean, _we_ were really worried about you. We, ah... we thought you wouldn't make it. I'm glad you're okay."
+
+José blinks several times to make sure he isn't still sleeping. "You were... concerned? About me?"
+
+Megla crosses her arms and looks away. "Erm... only a little."
+
+The Terran shakes his head to try and clear away the cobwebs in his brain. "I see. Well, thank you for your concern. I'm much weaker than before, so I can hardly move on my own. I hope you two will assist me in repairing the Bloodbearer's systems."
+
+The Admiral's gaze falls toward both Kraktol officer's waists, where steel belts hang with a small assortment of attached repair tools. The two womens' usually pristine red and yellow scales appear dirty, caked with dirt and grease.
+
+"Of course, Admiral," Soren says. She walks behind José's wheelchair and grabs its top handles to push him forward.
+
+"What are you doing?" José asks, suspicion in his voice.
+
+"I don't believe you should be expending any energy, Admiral. Please allow me to guide you wherever you please. It would be best if you could relax and leave the hard work to my sister and I."
+
+Before José can reply, Megla strides over to Soren's side and huffs. "Kyargh! Let me push the Admiral. I'm sure you're still tired from sticking your head inside that greasy ventilation duct."
+
+"No need," Soren says, a faint smile on her face. "I can handle this simple task."
+
+"I know you can," Megla protests. "But so can I! Hmph, listen to your big sister for once, why don't you?"
+
+Soren's smile widens. "You seem awfully eager to get close to the Admiral."
+
+"I-I'm not!" Megla yelps, her red scales flushing pink. She takes a step away from Soren with a strange look in her eyes. "I... I just want to help!"
+
+"Kuhak!" Soren laughs. Her usual stoic demeanor cracks slightly upon seeing her sister's flustered look. "Something seems to have changed with you, Megla."
+
+José sighs. "Ladies. Please. Stop fighting over me like I'm a piece of meat. We don't have time to waste. I'll drive myself to the Engine Room. You just walk alongside me and listen. I have a lot of information to relay."
+
+Both Kraktol women frown for a moment before hiding their emotions. With a sigh, Soren pulls away from José and raises her palms. "I see. My apologies, Admiral. I did not mean to insult your abilities. You can surely move yourself if necessary."
+
+The Admiral looks into the disappointed eyes of Soren, before glancing at Megla afterward. Both of them appear miffed that he would ignore their genuine, heartfelt offers.
+
+However, José ignores their silly behavior.
+
+"Come along. I want to examine the engine room's condition for myself."
+
+Soren lowers her head. "Yes, Admiral..."
+
+"Do what you want," Megla snorts, her annoyance plain as day. She crosses her arms and walks beside José on his left, while Soren walks on his right. They begin heading toward the engine room at a pace neither too fast, nor too slow.
+
+An awkward silence ensues. After a few minutes, José clears his throat. "Did Umi explain the mechanics of a Triple-Induction Drive to either of you?"
+
+Soren shakes her head. "No. We asked several questions, but the synthmind did not answer. She only guided us on the cleaning and repair process for the engine exhaust vents."
+
+From above, Umi speaks. "**Admiral. Given the two Kraktol are newly acquired crew-members, and given their origins, I have registered them as 'initiate crew.' Unless you remove the restriction on Class 4 information and below, I will be unable to provide them with information regarding this ship's features or technical blueprints. Based upon the information I've collected from the Dragon Breath's databases, the galaxy at large is unaware of the capabilities of technology beyond the 35th Era. Very few factions possess ships from later than the 30th era, so I have calculated that classifying this information as Top Secret is a prudent move.**"
+
+José nods. "I agree. However, Soren and Megla are now officers of this vessel. In the future, please provide them with any general information of Class 3 and below as their knowledge-base evolves. I'll evaluate the rest on a case-by-case basis."
+
+The Admiral speaks openly with Umi right in front of the Kraktol, allowing both of them to hear his words. They glance at each other out of the corners of their eyes and sigh.
+
+_The Admiral doesn't trust us. Given he hasn't known us for even a day, that's to be expected._
+
+...
+
+It doesn't take long before José and the Kraktol arrive at the entrance to the Bloodbearer's Engine Bay. Its entry doors, barely maintained by one of the six Filth Expunger Units over the past 100,000,000 years, slowly slide open. The top and bottom squeal in a most annoying manner due to a large amount of rust accumulation, but the three officers ignore the awful sound.
+
+Jose arrives inside a large, circular chamber, easily twice as big as an open-air football stadium. In the center of the room, three giant circular metal platforms sit next to one another in a triangular formation. They hum with energy, causing the air inside the room to vibrate and rattle all three officers' teeth.
+
+A force-field twenty meters tall rises toward the ceiling above each platform, where a second set of platforms on the roof meet the field and keep its power circulating to form its protective membrane. Inside the heavily shielded matrices, three giant orbs of explosive-looking plasma rapidly whirl around, revealing themselves to be the cause of the intense, energetic humming sensation.
+
+Hundreds of thick, Terran-body-width cables stick out of the walls and slink along the ground, connecting to the platforms on the floor, but also the ceiling. They suck the leftover energy from the orbs away to power the rest of the ship, preventing them from detonating with high-yield nuclear explosions.
+
+Countless robotic arms, long-since rusted-over, stick out of the engine room's walls. Only twenty or so move around and poke at the various computer consoles scattered throughout the room, but it appears clear to José and the Kraktol that this room is just as decayed and dilapidated as the rest of the ship.
+
+"Damn..." José mutters. "Even more things to repair. The work never ends. The inventor of bio-fusion once claimed his power sources would remain stable for a billion years, so I guess he was proven right in the end. The rest of the ship is likely to break long before the reactors lose their charge."
+
+Soren gestures toward the far wall. "The synthmind had us clean the ventilation ducts over there. I only scraped out out the interiors of the first five, but more than a hundred remain."
+
+Nodding, José says, "Yes, but cleaning the engine ventilation ducts is only the first step. We also need to clean and maintain the plasma warp conduits, then exit the ship and decalcify the exterior engines. Beyond that, we have to examine the damage this sector's plasma storm has likely caused the Bloodbearer's hull. If there are any breaches on the exterior, we must seal them up before entering Folded Space."
+
+Soren's eyes flash with hunger. "Admiral, didn't you tell us you were going to explain the Triple Induction Drive and Folded Space? I'm dying to know more."
+
+José smiles.
+
+"Oh, yes. I had almost forgotten! Haha, your thirst for knowledge is quite admirable."
+
+The Terran wheels toward one of the many nearby broken computer consoles. He gestures toward Megla's toolbelt, prompting her to step closer. Despite the weakness in his body and his atrophied limbs, his shaking and trembling appears to have mostly worn off since resting, so he easily snatches three odd-looking pen-gadgets from her before turning to the console.
+
+_Whirr. Bzzt._
+
+Despite the weakness in his arms, Admiral Rodriguez manipulates Megla's tools at a steady but slow pace. He gets to work repairing the first computer console inside the Bloodbearer's engine bay with a clinical, dispassionate look.
+
+"To understand the concept behind a Triple-Induction Drive, you first have to understand the concepts involved with achieving galactic travel, as well as the limitations of Terran technology, at least by the 50th Era. Are either of you familiar with the nine types of FTL?"
+
+"Faster than light travel?" Soren asks. She glances at her sister for a moment before returning her gaze to the wheelchair-bound Terran. "I am aware of a few different methods to achieve faster than light travel... but I am not an expert in the field."
+
+"That's fine," José says. "Just tell me what you know so I can establish a baseline for your knowledge."
+
+Soren folds her slender, scaled arms behind her back. "Yes, Admiral. I have seen several Warp Drives in person, as well as one of the functional Subspace Cannons the Mallali control. From a distance, of course. I've never been able to use one, given how the Mallali protect them with fanatical zeal, but I know they use some method to 'shoot' ships toward other sectors at FTL speeds. Also, I remember hearing Orgon mention Jump Gates once, but I haven't any idea how they function."
+
+José nods, than looks at Megla. "And you?"
+
+Megla laughs. "Kyargh! I've heard of those things, too. However, I got to ride aboard a smuggling vessel once, several hundred years ago. We sneaked through the Arbiter Jump Gate in Avaru space and traveled halfway across the galaxy instantly. I couldn't tell you how it worked, but I still found the experience enthralling."
+
+The Admiral turns away from Megla and resumes working on the computer console. He cleans out the dust inside of it, caused by its decomposed glass panel, then starts reassembling its inner pieces.
+
+"It seems both of you are largely ignorant about the nine methods of FTL used by my people. Soren, you mentioned the use of 'Warp Drives.' Do you know what a Warp Drive is?"
+
+Soren nods, but the motion comes slow and haltingly due to her hesitation. "Ahem, ah, I believe so... Admiral, but based on your tone, perhaps not."
+
+"Explain them to me," José says, his voice calm.
+
+"Warp Drives function by accelerating the ship to extreme speeds via usage of exotic Trifrancium or Dilithium particles. Trifrancium, naturally is the more energy efficient and powerful of the two. It also possesses the ability to regenerate itself over time, provided the vessel does not drain its reserves too quickly. Unfortunately, if the ship uses up too much of its Trifrancium reserves, the exotic won't regenerate itself."
+
+Seeing a smile appear on the Admiral's face, Soren becomes flustered. "A... Admiral. Did I speak incorrectly? I may not know much about Subspace Cannons or Jump Gates, but I'm reasonably confident in my basic knowledge regarding Warp Drives."
+
+"Haha, you're fine," José says, his smile growing fainter. "It's just, what you described was a Hyperdrive, not a Warp Drive."
+
+Both Kraktol look at each other with confused expressions. "Hyperdrive? Isn't that just another word for the same thing?" Megla asks.
+
+José snaps a few internal components back into place inside the engine bay's computer terminal. "Not at all, but given how technology has regressed over the last hundred million years, as well as knowledge of its internal functions, I suppose it's natural you wouldn't know that."
+
+After clearing his throat, José explains further.
+
+"Humanity always had a thirst to explore the stars. By the time of my era, we had already colonized seven galaxies. Traveling between stars is nowhere near as complex as traveling from the Milky Way to Andromeda. The amount of space between galaxies is tens, hundreds, and even thousands of times greater than the width of galaxies themselves. Naturally, we required tremendous resources to bridge those gaps in reasonable amounts of time."
+
+A popping sound from the Admiral's repair work interrupts him, but he continues afterward.
+
+"What I am about to tell you was common knowledge in my era. However, I suspect that it is highly confidential information today and worth countless credits. Information is power. Should we ever separate, I'm sure you'll make a fortune just by understanding this simple information."
+
+"You mentioned nine types of FTL travel," Soren says. "How can there be so many?"
+
+"There are far more than nine," José says, "but these nine were the most ubiquitous and well-known, for various reasons. Some factions, such as the Void Roamers or Orion Corps, possessed secretive methods of traversing the stars that only their factions could use. I am not aware of their specifics, so I can't go into any details. Essentially, to understand the nine travel methods, you have to understand a few basic truths about time and space."
+
+José raises his index finger. "Number one: Time and space are not constant. Powerful, energetic anomalies, such as black holes, can bend one or both. Time can accelerate or decelerate, while space can expand or contract. We humans used this knowledge to our advantage in various ways."
+
+He lifts a second finger. "Number two: Traveling great distances, especially lightyears, requires a vast amount of time, energy, and resources. Sometimes, you can cut down the amount of time needed to travel somewhere, but it will require many more resources. Often, if you lack money, you can cheapen travel at the sake of time. Civilians usually had less money and resources than the military, and so, they would use more frugal methods."
+
+The Admiral raises one more finger. "Number three: In addition to time, resources, and money, sometimes a travel method would come with a much higher risk of danger compared to others. Seven of the nine methods I'm about to describe were among the safest and most reliable ways to traverse the Void. Even then, when dealing with the amount of energy required to travel throughout galaxies, there would always be a small risk of catastrophes happening."
+
+Admiral Rodriguez lowers his hand. "Finally, and perhaps most importantly, you can't ever underestimate the power of biological nature. I heard rumors of several advanced FTL systems that never got off the ground due to political meddling, greedy competitors, and jealous scientists. If a scientist from my faction, Ramma's Chosen, wanted to create a tenth ubiquitous FTL travel method, it would happen more often than not that someone else in our faction might assassinate him, steal his data, and take it to a competitor for a huge payout. Thus, the information would become proprietary and end up locked away to rot inside some damned vault."
+
+At the last point, Megla nods knowingly. "I do not know how you Terrans functioned as a society, but given you shared the same innate biology, I must presume you acted at least a little better toward each other than the myriad of species within the Milky Way today. The Mallali would stop at nothing to prevent the Rodaks from acquiring new technology. Similarly, we would never give up a chance to make them suffer."
+
+The Terran pauses his repair task for a moment, as a distant look appears in his eyes. "...Some things never change."
+
+"Admiral?"
+
+"Nothing," José mutters, before returning to his work. Already, half of the console appears restored to its previous condition, thanks to the restructuring of its internal components.
+
+"There are two primary types of FTL implementations," José says. "Installations, and ship-based travel. Installations include Jump Gates and Subspace Cannons, while ship-based travel involves Warp Drives, Hyperdrives, and other such types of engines. Sadly, it seems you've lost the knowledge of these methods to the annals of time, but luckily, I can inform you of their basic functionality."
+
+"First," José continues, "we'll start with what you already know, Hyperdrives. These were actually one of the first travel methods invented, well within the confines of the First Era. However, at the time, humanity had to steal this technology from the Volgrim, aliens who threatened our existence, therefore it took us a while to analyze and 'perfect' the technology to fit our needs. Hyperdrives function by consuming a massive amount of energy and discharging it from their rear to travel through space at extremely high speeds. Essentially, the more energy they consume, the faster they can travel."
+
+"However, there are several issues with Hyperdrives. Dilithium is quite plentiful, but it only allows the ships to travel at a maximum speed of Warp Six. This speed is quite slow and not suitable for moving across thousands of lightyears in a relatively fast manner. For inner-system travel, or for travel between nearby star systems, it's more than adequate."
+
+Megla raises her hand. "I don't understand. You said before that Hyperdrives were not Warp Drives. But, if that's the case, then why would Hyperdrives travel at 'Warp Speed'?"
+
+"Warp Speed is merely a measurement of velocity," José replies. "The details are a bit technical, but I'll try to explain. If a ship travels at 'Lightspeed', then that means it moves through space at a relative velocity of 188,000 miles per second, or, 300,000 kilometers per second. Warp One is 2x the speed of light. Warp Two is 6x, Warp Three is 24x, Warp Four is 120x, Warp Five is 720x, Warp Six is 5,040x, and so on."
+
+The Admiral continues. "Warp Six is certainly fast. However, Warp Seven is a qualitative change in speed which allows one to traverse the galaxy without wasting large amounts of time. It took several millennia before humans were able to secure the power source known as Trifrancium, which enabled us to more readily break past the Warp Six barrier. Megla, how far is it from our current position to one of the Mallali Core Worlds. One of their capitals, for instance?"
+
+Megla shrugs. "From here to Iunus, that's roughly 14,000 Light-years."
+
+"Fourteen thousand. That is quite a distance," José nods. "At Warp Three, it would take you nearly 600 years to travel there. At Warp Five, only twenty years. At Warp Six, three years. And Warp Seven? Roughly half a year."
+
+Soren nods. "We know about the differences in warp speeds, Admiral. Where are you going with this?"
+
+José adjusts the setting on his repair tool. Pieces of glass begin to form as he reconstructs the final, outer layer of the engine room's computer terminal.
+
+"As I said before, Warp Speed is merely a measure of relative velocity. However, time dilation is a completely different aspect of FTL travel. People who use a Hyperdrive to travel do not experience time dilation. One minute at warp speed is one minute in the outside universe."
+
+The Admiral pauses his repair to draw a line through the air. "It takes me one second to move my finger from here to here. If I move my finger extremely fast, I can cover an even greater distance in that same one-second span. However, due to the speed of light, the universe begins slowing down the faster and faster I move my hand. If my mind can keep up with my finger, it may feel for me as if only one second has passed, but for the outside world, it might only be a fraction of a second. This is, essentially, time dilation."
+
+After lowering his arm, José gets to work on the last section of the terminal's repair.
+
+"Time dilation is a serious problem in temporal mechanics. Traveling backward is time is theoretically possible, but generally, one can only move at the same rate of time as in normal space, or slower, or faster. Moving in reverse is usually out of the question."
+
+"Hyperdrives have a time dilation ratio of 1:1. If we leave this plasma storm and travel to Iunus at Warp 7, we would perceive the amount of time it takes for us to reach there as about 127 days. Similarly, the residents of the Milky Way would see us disappear from our current position and reappear in Iunus's space 127 days later. Therefore, we would neither lose, nor gain time relative to the galaxy."
+
+"The advantages of a Hyperdrive include an extremely high maximum speed, zero time dilation, and their relative inexpensiveness compared to other ship-based FTL methods. However, the downside comes in that the fuel needed to achieve high speeds, Trifrancium, is difficult to acquire and quite rare. Entire wars were fought to acquire Trifrancium deposits, even in my era, so the fact that Trifrancium-based drives have become the most common form of warp travel in this period is either alarming, or comforting."
+
+Megla nods.
+
+"We still fight over acquiring Trifrancium, Admiral. I don't know how rare it is compared to your time, but it's certainly not common."
+
+"That's unfortunate," José mutters. "In any case, now that I've explained the basic nature of FTL travel and Hyperdrives, I'll move on to the next type of well-known engine: The Warp-Drive."
+
+Soren fidgets uncomfortably. "Th-the one I mislabeled."
+
+"It's not your fault," José reassures her. "Warp Drives are essentially identical to Hyperdrives in function. They both work by propelling the ship through space at warp speeds. The difference is, Warp Drives can run entirely off Dilithium and don't require Trifrancium to achieve speeds greater than Warp Six."
+
+Megla and Soren both widen their eyes. "They don't require Trifrancium?! That... that sort of technology would change everything!"
+
+José chuckles. "There are a few fundamental differences between them, though. Warp Drives do not require Trifrancium, and they do have a time dilation of 1:1 just like Hyperdrives, but they do _not_ merely accelerate toward their destination. Instead, Warp Drives create a 'bubble' of highly volatile 'warp energy' around their vessels. This bubble pushes aside the fabric of space, allowing them to accelerate to speeds well beyond what Dilithium might normally achieve by cutting through subspace."
+
+"To illustrate, imagine driving down a road covered in several-feet-high snowbanks. You would have to push forward slowly to get to your destination. Hyperdrives function by giving you an aerodynamic vehicle with a pointed front capable of cutting through the snow quickly, thus increasing your speed, while Warp Drives function by having a snow-plow drive ahead of you and clear the path. You have to expend less energy to achieve the same speed as the former."
+
+The Kraktol, both familiar with low-tech wheel-based vehicles, nod in unison.
+
+"That makes sense," Megla says. "So the reason Warp Drives can travel quickly with lower quality fuel is due to their efficiency. But why doesn't everyone use them, if that's the case? They sound much better than Hyperdrives."
+
+"Warp bubbles themselves are the issue," José says. "Warp Drives are extremely volatile and dangerous. When attacked by pirates, raiders, or Void Roamers, the victims would often detonate due to Warp Core breaches. Warp Cores could also detonate during FTL travel if they passed through certain rare space phenomena. As such, Warp Drives were only used by people traveling short distances with low-value goods that pirates wouldn't desire."
+
+The Admiral clears his throat. "I'm almost done with this console. Give me a moment."
+
+He quickly finishes repairing the engine room's computer console. When the last bit of plexiglass covers its front, the panel lights up with all sorts of colorful graphics related to the engine's performance.
+
+"Hyperdrives and Warp Drives were ubiquitous due to their speed, efficiency, and lack of time dilation. In terms of commonly recommended travel methods, most people would choose them over anything else if given the chance. However, the former was more of a tool for wealthy merchants, while the latter was used by the common rabble. The same is true of the next two travel methods I'll discuss: Folded Space, and Inverted Space."
+
+José pushes the computer console's chair out of the way and rolls his wheelchair toward it. With a flurry of hand motions, he changes the screen from displaying results about the engine room to a visual overlay titled, _Folded Space 101._
+
+"Folded Space and Inverted Space are essentially the same concept. The former was commonly used by every society's military and transport economies, while the latter was mostly used by smugglers and people who wanted to keep a low profile. To illustrate, imagine that you have a long, straight line. This line represents the distance you need to travel."
+
+The Terran keys in a space-map from the Bloodbearer's current position to Iunus, the planet Megla mentioned before. "If we travel to Iunus at Warp Seven with a Hyperdrive or Warp Drive, it will take us 127 days to reach the planet. However, by entering folded space, we can finally put the mechanics of time dilation into play. Observe."
+
+The long, straight line on his screen bends the end of one of its tips around to touch the other end, forming a shape reminiscent of a tear-drop.
+
+"Folding Space means pulling our destination closer to ourselves. We can traverse the gap from here to Iunus instantly, requiring very little resources compared to a Hyperdrive or Warp Drive-based engine. We accomplish this by bending space around the Bloodbearer and folding it around ourselves countless times. Once the fold completes, we arrive at Iunus and pat ourselves on the back."
+
+Soren nods slowly. A look of awe appears on her face, but it intermingles with worry. "This travel method sounds incredible... but surely it has a downside."
+
+"Kyargh!" Megla crows. "The Admiral said it himself! We would travel to Iunus instantly! 14,000 lightyears, just like that!"
+
+"Ahaha, Soren is right," José says, waggling a finger. "I said that _we_ would travel there instantly. Folded Space features unbelievable amounts of time dilation. While it might take us 127 days to reach Iunus at Warp Five, we would perceive the travel time as only one second inside our ship by using Folded Space, but in the outside galaxy, tens, if not hundreds or thousands of years would pass. That is the downside of Folded Space. For you, the time passes in an instant. However, your friends and family would die of old age in the time it took you to reach your destination."
+
+Soren and Megla's expressions become glum.
+
+"That's not very useful at all..." Megla mutters. "It sounds much slower than Hyperdrive travel."
+
+"Yes," José nods. "But the technology behind Folded Space mechanics is cheap and easy to manufacture. It's also relatively safe, with few recorded accidents, and little overhead for even the poorest of warp-capable civilizations to manage. Of course, that's only the first implementation of Folded Space. The second is exactly the opposite in terms of time dilation!"
+
+He continues. "Inverted Space allows you to instantly traverse anywhere in the galaxy, nay, even the universe. From the perspective of the outside universe, we might disappear from this plasma storm and arrive at Iunus one second later."
+
+"Let me guess," Soren says. "Inside the ship, hundreds of years would pass."
+
+"That's right," José answers. "Therefore, one would surely perish ages before they reached their destination. However, humanity created stasis sleep for the explicit purpose of keeping people alive during Inverted Space travel. That brings me to the current day."
+
+Suddenly, José goes quiet.
+
+A strange look appears in his eyes as he sighs.
+
+"Um. This is a bit hard to talk about."
+
+"Admiral?" Soren says. "What... what's wrong?"
+
+José shakes his head. "I entered stasis because the entire crew of the Bloodbearer was on a trip to one of our remote starbases. We'd done it a thousand times. By stepping in the stasis pods and having the computer enter Inverted Space, time would pass instantly for us and for the outside galaxy. It was how most military vessels traveled the cosmos. But then, I awoke to find that everyone... everyone was dead."
+
+A short silence follows.
+
+The Admiral stares at the engine room's console with a blank look on his face. Flickers of emotion travel across his face, but he quickly suppresses them.
+
+"I'm... I'm sorry. It's just been a little hard on me. Haha."
+
+Megla stares at the wheelchair-bound Admiral for a moment or two. Eventually, she rests her clawed hand on his shoulder. "Admiral. If you need to talk..."
+
+"No, I'm fine," José says, shrugging her hand away. "I'll get over it."
+
+Megla opens her mouth to reply, but closes it a moment later, unsure of what to say.
+
+José clears his throat. "Where was I? Oh, uh, right. Folded Space."
+
+He blanks out for another moment or two before tapping the console again.
+
+"...Aside from Hyperdrives, Warp Drives, and the two methods of Folded Space, there are five remaining methods of FTL travel. The rest of these are less practical, but they have their uses."
+
+An image of a small, needle-shaped starship appears on the computer console. At its front, a massive array of solar panels folds outward, looking like a pointed ice-cream-cone.
+
+"Solar Sails. These were extremely inexpensive payload delivery systems used by many corporations. Due to their small size and extreme speed velocities, humans never rode them. They functioned without any internal FTL systems. Instead, the solar sails, when unfurled, would soak up the energy of a nearby star for several decades, and once the batteries filled with pure solar energy, the ship would launch itself to its destination and arrive instantly. The warm-up period before launch would also give the corporations time to load important cargo aboard, but the size of these vessels left them with limited storage space. Several companies used these devices for non-time-intensive purposes."
+
+"Impractical," Megla mutters.
+
+Soren doesn't reply.
+
+"Next, we have Subspace Cannons," José says. "You're both aware of these, but I'll elaborate on the details. Unlike all of the previously mentioned FTL methods, these are 'installation based' and not 'ship-based.' Subspace Cannons are the cheapest of the installation-based methods, but they come with a lot of restrictions. They work by firing small vessels toward distant destinations at FTL speeds, allowing ships without FTL drives to traverse the cosmos. The first downside is that the ships will slow down rapidly, so the range of a Subspace Cannon is only a few hundred lightyears. The second is that in order to propel bigger vessels, one must increase the size of the Subspace Cannon, and therefore, its cost. Usually, Subspace Cannons were used to transport small, low-cost civilian vessels between neighboring systems, and that was about it."
+
+The women both nod, but it seems clear they've heard at least a little about the Subspace Cannons, therefore, they don't ask any questions.
+
+José taps on the console, bringing up an image of a gigantic metal circle hovering in space. The center of the circle features a shimmering black vortex, sparkling with randomly twinkling starlight.
+
+"The second and final installation-based system is the Jump Gate. These are among the most expensive and fought-over technological marvels created by humanity. They are truly incredible feats of engineering, allowing ships to traverse any distance in space instantly. In order to use a Jump Gate, you must actually construct _two_ gates: One on your end, and one at your intended travel destination. Construction of these colossal structures takes hundreds of years and costs tens of trillions of monetary-chits. Once complete, you must then point both gates at each other from the host and destination gates, then wait many hundreds or even thousands of years for them to establish a connection. After all of those factors conclude, the Jump Gates will form a permanent spatial bond, allowing ships to 'step through' from one end to the other."
+
+Soren's heart all but leaps out of her chest. "Amazing! The design and building costs are unthinkable, but if they truly allow one to travel anywhere in the cosmos, then, couldn't you travel between galaxies with them?!"
+
+José smiles. "Yes. That's exactly right. At the peak of the 50th Era, humanity had constructed seventy-two Jump Gates throughout the Milky Way. They were heavily guarded and fought over. Bitter wars constantly occurred as factions fought for control of the immense resources they could bring. A faction which controlled both ends of a Jump Gate from the Milky Way to one of the other six controlled galaxies could rake in immense, never-ending profits. They could instantly jump to Andromeda without delay. They could bring over galaxy-specific creatures, aliens, and resources, all without the time and resource wasting of the previously mentioned FTL methods."
+
+Once José finishes speaking, Soren's ecstatic expression darkens.
+
+"I've only heard of Jump Gates in passing. Given everything you've said, I can't help but wonder why I only know of one Jump Gates' specific location. Might most of them be destroyed?"
+
+"Possibly," José replies. He leans back in his wheelchair and rubs his eyes. "I don't know. Anyone who located a Jump Gate would be a fool to tell others about its existence. Perhaps they're still all out there, claimed in secret by factions with ulterior motives. More likely than not, however, they've decayed and collapsed. Jump Gates have one other major downside... they degrade very quickly due to the connection between each other. The universe expands every second, so one must perform regular maintenance on a Jump Gate, lest both of them collapse under shifting gravimetric forces."
+
+After a half-second, José continues.
+
+"The methods I've told you about before were seven of the nine most well-known methods for traversing the cosmos. However, these final two were considered extremely dangerous. I do not recommend you ever research them, or you will likely suffer a terrible catastrophe."
+
+José taps the computer panel to bring up an image of a singularity floating in the void.
+
+"This is a wormhole. Wormholes are rare spatial anomalies you can find throughout the cosmos. Entering them is always inadvisable. You might travel one hundred million lightyears away and end up stranded in a foreign galaxy, or you might travel directly into a Red Giant's core. However, there was a famous scientist who created an emergency tactical maneuver that almost any ship could use to summon a wormhole intentionally. These 'false wormholes' have a thirty percent chance of collapsing when you enter, killing everyone aboard the ship. They also cannot be aimed toward any specific destination... so their only useful purpose is to try and escape the grasp of pirates."
+
+"I can see why you'd advise against summoning one," Soren says.
+
+"Kyargh! Not for me, no thanks!" Megla laughs.
+
+A sad look appears on José's face. "If you hate that, then you will definitely hate this final travel method. Every single human alive voted to ban it in the 6th Era. Usage of this final, ninth type of FTL travel method, was considered a war crime. Any civilization caught developing or using it would be slaughtered without restraint by the others."
+
+With a motion of his hands, José summons an image of a small ship amidst the blackened void.
+
+"This final travel method is known as Dark Matter Propulsion. In my era, knowledge of its existence was only taught to members of the various factions' militaries, and purely to know how to spot it. We were never taught how to replicate its effects, nor the inner details of how it functioned. Our knowledge was purely theoretical, so that is all I will tell you."
+
+José looks at Soren. "But first, Officer Soren, what is Dark Matter? Tell me what you know about it."
+
+Soren nods. "Dark Matter is the substance which comprises 99.9% of our universe. I've read about it in my engineering manuals, but I don't know the specifics of how it works, only that it's directly responsible for the universe's expansion."
+
+"That's right," José says, smiling. "Dark Matter is everywhere. You might not be aware of this, but the only reason the speed of light caps out at 300,000 kilometers per second is because of Dark Matter. Remember the analogy I gave earlier of the snow-covered road?"
+
+Soren frowns. "Yes. Why?"
+
+"Dark Matter is much like that road. Dark matter seems formless and weightless, but that is only because life in the universe has adapted to its constant, never-ending pressure. Hyperdrive ships force their way through the Dark Matter, and Warp Drives clear the immediate path in front of themselves. However, Dark Matter Propulsion is very different. It functions like a massive, molten railgun. The ship equipped with a Dark Matter Propulsion system detonates the Dark Matter ahead of itself for a single instant, clearing a straight line to its target destination, and while the Dark Matter from the universe is momentarily shoved aside, it slips through that micron-thin gap and instantly travels to its target star system. No time dilation. No speed limits. The cost is cheap, and the risk to your ship is nonexistent."
+
+"What's the catch?" Megla asks, crossing her arms. "It sounds too good to be true."
+
+Soren's face turns pale.
+
+"Oh... oh, galaxies... Admiral, if I'm not wrong, and I certainly hope I am..."
+
+José nods. "Go on."
+
+"...Shoving aside the dark matter to instantly travel to your destination; would that not cause incredible subspace fluctuations? That's a disaster waiting to happen!"
+
+Admiral Rodriguez falls silent.
+
+After a moment...
+
+...he sighs.
+
+"You should give yourself more credit, Soren. You intuitively understand that tearing through Dark Matter in such a brutal fashion would cause a catastrophe, and you're correct. It would, it could, and it _did._"
+
+José turns to the computer console. He taps a button, causing an animation to play of a miniature spaceship firing a Dark Matter Eraser Cannon. For a split-second, the void in front of it parts and the ship races through, while closing up immediately afterward.
+
+However, the animation pans outward to show a powerful shockwave rocketing outward from the laser's trajectory in every direction.
+
+"Dark Matter Propulsion creates a subspace impact wave that travels for tens of lightyears in every direction. Any stars impacted by the wave will hyper-ignite, often leading to multiple concurrent supernovas. After their invention, fifteen different ships launched via Dark Matter Propulsion. Altogether, they destroyed more than fifty star systems. Trillions of humans perished before the inventor committed suicide out of guilt at the horrors he'd unleashed. Afterward, we banned this method of FTL travel, forever."
+
+The Admiral swipes across the screen to turn it off.
+
+"That concludes my explanation of the nine most well-known methods of FTL travel. Naturally, two of them are not recommended, and the others have all manner of costs and benefits. Any questions?"
+
+"Is Dark Matter really the thing limiting our exploration of the cosmos?" Soren asks. "The way you describe it, you make it sound as if we could move thousands of times faster than the speed of light if Dark Matter wasn't in our way."
+
+Admiral Rodriguez nods. "It's exactly as you say. Because of the constant pressure Dark Matter places on particles like light, we have to find ways to work around it. If you were to somehow erase all of the Dark Matter from the universe, we would immediately experience a tremendous boost in speed and strength. You would be able to lift this spaceship without trouble and run hundreds of times faster than ever before. Theoretically, of course. Conversely, Dark Matter keeps the universe expanding, so without it, the universe would begin contracting toward a central origin point. Within a few billion years, we would undo the Big Bang."
+
+"The what?" Megla asks.
+
+"...Let's not get into that," José chuckles.
+
+Megla nods. "Moving on, you told us about all those different types of FTL, but what did any of that have to do with the Bloodbearer's Triple-Induction Drive?"
+
+"I'm glad you asked."
+
+José points toward the three circular platforms in the center of the engine room, their rapidly spinning bio-fusion energy orbs, and the force fields enclosing said orbs.
+
+"Even in my era, most ships were only able to use one form of FTL. For example, a ship might have a Hyperdrive or a Warp Drive or it could use one of the two types of Folded Space travel methods. However, there were a small minority of military vessels, or ships owned by rich politicians, powerful moguls, and so on. Those vessels could use _two_ types of FTL. As an example, they might have a Hyperdrive and an Inverted Space-drive. What makes the Bloodbearer a true rarity is..."
+
+The Admiral trails off and looks at Soren meaningfully. Her eyes sparkle with recognition as the sides of her mouth curl into a smile. "The Bloodbearer has three types of FTL available."
+
+"That's right, again," José replies. "This ship has a Warp Drive, but also the ability to enter Folded and Inverted Space. Three types of FTL. As a war vessel, it was cutting edge, even among other 50th Era vessels."
+
+José touches the controls on his wheelchair. He pulls away from the console and rolls toward the engines, all three of them humming energetically.
+
+"Soren, Megla. Since I sent Orgon's fleet scurrying home, how far would they have to travel, and how long would it take them to arrive?"
+
+"Well," Megla responds, "assuming they decided to head to Dragua, the Kraktol homeworld, they would have to travel around 700 lightyears."
+
+Soren nods. "They will likely report directly to the Thülvik. Since you erased their memories and databanks, it's unlikely they will be able to report the status of this vessel."
+
+"I see," José mutters. "And how far is the Kessu homeworld from this plasma cloud?"
+
+"About fifty lightyears," Megla says. "We didn't pursue the Kessu far before they sought refuge here."
+
+The Admiral taps his finger rhythmically on his chair's arm.
+
+"Assuming your former crew travel at Warp Six, it will take them a little under two months to make it home. If your leader takes immediate action and decides to attack the Kessu homeworld, it will be another two months before they return. Therefore, I will estimate that we only have three months to repair the Bloodbearer's engines. Once we enter Inverted Space, we will have plenty of time afterward to repair other internal systems."
+
+Soren smiles. "I see. Admiral, that's quite clever."
+
+"Hm?" Megla grunts. "What is? Did I miss something?"
+
+"Inverted Space will give us several additional weeks to repair the Bloodbearer's internal systems," Soren says. "We have to repair the engines to working order within three months, but thanks to time dilation, once we enter Inverted Space, the fifty-lightyear trip to the Kessu homeworld will give us the opportunity to repair other systems."
+
+"Soren, excellent observational skills, as always," José says. "Once we enter Inverted Space, the few-hour trip to the Kessu homeworld will extend to another few weeks. I can somewhat control the level of dilation this vessel experiences, so I will stretch it to its highest level. With any luck, we can evacuate all of the remaining Kessu from their homeworld and put them aboard the Bloodbearer. We'll also take the initiative to absorb biomatter for our internal storage, and obtain plenty of fresh new crewman who can help bring the Bloodbearer to tip-top shape."
+
+The red-scaled Kraktol frowns. "What use will a bunch of primitive Kessu be? There's only so much they can clean."
+
+"Megla, you don't need to worry about that. I have ways to make every crew member useful. With a ship in as bad of condition as the Bloodbearer, I will find _plenty_ of work for everyone to do. Speaking of which..."
+
+José spends the next several minutes pointing out various aspects of the engine room. He indicates all of the problem areas and gives them a quick rundown on how to use some of the advanced functions of their repair tools.
+
+"...And afterward, you'll want to ensure the coolant manifold stays in sync with the desired temperature ratios. Did you get all of that?"
+
+Megla shrugs. "Somewhat."
+
+Soren nods. "If she misses anything, I'll remind her."
+
+"Good, good. You two are the most advanced minds aboard this ship. I hope I'll be able to count on you in the future. Now, if you'll excuse me, I need to find the Kessu. You have your orders, and I'll give them theirs."
+
+"Of course, Admiral," Soren nods.
+
+Megla appears less enthusiastic. "Sigh. You get to roll around in a wheelchair while we scrape off the hardened plasma gunk."
+
+"Trust me," José says, his smile fading away. "I don't enjoy being helpless."
+
+As the Admiral turns and wheels away, Megla smacks herself in the head. Under her breath, she mutters, "_Stupid. Can't believe I said that. I'm such an idiot._"
+
+José pretends not to hear, swallowing a chuckle as the engine room doors close behind him.
+
+"Umi. I've changed my mind. Allow the Kraktol access to Class 4 information and below. I'm starting to like them."
+
+"**Orders confirmed, Admiral.**"

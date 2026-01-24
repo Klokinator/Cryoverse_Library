@@ -1,0 +1,57 @@
+Part 243a
+
+"The Newton Engine is complete? That was fast work." I'm actually kind of impressed. I expected it would take another year or two, but this was unprecedented. "You and your team did good work, Mister...?"
+
+"Jorgensen. Samuel Jorgensen. A pleasure to meet the man who brought us into the Fusion Age." He jerks his hand forwards and I awkwardly shake it, being careful to not use too much grip. At this point, my suit has been enhanced so much I could crush diamonds without a second thought.
+
+"Alright, Mr. Jorgensen, show me the engine. How is it working?" I follow him into the door behind the lab which opens only thanks to 4 different types of security codes as well as a retinal scan and a fingerprint. It reminded me of Rachael's own security setup, though it was even a bit further beyond her level of security.
+
+As we entered a massive hangar in the room afterwards, I watched silently as Samuel guided me over to the middle of the hangar. I saw the engine long before we actually arrived and was shocked at how big it was. "This is too large. We can't fit this on any ship smaller than a capital-class ship."
+
+"It can't be helped. We'll miniaturize it given time, but this early prototype will allow us to break past the speed of light. It works identically to the engines on the Flagship you took from the Volgrim, and it's the same size too. In fact, these are quite tiny compared to the ship's size, we're lucky they used such small engines."
+
+"Have you finally managed to locate the Volgrim homeworld?" I suddenly held my breath as I awaited his response.
+
+"...Unfortunately... no. The data kept getting mysteriously corrupted, and we couldn't salvage it. We did get a rough location, but it's the size of twenty thousand Solar Systems. Not exactly easy to narrow down."
+
+It must have been Umi. She sabotaged the system to hide the Volgrim's homeworld. The question is _why_? Perhaps she doesn't want humanity to attack them and for both sides to be embroiled in a vicious war devastating both homeworlds. Or, the other possibility is that she's protecting the Volgrim. Either way, Umi has to be at fault here. I can't see it being a coincidence.
+
+Umi hasn't made a peep in all of these years since the Volgrim attack. I can't tell if she is even still in the Flagship's computer system, and according to what I've seen she hasn't contacted anyone on Earth... so why is she being totally silent? It's almost like she's just creepily watching us, plotting, planning, or debating over how to proceed.
+
+"Well, a rough location is better than nothing. Will the Newton Engine be available for mass production soon for the P.O.D.S.?"
+
+Samuel shook his head. "In a manner of speaking, no. Perhaps in 6 months, but we've run into a terrible problem with exceeding the speed of light."
+
+I stared at him and waited for a second, but he didn't elaborate, as if he were waiting for me to respond. "Alright, I'll bite. What's the problem?"
+
+"Energy. We need very specialized exotic energy that apparently doesn't exist on Earth. We're working on refining an energy called 'dilithium', but it's extremely expensive and slow to create. Once you can create the first batch, you can use the energy gained from it to more rapidly create the next batches, but even with all of that said and done, dilithium isn't the energy that we need. It will only allow us to travel up to Warp 5, which is somewhat fast but not fast enough to rapidly move the P.O.D.S. to other systems. Certainly not fast enough for speedy exploration of the potential Volgrim systems." Samuel shoved his glasses up his nose as he glanced down at the holo-watch on his arm, which was quickly flipping through various reports.
+
+"So... we have an energy problem, huh..." My voice trailed off as a thought hit me. _Jesus Christ, could this be the precursor to the dreaded Energy Wars?_ If this is what started the war, that would take us one step closer to my merely continuing the original timeline, and not having changed anything at all. "Right well, do what you can. Is there a better source of energy we could use?"
+
+"I was just going to bring that up." Samuel projects his holo-watch's display upwards more visibly so I can see it. "This is a crystal that the Volgrim use, it's called Trifrancium. It can be used repeatedly, over and over, all the way up to Warp 6. After that, it begins to rapidly degrade due to the amount of energy needed to travel faster and faster. The nearest part of the Volgrim system, based on what little we could find in the computer, is about 13,000-15,000 light years away. At Warp 8, which is unattainable for us right now, it would take us roughly two weeks to get there. At Warp 5, which is our current fastest speed, it would take us about nineteen and a half years to reach the furthest part of the Volgarian systems. However, it would be plenty fast to explore nearby systems, such as Alpha Centauri."
+
+I nodded slowly. "Okay, so Dilithium is hard to make and degrades rapidly, but Trifrancium doesn't? Why is it stable until Warp 6?"
+
+He shook his head. "That question will be hard to answer until we get our hands on some. One thing is for sure, the Volgrim are low on it. They only use it for emergencies. Dilithium is like fossil fuels, in that it is a finite resource and will get used up over time, and much faster if you crank the engines up to very high energy levels. Trifrancium is a much more powerful material, it rebuilds itself as you travel around, up to warp 6. At warp 7, it starts to degrade slowly, but you can still extend its use for a long time. At warp 8, it degrades very rapidly, and at warp nine, it's only useful for one big burst of movement before it totally expires. But, there is another issue with traveling faster than warp 8."
+
+I nodded. "What might that be?"
+
+"The limits of biological life. Traveling at warp 9 puts immense stress on the body. You will likely implode after just a few seconds of sustained travel, and even a single second at that speed will likely cause immense long term damage. For this reason, the Volgrim only use unmanned spaceships of small size to travel at that speed."
+
+I popped a crick in my knee as Samuel shoved his glasses up again. "All right, I think I'm beginning to get the picture. Still, we don't need to take the fight to their homeworld, we need to explore our own system. How rare is Trifrancium?"
+
+"It's ultra rare. Less than a trillionth of the material in the universe is naturally converted to it. You can convert lesser material to Trifrancium, but it takes an enormous amount of heat and pressure, basically the inside of a star. Our best bet will be exploring the leftovers of supernovae, or finding some exotic planet where it can be mined, though this option is the least likely."
+
+I sighed as I leaned against a nearby workbench. "Alright, so it'll take 6 months to get FTL engines online and ready to go. I can work with that. How about the new Particulate Cannon MK II? Is it operational?"
+
+"Yes, months ago actually. The ships were all outfitted with it. You haven't heard?"
+
+I shook my head and lowered my gaze. "No. I've been... rather busy."
+
+Samuel smiled quickly and then pulled up his holowatch one last time. "Here's the new schematics for the Newton Engine. I'll leave a copy with you for safekeeping, just in case. I hope you have good security on your... suit internals." A blip appeared inside my visor's HUD telling me that the information had been downloaded.
+
+"Don't worry about it, at this point I'm pretty sure my suit's security is impermeable. Have a nice day, Doctor Jorgensen. Take care of yourself."
+
+Samuel smiles again and shakes my hand. "You as well, Judicator. You're a hero to mankind, you know."
+
+"Heh, if only you knew."

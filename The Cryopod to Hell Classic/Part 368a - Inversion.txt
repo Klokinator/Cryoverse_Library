@@ -1,0 +1,205 @@
+Part 368a - Inversion
+
+"They're tenacious." Nufaris thumbed his nose uneasily as he watched the battle unfolding. For over an hour, they had been trading blows and things were stalemating quickly.
+
+"We still can't pierce their shields with the Ryden cannons, Executor Nufaris. Every time we hit them, the shields weaken momentarily, then surge back to full power. We're taking more losses than they are, but occasionally we get lucky and find a ship that doesn't have these strange shields."
+
+The scanning officer was tight lipped and intent on his job, but Nufaris raised an eyebrow at him nonetheless. "I don't believe in luck. They must be reinforcing their front line with these altered ships somehow. What changed? Why are these new ships so much better at deflecting the Ryden cannon? Think, crewman."
+
+The other Volgrim lowered his head for a moment before raising it again. "Perhaps he's... perhaps the Commander is using Wordsmithing to reinforce their shields?"
+
+"Unlikely. We would pierce right through if that were the case. It must be something else."
+
+The scanning officer quickly glanced at Nufaris before looking back to his display. "You know what the cause is then, Executor?"
+
+"Of course I do. It's important for you to figure it out though. Combat is not simply about winning, it is about understanding your enemy."
+
+A different officer spoke up, her voice tinged with doubt. "Might he be... boosting the performance of the shield reactors themselves?"
+
+"Exactly. Impressive as always, Elder Zasra. If he boosts the abilities of the reactor itself, then the shields will be able to resist without allowing our anti-energy cannon to pierce through. However, another question remains. What do you suppose that is?"
+
+A flash of light shot past the viewscreen, missing their ship by just a few meters. "If he is boosting the performance of their shields, why are only some of the ships boosted?"
+
+"Correct. The method he is using must be imperfect and require someone with specialized talents to keep an eye on the situation, correcting the shields as they falter. This means there must be a portion of the fleet that is unprotected."
+
+Elder Zasra breathed lightly as she looked out at the battle before them. "The rear guard."
+
+"Now you understand. He wants us to keep focusing on the front lines, because those ships are invulnerable from a practical standpoint. But this must mean that the rear of the fleet is quite easy prey for our Intrepid-class fighters."
+
+Nufaris took a step back and smoothed his hair, even as he felt his hands shaking. Not from fear of course, for there was no reason to fear an enemy you understood. No, this was due to a different emotion... excitement. At long last, those who laid waste to the legacy of his people would soon be a memory among the universe, one to later be purged by the memory scrubbing machines.
+
+The humans didn't deserve to be left even as a blip marker in a holo-bank.
+
+_Still, it is an interesting story, that of our time fighting the humans. I was too soft when we first began, assuming that we might be able to resolve things diplomatically. The humans are a species that adores war, and so they will live by the blaster, only to die by the blaster._
+
+He smirked to himself. _Fitting. Unfortunate that our temporary allies will have to pay the price as well, but their intelligence on the human leader was quite useful. We will be sure to revere them as true warriors once this conflict is finally put behind us._
+
+"I want all ships to begin targeting the enhanced enemy vessels at a fifty to one ratio. Aim at any specific spot on a given ship, and hammer it with everything we've got until the shields fail, then destroy that ship methodically. Following this, deploy the Intrepid fighters and have them so a short range warp-jump behind enemy lines and smash the unenhanced ships while their attention is on our forward barrage."
+
+Zasra sent a questioning look his way. "I thought you said their enhanced shields were impenetrable?"
+
+"They aren't. I was being facetious. The shields have a clear pattern of dipping and rebuilding themselves, so if we focus fire, we will cause the humans much headache. Besides, this is all just a distraction anyway."
+
+"Understood, Executor."
+
+The crew members on the bridge swiftly relayed his commands to the rest of the ships, even as his scanning officer looked rather sullen at not figuring out the answer to Nufaris' question sooner.
+
+_Soon... the humans will know the taste of fear and humiliation. There will be no refuge for their kind._
+
+....................................................
+
+Sensei's eyes watered as he yelled again. " **Rebuild! Regenerate!** " Every time the shield dipped below 75%, he would yell again and again, and his voice was getting hoarse now. Even though he was wearing a Hypersuit and none of the nearby crew could hear him yelling, he still felt like they were staring at him angrily for standing around and doing nothing. If only they knew the toll this was taking on him.
+
+He coughed suddenly, as his voice caught in his throat. " **Heal.** His throat repaired itself and he felt better again, but he knew by his mental calculations and the ability to feel the energy in his body that his reserves were going down quickly and he was already nearing the half-empty threshold. There were still hundreds of canisters filled with type 3 energy that Original had been storing for years, but in a prolonged battle, those surely wouldn't last forever.
+
+Worse, he was a first generation clone. The other clones from second generation and on were probably already running on fumes and dipping into the energy reserves. This was at best a band-aid.
+
+He grimaced as the ship shuddered slightly and the shields dropped to 90%. "Back to the grind."
+
+Before he could wordsmith, the ship violently lurched, tossing him backwards and making him fall flat on his ass. He activated his speakers as quickly as possible. "Status report!"
+
+"They're concentrating fire on us! Almost fifty ships at once!" A nearby engineer yelled out, his calm from a few moments ago totally gone. Sensei stood back up only to gawk at the shield indicators. They had plummeted from 90% all the way to 25%. Alerts covered the screen as he quickly wordsmithing again. " **Rebuild! Regenerate! Enhance!** "
+
+The shields lurched back up to 50% but quickly dropped again as the viewscreen showed him a wall of enemy fire concentrating his ship down.
+
+_I was worried about this. Can't just create a shield either, not with wordsmithing. If it's made of heroic energy it'll probably be dissipated instantly._
+
+He activated the comm in his suit. "Original! Are the Dartfighters launched yet?! What's taking so long?!"
+
+"No good." Original's voice had a tinge of sadness in it. "The Dartfighters lose the hull enhancements once they get within range of the Volgrim ship. At this point, I don't think we're just dealing with energy nullification, this must be.... something else. Maybe energy inversion. I didn't think it was possible."
+
+His voice was unnaturally calm, given the situation. "Redirect some asteroids into their ships, then! Do something!"
+
+"I don't know what to do. I'm talking with Harold though, we'll figure something out."
+
+"I hope so." Sensei started to say something else but the ship shook again and the shield generator behind him exploded violently, the cascade of power blasting him forwards until he smashed against a wall.
+
+He was totally uninjured and quickly jumped back to his feet, but he was surprised to see the entire bulkhead where the generator had been was _gone_. It had been totally blown away and sent out into the blackness of space, the emergency force fields initializing in its wake to seal the breach.
+
+An alarm light blared, but no noise was audible. Sensei quickly realized the oxygen in the room had been vacuumed out into space.
+
+"I have to go. Ship just took a bad hit." He clicked the line off without waiting for confirmation, as he pushed himself through the air towards the hull breach. The gravity generators had gone offline in his room, so he would have to move quickly in order to seal up the hole in time to save the ship.
+
+_What happened?! How did they manage to punch through the shields so fast? They weren't even close before!_
+
+....................................................
+
+Three cherubs held together in a tight formation as they swung their swords to the right and the left, hacking down demons by the dozens.
+
+"Hold the line! Don't let them through!" Zeus howled at the top of his lungs as he aimed his rod towards a group of clustered demons. A second later, a blast of lightning shot out at the speed of light, screaming forwards like an angry maelstrom as it devoured all of the demons in sight.
+
+Zeus took a step back and gasped for breath. The demons were relentless. This would be called the Second Battle for Heaven, if they managed to win again. His energy was drained quickly by using his lightning though, and there was simply no way to keep it up for extended periods of time without draining his life force.
+
+Behind him, Gabriel sat on the ground with his legs crossed as he meditated. It had been a long time since he had fought in battle, and condensing his energy together would be necessary to maintain Cosmic status, a form that temporarily gave him access to unlimited energy.
+
+Zeus cursed himself for not taking the time to give another Archangel Cosmic status. "Brother! How much longer before you're ready?!" A Scyther leaped towards Zeus and he deftly swung his blunt rod at the demon, hitting it with enough force to splatter it into pieces all over the grass.
+
+"Just another few minutes. Hold out." Gabriel's eyebrow twitched even as he kept his eyes locked shut.
+
+"Make it fast!" Zeus looked from side to side, using his special vision to hunt for great sources of demonic energy. From a distance, he spotted a massive brutish demon with a huge flail tearing through hordes of angels with ease.
+
+_I can't leave my brother behind, as he is defenseless while he gathers his energy. But neither can I let that behemoth crush my comrades!_
+
+Zeus raised his thumb to his mouth and bit into it hard, feeling the taste of blood fill his mouth. An instant later, time began to slow down around him. Soon, it crawled and he could move normally.
+
+Running forwards, he smashed his rod into several demons along the way, sending their heads flying from the tops of their bodies and far off into the distance. The foul beasts would never know to what deity they owned the honor of meeting their end.
+
+Quickly he appeared before the demon with the flail and smashed the demon with his fists, buffeting and pummeling him with every ounce of power he had. This was no ordinary demon, but a demon emperor, if his energy level was to be gauged correctly.
+
+Zeus battered him, smashed him, pounded him with every ounce of power he had, then finished by beating the fat one with the bodies of other demons.
+
+His heart pulsed in agony and he realized his minute of light-time was nearly up. Faster than even he thought possible, he rushed back to his brother only to collapse in exhaustion at the feet of Gabriel.
+
+Gabriel didn't open his eyes. "Foolish. Don't waste Temporal Manipulation on small fry."
+
+Zeus spit blood on the ground as he raised his head to search for the massive demon he had just savagely tore into. "You're one to talk. Hurry up with the transformation!"
+
+"Almost done."
+
+Finally, Zeus spotted the demon and a chill went down his arms. The demon was limping now, but otherwise was nowhere close to dead. What was he made of?!
+
+"Done." Gabriel leaped to his feet as his eyes glowed yellow. He slapped his chest and wrenched his wrist in a circle and began to grow enormously. Soon, he was bigger than Kronos had been when Zeus fought the old demon, all those centuries ago.
+
+Gabriel didn't smile as he aimed his hand forwards and blasted out a colossal amount of energy towards the demons.
+
+_We can win this._ Zeus climbed to he feet shakily and charged back into battle. _We will destroy the demons today!_
+
+....................................................
+
+I can't believe it. The readouts in front of me indicate Sensei's ship just exploded. I mean, he's not dead. Not a chance. The hypersuits are just too ridiculous for that to happen. But, still... this isn't good. Now they're punching right through our shields. Sustained focus fire can make even the strongest defense crumble.
+
+"Kid, got bad news." Harold tightly speaks in my mind. "Bunch o' aliens just jumped behind the fleet. They're takin' out the ships that ain't reinforced."
+
+"What? Damn." Reflexively, I grip Excalibur at my side. "Try... I don't know." I hesitate, unsure of what to do. Nufaris is being so vicious, and is unwilling to listen. I thought this battle would be easy, but I was totally wrong. That's on me. I can't let humanity suffer for my cockiness."Do you think if I got aboard the flagship I could take Nufaris out?"
+
+"Not a chance. That ship is surrounded by their weird anti-energy aura. More likely, you'd prolly die if you stepped in it. It wreaks havoc on our ships you powered up."
+
+His words spark my imagination. "That's it! They're not nullifying my wordsmithing, they're inverting it! That means our ships are being weakened by having my magic on it! So..." I tap the comms to speak to all of my clones via their Hypersuits at once. "Listen up! I want all of you to use 'Dispel' on your ships and other nearby ships! Dispel all of our enhancements to their hulls. The Volgrim weapons are using our own energy against us!"
+
+Nobody responds, but they don't need to. A quick readout on my tactical display indicates that nearly every ship in the fleet simultaneously is losing 50% of their hull integrity. The real question is if this will work out in the end or not. If it does, then it was a wise maneuver. If it doesn't... I've just hastened our demise.
+
+...Minutes pass. I'm stunned to see that the enemy changes their attack strategy again, no longer relying on brute-forcing their way past our shields. In fact, we're starting to take the offensive. My plan was a success.
+
+"Nice work, Original. Quick thinking. I should have thought of that." Sensei's voice sounds off in my ear. "Maybe you're smarter than I expected."
+
+_Um, thanks I guess?_ I ignore the left handed compliment. "I have my moments. Let's push back against them!"
+
+"You got it!" Sensei snickers quietly as he disconnects again.
+
+At least the conversation was positive. After this is all over, I need to have a talk with my clones. I need to figure out what's going on. I'm obviously doing a terrible job and they seem to have no respect for me, so I'll need to take care of that.
+
+Harold suddenly speaks to me in my mind. "Oh... oh god, kid. Oh god."
+
+"Harold? What's wrong? What's going on?"
+
+He sounds absolutely crushed, as if he just found out a secret that will change the fabric of reality. "The Volgrim are pullin' back, kid."
+
+"Really? That's good! Uh, right? Am I missing something?"
+
+"Yeah, it's good. Too good to be true. But I finally realized why they's been playin' this long game. They had something else with 'em. Look."
+
+My viewscreen lights up with an image that chills me to the bone.
+
+"What the hell... what is that _thing_? It's... is that what was giving us the reading from... before?"
+
+"Yeah. It... it went around the battle. It warped further into the solar system. It's just now gone past Mars."
+
+My heart skips a beat. "What?! We have to intercept it! We have to get back to Earth!"
+
+"I'm on it." The old man seems to choke back emotions as the flight path on the ship changes suddenly. "Let's just hope we make it in time, boy."
+
+....................................................
+
+Jorge clicked the revolver's hammer, then pulled the trigger as the gun made an empty sound. He continued staring ahead blankly, as he clicked the hammer down again, pulling the trigger once more.
+
+Sitting on a bench just outside his house, he stared across the street blankly at the wall of his neighbor's building. The sun was warmer than usual, just warm enough to start melting the snow in the area, but not warm enough to go for a jog in. Still, he wore no coat, ignoring the cold temperatures and chilly winds that whistled around him.
+
+_I don't have anything left to live for._
+
+He clicked the hammer on the revolver again, as he wondered to himself what it would feel like... what it would feel like to slide a bullet inside the chamber.
+
+_I'll just put one bullet in there. Spin the cylinder around... pull the trigger. Fun little game of Russian Roulette. Yeah... fun little game._
+
+His wife was taken by the demons, his daughter killed, his career over. The last one didn't even matter to him, but it added salt to the wound.
+
+_God hates me. That's what it is. I cheated and he took them from me. What's the point of going on like this anymore?_
+
+He lifted his head up to stare at the sun. A cloud somewhat blocked it, but the sky was mostly clear. The moon was visible above, an odd sight to see in the middle of the day on a January morning.
+
+A smell of bacon drifted on the wind, but Jorge ignored it. _Food is for people who deserve good things. Food isn't for me._
+
+His stomach growled angrily, but he just rubbed it and closed his eyes. It had been three days since he last ate, and he had decided not to eat again unless his wife returned from the lair of the demons. Fasting was the least he could do, considering she was likely suffering unimaginable torture under their hands.
+
+_I'm weak. I don't even know where the bastards took her. If they did, would I go and rescue her? My mind says yes, but my heart says no._
+
+He pulled the trigger again and the gun clicked loudly in his hand.
+
+_What's the point of living without them? They were everything to me._
+
+He leaned his head back and stared at the moon, in all of its glory. It was bigger than usual, a sight he would normally be glad to have seen. Now, he just didn't care.
+
+Still, he stared at the moon in the sky, blinking slowly as he noticed something odd. To the right of the moon, a strange sphere had appeared. It was about a quarter the size of the moon, but unless his eyes were deceiving him, it appeared to be growing in size... very slowly.
+
+Very slowly, indeed.
+
+"I wonder if I'm hallucinating." Jorge mumbled to nobody in particular, as he pulled back the hammer on the revolver again.

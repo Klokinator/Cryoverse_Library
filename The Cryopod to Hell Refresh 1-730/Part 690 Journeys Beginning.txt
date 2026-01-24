@@ -1,0 +1,271 @@
+Part 690: Journey's Beginning
+
+_Far-Future Era. Day 20, AJR. Chrona._
+
+"So. Ferral, since you know more about the System than Marigold, this is primarily directed at you, but Marigold, you can feel free to add your input." Timothy said. He paused before continuing. "I have a choice to make regarding a new System feature I can unlock. I can either unlock the Pawn Summoning system, the Dungeon system, or the Crafting system. I've already ruled out Crafting, at least for now, because my mom has Crafting. I'm torn between the other two."
+
+Timothy explained what all three systems were in enough simplicity and detail that even Marigold could follow along. Ferral tapped his chin thoughtfully.
+
+[Timothy, I was also given a choice of unlocking three game systems, though I have not yet decided which one I wished to unlock. Additionally, mine were a little different from yours. They were as follows...]
+
+He proceeded to list them off.
+
+---
+
+**[Devour Uniqueness]**
+
+_You are what you eat. By consuming the dead or living bodies of sentient and non-sentient entities, you can absorb part or the entirety of what makes them Unique. This system does very little at first, but can rapidly empower the Player as they become able to consume more and more. However, due to Contamination, the Player must beware. Obtaining too many abilities can slowly alter the Player's biological makeup, including their mind. They may eventually transform into a dangerous monster with little to no self-awareness. Power comes at a price._
+
+**[Create Dungeon]**
+
+_The Player is often limited in ways they can gain EXP by the Quests available to them. Dungeons solve this issue. The Player can create an instanced Dungeon to venture inside and slay monsters, collect loot, and level up. Items obtained in the dungeon can be brought outside. Dungeons must be completed once opened, or else they may Dungeon Break, causing all the monsters inside to spill out into reality. This is very dangerous, and should be prevented if possible. Only Players may enter Dungeons, unless the Dungeon Break event has occurred, in which case non-Players can enter as well._
+
+**[Bestiary]**
+
+_Learn about the creatures you encounter and log down their Unique features. Obtain powerful benefits by hunting mighty beasts. Learn the weaknesses of Sentients to use against them. Learn the specific loot drops of each creature and use that to target specific items and crafting materials. Splice the genetic material of researched creatures onto yourself and others; experiment to find powerful mutations. Eventually, grow your own mutated creatures to fight alongside you._
+
+---
+
+After Ferral explained his three options, he shook his head. [I was already thinking of choosing Create Dungeon. Devouring is not my style. I do not possess a mouth, and even if I can Devour by using a different method, this System does not suit me. The Bestiary seems useful, but I am too focused on advancing my Psionics to worry about collecting information on other sentient and non-sentient creatures. Thus, the Create Dungeon system is most useful to me.]
+
+Timothy gaped at Ferral. "_Bestiary_? I have that unlocked right now! I scanned a bunch of people and creatures with my eye skill, and that unlocked the Bestiary. I didn't realize it was an entire major System on par with Create Dungeon! I think this seals the deal, then, doesn't it? Ferral, you should pick Create Dungeon, and I'll pick Pawn Summoning. If one of us can summon a Dungeon, then we all can benefit. Pawn Summoning sounds like it will be extremely useful, so I'd like to see what it can do. I'm also betting I'll be able to unlock Dungeons some levels in the future."
+
+Timothy also thought about the fact that the Bestiary description for Ferral gave a lot more information on what it could do. It seemed it wasn't merely an information-collecting system, but one that provided real tangible benefits.
+
+Marigold didn't have an opinion, since she had barely even started her Player journey. She just let the boys choose whatever they wanted. As such, Timothy selected Pawn Summoning, while Ferral selected Create Dungeon.
+
+[Astounding.] Ferral said, a few minutes after he and Timothy had started scrutinizing their new systems. [I am currently able to summon one free dungeon every seven cycles. The dungeon must be at my level, but there are other options for summoning more powerful dungeons. I must unlock them later, after fulfilling some unknown requirement. It also appears I will someday be able to select the type of dungeon I summon, as well as its level range and tier.]
+
+"Pawn Summoning seems really cool too." Timothy said. "It's a bit weak right now, though."
+
+Timothy looked at the menu carefully.
+
+---
+
+**---PAWN SUMMONING---**
+
+_The Player may only summon [ONE] Pawn at present. If the maximum number of Pawns are currently summoned, one Pawn must be killed or dispelled before another may be summoned._
+
+**[Summon Mundane Pawn] [Cost: None] [Cooldown: 24 Hours] [Duration: Unlimited]**
+
+_Summon a pawn from across time and space that is equal to your strength or weaker. The Pawn will be mindless and lack intelligence. The Pawn has a small chance to contain intelligence, but this is unreliable. The Pawn will remain summoned until it dies, or the Player dispels it._
+
+**[Summon Simple Pawn] [Cost: Greater of 10% Player's Gold OR 100 Gold] [Cooldown: None] [Duration: Unlimited]**
+
+_Summon a pawn from across time and space that is equal to your strength. The Pawn may be mindless, or it may possess intelligence. The Pawn can be a weaker version of a powerful entity. The Pawn will remain summoned until it dies, or the Player dispels it._
+
+**[Summon Intermediate Pawn] [Cost: Greater of 35% Player's Gold OR 10,000 Gold] [Cooldown: None] [Duration: Unlimited]**
+
+_Summon a pawn from across time and space that is somewhat stronger than you. The Pawn will typically be intelligent, but has a chance to be mindless. The Pawn can be a weaker version of a powerful entity. The Pawn will remain summoned until it dies, or the Player dispels it._
+
+**[Summon Powerful Pawn] [Cost: Greater of 75% Player's Gold OR 1,000,000 Gold] [Cooldown: None] [Duration: Unlimited]**
+
+_Summon a pawn from across time and space that is much stronger than you. The Pawn will always be intelligent. The Pawn may resist the Player's orders if the Player's strength is insufficient. The Pawn may rebel. The Pawn will remain summoned until it dies, or the Player dispels it, or the Pawn returns itself to the Void._
+
+**[Summon Legendary Pawn] [Cost: Greater of 100% Player's Gold OR 1,000,000,000 Gold] [Cooldown: None] [Duration: 1 Hour]**
+
+_Summon an unfathomably powerful Pawn that will reach the absolute limits of the universe's power. The Pawn will be extremely intelligent and completely obedient to the Player, but can only exist for a short duration of time. The Pawn cannot be summoned if the Player does not possess the minimum quantity of gold pieces._
+
+**[Summon Chaotic Pawn] [Cost: None] [Cooldown: None] [Duration: Unlimited]**
+
+_Summon an extremely powerful Pawn that is vastly stronger than the Player. The Pawn is uncontrollable, and will do as it pleases. The Player cannot command the pawn, but may attempt to negotiate with it. The Pawn is capable of killing the Player. If the Player has reached an extremely high level of personal power, they may be able to negate all previous downsides. If the Pawn is not killed, it will continue to exist at its own whims for the duration of its natural lifespan. Are you sure you want to do this?_
+
+---
+
+Timothy stared hungrily at the options. They excited him and made him want to start playing around immediately, but he quickly sobered himself up and thought carefully about what he would do next.
+
+Timothy had no gold. He had not acquired even one piece yet. He knew there was a Store function, but the System hadn't offered him a single coin as a reward for any of his Quests. That meant summoning anything other than a Mundane Pawn or a Chaotic Pawn was impossible, and for blatantly obvious reasons, Chaotic Pawns were a complete no-go. He would simply destroy Chrona, perhaps even the Milky Way, if he used an ability so idiotic.
+
+But, it seemed that Mundane Pawns were completely harmless. He might as well give that a try, since there was an extremely long cooldown before he could summon another.
+
+"Alright. I'm gonna summon my first pawn. Give me a moment."
+
+He took a step back from the others, then stared at an open spot up ahead, near the giant boulder placed beside the swimming hole.
+
+"Mundane Pawn... summon!"
+
+Timothy didn't know what would happen. Without any fanfare, a figure simply... appeared. One second, he was not there. The next, he was.
+
+Timothy summoned a male demon. He had two tiny horns on his head, and otherwise looked completely ordinary. He was quite burly, at six-feet tall, and had messy black hair. He wore a shabby-looking pinstripe suit, and Timothy noted that there was blood on it.
+
+Timothy looked above the demon's head. There were bright green words suspended in midair.
+
+**[Demon Grunt - Paimon] [Class: Burrower]**
+
+Timothy looked up at those words, then he examined the demon before him.
+
+"Uh... Paimon? Is that your name?"
+
+The demon blinked his eyes. He looked to his left. Then he looked to his right.
+
+"Yes, master. That is my name." Paimon said after a few moments. He gazed at Timothy. "Where am I?"
+
+"You don't know?" Timothy asked. "You're inside a special dimension. I summoned you to be my pawn."
+
+Paimon slowly blinked. "Oh. That explains a lot."
+
+Timothy was surprised. It was clearly obvious this 'Paimon' wasn't some mindless drone. He possessed intelligence, which was supposed to be nearly impossible for a Mundane Summon. What luck!
+
+"Can you tell me about yourself?" Timothy asked.
+
+Paimon slowly blinked again. "I am Paimon. I aspire to become a Demon Emperor. Currently, I am nobody of note. What is your name, master?"
+
+"I'm Timothy." Timothy replied. "This is Ferral. He's a Psion. And this is Marigold, my girl- uh... well, she's..."
+
+Timothy glanced at Marigold. She looked back and met his eyes.
+
+"Were you going to say girlfriend?" Marigold asked, batting her eyes.
+
+Timothy smiled goofily. "Uh, yeah! I guess I'm kinda jumping the gun here, but... wanna make it official?"
+
+"That wasn't a very romantic way to phrase it. But yes! I'd love to!" Marigold said cheerfully. She walked over and kissed Timothy's cheek, which made both of them blush.
+
+Paimon simply stared.
+
+"A human. A Psion. A Crocodile. What a strange group of people. I was under the impression all the crocodiles had gone extinct."
+
+"Well, they nearly did." Timothy said, wincing slightly. "This realm has lots of them. Best you don't talk about that around them. They might bite your head off."
+
+"Oh." Paimon said. "I would prefer to keep my head attached."
+
+He rubbed his palms together.
+
+"Master. I am... feeling uncertain regarding how I arrived here. I know that you command me, and that I must obey, but otherwise I have no recollection of how I arrived. Could you inform me of recent matters? Where is this place, and what is my purpose? For what reason have you summoned me?"
+
+Timothy frowned. It seemed the System forced a small amount of information into Paimon's mind, but otherwise he had been brought here against his will and with no recollection of how. Was he a real entity that had existed in the past or future? Was he a copy of a living entity? Could he be considered a 'real person'? Timothy wasn't certain.
+
+"Sure. I'll fill you in." Timothy said. "First, this place is called Chrona, and around here there are mainly crocodiles, with a few Psions like Ferral, and humans like myself..."
+
+He spent the next ten minutes explaining the current circumstances to Paimon, who merely folded his hands behind his back and listened attentively. Despite his massive and bulky size, he had a refined aura to him, and seemed like a rather intelligent guy.
+
+"I roughly understand the current situation." Paimon said. "Pardon my impudence, master, but what year is it?"
+
+Timothy blanked out. "Uhh... I don't... I don't know how to answer that."
+
+Paimon rubbed his chin. "I am a member of the First Hell. How fares the First Hell these days? You are a human, yet you do not appear to be afraid of me. This suggests a major societal upheaval has occurred. Either that, or you are absolutely certain of my loyalty and do not fear my attacking you. Both possibilities seem plausible."
+
+Timothy shrugged. "Well, ever since the Plague started ravaging the galaxy, the Seven Hells have been in disarray. The Demon Deities are doing what they can to fight back, but it's mainly the Volgrim who are pressing back against the Swarm. Humanity has gained a major foothold, but my people are still recovering from two of our worlds being obliterated."
+
+Paimon slowly blinked his eyes three times. It was clear that most of what Timothy just said had gone over his head.
+
+"It... seems... a lot has changed. I have little understanding of the words you just spoke. I appear to have been transported to the future. Forgive me, master. I am behind the times and unaware of the current galactic situation. I would politely ask that you fill me in on the greater details at your convenience. It does not have to be right now."
+
+Timothy nodded. "Sure thing. You're the first Pawn I've summoned, but I already like you."
+
+"I like you as well. Which is strange." Paimon said, eyeing Timothy up and down. "I've always hated humans. But somehow, you remind me of someone."
+
+"Someone? Who?" Timothy asked.
+
+Paimon lightly shrugged. "I do not recall. It is only a faint impression that rests within my mind. I feel as if at some point I lost my hatred for humans, but I do not recall when. Perhaps this is because of your 'System' which summoned me."
+
+"You don't seem too broken up about... you know... becoming my _pawn_." Timothy pointed out.
+
+"I was a servant of the Demon Emperors. Now I am yours." Paimon replied. "The master may have changed, but my situation has not."
+
+Timothy suddenly felt terrible. He had effectively enslaved a sentient being, and the situation was so normal for his slave that he didn't even voice a word of resistance.
+
+Was this because of the System? Had it forcibly made Paimon more docile? Or was he like this before the System took him? Timothy still had no idea if he was a copy of a living being or a revived sentient brought under Timothy's control. He felt both options were quite awful.
+
+After vigorously debating all the options in his head, Timothy opted to silence his internal voices. Paimon was his Pawn now. That was neither good nor bad. What mattered was that Timothy intended to treat him well.
+
+"Well, Paimon. I look forward to getting to know you better in the coming days." Timothy said, patting Paimon's shoulder. "But for now, I need to focus on some other stuff. We'll talk later."
+
+Paimon bowed his head. "As you command, master."
+
+Satisfied, Timothy walked over to Marigold.
+
+"Ahem. Well, that was an awfully awkward way to make our relationship official. I wanted to be more romantic, but I blundered again."
+
+"That's okay, Timothy!" Marigold crowed. "It's the thought that counts. You're cute when you stumble over your words. It means you really like me!"
+
+"Yeah, I sure do." Timothy grinned. "Hey, while I've got you here, I need you to make a few Quests with Ferral and I both. It'll be a daily training Quest where you have to complete certain objectives every 24 hours. If you complete them properly, you'll get lots of items and level up quickly!"
+
+"That sounds exciting." Marigold said. "How do I do that?"
+
+Timothy explained the process. He brought Ferral over and formally updated both of their daily quests to be on the same level. Now Timothy had his ordinary daily Quest, a Training with Ferral Quest that perfectly matched the Daily Quest, and one with Marigold as well. At the same time, the other two mimicked him. They all had three copies of the same Quest, copies which would triple the rewards for doing the same thing in three instances. When Timothy jogged for 10 kilometers, he received three rewards from each of the quests, and so did Marigold and Ferral.
+
+It was a complete exploit of the System!
+
+There was only one caveat.
+
+"Ew! No WAY I'm eating vegetables!" Marigold complained. "I eat meat. That's it! Veggies are icky! They stick to my teeth and taste really gross!"
+
+Ferral looked at Timothy. [Crocodiles _are_ carnivores.]
+
+"Alright, that's fair. Just change the vegetable requirement to meat." Timothy said. "Think about it really hard and the Quest will change accordingly."
+
+Marigold chuffed. "Kyargh. Fine! That works for me. So what are we going to do now?"
+
+"We're going to get to training. Time's a-wasting!" Timothy said with a grin.
+
+And so they did. They started off with their daily jog, and Paimon ended up running alongside them, with Ferral on the right, Timothy on his left, Marigold on Timothy's left, and Paimon on Marigold's left.
+
+The group of four decided to run three circuits around the outside of Chrona's main city. As they did, Timothy pulled up the final rewards he hadn't chosen yet. These consisted of a Tier 1 Lootbox, a Mundane Skill Lootbox, and finally, a Rare Lootbox, since he had decided to skip on the extra Party slot.
+
+"Mundane Skillbox." He said while jogging.
+
+---
+
+**Efficient Eating**: [Active Skill] [Mundane] [Utility] [8 Hour Cooldown]
+
+_The Player gains the ability to digest and absorb the nutrients of any food consumed in the next 15 minutes by an additional 20%. The Player will more efficiently convert their calories and protein into muscle, but can also gain weight much more quickly._
+
+**Polearm Knowledge**: [Passive Skill] [Mundane] [Offense/Defense]
+
+_The Player gains basic to intermediate knowledge of how Polearms work. The player becomes relatively effective in combat when wielding Polearms, but still requires years of practice to become a true master. The Player can repair moderate damage to most Polearms due to knowledge of how they function._
+
+**Wilderness Junkie**: [Passive Skill] [Mundane] [Survival]
+
+_The Player will gain the effective knowledge of a five-year human veteran in guerilla warfare. The Player gains the innate ability to survive effectively even on hostile worlds with dense jungles. The Player can naturally intuit most of which plants and animals are dangerous to consume, can craft various items to assist long-term survival in the event of a crash-landing or becoming stranded, and so on._
+
+---
+
+Timothy was surprised. All of these were extremely useful skills. Though basic, being able to immediately acquire knowledge on a topic was something he didn't know the System could do.
+
+One of those skills was immediately useful for him, but the other two were only useful in the future. If he was going to go dungeon diving with Ferral and the others, then knowing how to use Polearms would be a great boon, but he immediately decided to pick Efficient Eating. Right now, having to stuff his face with food each day was going to make him sick, so being able to digest it much faster would be a huge help.
+
+Then, he opened the Tier 1 Lootbox. There ended up only being three crafting items, but one of them stood out to Timothy. He decided to grab it for his mom.
+
+---
+
+**Trifrancium (0.15 kgs)**: [Item] [Uncommon] [Crafting Material] [Exotic Energy]
+
+_An extremely rare fragment of Trifrancium. This exotic material can be used to power starship engines, and even a minuscule amount can possess enough energy to power a fusion reactor for centuries. Very dangerous. Highly unstable._
+
+---
+
+Finally, Timothy opened the Rare Lootbox. This time, he was truly stunned by what he saw.
+
+---
+
+**Nekomimi Mask**: [Item] [Rare] [Face Slot] [Stealth]
+
+_A lost fragment of an ancient item. Shaped like a Japanese Cat God, this mask looks rather silly but is effective at what it does. Hideki's mask grants the Player the ability to become unrecognizable when worn. Their aura will change, their voice will change, and their body will appear faintly illusory. Obviously, the mask itself will be quite distinct, but nobody will know who is under the Mask if the Player is cautious. Forged by a grandfather with love._
+
+**Neutralizer Bracelet**: [Item] [Rare] [Wrist] [Utility/Survival]
+
+_A Volgrim-created item that allows the Player to resist the negative effects of time dilation by up to 90% while worn. Time Dilation can no longer kill the Player as long as they wear the bracelet. The Player may suffer extreme pain from time dilation at first, but over time, that pain will wear off. If the Player takes off the bracelet, their body will immediately explode, and they will die. Only by returning to a stabilized dilation speed they were previously used to will they be able to safely remove the bracelet._
+
+**Lightning Dash**: [Active Skill] [Rare] [Movement/Offense] [Cost: 1 Mana] [Cooldown: 5 Seconds]
+
+_The Player gains the ability to dash forward at the speed of light, traveling any distance in a straight line. If the Player's dash would result in colliding with an object, they will either stop right in front of the object, or smash into it. If their body is capable of withstanding the impact, they will release an extremely powerful shockwave that will deal immense damage to the point of collision. If they cannot resist the impact, the Player will instantly die. Best used as a method of rapid transit across vast distances._
+
+---
+
+All three results were amazing. Timothy didn't see much use in disguising himself, so the strange first object didn't have much value to him, but the second and the third were insanely useful!
+
+"I just got the option to pick up a time dilation resistance bracelet!!" Timothy screeched. "This is amazing! If I take it, I'll be able to leave Chrona!"
+
+Marigold gave him a weird look. "You _want_ to leave? Why? Isn't Realspace super scary? It's way safer to live here."
+
+"Oh, sure, sure." Timothy acknowledged. "I can become stronger here for a few years, but ultimately I wish to return to Realspace and help save the galaxy. I won't do it until I'm a lot more capable than I am now, though."
+
+Ferral nodded as he jogged. [I believe this time dilation bracelet is a good item to acquire. At the very least, if something happens to Chrona, you will have a way to safeguard your life. Your mother would approve.]
+
+Timothy glanced at the Lightspeed Dash ability. It was really _really_ tempting to choose. Who wouldn't want the ability to move at the speed of light? The activation cost was practically nothing, and the cooldown was all but nonexistent. It was almost as good as teleportation!
+
+But ultimately, he chose the thing that made his heart race the fastest. He picked the Neutralizer Bracelet and gleefully stuffed it inside his inventory. Someday, he'd definitely find a good use for it. Maybe he'd even have his mom take it apart and learn how it worked. Then it would benefit everyone in Chrona!
+
+But, for the foreseeable future, Timothy did not plan to leave.
+
+His journey of self-improvement had only just begun.

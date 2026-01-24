@@ -1,0 +1,219 @@
+Part 429c - The Bunker
+
+Samantha's tail twitches back and forth anxiously, like a cat waiting for a dog to sniff up a different tree, while Cassiel's wings quiver with excitement. As for me, I sit and watch the world roll by under our craft, silently wringing my hands. Samantha has been uncharacteristically reserved ever since she woke up, while Cassiel has been giddy at the thought of seeing human technology again. Somehow though, it's Samantha's outlook that's rubbing off on me. Cassiel was chained to a wall for millions of years, while Samantha knows things about the outside of the Labyrinth that Cassiel and I don't. If she's nervous about something, there's probably a good reason for it.
+
+Samantha plays with her long black hair and jumps in her seat when a new voice in the room speaks up. "Query: Where are you directing the path of this ship?"
+
+I glance over and spot OMEN standing behind the three of us. We're all seated in the captain, navigator, and gunner chairs respectively, so all of our backs are facing the rear of the ship. This sneaky robot must have come up while we were deep in thought, but his arrival makes Samantha unbelievably tense.
+
+"It's not your business. Buzz off." She waves her hand dismissively at the automaton, and Cassiel scoffs.
+
+"Sammy! That's rude. He's just asking a question."
+
+Samantha rolls her eyes, "And I'm giving it an answer. It's none of that _thing's_ business."
+
+I decide to ignore their squabble. "We're following a faint energy reading a few hundred miles from where this ship was crashed. Do you know anything about it?"
+
+OMEN closes his eyes for a second, then opens them again. "Processing. Tentative Response: I am aware of no such energy readings. Given this planet was once home to the Volgrim, it is entirely possible there may be an outpost here. However, the likelihood is remote. My calculations put the probability at 2.1%."
+
+Samantha glares at the robot. "Is that so? Maybe it's just a leftover energy generator. That tech stuff might run for billions of years if nobody's using it."
+
+Cassiel clears her throat. "Ah, well actually, Sammy, even if the power source involves fusion or the core of the planet, it would break down quickly without someone to maintain it. There's probably someone still living there." She says this so confidently that I'm not sure if she knows it's true or not. While she and Samantha debate it, I slip the Crown of Solomon on my head and confirm that, indeed, no fusion generator or even exotic energy is likely to run forever without someone maintaining it. Even a star would eventually run out of fuel, though it would have far more material to work with than a planet.
+
+A thought occurs to me. "OMEN, you said your ship was surveying something on this world before you crashed. Do you happen to know what that was?"
+
+The robot stares at me blankly. "Immediate Response: Negative. I am unable to access much of the data regarding the crash. Hypothesis: The crew deliberately deleted that data prior to their deaths. Assuming this were true, I would have no way of knowing their motives or reasons as to why. Extrapolation: Something of interest was scanned, therefore they did not wish for anyone, be they human or Volgrim, to learn of its existence. The female angel's assessment of the situation is the most likely."
+
+Cassiel smirks at him. "I have a name, you know. It's Cassiel. Calling me 'female angel' is rude."
+
+OMEN doesn't get a chance to respond. The ship beeps an alert, and the male computer voice speaks from the ceiling again. "Unknown energy source is now five miles away. Would you like to activate the short-range scanners for more detailed information?"
+
+Before I can respond, Cassiel beats me to it. "Yes, please activate them."
+
+The AI chimes pleasantly. "Orders confirmed. Running short-range scans now."
+
+Several seconds pass, and during that time, the ship passes over a mountain and travels a few miles, until soon I spot something that makes my heart skip a beat.
+
+"Cassiel, Samantha... is that a giant metal door in the side of that mountain?"
+
+Samantha's eyes widen, "I hope not."
+
+Cassiel is more relaxed. "Probably. I guess this is an old Volgrim outpost. This planet is far too destabilized for life, so whoever may have once been stationed there had to have abandoned it a long time ag-"
+
+The AI blares a warning. "This vessel is being scanned. Someone is hailing us from the planet's surface. Shall I accept the request?"
+
+Cassiel's face whitens. The pleasant expression vanishes. "The hail is audio-only. Very primitive, possibly a form of radio transmission?" She taps a button, "I'm patching it through... now."
+
+A wheezing noise is audible from the ship speakers, and the sounds of feet scrambling in the background can be heard, along with the sound of someone putting a finger to their lips and shushing the others nearby. Seconds pass.
+
+A man speaks. His voice is deep, and there's a sense of urgency to it. "Ahh, kree-gul, n-nowash to la... err, ellis no..." His voice is halting, and he appears to have difficulty speaking, as though he doesn't know how to pronounce his words. He gives up after a moment. "I cannot speak Volgarian very well. My name is Noah, and I am a resident of this facility. If you value your lives, you will turn your vessel around and leave. I'm sure your records show what happened to the last ship that ignored our warnings."
+
+Cassiel taps a button, and a look of surprise is on her face. "I muted our side. His name is human, and his Volgarian is awful. No Volgrim would ever enunciate like him, so it's safe to say he's probably human."
+
+"I agree." Samantha's expression softens, as though she has left a great deal of worry behind. "Though this raises many questions, even as it quiets a number of my concerns. We should probably take his warning and leave."
+
+"Unmute him, Cassiel. I'd like to speak with him." I nudge her softly in the arm, and she nods. The screen beeps as our audio is enabled. "Noah, my name is, uh, Hero. I am human. I'm not here to cause any trouble; I'm just curious about your, uh, facility."
+
+The man's breath is tight, as though he's moving around quickly, yet trying to maintain composure. "You should leave at once. This world is very hostile to human life. We cannot open the docking bay doors without killing everyone inside, and if you step out into the open air, you will die as well."
+
+He wants us to go away. That much is clear, but I don't think he knows what's happened to the planet recently. "When was the last time you stepped outside your bunker?"
+
+Noah breathes for several long moments before responding. "Too long."
+
+"Can you run a scan of the planet's atmospheric composition? I think you'll be surprised by what you find."
+
+He's wholly unconvinced. "Look, I don't know what you're trying to pull, but we've spoken for long enough. The last thing we need is for Ionis to hear about this. I'd prefer to avoid another bloodbath. I'm sorry you came all this way, but your journey was a waste of time. There isn't a chance in hell we're allowing you inside. It's for your sake, and ours."
+
+_Ionis? What kind of name is that?_ The thought crosses my mind, but I ignore it. "You misunderstand. I've completely altered the planet's atmosphere. It is now suitable for human life."
+
+Noah's breath slows to a stop. "That's absurd."
+
+A shuffling sound ensues as several people scramble about, but I can't tell what's going on otherwise. A few minutes later, Noah breathlessly speaks again. "H-how did you- this isn't possible. We would have detected an atmospheric stabilizer big enough to purify the air on this planet. What are you trying to pull here? Have you manipulated our scanners?"
+
+I shake my head but realize he can't see me, so the gesture is wasted. "No. I am a human with special abilities. This might come as a surprise to you, but I changed the atmosphere all by myself."
+
+Noah inhales loudly, but no words come out. A minute later, he speaks again. "What did you say your name was again?"
+
+"Hero."
+
+"Can you- can you spell that out for me?"
+
+I chuckle wryly, "H-E-R-O."
+
+"Uh huh." His voice is incredulous. I hear a faint curse under his breath. "Land your ship outside. I'm about to make a fool of myself, but my curiosity is killing me. I'll come out to you, but if you are in any way screwing with me, Ionis will make you regret it. Do I make myself clear?"
+
+_Again with the Ionis stuff._ "Perfectly."
+
+The feed cuts off without a farewell.
+
+Cassiel blinks twice. "Well, that was rude."
+
+..........................................................
+
+Half an hour passes after our ship lands. I feel somewhat uneasy the whole time, given the people inside could be gearing up to ambush us, but OMEN calms me down. "Amused Response: This vessel is outfitted with a dozen micro-dreadnaughts and one hundred harpoon-class ion missiles. We should be able to fend off an attack from five armed Volgrim scouting ships at the same time. It is unlikely the humans inside have anything that will be able to defeat us in the event of a surprise attack. Especially given the Supreme Commander's Candidate abilities."
+
+_There's that term again._ "OMEN, what is a Candidate? You keep calling me that, but I'm not certain I know what it is."
+
+OMEN plasters another creepy smile across his face. "Commentary: Given your acknowledgment that you are a candidate, in addition to your displays of magical power, it is highly unlikely you do not know what a Candidate is. This unit is capable of detecting sarcasm at an elevated rate compared to the average human."
+
+"But... but I wasn't being sarcastic."
+
+Cassiel interrupts me. "A side door just opened. It's smaller than the main door, just big enough for a human to enter and exit. Ah! One person is coming out."
+
+All three of us lean forward and squint at the screen until Cassiel talks again. "Computer, magnify on the human, zoom level eight."
+
+The computer beeps in the affirmative and the human is enhanced. Based on what Noah said, this is probably him. He's wearing a full-body containment suit, likely to filter out the contaminants he thinks are in the atmosphere.
+
+Noah slowly walks forward, stopping every ten feet or so to look at a computer screen attached to the wrist of his suit before continuing again. After five minutes, he stops, looks up at our ship, and slowly pulls off his helmet.
+
+He's an older man. If I had to guess, I'd say mid-50's. His hair isn't grey yet, but a few strands are lighter than the rest. His big, bushy black beard surrounds his pale skin in such a way that it looks almost out of place. If I had to make a snap judgment, I'd assume he's been in many fistfights and knows how to throw down.
+
+Cassiel taps a button to lower our ship's landing ramp, then looks at me and smiles sweetly. "Let's go greet him!"
+
+A minute later, we step out onto the dry landscape as a gentle, rustling breeze blows past. The air, as always, smells stale and unlike the world I was born on, yet not unpleasant. Noah watches silently as the girls and I walk down the ramp.
+
+"So you're 'Hero', huh?" His eyes flick from me to Cassiel on my right, and Samantha on my left. "A human, an angel, and a demon. Considering angels are extinct, last I heard anyway, this is a sight I never expected to see in my lifetime."
+
+"We're his girlfriends." Samantha forces a smile, but it doesn't feel sincere.
+
+"Great. What's with the, err, tattoos?" Noah stares at my face carefully, likely watching the shimmering lines that cover my entire body, brightening and dimming as I breathe. Contrasted with my skin, which is far more tanned than in my youth when I was a pasty teenager, it lends me a somewhat frightening appearance. Noah doesn't appear disturbed though.
+
+"I absorbed the energy of three ancient archangels."
+
+My explanation is apparently sufficient for him. "I suppose that makes sense, at least as much as anything else so far. What do you want with our outpost, anyway?" His eyes shift again to examine our ship. "And why are you flying around in... that? It's been a long time since I saw a ship resembling yours."
+
+I decide to skip the part where we found it on this planet. Noah doesn't recognize it, so he probably doesn't know about the crash site, and I'd prefer not to give him too many clues. "It's a fixer-upper. I repaired it with my powers."
+
+"Oh." He scratches his beard thoughtfully. "I'm torn. On the one hand, I have a thousand questions for you. On the other hand, you're risking your lives every second you stay here. If Ionis decides you're a threat, there isn't anything we can do to stop him."
+
+I open my mouth to ask what this 'Ionis' is he keeps referring to, but he shakes his head and continues talking. "Then again, Lady Victoria was quite clear that I can use my judgment exclusively regarding your crew. If you're willing to risk your lives, you can enter our facility."
+
+_Risk our lives?_ "Can I at least ask who this Ionis is? The name certainly isn't human."
+
+Noah raises an eyebrow and chuckles. "It's better if you don't know. You definitely wouldn't go inside if you did."
+
+_I hate cryptic people._ I want to tell him off, but Samantha nudges me. "Hero, let's just leave. We don't need to go inside, do we?"
+
+As usual, her prodding only awakens Cassiel's ferocious curiosity. "Don't be a spoilsport! There's nothing we have to be afraid of!"
+
+Her comment makes a question pop into my head. "Noah, don't you realize you could be making a grave mistake? What if we're hostile? Letting us in could doom your base."
+
+His smile widens dramatically. "Haha! That's a good one! If you killed me now, you wouldn't get off this planet alive. If you go inside and make one wrong move, I don't care how powerful you _think_ you are, Ionis will kill you instantly. Anyway, are you coming, or not?"
+
+All I can do is scowl. This smells super fishy, and Samantha's unease seems to wash over my left, while Cassiel's curiosity splashes over my right. I don't know what to do, but at this point, I just want my questions answered.
+
+"We'll go in. We don't mean any harm, so hopefully 'Ionis' realizes we're good people."
+
+"Yay!" Cassiel hops up and down, while Samantha groans.
+
+"Samantha, if you want, you can stay here. I'm not going to force you to come along."
+
+She ignores my warning. "I'll go."
+
+_I guess that settles it._
+
+...
+
+A few minutes later, we stand before the massive metal hangar doors that lead into whatever the facility is. The hole in the mountainside rounds into an oval shape at the top and each door stands over a hundred feet tall. Perhaps it's an old reconditioned starship base? Noah walks over to the side entrance I saw before and stands, staring blankly at it. After a minute, there's a hissing sound, and the entrance creaks open an inch. Noah reaches into the crack and heaves with all his strength, pulling against what must be eons of rust on the hinges.
+
+Once it's open, the four of us step inside. A white plastic/ceramic alcove has been built around the door, along with a ventilation system that travels up and outside. "Decontamination room. It used to be necessary before you purified the planet's air," Noah says. "assuming you actually did that, of course."
+
+Noah throws the door open on the other side and strides out into the main hangar area. I follow after him, and the girls are right behind me. We're immediately greeted by what must be fifty men and women, all of them unarmed, staring at the four of us with wide eyes. Most of them look quite old, and many of them must be retirees, judging by the grey hair and sagging skin. Still, there are some younger thirty-somethings among them, and the younger men's eyes immediately shoot to Samantha, staring right at her tightly fitting 'clothes.' I use the term in the barest meaning, given she wears strips of fabric that hardly cover anything. I'm used to it by now, but the guys here aren't.
+
+Noah waves his hand chidingly. "Let's not crowd, everyone. Give our guests some space. It's not often we have visitors in the first place."
+
+"Indeed." A woman steps forward, older than all the others here by a long shot, leaning heavily on a cane. Her long blonde hair stands out, along with the strange outfit she's wearing, something ancient - even by my standards. It's a dress, dark green in color, with puffy shoulders and a skirt that stretches down to the tips of her toes. A veil lightly covers her face, and my immediate impression is that of 1500's nobility. Indeed, people step out of the way to give her extra room as she ambles over to me. Despite her wrinkled face and dry skin, her blonde hair shows that age is just a number for her.
+
+"Lady Victoria. These were the only three aboard that ship." Noah tips his head at her. "The man is, err, Hero... as for the other two..."
+
+I suddenly remember I didn't introduce the girls. "This is Cassiel, and this is Samantha."
+
+The woman, Victoria, narrows her eyes. "Dark times must be ahead. A Hero has arisen, and he is followed by the Second Emperor of Hell, along with a member of an extinct species. Ionis will, no doubt, see you as a threat. I wonder if you will perish."
+
+Samantha pushes past me. "Hold on. How do you know I'm the Second Emperor? That information is hardly known to anyone these days."
+
+Victoria nods slowly, "I know many things, Belial. Once, a long time ago, it was my job to learn the secrets of the galaxy, and never reveal them. Even now, looking at the clear embodiment of the Hero, a harbinger of a system I had thought destroyed, I know it to be alive and well. The question I am asking myself is... why now, of all times, has a Hero appeared? And why on Volgarius Alpha, I wonder?"
+
+Samantha stares at the old woman for a few long moments. "I'm terrible with names and faces. Do I know you?"
+
+"We used to be mortal enemies, during the Energy Wars." Victoria raises a finger and waves it at her. "But then, I suppose all humans look the same to a demon, eh?"
+
+"Something like that." Samantha rasps the words out, "So how do you know me?"
+
+"My full name is Victoria Vanheimmer Rothschild. Once, when Earth was still around, and my secret society was at their prime, I ruled humanity from the shadows, seeking to eliminate the demonic and angelic control over humanity. Now I know that I failed."
+
+Samantha's eyes widen. "Rothschild. That isn't a name I would soon forget. You must have led the Illuminati."
+
+"And you said your memory was poor." Victoria _tut-tut's_ to herself. "Welcome to the final resistance against the Volgrim. This is the one place they will never openly assault no matter what. Come, I'll take you to our guardian."
+
+Victoria doesn't wait for us to respond, instead shambling off past the crowd again. Noah follows after her, and so I tag along behind him.
+
+Once we've moved past the distracting mutterings of the crowd, I can finally examine the facility itself. Cassiel's excitement returns in full force as I look around. Inside this underground bunker, a ramp stretches down, over a hundred feet wide, at least a mile underground. The bunker expands the deeper we walk in, and soon I assume it's big enough to fit Godzilla comfortably, along with ten other giant lizard monsters. Catwalks line the walls all around us, and everywhere we walk, people stand on the catwalks to stare at us in silence. Hundreds of people of all races, ages, and sizes watch our every move.
+
+"How many people live here?" I decide to ask the question on my mind, even as I spot what can only be described as _alcoves_ on the walls. Some of them are a hundred feet tall, others only as tall as myself. They look like the sort of thing I'd stick a human inside to recharge their bodies... or whatever. Even the shapes of the alcoves are vaguely human.
+
+Noah glances back at me. "A few thousand people. We started off with only fifty or so, and boredom took over at one point, but we had to put limitations on fraternizing. Procreation is expressly prohibited, and if any pregnancies occur, we execute the children immediately. Our facility simply can't handle the load, given how much power it takes for replicators to produce food for all of us."
+
+Cassiel hops excitedly. "Oooh! How are you powering a facility of this size?! You must be using cold fusion or something exotic!"
+
+Noah shakes his head and looks forward again. "Nothing like that. We're using energy taken directly from the planet's core. Still, the energy we need might not seem like much, especially given how much energy a planet can put out... but we've been trapped here for tens of millions of years. We don't have the tools to escape, and nothing is waiting for us outside even if we did. We can't build new energy sources or more replicators. It's been a struggle since the very beginning."
+
+"For the Illuminati to fall this far..." Victoria grumbles to herself. "It's a shame."
+
+Cassiel taps her chin. "As I thought. You must be using nanobots to stay alive, then. I'm surprised you've lived so long, given the nano-cancer's infection rate."
+
+I'm not sure what she's talking about at all, but I know a little bit about the Illuminati from my time in junior high when I found random occult webpages and looked around them for fun. I barely remember any of that stuff now though.
+
+"We _invented_ the nano-cancer. Obviously, the leader of the Illuminati would be immune to it. Even so," Victoria smooths down the fluff on one of her shoulder-puffs, "it has not been without its downsides."
+
+I don't know what she means, but Cassiel seems to understand.
+
+We walk in silence, and I feel slightly disturbed by how far we've traveled. We're already a mile underground, and this long tunnel keeps going down all the time, all while the facility expands around us the further underground we go. Surely without pillars to support the roof, this place is susceptible to a cave-in?
+
+Noah inhales sharply. "We're here. Ionis will assess you now."
+
+Stepping to the side, Noah beckons for us to step forward. An illuminated alcove on the wall stands out from the others.
+
+Inside that alcove is a being made of pure metal. A robot, to be sure, but without any visible joints or mechanical parts. Its body is made of a sleek, shiny titanium-style alloy, and aside from its six-fingered hands, the thing that stands out most to me is a lone blood-red 'eye.' The robot has a single retinal light that spins around its entire head in any direction, and as we stand before it, the robot doesn't move an inch, but its eye jerks from me, to Cassiel, to Samantha.
+
+Samantha, I now realize, is quivering in terror. "J-just as I thought. It's a Sentinel."

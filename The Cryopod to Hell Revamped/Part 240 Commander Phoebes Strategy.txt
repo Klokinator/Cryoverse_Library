@@ -1,0 +1,328 @@
+Part 240: Commander Phoebe's Strategy
+Part 240: Commander Phoebe's Strategy
+
+Phoebe Hiro, now the Head Commander of the Anti-Demon Resistance, paces back and forth in front of six hand-picked leaders of the various warfronts. Her guests sit on rocks set in the middle of the field not far behind the warp-gate encampment's western wall, while all of them face her and listen intently to what she has to say. Their names and ranks become unimportant as she looks at them with the eyes of a hawk. To the Hero's Wife, these people are merely weapons she must carefully wield in defense of humanity and its monster allies. 
+
+In the front row sits General Chadwick, Princess Brunhilda, and Corporal Hurent, along with Blinker, the monster queen. Behind them sits Lieutenant Samuel and Elder Skarde.
+
+General Chadwick, Neil's number one. A black-haired Norwegian with a thick, three-inch-long beard. He wears a long, thin black coat, one designed to allow the air to cool him during the summertime, while his navy-blue military uniform underneath gives him a commanding presence. Chadwick's six-plus-foot height, in addition to his giant muscles and rotund belly, makes him stand out among all the others present. In social situations, he is the one who defeats his drinking opponents, while in grave situations, he is the strong and silent type.
+
+Brunhilda, the Felorian princess. A chocolate-skinned, well-proportioned warrior with long white hair and countless white tattoos across her face and body. She wears only an animal-skin bra and loincloth, revealing her muscled abs and arms. As a tribeswoman, her domineering attitude comes not from stuck-up haughtiness, but from two decades of careful grooming by her parents, the former King and Queen of planet Feloria. Having bowed and acquiesced to the demons her whole life, she now sits and faces the Hero's Wife with a grave expression, knowing she may soon perish in battle while protecting her planet's tribes. At the least, she may enable a new future for her people, one where they no longer cower at the feet of their demonic oppressors.
+
+Corporal Hurent, a decorated veteran with several military accomplishments. Her black hair sits in a ponytail, draped over her left shoulder, while Blinker sits on her right. Combined with her smooth, olive-green military uniform, and lightly bronzed white skin, she appears almost like a shorter, more tomboyish version of General Chadwick. Not bothering with makeup, she has a 'harder' edge to her appearance than Phoebe or Brunhilda, yet her eyes reveal she longs for the war to end. Battle is not in her nature, but merely her current call to action.
+
+Blinker, the Monster Queen. She wears a tiny little set of cream-colored battle armor, crafted in advance by her mother two years prior. Her bright red hair contrasts with the white armor to give her the appearance of a cute little Valkyrie. When combined with her moth-like wings, the trifecta completes itself, making her resemble a battle-angel. Blinker sits on Corporal Hurent's right shoulder, the two of them somewhat close thanks to their interactions over the past few years.
+
+Lieutenant Samuel, a hard-nosed man with a violent past. The ebony-skinned soldier sports several dreadlocks and a mean scar going across his forehead. He rests his elbows on his legs and leans forward, a look of intense concentration on his face. Combined with his camouflage-fatigues, he looks ready to step into the jungle and disappear amongst its foliage. Few of the leaders gathered have anywhere near the same intense look in their eyes, a testament to how much he hates the demons and what they've taken from him.
+
+Finally, Elder Skarde, one of several tribal elders from the planet Locklorn. As their designated envoy, Skarde speaks for all the people of his world. His skin appears the darkest of all, giving him a rich, coal-colored hue capable of blending in with the night. Skarde's carefully maintained, short-cropped hair combines with his purple and gold robes to give him the air of a merchant king, one with money flowing like rivers. A peaceful man, Elder Skarde nevertheless sets aside his misgivings for the sake of his world. While he might prefer seeking peace with the demons and forgiving their transgressions, he likewise would never consider rolling over and letting them destroy his extended family. He draws a hard line in the sand, one he will never let the demons cross.
+
+With all six of the most important leaders assembled before Phoebe, the recently promoted Tarus II Commander begins pacing back and forth.
+
+"Thank you all for coming. I'd like to have gathered more people, but it's probably best if you simply relay today's briefings to the relevant subordinates. We don't have much time to waste, so I'll get right down to business."
+
+Phoebe shoots a glance at the walls of the warp-gate encampment, listening for a moment to hear if any battles have broken out due to the warp-gate's unexpected opening. Luckily, everything remains quiet and calm.
+
+"I don't know how long we have before the demons clear out the Core, but I do know they will, _eventually_," Phoebe begins, as she returns her attention to those assembled. "The question afterward is how long we have until the demons get the warp-gates back online."
+
+Corporal Hurent raises her hand. "Commander, one thing has been bothering me. We destroyed the computers which control the Core's warp-gates. How can the demons reactivate them? Without the Core's server infrastructure, won't it be impossible for the demons to calculate Tarus II's travel vectors?"
+
+The Corporal's question, prodding at the very nature of warp-gate travel, elicits several nods from the other leaders. After all, from what they understand, calculating the relative position of a planet in the vastness of space, its orbital position, its current facing, and the exact position of the warp-gate on said planet should be impossible without a vast amount of computing power to assist.
+
+However, to the assembled leaders' surprise, Phoebe shakes her head. "Our opponent is no ordinary demoness. She is Ose, the Emperor of Infiltration, and the creator of warp-gate technology. Co-creator, technically, but a distinction which matters little in this context. I've spoken with Samantha on several occasions regarding Ose, and everything she's had to say about our enemy's abilities left me feeling shaken and worried. Ose's brain functions on a level far beyond ours, with unmuddled thoughts capable of computing information thousands of times more quickly than anyone else. She is, essentially, a living bio-computer."
+
+Continuing, Phoebe adds, "Further, my husband once used Solomon's Crown to calculate the jump-vectors from Tarus II's warp-gate back to the Core. Kar watched him do it. If Jason can perform such a feat, I imagine the creator of warp-gate technology can do so as well."
+
+The Commander's words end that line of questioning by the other generals. They fall silent and listen as Phoebe continues with her original train of thought.
+
+Phoebe clears her throat. "Ahem. The battle for the Core was over far faster than anyone, especially Neil, first thought possible. Our enemies caught us off-guard with their new, armored soldiers. It seems likely they won't have any more of those terrifying Baron-level bastards available to hit us with, but we should naturally prepare for them. In the meantime, shifting to open terrain instead of the enclosed corridors of the Core will benefit humanity's forces greatly. Our weapons work best when engaging our enemies from a distance. The further they have to travel, the more time we have to kill them before they close the gap."
+
+After pausing for a moment to rifle through her bag, Phoebe pulls out a tiny dime-sized device and presses it against the side of her head, just above her right ear. A small red LED on its side blinks twice once attached, then turns off. Afterward, she pulls out a baseball-shaped mechanical object, then lightly tosses it into the air. Elder Skarde and Brunhilda both reflexively flinch when the device doesn't fall to the ground, but instead stops in midair and hovers next to Phoebe.
+
+"This is my Hovering Personal Assistant. I call him 'Happy.' Happy helps me with all sorts of things, but today, he'll be helping all of _you_ to understand my thoughts."
+
+Phoebe concentrates for a moment. She transmits images from her brain through the device stuck to her head and into Happy. In turn, the hovering metal baseball bobs in the air for a moment before beaming out a projected image of Tarus II's landscape, primarily the 20-mile range around and between Hero City and the warp-gate encampment.
+
+The other leaders watch in fascinated silence as Phoebe points toward a small mountain range just over a mile north of the warpgate encampment. "This location is known as the Sphinx Mountain Range, and is going to be a critically important asset we must protect once the demons invade. How many of you have visited it before?"
+
+Elder Skarde and Samuel both shake their heads. General Chadwick, Corporal Hurent, and Blinker all offer hesitant nods, while Brunhilda's are the most emphatic of all. Upon noticing the recognition in the Felorian Princess's eyes, Phoebe smiles. "Brunhilda, what makes you so familiar with that region?"
+
+"I enjoy climbing mountains to gaze at the world from their vistas," Brunhilda replies. "Since that region offers a breathtaking view of the distant ocean, I have scaled it numerous times."
+
+Phoebe's smile stretches further. "Did you ever happen to notice the artillery battlement I built there?"
+
+A look of surprise appears on Brunhilda's face. The Felorian Princess scratches her head sheepishly. "Ah, no? What do you mean, Commander Hiro?"
+
+"Three years ago, Jason and I worked together to build several fortifications for Tarus II. One of those happened to be a network of long range auto-cannon installations in the Sphinx Mountain Range. Observe."
+
+Phoebe's robo-assistant, Happy, releases a cute high-pitched chirp. "Beep-boop!"
+
+Immediately, a second hologram appears, one of a gigantic gun more than a hundred feet tall, with three cannon barrels aimed diagonally into the sky. The whole thing rests upon a square turret base, with rotatable joints and motors allowing it to adjust its firing angle and distance. The menacing weapon makes all of the leaders gathered raise their eyebrows in surprise.
+
+"Wow!" Blinker gasps. "Phoebe, you built that thing? It's huge!"
+
+Chadwick stands up and walks closer to more carefully scrutinize the artillery cannon. "Very impressive. Why have I heard nothing about this?"
+
+"Because it's one of my many secret weapons," Phoebe says, a tricky smile playing upon her lips. "I call it a King Cannon. We've always worried about demonic spies in our ranks. Bad actors among our fellow humans and monsters might also be an issue, too. I built these cannons in absolute secrecy, telling only Jason and Solomon. Not even Samantha knows of their existence."
+
+Elder Skarde snorts. "Just as well."
+
+"Samantha will never betray humanity," Phoebe snaps, glaring viciously at the elder. "Don't think I've forgotten some of the hurtful things you said. I'd advise you to keep your mouth shut about her if you don't want my foot shoved where the sun doesn't shine."
+
+Chadwick remains silent. As one of Neil's closest confidantes, he too has no trust for the succubus. Still, he knows better than to disparage her in front of Phoebe, especially given the circumstances.
+
+"Ahem," Lieutenant Samuel clears his throat. "If I may. You mentioned cannons, plural. How many of these have you built?"
+
+Phoebe turns away from Skarde to look at Samuel behind him. "Ten. They function by firing shells over long distances which explode shortly before striking the ground. These explosions release hundreds of iron rods, each one capable of stabbing through even the heaviest armor. No demon will be able to withstand a shelling from the King Cannons. I have several other types of ammunition present as well, including explosive munitions, poison gas, and acid for melting flesh. Needless to say, we must ensure our troops don't get caught in the crossfire."
+
+"And," Phoebe adds, "that is one of the biggest problems we face. The King Cannons are explosively powerful and more than capable of turning tens of thousands of demons into puddles of blood. However, they lack precision. They're a double-edged sword capable of harming our soldiers. I plan to use them only if our troops fail to prevent the demons' advance from the warp-gate. That's why I will now move on to the next strategic point."
+
+Commander Hiro disables the hologram for the King Cannon while Chadwick takes his seat. She returns to the original hologram, the one showing Tarus II's topography.
+
+"On the north side of Hero City we have ten Covenant ships to protect. On the south side are the Pyramids. On the east, we have a mixture of forested woodlands and some hilly terrain. Between Hero City and the Warp-gate Encampment, we have the Horned Forest, with all manner of vicious predators hiding amongst its trees, and the vast open plains where we will most likely engage with demonkind if they take over the encampment. Looking at the encampment itself, we have the King Cannons to the north, Tarus II's great ocean to the west, and finally the southern side."
+
+Phoebe clears her throat. "Here, we run into another problem. Some of you may not be familiar with the southern region, as we rarely go there. It's filled with canyons and ravines deep enough to kill anyone if they should stumble inside. The deepest one reaches half a mile into the planet's crust, so, needless to say, not many people go there. However, it is also home to another of my secret facilities."
+
+"Another?" Corporal Hurent asks, her jaw turning slack. "Just how many facilities have you built?"
+
+Phoebe's smile dims. "Too many to handle on my own, but not enough to guarantee our safety."
+
+That reply makes the Corporal close her mouth and nod along silently. Phoebe continues by activating another hologram, this time showing a massive network of buildings carved into the side of a ravine. The facility stretches far enough into the distance that it goes past the edge of the hologram where nobody can see its end.
+
+"By the Creator..." Lieutenant Samuel mutters. "You've been holding out on us."
+
+"Indeed. This facility is one I haven't even told Jason about. I built it by myself."
+
+Phoebe's casual attitude stuns everyone present. Blinker jumps off Corporal Hurent's shoulder and flies over to Phoebe. "What?! How could you build all that by yourself? That's impossible!"
+
+While the fairy buzzes around the hologram with wide-open eyes, Phoebe chuckles. "Believe me, I did. Don't you remember six years ago, when Jason used to build houses and apartments for people with his Wordsmithing? I created a tool that could synthesize simple square structures out of energy, one which could project and build walls, ceilings, and floors. I built this facility with an upgraded version of that device."
+
+A huge, giddy smile spreads across Chadwick's face. "Absolutely amazing. I never imagined we had a facility like this at our disposal, nor that you would be its sole builder. What is its function, Commander Hiro? Why did you build it in such an out-of-the-way location?"
+
+"It's not out-of-the-way at all," Phoebe clarifies. "This facility's purpose is to create war-machines capable of leveling battlefields, and so I needed it somewhere close where I could send them barreling toward the front lines within minutes. That Planet-Walker I demonstrated earlier came from here, as well as many similar machines. I wanted to ensure we had extremely powerful trump cards prepared, should the demons ever invade. Secrecy was even more important, as I couldn't chance the demons learning of their existence."
+
+Corporal Hurent raises her hand. "Hold on a moment. Regarding not only this robot-creation-facility, but also the King Cannons, how can we train enough people to pilot and control your machines? Those cannons look like they will require countless soldiers to aim and fire them, while the robots you've constructed will doubtless require intense training to use them to their fullest capacity. Have you trained anyone in secret as pilots? Or, perhaps... might these machines be fully autonomous?"
+
+"Neither," Phoebe replies. "The Planet-walkers and other mecha are, indeed, autonomous, but I will require pilots inside them for target designation purposes. Each robot is capable of basic decision-making, but a human in the cockpit is our surest bet for strategically taking out demons wherever they appear. As for the King Cannons, the situation is similar. I will require a few personnel to man them for the sake of designating targets, but their roles will be minor. A bigger issue comes from fuel and munition supplies, which is the next thing I'd like to mention."
+
+Phoebe waves away the southern facility's hologram, returning to the topographical Tarus II map.
+
+"Look here. The King Cannons are immensely powerful, but they are also fragile. Once the demons figure out the cannons' location, if they choose to attack them, they can easily destroy them. I've protected the King Cannons, as well as my southern facility, with holographic obfuscation technology. Even up close, it's nearly impossible to locate the cannons, but every time they fire, the stealth net will go down for a moment, revealing their position. This will make it easy for the demons to find and destroy them."
+
+Blinker nods. "Like Ose's mansion."
+
+"Additionally," Phoebe continues, "the King Cannons have limited ammunition available. I always envisioned them as being supplementary to Jason and Hope's power, giving us a powerful area-attack, but with the Wordsmiths missing, they will end up being our primary suppression device against the demons. If so, then we'll need to establish munition supply lines to keep them continuously firing at all times. The supply line will come from the east side of Hero City up along the northern border until it reaches the Horned Forest. From there, it will continue until it reaches the Sphinx Mountain Range, where the personnel we place can take the shells and reload the King Cannons. At any point, demons might disrupt this supply line, thus rendering the cannons useless. Without ammunition, they will be little more than giant, decorative statues atop the mountains."
+
+Brunhilda pipes up. "So, you wish for me to take control of protecting the King Cannons?"
+
+"That's right. While the number of personnel required to operate the King Cannons is minimal, we will need a substantial number of troops available to guard the mountains themselves from demonic attacks. Think you're up to the task?"
+
+"Naturally," Brunhilda replies.
+
+Phoebe nods. "Good. I have some positive news to report as well, which you all will doubtless find comforting."
+
+She touches the hologram and draws a circle around the warp-gate encampment. "I came up with a temporary fix for the burrower problem. I didn't want them to easily breach our lines by burrowing under us, so I cobbled together a few experimental devices. I call them 'seismic mines.' They detonate when they detect seismic activity nearby. If the Burrowers try to dig a tunnel near a seismic mine, they will perish a quick, explosive death."
+
+Blinker lands on Phoebe's shoulder. "When the heck did you make those?"
+
+"Today," Phoebe says. "Took me about eight hours. I only synthesized a couple hundred of them, and I attached them to mechanical moles to ensure they end up deep beneath our feet. However, given my limited amount of time, I only managed to surround the warp-gate encampment with them, as well as place a few beneath Hero City. Once a few Burrowers explode, they'll doubtless be able to continue forward, unabated. Luckily, the sensors will still give me an idea of where they're headed."
+
+"You think of everything." Brunhilda says, admiration in her eyes.
+
+"I wish that were the case. I'm only human, so I can't anticipate a demon's thought processes. Doubtless, Ose is sure to find a gap in our defenses. Don't get starry-eyed on me, not unless we actually survive this awful war."
+
+Once again, Phoebe points at the holographic map. "Look over here, to the west of the encampment. There are thirty-seven miles of unprotected land between here and the ocean. If the demons escape in that direction, they'll be able to spread out and go around our borders, as I haven't built any defenses in that area. The King Cannons can certainly fire that far, but their accuracy and coverage will decrease substantially. Lieutenant Samuel, I'll rely on you to keep an eye on the western and southern sides of the encampment, while Princess Brunhilda will be in charge of guarding the Sphinx Mountains to the north. We cannot let the demons stake out a safe haven to the west. If they do, they'll likely summon countless portals to the Labyrinth, removing our chokepoint advantage. We have to keep them pinned down at the Tarus II warp-gate, or else they will rapidly overwhelm us with numbers."
+
+Samuel nods. "As long as I get to kill bloodskins, you can count me in."
+
+Phoebe frowns. "Demons, Lieutenant. _Demons._ Enough with the god-damned slurs."
+
+"I don't care if you like my language or not," Samuel says, his face emotionless. "Bloodskins killed my brother. They butchered him like livestock. Don't preach to me that compassion nonsense. In my eyes, they're all filthy animals in need of extermination."
+
+"Demons tortured my people for countless generations," Elder Skarde chimes in. "We have known nothing but fear and subservience to the bloodskins my whole life. Commander Phoebe, you may feel some twinge of compassion for the murderous wretches, but we do not. We only fight the bastards because of the horrors they've exacted upon us. If you want our help, then you _will_ find a way to deal with our feelings."
+
+After seeing the other two leaders stand up for their beliefs, Chadwick adds his two cents. "With all due respect, Commander, how many demons do you know who are righteous and pure? One? Ten? A hundred? You may have the utmost faith in Belial and others like her, but we do not. I have fought alongside Neil and Hope countless times when rescuing human slaves from the core. Some of the things I saw..."
+
+The General starts to fall silent, only to notice a look of curiosity in the faces of Elder Skarde and Princess Brunhilda, both of whom have never stepped foot in the Labyrinth except for its Core.
+
+"I saw a young man who was half-dead," Chadwick mutters, his voice low. "the poor kid had all the skin on his back melted and fused together. His bloodskin tormentor pressed him against a wall after burning him, then left him there, with his skin stuck to the stone. When Hope found him, the boy was half-dead and delirious with pain. It took Hope fifteen minutes of Wordsmithing to heal the boy's injuries. The lad later killed himself because of the lasting mental pain we couldn't erase."
+
+General Chadwick glances at Phoebe, noticing with interest that for once, she doesn't appear angry at his words. "That boy was not the exception, but the rule. The bloodskins treat us worse than cattle, worse than bugs. They enjoy our suffering. I see no way we can ever truly cohabit with them. Perhaps you might be capable of picking out one or two decent ones, but the rest are all irredeemable, violent psychopaths. We must eradicate them for the good of the galaxy."
+
+Despite a three-pronged verbal assault from Samuel, Elder Skarde, and Chadwick, Phoebe appears unmoved. 
+
+"Do you think I don't know all that?"
+
+Commander Hiro tilts her chin up slightly, allowing her to look down upon the still-seated Chadwick.
+
+"I'm well aware of the atrocities demons have committed. I am not Jason, and as such, I don't believe in trying to save all, or even most of them. My husband is a good man. He tries to look at demons as sinners, those who were led astray early in their history. They were born from bloodshed, and so that is all they know. Or so Jason claims."
+
+Phoebe raises her hand and waggles a finger. "I do not think the same thoughts as Jason, General Chadwick. I do not believe demons are necessarily redeemable, but I _do_ believe that they are not _irredeemable_. _That_ is why I find myself disgusted when you refer to them with such gross, offensive slurs. Not because I think your hatred is misguided, but because as long as we treat them as inherently evil villains, we will never have even a chance to mend the rift between our species. Hate the demons and wish for their deaths all you want, for I will not stop you from thinking such thoughts. However, please understand that we humans must be better than our enemies. We must show them with our conduct that, so long as they own up to their actions and accept the appropriate punishment, we will always be willing to forgive, if not forget their pasts."
+
+The Commander falls silent, allowing her words to germinate in the ears of those present. Blinker sits on her shoulder silently, saying nothing, while Brunhilda and Corporal Hurent stew in their own private thoughts.
+
+General Chadwick rubs his knee contemplatively. "Hrm. I do not fully understand why you so often choose to defend the demons. Perhaps I never will. I merely wish you would not try to dissuade people from referring to the demons as 'bloodskins,' like they deserve."
+
+"'Deserve' is a strong word, General," Phoebe retorts. "From what I've gathered, humanity stomped on the faces of the demons countless generations ago, and they retaliated in kind. Do we not deserve hatred from them as well?"
+
+"That is a different situation entirely."
+
+"So you claim," Phoebe snaps back. "But, if you so desperately wish to lump all the members of a sentient species under one definition, I suppose I cannot stop you. We haven't time to sit here and wax philosophical about our beliefs, so let's just hold off on the comebacks for today. If we survive this invasion, we'll return to this discussion at a later time."
+
+Chadwick nods. "Very well."
+
+Elder Skarde and Samuel both share a glance with one another, revealing neither of them plans to change their minds, but at the least, they fall silent to allow Phoebe's continued debriefing.
+
+"Right. Let's finish this, then," Phoebe says. The Commander disables the Tarus II topographical map, and instead summons a series of images of various soldiers standing at attention, all of them wearing basic military uniforms with T-REX's strapped across their chests.
+
+"I've finished doling out the new exosuit models I prepared in advance. Allow me to debrief you on their functionality."
+
+The first trooper's image shimmers and shifts, adorning him in a shiny silver armor, one which all of the generals are familiar with.
+
+"This is the basic T-REX, a mass-produced model with no obvious flaws that merely enhances the average human warrior's speed and durability to beyond that of a Demon Lord. It also helps with aim assist on projectile-based weapons, and features a low-level pilot-assistance mode capable of augmenting its wearer's dodging capabilities mid-battle. An excellent suit for any beginner, but one the demons have long grown used to seeing."
+
+The next trooper also shifts his appearance, appearing in a silver-and-red exosuit with a few utility modules attached to its arms and waist. The red coloration extends in a cross-like shape across the trooper's chest.
+
+"This is Mark I of the Clinician battlesuit. It has lower strength and speed than the basic T-REX, but in exchange, it features greater durability and advanced pilot assistance support. I designed it with our battlefield medics in mind. We can't rely on rescue devices to save all of our downed troops, so having field medics on hand will be essential to saving as many lives as possible. The Clinician also features several medical devices capable of prolonging a dying soldier's life, including nano-injectors to seal and repair wounds."
+
+Corporal Hurent, one of the more technically-minded of the leaders present, nods appreciatively. "I'd have liked to have a few of those on hand when we fought in the Core."
+
+"As would we all," Phoebe replies.
+
+The Commander moves on to the third exosuit, one with an identical silver coloring scheme to the first exosuit, but with four 'struts' sticking out of its back. 
+
+"Previously, we've had to rely on Harpies for their excellent battlefield mobility and flight capabilities. Now, we have another option. The Mark I Hummer is our first flight-capable battlesuit, but I've only managed to manufacture fifty of them, so far. The wing struts on the back allow for limited durations of swift flight, but extended amounts of hovering capabilities. Think of them as mobile sniper platforms, rather than flying assault weapons."
+
+"I can already imagine several uses for the Hummer," Chadwick says, his voice low.
+
+Phoebe doesn't reply. She activates the next hologram, revealing a truly menacing-looking exosuit, one with gold and black coloration, a metal horn on its helmet, and two others on its shoulders. With much bulkier armor than the previous exosuits, as well as a long impaling rod sticking out above each wrist, it looks like a nasty melee-capable battlesuit.
+
+Audible gasps go up among the leaders present, making Phoebe smile.
+
+"This is the Mark I Rhino. Truly exclusive, I've only made twenty of them. Each is a precious asset, featuring fifty percent thicker armor than other exosuits and razor-sharp nanite rods for 'sticking it' to the demons. Advanced cooling capabilities also make it effectively immune to flame-based attacks from all but the most extreme sources. I designed them for frontline usage, improving the power of each of our best commandos. Naturally, I hope you'll be the first to try one out, Samuel."
+
+Lieutenant Samuel grins evilly. "Oh, yes. I'll be able to do a lot of damage with one of those."
+
+"I'm sure you will. Let's finish with the last two suits, both of which you should all be familiar."
+
+This time, the holographic trooper shifts his appearance into a stealthy jet-black exosuit, one with the same sleek design as the basic exosuit model, but fewer 'cracks' it its surface. Most notably, four long, metallic 'tendrils' stick out of its back and writhe around like an ant's antennae.
+
+Chadwick blinks in surprise. "A Spectre? We have hundreds of those already, don't we?"
+
+"Correct. This Spectre is different, though, as it's a second generation exosuit. I'm sure all of you have noticed the odd-looking tendrils on its back. I call them 'Needlers,' and they will be key for maximizing the Mark II's improvements over the first generation. In addition to greatly improved passive stealth capabilities in shadow, the Mark II Spectre can initiate Level III cloaking at will, granting it five minutes of near-perfect stealth capabilities. Most importantly, it now features nearly infinite Level II stealth capabilities, meaning it can remain invisible indefinitely so long as the user keeps their movement to a minimum. It will be excellent for setting up ambushes."
+
+"What function do the 'Needlers' perform?" Brunhilda asks. "They look like headless black snakes."
+
+"More than you can imagine," Phoebe replies. "The Needlers allow the user to scale walls and cliffs, assassinate multiple enemies at once, manipulate tools, and countless other such feats. Think of them as four additional limbs, each one stronger and much more flexible than your arm. They can wrap around an enemy's neck to choke him out, or they can pick locks by deforming their shape... the possibilities are endless."
+
+"Amazing as always, Miss Hiro," Chadwick says, bowing his head respectfully. "If we had these suits during the Core invasion, perhaps we could have defeated the demons instead of suffering such a terrible loss."
+
+Phoebe purses her lips. "Not necessarily. The Spectre suits sacrifice durability and defensive capacity in exchange for speed and stealth. Their offensive-power is also sub-par, making them only good for assassination and espionage. In a giant arena like the Core, Spectre pilots would have perished the fastest."
+
+"Ah. I'll defer to your expert opinion, then," Chadwick mutters, slightly embarrassed.
+
+Phoebe clears her throat. This time, when the last trooper shifts his appearance, looks of surprise appear on Chadwick, Corporal Hurent, and Samuel's faces.
+
+"Hm?" Samuel says. "Isn't that...?"
+
+"Yes," Phoebe replies. "It's the suit Neil wore during the Core invasion: The Thundercat Mark II."
+
+The final trooper hologram changes to reveal a bright blue, red, and golden exosuit, one with a bulky golden gauntlet on its left wrist. Three Wolverine-like blades stick out of the gauntlet, suitable for ripping and tearing, while the trooper also sports a vicious-looking nanosword in his right hand.
+
+"Another Mark II," Chadwick marvels. "It's much flashier than the Mark I, particularly with its coloration. You must have given Neil one before the battle."
+
+"His bodyguards too," Phoebe affirms. "Neil didn't get much time to learn its many functions, and sadly, neither will our troops. However, I'll tell you right now what to expect. The Transforming Exogauntlet on its left arm is a powerful utility item comparable to the Spectre's Needlers. It can become a hammer, a blade, a shield, or anything you need for the situation at hand. Merely describe a shape, and Centurion will attempt to replicate it."
+
+Phoebe gestures toward the holographic trooper's right hand. "This nanosword is equally dangerous. When combined with the Thundercat's reinforced defensive capabilities, it will allow its pilot to fight on the front lines alongside our Rhino-wearing troopers. Since the Thundercat Mark II is a modification of the Mark I, we already have several thousand of them available, along with the new Spectres. I advise you to quickly debrief your troops about the additional functions of these new exosuits, as we won't have much time to train them in their various intricacies once the demons invade."
+
+After taking a long, deep breath, Phoebe exhales.
+
+"Alright. Let's wrap this up. Any questions?"
+
+Chadwick runs his fingers through his beard. "Do you have anywhere you'd like to station us?"
+
+"Ah! I almost forgot. Thank you for reminding me."
+
+Phoebe re-engages the topographical map and points toward the southern side of Hero City.
+
+"Over here, this area is part of the southern prison complex, where I've created a specialized Demon Containment Facility. We must ensure the demons don't locate Beelzebub and Artorias. Keep them locked up at all costs. Corporal Hurent, I'm putting you in charge of defending the prison."
+
+The Corporal nods. "Yes, Commander. I'm already familiar with their layout, as I took our prisoners there earlier."
+
+"Good. I'll need you to pull double-duty keeping an eye on Hero City's eastern flank, too. The south and east sides are among our most vulnerable, so if the demons break containment from the warp-gate, I want to know at once if they reach our flanks."
+
+Phoebe turns her attention toward the others. "Princess Brunhilda. As stated before, you're in charge of protecting the King Cannons and their supply line. Samuel, you're in charge of guarding the southern and western side of the warp-gate encampment. Chadwick, I want you on command duty for the vast majority of our main forces, particularly between Hero City and the encampment. However, Elder Skarde, you may have the most complex job of all."
+
+Elder Skarde frowns. "In what way?"
+
+"You'll be our final defensive line. You will protect Hero City, especially the north side's Covenant ships. You must ensure Burrowers don't make it past our defensive lines, and that any Warpers get taken out before they can circle around to our flanks."
+
+"I will do my best," Skarde replies.
+
+Blinker hops off Phoebe's shoulder and flies around excitedly. "Ooh, ooh, what about me? What do I get to do?"
+
+Phoebe smiles. "Are you fully healed?"
+
+"Yeppers! Samantha got me all fixed up! Kar's still healing, though. I dunno when he'll be ready to return."
+
+Phoebe's smile deepens. The memory of what Blinker told her before the debriefing, regarding Daisy, leaves butterflies in her stomach. However, for some reason, she keeps her mouth shut and doesn't mention it in front the other leaders.
+
+"That's good. I'm glad we have _Samantha_ at times like this. Well, even if Kar isn't back, I hope we can rely on you for support against the demons wherever they appear."
+
+"Duh!" Blinker giggles. "I'll smush 'em flat! Those big red dummies won't know what hit 'em!"
+
+Phoebe pokes Blinker's stomach playfully. "Just watch yourself out there. If anything happened to you, it would devastate Kar."
+
+Blinker rolls her eyes. "Psh. Don't you know who I am? I'm the Monster Queen. I'm strong as heck!"
+
+Despite the fairy's tough words, Phoebe's eyes grow distant. "Yeah. But... be careful. Kar already lost one wife. I don't want to imagine what losing a second would do to him. I'd never forgive myself if something happened to you."
+
+With one last, heavy sigh, Phoebe turns to the assembled leaders. "Alright, dismissed. Get out there and make Neil proud. If he's still alive, we'll mount a rescue operation once we survive this war."
+
+Chadwick rises off his rock and raises an eyebrow. "You suddenly sound more confident than before."
+
+Phoebe nods. "Neil always says a leader must look strong for his troops. I can only hope to live up to that ideal."
+
+"As can we all. Words to live by," Chadwick mutters. With a nod of the head, he turns to leave. "I'll see you on the battlefield, Commander Hiro."
+
+"Likewise," Phoebe replies.
+
+The waning sun begins to fade behind clouds to the west, setting on the world of Tarus II and bringing the cover of darkness. As the humans disperse, with Blinker riding on Phoebe's shoulder, they all gaze at the setting sun with wistful eyes.
+
+---
+
+**Artwork time!**
+
+**[Basic T-REX.](https://i.imgur.com/apRe2cu.jpg)**
+
+**[Clinician T-REX.](https://i.imgur.com/U51fdaA.jpg)**
+
+**[Hummer T-REX.](https://i.imgur.com/r7kYPDD.jpg)**
+
+**[Rhino T-REX.](https://i.imgur.com/kVZoNgc.jpg)**
+
+**[Spectre T-REX.](https://i.imgur.com/9HRrIXj.jpg)**
+
+**[Thundercat T-REX](https://i.imgur.com/Xlfk7Kb.jpg)**
+
+**[This is Brunhilda!](https://i.imgur.com/SEqZKkJ.jpg)**
+
+Basic T-REX.
+
+
+Clinician T-REX.
+
+
+Hummer T-REX.
+
+
+Rhino T-REX.
+
+
+Spectre T-REX.
+
+
+Thundercat T-REX
+
+
+This is Brunhilda!

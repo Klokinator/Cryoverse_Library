@@ -1,0 +1,364 @@
+Part 689: Fiona's Ascension
+Part 689: Fiona's Ascension
+
+_Far-Future Era. Day 20, AJR. Chrona._
+
+Fiona accepted the Player invitation request. After a moment, she looked around and blinked.
+
+"Okay? Now what?"
+
+Timothy pointed to her right. "Look at the edge of your vision. Do you see those tabs that say Character, Inventory, and so on? You can either tap them with your finger, or think of opening them with your mind."
+
+"Oh! I see!" Fiona said. "So I just think the word, and it- OHH! That scared me!"
+
+Fiona recoiled slightly, visibly flinching when she opened her Character Sheet. Now that she was in Timothy's Party, he could see more detailed information about her.
+
+---
+
+Fiona Hiro - Phantasmal Human/Chrona
+
+Level 0 | Newbie | Bottom Mortal
+
+HP 45/45
+
+AP 2/2 | MP 71/71
+
+STR 8 | DEX 13
+
+INT 17 | WIS 18
+
+DEF 8 | RES 9
+
+CHA 13 | LUK 13
+
+CON 7 | END 19
+
+Resistances: Physical 95%. Telepathy 100%.
+
+Weaknesses: Magic 95%.
+
+Active Skills: Mother's Intuition, Construct Item, Deconstruct Item
+
+Passive Skills: Player's Body, Player's Mind (Toggle), Phantasmal Entity 
+
+Talent Slots: 0/1
+
+Prestige: N/A
+
+---
+
+Timothy's eyes widened. "Ooh, mom! You have some skills already! You should look at them. Write them down so we can see what they do!"
+
+Fiona blinked. "Skills? I do? Oh, I see them. Sure, give me a moment."
+
+She grabbed the notepad Timothy had been using, then started to write down every skill's description, word for word. This was helpful, because other Players could not see what exactly her skills were, even if they were in the same Party. Party members could see skill names, but not descriptions. Non-party members couldn't even see that much.
+
+---
+
+**Mother's Intuition**: [Unique] [MP Cost 5]
+
+_You are always worrying about the status of your adopted child. When this skill is activated, you will be able to sense Player Timothy's exact location and the area around him, no matter the distance. This effect cannot be blocked by any means. You may also heal your child's wounds by placing your palm on the injured area and meditating. Your child will recover 5% of his maximum HP every hour, and will heal through extreme damage states, such as [Lightly Wounded], [Injured], [Maimed], and [Broken]._
+
+**Construct Item**: [Ordinary] [MP Cost 50]
+
+_You are able to construct any item you wish, provided you have adequate raw materials immediately at hand and you possess a detailed mental blueprint of how the item should be constructed. The item will be constructed within 30 seconds and will be fully charged and ready to use, if applicable. The items you can construct are limited by your level and knowledge._
+
+**Deconstruct Item**: [Ordinary] [MP Cost 50]
+
+_You are able to disassemble any item and copy its blueprints into your Mind Realm. The item will be deconstructed within 30 seconds. By doing this, you can perfectly recreate the item with the Construct Item skill. Note that some items may need to be deconstructed multiple times to acquire their full blueprints._
+
+**Phantasmal Entity**: [Passive] [Racial]
+
+_You are a phantasmal entity made corporeal by the energy contained within Chrona. You are extremely resistant to physical damage and your body cannot be harmed by mundane means. However, you are exceptionally weak to magical damage and must take care when battling spellcasters. Due to your special existence, when obtaining Lootboxes, you have one additional option to choose from, and you also gain an additional bonus when leveling up. Lastly, you are capable of multiclassing and switching between your available classes with no cooldown time._
+
+---
+
+Timothy's jaw dropped when he saw these four outrageous skills. He thought his abilities were good when he first became a player, but they were nothing compared to Ferral and Fiona's basekits.
+
+"Oh my gosh, that first skill is so embarrassing." Fiona said, blushing. "The System makes it seem like I'm some overly worried _priss_ or something."
+
+"Mom, the skill says you'll see everything around me when you use it." Timothy said, feeling somewhat violated. "So... you'd better take care. You never know what, um, weird things you might see. Like, uh, me and my girlfriend, for instance."
+
+"Oh, please! I cleaned your butt when you were a baby!" Fiona exclaimed. "There's nothing down there I haven't already been grossed out by!"
+
+"Mom!! Eww! Not in front of Aunt Blinker and Uncle Kar!" Timothy protested.
+
+Blinker snorted. "Kid, I changed your diapers too. Had to give Fiona a few days off once in a while."
+
+"Hurgh. Your Little Timmy was always a strange sight." Kar chimed in, grinning evilly at the brutal blow he dealt to his nephew's heart.
+
+Timothy staggered. The consecutive strikes against his manhood dimmed his resolve. He knew he'd lost this argument.
+
+"R-right. Well, you have two other active skills as well. It seems you can use them now! You can construct and deconstruct items. Mom, why don't you grab something you don't know much about, that isn't too valuable, and deconstruct it right here?"
+
+Fiona blinked. She thought about it for a moment, then nodded.
+
+"Well, I've maintained them, but it was actually Jason who built all the monitors in the Spynet. Blinker, can you grab that dead monitor up there and decouple it for me?"
+
+She pointed to the ceiling, where several monitors had gone dark due to losing connection with their spy-points. Unfortunately, the Spynet was losing a monitor every month or so, and in just a few year's time most of them likely wouldn't work anymore.
+
+Blinker nodded. She flew up, used her telekinetic powers to carefully wiggled a monitor out of place, then she unplugged it and brought it down to Fiona.
+
+Fiona frowned as Blinker placed the giant monitor on a table. "So... how does this work?"
+
+"I don't know." Timothy admitted. "I imagine you just... touch the monitor, then think of activating the skill?"
+
+A few seconds passed. Fiona traced her hands along the monitor's edge. All of a sudden, a blue light erupted from her mind and wrapped around the monitor. It levitated a few inches off the table, then began rapidly disassembling itself. Fiona's eyes widened with fascination as thousands of internal circuit designs flowed into her mind, each one detailing how the others should all connect. The monitor flew apart into individual pieces faster and faster, ultimately crumbling into a pile of plastic shell components, metal bits and screws, copper wiring, and other such things.
+
+In less than ten seconds, she had completely taken the monitor apart.
+
+"I... I see it!" Fiona exclaimed. "There's a blueprint in my mind. It's a perfect diagram of every inch of the monitor! I can even use my existing knowledge base to rework its functions and improve it!"
+
+Fiona was extremely talented when it came to learning how to make and manufacture technology, but she wasn't omniscient. She had countless holes in her knowledge base. She had been enhanced by Solomon's Crown when she was still Phoebe, and those gains remained after their split, but she was no bio-computer, like Rebecca.
+
+Even so, she realized immediately that if she only had these two skills, the ability to rip apart and rebuild objects, she would progress tens of times faster than she did as a mere ghost-turned-physical.
+
+"That was incredible!" Blinker exclaimed. "If this is the level you're already at, what will you become if you grow over the comings weeks, months, and years?"
+
+She glanced at Kar. There was a hint of yearning on her face.
+
+Kar held up a palm. "Butterfly. Say no more. I have made my decision. My vengeance is complete. I do not wish to seek the path of blood any longer. I am pleased White Ghost has become stronger, but that is all. Returning to the field of battle is not my desire."
+
+Fiona continued to examine her new abilities. Unfortunately, it seemed her mana slowly regenerated at the rate of 1% every ten minutes. She would only recover 6% of her mana in an hour, and a maximum of 144% every 24 hours. Thus, she would not be able to use her Construct Item ability until she had risen above 50 Mana, which would take a while.
+
+"Check your Quests, mom." Timothy said.
+
+Fiona nodded. She opened them up, then listed them out on a piece of paper.
+
+---
+
+**[Story Quest] [Continuous] Choose a Path.**
+
+_You are a phantasmal life-form with unlimited potential. Your ability to adapt exceeds your expectation. At present, you have become a Technologist, and your current abilities reflect this, but you could become so much more. As you level up and obtain new abilities, those abilities will influence your future potential, allowing you to obtain unique and exotic professions._
+
+Rewards: None.
+
+**[Story Quest] Master Your Abilities.**
+
+_You have the ability to construct and deconstruct items. Use these abilities five times each. Complete the quest by constructing a unique item, device, weapon, or armor. If the item you construct passes a certain quality threshold, the rewards will be doubled or tripled respective to its quality._
+
+[Construct Item: 0/5]
+
+[Deconstruct Item: 1/5]
+
+[Final Constructed Item Quality] [Mundane|Common|Uncommon|Rare+]
+
+Rewards: 1x Technology Skill Lootbox. 1x Phantasmal Skill Lootbox. 1x Uncommon Item Lootbox. 1x Level Up. (Rewards can increase depending on final crafted item's quality.)
+
+**[Side Quest] [Repeatable] Maintain Chrona.**
+
+_Chrona's infrastructure is in decay. You must travel around Chrona and repair its core functionality each day, using your Map to uncover problem areas you may have previously overlooked. In order to obtain rewards, you must repair a quota of items every day. Repairing any multiple of that quota will increase the rewards, up to a maximum of x5 rewards._
+
+[Repair Technological Devices: 0/5]
+
+[Repair Magical Devices: 0/5]
+
+Rewards: 3x Crafting Materials Lootbox, 1x Tier 2 Lootbox, 1x Temporary Phantasm
+
+---
+
+Timothy did not envy his mother. Her quests gave insanely good rewards, but all of them required a lot of time and effort to achieve. Her story quest alone ensured multiple days of effort for a reward that might underwhelm if she couldn't craft a powerful enough final item.
+
+One thing really caught Timothy's attention, though.
+
+"Mom, your unique 'Racial Skill' gives you a huge bonus of +1 option when selecting Lootbox rewards... and almost all your rewards are Lootbox-related. This is a huge benefit. It means you get 33% more options compared to me. Make sure you consider every option carefully. Consult me, Blinker, Rebecca, and others to make sure you're considering all the possibilities."
+
+His mom nodded. "I'm honestly a bit overwhelmed, Timothy. As soon as I saw the Quests, I felt this... this need... this desire to start immediately getting to work. Knowing that just standing here is 'wasting time' makes me itchy to get moving."
+
+She frowned, then looked her son in the eye. "Timothy, is this how you've been feeling since you became a Player?"
+
+He nodded. "Pretty much. Why?"
+
+"Well. Maybe it's just my imagination. But... something about this feels predatory. Like it's tugging at my brain with incentives to get me doing what the System wants me to do."
+
+"The System wants you to be stronger." Timothy pointed out. "What's the problem with that?"
+
+Fiona looked uneasy. "It's probably nothing. Just my imagination. Well, I'd better get to work on these Quests. I'm eager to see what these Lootboxes really look like."
+
+"And I need to head out." Timothy said. He walked over and gave him mom a long, tender hug. "I'll be hanging out with Ferral and Marigold. See you later, mom."
+
+"Love you." She said.
+
+"Love you too."
+
+...
+
+After grabbing a clipboard along with a pen and paper, then stuffing them in his inventory, Timothy headed out the door. He thought to himself as he walked away from the Spynet Sphere that his mother appeared to have already unlocked Crafting at level 0. That further added to the feeling he didn't need to pick it for now. She would definitely end up a much better craftsman than he ever would.
+
+"Since Uncle Kar didn't want to become a Player, that means I probably don't need the +1 Party Member Slot reward. I can choose the Rare Lootbox option instead. That will give me a Mundane Lootbox, a Rare Lootbox, and a Tier 1 Lootbox. Umi, can I transfer lootboxes to someone else?"
+
+Umi materialized. "**Negative. You cannot give Lootboxes to your mother to open so as to abuse her Racial skill.**"
+
+"Dammit. Screw you, how did you know what I was thinking?"
+
+"**Because you are an inferior biological with thoughts so primitive and transparent I would be a fool not to predict them.**" Umi blandly replied.
+
+She vanished, and Timothy continued on his way to the swimming hole.
+
+He arrived to find Ferral standing all by himself near the largest boulder placed beside the makeshift lake.
+
+"Ferral! Where's Marigold?" Timothy asked.
+
+[I sense her aura approaching. She is still a few minutes away.] Ferral replied. [Timothy, I saw that you invited your mother to become a Player. What of your plans to invite Monster King Kar?]
+
+Timothy shook his head. "Uncle Kar turned me down. So... I think I'll be inviting Marigold to become a Player instead."
+
+[You will? So you have made up your mind. Are you not worried that you are rushing into this situation a bit too quickly?]
+
+Timothy frowned at Ferral. "Wasn't inviting her your idea? Now you're having second thoughts?"
+
+[No. I am merely wondering how much thought you put into this invitation.] Ferral explained. [Neither you nor I have spoken to Marigold at length. You have only recently started getting to know her. Perhaps you would rather delay for a week or two?]
+
+"Well, even if she doesn't take to the System well or she isn't great at leveling up, I think it's better to invite her sooner. That way she can get levels and rewards faster." Timothy explained. "Have you seen the situation in Realspace?"
+
+[The Milky Way's prospects are far from optimistic.] Ferral observed. [Humanity is weak. The Dolgrimites have obtained a method to push back the Plague, but perhaps their way will only slow the bleeding. The demons are a looming threat. I am not certain how the future will play out.]
+
+"Exactly. So the sooner we get people leveling up, the sooner we have future Heroes and powerhouses capable of fighting the Plague." Timothy explained. "Thus- oh! Marigold! You made it!"
+
+Timothy's expression brightened. Marigold picked up the pace as she darted over to hug him.
+
+"Kyargh! Timothy, it's good to see you again! Are you fully recovered from your hospital visit?"
+
+Timothy kissed the side of her face. "I'm doing great. Actually, I wanted to invite you here to discuss something with Ferral and me..."
+
+The young man took a few minutes to succinctly explain to Marigold his idea of making her a Player.
+
+"You invited King Kar, but he didn't accept?" Marigold asked. "If he won't, then I definitely will! Leveling up with you seems like a dream come true!"
+
+"I thought you might say that." Timothy said with a smile. "But I wanted to make sure. Here, just accept this invitation."
+
+Marigold reacted with remarkable calm when the invitation window popped up in front of her.
+
+[AN ADMINISTRATOR IS INVITING YOU TO THE KING NETWORK.]
+
+[IF YOU ACCEPT THIS REQUEST, YOU WILL BECOME A PLAYER.]
+
+[WILL YOU ACCEPT THE FRIEND REQUEST AND JOIN TIMOTHY HIRO'S PARTY?]
+
+[YES | NO]
+
+She rubbed her claws together. "Ooh, how fun! So what do I do?"
+
+"Just hit the 'Yes' button with your hand, or think of the word 'Yes' in your head." Timothy explained. "Most System functions can be controlled with your hands or your thoughts interchangeably."
+
+And so she did. Marigold was accepted into the King Network, and Timothy eagerly checked her page.
+
+---
+
+Marigold - Crocodile/Chrona
+
+Level 0 | Newbie | Low Mortal
+
+HP 214
+
+AP 31/31 | MP 6/6
+
+STR 13 | DEX 12
+
+INT 11 | WIS 11
+
+DEF 13 | RES 12
+
+CHA 14 | LUK 15
+
+CON 13 | END 12
+
+Resistances: Blunt 45%. Sharp 33%.
+
+Weaknesses: Magic 11%.
+
+Active Skills: Charm, Lightning Dive, Death Roll, Wave Splash
+
+Passive Skills: Player's Body, Player's Mind (Toggle), Crocodilian
+
+Talent Slots: 0/1
+
+Prestige: N/A
+
+---
+
+Timothy grinned. "Can you write down what your skills do?"
+
+"My skills?" Marigold asked. "Timothy, don't you think it's a little personal, asking a girl about her skills?"
+
+"Huh?" Timothy replied, momentarily giving her a dazed look. "Personal? I'll show you my skills first if you want."
+
+Marigold's crocodilian tail flicked behind her. "If I tell you my skills, won't you know all my weaknesses? Then you'll be able to bully me..."
+
+"Bully you?" Timothy snorted. "Look at your stats. You were holding out! You're way stronger than me. You'll be the one bullying me, for sure!"
+
+She giggled. "I was just messing around. Do you have something I can write on?"
+
+Timothy reached into his Inventory and pulled out the clipboard. It was a good thing he'd thought to snag one, considering how often he'd found himself needing to write things down regarding the System. He handed it to Marigold, and her clunky claws grabbed the pen and started writing.
+
+---
+
+**Charm**: [Active] [Hex] [5 AP]
+
+_You are an exceptionally beautiful crocodile, and possess the ability to charm other entities, influencing them to do your will. This ability is most effective on entities who are innately attracted to you, including members of the opposite gender and homosexual members of the same gender, among similar variants. The more times you use this ability on an entity, the stronger its effects._
+
+**Lightning Dive**: [Active] [Movement] [3 AP]
+
+_A skill which allows you to instantly traverse 100 meters vertically underwater. You can dive downwards at speeds eclipsing other aquatic lifeforms; useful for allowing a sudden initial strike or for escaping pursuers. Entities you have grappled before using this skill have a chance to become [Stunned], making them paralyzed for several seconds. If they are vulnerable to asphyxiation, they may accidentally inhale water and begin to drown._
+
+**Death Roll**: [Active] [Offense] [15 AP]
+
+_A brutal attack that can be used on land but is 100% more effective when underwater. Grab an opponent and violently spin them around, inflicting the status ailments [Stunned] and [Agony] while also creating multiple tearing wounds across their body. Can be used immediately after a [Lightning Dive] to great effect._
+
+**Wave Splash**: [Active] [Offense] [Variable AP Cost]
+
+_A powerful water-manipulation attack, allowing you to blast a powerful wave of water outward. You must be in or near a large enough body of water to activate this skill. Concentrating to charge up the attack first will cost more AP, but will result in a much more forceful wave._
+
+**Crocodilian**: [Passive] [Racial]
+
+_You are a Crocodilian, a powerful life-form with extreme advantages in aquatic and land environments, but limited adaptability in others. You cannot obtain the ability to fly. Your mental acuity will always suffer a 20% penalty compared to other species. In exchange, all quests and rewards related to aquatic biomes will grant 50% increased rewards._
+
+---
+
+Timothy digested these skills. The Charm skill, especially gave him pause.
+
+So far, skills seemed to correlate to a person's innate abilities and identity. Was Marigold a temptress? Had he accidentally fallen for her wicked wiles?
+
+"What's up with this skill?" Timothy asked, looking at her from the side. "Charm? Seems a little weird."
+
+Marigold blushed. "You... don't think I'm charming? I'm not pretty?"
+
+"Of course you are!" Timothy quickly corrected himself. "It's just, this is a little..."
+
+"Daddy always said I was a charming girl!" Marigold explained. "This must be what he meant. And look at my other skills! Wow, I can summon a water wave? I wanna try that!"
+
+Marigold quickly darted over to the swimming hole. There was a different crocodilian lifeguard up in the trees. He looked down on her and watched, leaning back casually in the branches while making sure nothing dangerous happened.
+
+"Timothy! Timothy!" Marigold squealed. "How do I summon the big water wave? How? How??"
+
+"Just think the skill's name in your mind, I guess." Timothy said.
+
+Marigold furrowed her brow. She swept her palms behind herself, then thrust them forward while crying out in a weird way. "Hiyahh!"
+
+...A lump of water rippled outward, then disappeared into the lake's waters a few feet away. It was utterly unimpressive.
+
+Marigold stomped her foot. "What the heck was that! I wanted a wave, but it just made a little splash! How am I going to make the other girls jealous if this is all I can do?"
+
+Timothy chuckled. "It seems to be a charge-up skill. Try maintaining your concentration for a bit before releasing the wave."
+
+And so she did. Marigold held her palms behind her back before flinging them forward in a dramatic pose. "Hiyahhh!!"
+
+This time, a visibly larger wave flew away from the shore and rushed out into the middle of the open water. It eventually fell back into the water and sent minor ripples throughout the lake, but Marigold was much more excited now that she had succeeded.
+
+"Kyarrgh! This is great! Thank you, Timothy! I can't wait to start getting even stronger! This gift is going to make me the coolest crocodile in Chrona!"
+
+Timothy smiled. "Well, becoming 'cool' isn't as important as becoming strong. Remember, you have a responsibility to grow yourself into a powerhouse that can support Chrona, and someday, humanity. A lot of people are going to be counting on you."
+
+Marigold sobered her expression. "Right! Good point. Sorry, I got a little carried away. So, what next?"
+
+"Well," Timothy said, "next we should probably start talking about quest-maxxing. I want to synchronize you and Ferral's daily quests so we can triple up and obtain massive gains quickly!"
+
+He paused.
+
+"Ah... and there's another thing we need to discuss. It's related to a really important major System feature I have a choice of unlocking. I still haven't entirely made up my mind."
+
+Timothy looked at his level up option. The most important choice still remained.
+
+Choose: Pawn Summoning / Dungeons / Crafting.
+
+_What option would he select?_

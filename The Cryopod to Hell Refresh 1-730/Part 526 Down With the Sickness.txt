@@ -1,0 +1,319 @@
+Part 526: Down With the Sickness
+
+Over the next several hours, Phoebe leads Rebecca and the Cybernites on a guided tour around her personalized warehouse and construction facility. Despite its rudimentary usage of high technology, it still is quite an impressive accomplishment for someone lacking formal technical training to have singlehandedly designed and constructed with only half a decade of time. Unlike Rebecca, Ryn, or any of the other Cybernites, Phoebe never attended a college or a technical university during her formative years. Furthermore, she didn't even properly interact with technology at all until metamorphosing back into a human from a monster nearly 100,000 years after her birth.
+
+The fact the Phoebe has learned so much, so fast, is a testament to her innate genius!
+
+"It's a shame..." Rebecca says, as Phoebe shows her a mockup for a human-shaped robot intended for excavating precious minerals from a mine at the southern side of the city. "If you had been available during the Energy Wars, you might have been able to assist Marie Becker properly. Humanity might have stood a real chance of winning the war."
+
+"That's kind of you to say." Phoebe says with a smile. "But you and I both know that isn't true. The Volgrim never deployed a Psion stronger than the 6th Level in that war. No matter how grand our technology, we could not have defeated an empire with essentially unlimited resources, multiple powerful Cosmics, and hundreds of armadas of warships at their disposal."
+
+Rebecca's enthusiasm slips. "Yeah... I suppose you're right. It felt to me at the time like we were teetering on the brink of success and failure, but perhaps we never truly had a chance in the first place."
+
+She shakes her head and sighs.
+
+"...Anyway. I'm impressed by the solutions you've come up with in so short a time, but the technical limitations and lack of access to high quality schematics has really hampered your expansionary efforts."
+
+"In what ways specifically?" Phoebe asks.
+
+Instead of immediately answering, Rebecca turns to her silver-haired friend, Ryn.
+
+Ryn blinks, realizing she's been designated as the explanation-giver.
+
+"The first issue we have identified has to do with the algorithms you have designed for the Materializers." Ryn says, in that matter-of-fact semi-robotic way she always does. "In order to create matter from energy, you need a vast amount of energy, but also algorithms tailor-made for transforming that energy efficiently into the matter you desire. The issue is, your algorithms are sloppy and sub-par."
+
+Phoebe winces. "...That bad?"
+
+"Ahem, uh, don't mind Ryn." Rebecca says, quickly jumping in. "She's a bit too blunt at times, but she knows her stuff."
+
+"Alright. But what is the problem specifically?" Phoebe asks. "I don't follow."
+
+Ryn motions with her hand, conjuring a series of complicated-looking mathematical proofs to levitate in the air through a holographic projector in her palm.
+
+"The compression algorithms you are using for your Materializers are rudimentary, inefficient, and all are general purpose. As an example, how long does it take you at present to create one kilogram of material?"
+
+Phoebe shrugs. "I believe it takes 50 seconds per kilogram. But some materials are easier to generate, others are harder. A kilogram of gold requires one and a half minutes, while Plutonium requires nearly three minutes."
+
+"That is the dilemma you face when you use inefficient algorithms for compression." Ryn explains. "The reason it takes you so long to generate materials is because you have failed to create specialized compression algorithms for each type of material you need to generate, and the general-purpose algorithm you're using is broadly inefficient."
+
+"Let's put this another way." Rebecca helpfully explains. "If you want to generate a kilogram of gold, you shouldn't use the same energy compression algorithm you'd use for Iron or Plutonium. Their energy requirements, periodic stability, and elemental attributes are all vastly different. Furthermore, the Materializers themselves should be shaped to generate specific types of materials. In this way, a 50 second per kilogram creation time could be reduced to 25 seconds, 10 seconds, 5 seconds, or perhaps even fewer!"
+
+Phoebe gasps. "Such a drastic efficiency increase! Of course! I should have thought of that! I'm just so swamped with too many projects, I don't have time to delve into any of them in depth."
+
+"Well, that's why we're here." Rebecca says, patting Phoebe's shoulder with a smile. "The other advantage of a more efficient algorithm is a drastic decrease in energy needed to produce a material. This means instead of using your current energy production methods to power a mere twenty Materializers, you could easily output enough energy for forty, fifty, or even a hundred Materializers, all while producing those materials ten times faster! It's a win-win."
+
+Phoebe dramatically slaps her face. "I feel so silly now. I can't believe I overlooked this obvious solution."
+
+"Even Marie Becker needed the assistance of other intellectually gifted people to accelerate her plans." Ryn states emotionlessly. "You are no different in that sense."
+
+"Well, how much time would it take for you to help me update my Materializers?" Phoebe asks.
+
+"Not long. A week or two at most." Rebecca says. "To be honest, we'd get even better results if we rebuilt them from the ground up, but that could take months. We definitely don't have that much time to waste. We need to catch humanity up to the Volgrim ASAP."
+
+Suddenly, from behind the three women, a male voice speaks. "I certainly agree with that statement."
+
+Rebecca turns around and nods at the unexpected visitor. "Jason! You finally..."
+
+She pauses.
+
+Rebecca gazes at the man standing before her, allowing her eyes to flick across his body, clearly seeing something others might not notice.
+
+"...This is not your physical body." Rebecca says, after a moment of contemplation. "This is a robotic drone-body."
+
+"What makes you say that?" Jason asks. "Maybe I turned myself into a Cybernite, just like you."
+
+"That would be a foolish choice." Rebecca says. "As a Hero, your connection to your biological self is extremely important. Turning yourself into a Cybernite would be extremely likely to result in the immediate and permanent loss of your Wordsmithing. Meta-abilities are incapable of transferring to a digitized self."
+
+Jason walks over and hugs his wife with one arm while continuing to smile at Rebecca. "Alright, you caught me there. This is just a drone-body. Can't be too cautious, these days."
+
+"Then where is your... real body?" Rebecca asks, while also immediately tapping into the Dronesmith's central CPU to try and pinpoint Jason's location.
+
+She fails, discovering in the process that whatever method Jason is using to control the Dronesmith isn't based on mundane technology, but something more magical in nature.
+
+"I... can show you." Jason says hesitantly, while glancing around the room. "But it's sort of a big secret."
+
+"I see. Then just take me there." Rebecca says. "Ryn, you stay here with Phoebe and start getting to work on updating her Materializers."
+
+"Okay." Ryn replies, not adding anything else of note.
+
+Jason gestures to Rebecca, his hand motion indicating for her to wait a moment. He turns and looks at his wife lovingly, and the two of them stare into each other's eyes for five long seconds.
+
+Rebecca gets the impression it isn't a simple lovey-dovey moment. They must be communicating in secret. As for what they're saying to each other, she hasn't a clue.
+
+Jason eventually leans down to give his wife a kiss, then he walks over to Rebecca's side.
+
+"This will only take a second." Jason says.
+
+An instant later, Rebecca's sensors detect a micro-burst of quantum energy. She vanishes from her position and materializes inside a pitch black void.
+
+Rebecca blinks. Something seems to envelop her body, bind her limbs, and prevent her from sensing the world around herself.
+
+"One moment, Rebecca." Jason says, his voice transmitting into her ear. "I have to take every precaution to validate your identity before I allow you inside my secret base."
+
+Rebecca remains silent. She detects powerful scanning beams as they pulse into her body, massaging her biological and mechanical innards, until the scanners stop a few seconds later.
+
+Abruptly, a helmet snaps upward and away from her head, while the restraints on her body also fully loosen, allowing her to breathe the fresh air of... someplace she's never been before.
+
+Rebecca finds herself inside an underground complex of some sort, a place with all the scanning beams she already surmised about, as well as two dozen 'isolation pods' designed to snap up new arrivals and immobilize them until their identities have been verified. The harsh blue lights above give this complex a sterile feeling, as if she's entered a prison's medical ward.
+
+"What a warm welcome." She says dryly, turning to look at the real Jason, standing just ten feet away. Beside Jason stands his mind-wife, Fiona, her body appearing nearly as corporeal as his.
+
+"Welcome to Chrona." Jason says, extending a hand toward her. "Sorry for the rough arrival. I try to take as many precautions as I can."
+
+"That's a good policy." Rebecca says, reaching out to shake Jason's hand. "Chrona, you say? I haven't heard that world's name before."
+
+Jason chuckles. "Haha. Well, Chrona is pretty unique in the Milky Way. I'm not surprised you haven't seen it before. Let's go topside and see what you think."
+
+Rebecca nods. She, Jason, and Fiona all step inside a nearby elevator and ride it upward. At the same time as they engage in pleasantries, Rebecca tries to communicate with Marie Becker, but she finds that all of her communication tools have failed simultaneously. In fact, she has lost contact with the greater galaxy at large; an alarming find under more stressful situations, but one that only causes her to frown slightly in this case.
+
+"Your ability to suppress my communications technology is impressive." Rebecca says, directing a frown at Jason. "Nobody has managed to do that to Marie's work before."
+
+"What do you mean?" Jason asks.
+
+"My transponders have all failed to link-up with the quantum nodes Marie and the Volgrim placed across the Milky Way. In theory, so long as we remain within the galactic sphere, I should be able to maintain contact in at least some minor way. Perhaps if 'Chrona' were located beyond our galaxy's sphere of control, or at its very outer edges, that might not be the case. But if so, then your ability to transport me tens of thousands of lightyears in a single second is genuinely impressive."
+
+Jason clears his throat. "Err, ahem, it's not quite like that. But I think you'll figure everything out once we reach the surface."
+
+Jason and Fiona remain silent while Rebecca continues to puzzle over the matter. As the elevator races upward, it doesn't take long before her iris modules become fully capable of piercing the dirt and soil above, allowing her to finally peer up at the sky through several different bands of the light spectrum. She frowns at the immediate lack of stellar radiation, as well as the revelation that not one bit of cosmic background noise is present.
+
+"This... is a special dimension? Like the Labyrinth?" Rebecca asks.
+
+The elevator comes to a stop. Fiona gently squeezes Rebecca's arm. "Something like that, yep."
+
+The elevator door opens, allowing the trio to step out into the fresh air. A false sun beams down from the sky above, warming Chrona's surface. But the colorless void around it, as well as the lack of an atmosphere, means that the void still appears as black as a pitcher of ink. Not one star twinkles above, a fact Rebecca has already come to notice. Furthermore, the 'spinning' vortex in the sky gives the illusion she has stepped inside the eye of a gentle hurricane, one that revolves around the planet slowly.
+
+It takes Rebecca no time at all to uncover the truth.
+
+She turns to look at Jason with a deep-set frown.
+
+"This is a special dimension. According to my internal chronometer, it is also a time-accelerated realm. I am rapidly losing sync with the exterior galaxy."
+
+Jason nods. "Yeah. Good intuition, Rebecca. This is Chrona. It operates at two hundred and fifty times the speed of the outer galaxy."
+
+Rebecca flinches. "What?! That fast? Don't you realize how dangerous such an extreme time dilation ratio is?!"
+
+"Dangerous?" Jason repeats.
+
+"What do you mean?" Fiona asks. "Everything is going fine inside here."
+
+"Yes..." Rebecca says slowly, as her eyes peer more closely at Jason's body. She rapidly scans his cellular makeup, and a look of dismay crosses her face. "In here, there won't be a problem. The issue is that you should never set foot in the outer galaxy again... otherwise, a swift and agonizing death will _surely_ befall you."
+
+---
+
+Inside the Hall of Heroes, King Solomon, Hammurabi, Arthur, and Amelia make their way into a secret corner of Hope Hiro's specialized temporal realm. There, they find a teleportation matrix that jumps them from the main body of the Hall of Heroes into a far larger sub-dimension more than a hundred times bigger in size.
+
+This dimension houses the elite Volgrim Hope Hiro captured when he destroyed Moonbase Serris. It is a place where those Volgrim are kept in stasis, unable to move, think, or act of their own free volition. They remain trapped inside dreamless comas, their sense of time passing by instantly while the outer galaxy proceeds on its course without them.
+
+Walls and walls of stasis pods sit attached to the walls, with many levels of those pods stacked on top of one another, and even more columns going across the central floor to create a library-like illusion of endless corridors.
+
+Each pod houses just one Volgrim. And yet, Amelia couldn't count the ones in sight even if she tried. The sickly green lighting in the Stasis Prison gives her an alien feeling unrelated to the Volgrim themselves...
+
+But Amelia shows no compassion for these creatures. She has already heard from Hope about the morbid experiments they inflicted upon her fellow humans, so she doesn't care if they 'suffer' inside their pods. If anything, it's more like a vacation for them, one where they don't have to work and slave away for their Empire all day, every day.
+
+The three Heroes, and the former Black Queen, all make their way down the seemingly endless rows of stasis pods stacked up to the ceiling. Amelia knows well that despite how many pods are in this one facility, there are even more levels above and below with countless Volgrim stuffed inside, all rendered helpless by the Wordsmith's power.
+
+Solomon quickly leads the group to one specific pod, placed seemingly at random amidst the wall of others identical to it. He lowers this stasis pod from three layers above down to the floor through the use of an automated mechanical arm. When the pod reaches the floor level, he holds up a palm, informing everyone to take a few steps back.
+
+Its occupant is considered extremely dangerous, after all.
+
+A moment later, Solomon positions himself directly in front of the pod, his expression grim as it begins to hiss and sputter, popping open to reveal a female Technopath with heavily armored legs made of Living Moldanium. She stands with her eyes closed while the stasis wears off, then her eyes snap open to reveal a cunning edge seen only in ancient monsters from a long-lost age.
+
+The Technopath says nothing for a moment. She merely directs a burning gaze toward Solomon, then the other three, then the facility around her.
+
+"_You. Solomon of Jerusalem. Knowledge-Seeker._" She says calmly, glaring at him with eyes that seem capable of melting obsidian.
+
+"Psymin Miralax. A Celestial Designer." Solomon says carefully. "My apologies for keeping you in stasis. Hope Hiro was not sure what to do with you following your capture."
+
+Psymin blinks. She cocks her head slightly while attempting to transmit a wide-beam data-ping.
+
+The effort fails.
+
+"_My location. Unknown. Imprisonment duration. Unknown. Release requirements. Unknown._"
+
+"That is why I wanted to speak to you." Solomon says carefully. "I believe I may require your assistance. If you can help me, I will be open to... negotiations."
+
+"_Refuse._" Psymin immediately states. "_You are my enemy. I do not work. With enemy._"
+
+Amelia's heart skips a beat. "Wait! Please, we really need your help!"
+
+Solomon quickly holds up a hand. He doesn't even look at Amelia, merely silencing her with his palm. "We are willing to pay remunerations. You will not be at a disadvantage."
+
+"_Return me._" Psymin says, her tone icy. "_To Serris. Immediately._"
+
+A brief instant passes. Solomon gazes at her quietly, then lowers his eyes.
+
+"I'm afraid I cannot do that."
+
+"_Why not?_"
+
+"Because... Serris is gone. Hope Hiro destroyed it."
+
+Psymin does not react with even the slightest hint of surprise, as if having guessed this was what happened already.
+
+"_Foolish. Serris was important. Essential. Those projects. Classified. Experiments. Intention. Stop the Plague. You've doomed us._"
+
+"You underestimate the Wordsmiths." Solomon says quietly. "We will find a way to defeat the Plague, given time. But while you and I speak, one of the Wordsmiths is suffering. He needs your help. If the Wordsmiths fall, the Plague will win. It's that simple."
+
+Psymin glowers at Solomon. "_You. Manipulator. I will not succumb. Mind tricks._"
+
+Her robot voice grates on the ears of those present. Amelia winces as she realizes Solomon is making no headway in swaying her resolve. What Hope did to Serris likely ruined any chances of working with the Celestial Designer in the future.
+
+Before Solomon can speak again, Arthur steps forward. He gently pushes Solomon aside, though the Knowledge-Seeker doesn't offer any resistance. Solomon almost seems happy to let his friend intervene.
+
+"Psymin Miralax. I am Arthur Pendragon. Once considered the mightiest of humanity's Heroes." Arthur says, speaking with a mixture of authority and humility. "But in the end, I am merely a man. One man cannot save the galaxy. This is true of not only me, but your First Founder and our Wordsmiths too. It is true the Second Wordsmith is but a boy. He is hot-headed and prone to making mistakes. But don't you think working with him has a higher chance of pushing back the Plague than working alone, separated?"
+
+"_You. Killers._" Psymin says, not backing down. "_I will not assist._"
+
+"Do you wish to pretend the barbarism Hope witnessed on Serris was fully justified?" Arthur asks while crossing his arms and puffing out his chest. "Torturous experiments. Vile practices. He took revenge in a fit of rage, yet he still preserved the core of your power. You yet draw breath, as do your elites. Working with us will grant you leverage to free them. Are you certain you wish to stubbornly cling to the past when the future before you appears so dire?"
+
+Finally, Psymin hesitates. She glances between Arthur and Solomon, uncertain of what to say. Unlike her lauded First Founder, Psymin is but a technologist who has solely focused on researching innovative new technologies. In the art of wordplay, she is nowhere near Unarin's equal, let alone the ancient Heroic figures arrayed before her.
+
+To say nothing of her body, disfigured by an ancient accident, a battle involving machines capable of destroying the galaxy. She has spent no time at all learning how to properly communicate with others, and so, her ability to read other people's intentions, particularly those of non-Volgrim species, comes up quite lackluster.
+
+"_I..._"
+
+Psymin continues to hesitate, not sure of what to say. At that moment, Hammurabi steps forward.
+
+"Harrumph! Listen here, lauded Celestial Designer. I am Hammurabi, the oldest of those before you. I am Solomon's master, and Arthur's grand-master. I pledge upon the honor of my heroic spirit that if you help us, we will help you too. Hope Hiro possesses the ability to terraform planets. It is conceivable he may even be able to remake planets anew. Rebuilding Serris is within reason. I will command the boy to recreate Serris as it was before, but even better. We will find... acceptable alternatives for your experiments to ensure no humans suffer in the way you tortured them, while granting you the ability to continue advancing your goals. We must work together to defeat the Plague, after all!"
+
+"I'm Hope's fiance." Amelia adds. "I can't promise much, but if you help us save Hope, I'll make sure he helps you back!"
+
+Psymin's expression softens slightly. She continues to gaze at the four humans with distrustful eyes, but considering her precarious situation, she lacks bargaining power.
+
+She ultimately relents, lowering her arms to her sides while exhaling softly.
+
+"_Very well. Take me. To the Wordsmith. I will look. Investigate. But. You must. Keep your promise._"
+
+"Worry not." Solomon quickly replies. "Heroes never go back on their words."
+
+"_I hope not._" Psymin counters.
+
+...
+
+Some time later, the Heroes and Amelia lead Psymin into the Hall of Heroes. As they travel, Psymin's acute eyes observe every nook and cranny she passes. She senses the spiritual energy in the air, and observes many Heroes milling about the corridors, piecing together plenty of clues regarding her current location.
+
+"_This location. Time accelerated?_"
+
+Solomon nods. "That's correct. The Hall of Heroes exists in a state of quantum acceleration, roughly 100 times faster than the outside galaxy."
+
+"_I contemplate. I comprehend._"
+
+Psymin says nothing else as they lead her to the hospital ward, where Hope lays motionless on the bed, barely sucking in slow breaths while remaining fully comatose, unable to awaken.
+
+"We can't figure out what's happened to him." Solomon explains. "After he teleported back to the Hall of Heroes, he collapsed. He's been like this ever since."
+
+Solomon quickly rattles off all of Hope's symptoms, detailing as many possible factors as he can while also informing Psymin of the battle against Mephisto.
+
+"...which is why we suspect Mephisto must have struck him with some sort of poisonous necrotic energy. But we can't find any evidence of such a thing." Solomon concludes.
+
+Psymin reaches out her hand. She touches the top of Hope's head for roughly two seconds, then pulls it back.
+
+"_My surprise. Unimaginable._" Psymin says, turning to Solomon. "_You. Unaware? His condition. Obvious. You. Stolen knowledge. Yet ignorant?_"
+
+Solomon blinks. "I don't follow what you're saying. Are you implying I should know what is causing Hope's condition?"
+
+"_Yes. Obvious. His condition. Time Dilation Sickness._"
+
+Solomon flinches when he hears Psymin's words. "What? Time Dilation- that's... one moment."
+
+The Knowledge Seeker abruptly vanishes. He disappears from his position, teleports inside of his Crown, and begins rapidly scrolling through the infinite library of files he has compiled from the brains of all the High Volgrim. It doesn't take him long to uncover dozens of top secret documents, memory fragments, and scattered pieces of knowledge referencing this specific condition.
+
+He instantly reappears before Psymin with a look of shock.
+
+"Time Dilation Sickness! I hadn't heard of this until just now, but it's a real thing! It's a phenomena experienced by those who travel from higher to lower dilation speeds within short periods of time!"
+
+"_This condition._" Psymin states quietly. "_Typically lethal. Hope Hiro. Lucky to be alive. Healing him? Difficult._"
+
+Solomon nods sagely. "Difficult, indeed..."
+
+---
+
+Rebecca stands over Blinker's hospital bed, gazing at the fairy with a look of dismay. Jason and Fiona stand on either side of her, while Kar sits across the bed, looking up at Rebecca with hopeful eyes.
+
+"It's as I feared." Rebecca says quietly. "She's suffering from Time Dilation Sickness. This is a deadly condition that typically kills those who suffer from it. But the good news is, Blinker did not expose herself to the lower dimensions for too great a time. As the Monster Queen, her body is also extremely hardy compared to those of other mortals. She will recover, but it will require a great deal of time for her body to re-acclimate to the higher dimensional speeds of Chrona."
+
+Jason massages his forehead in worry. "I don't understand. I thought everything was going fine! I live inside Chrona without any issues!"
+
+"That's the thing. You're not applying a proper analogy to the situation." Rebecca explains. "Let me put it this way. Think of higher and lower time dilation ratios as being different levels of gravity, or perhaps atmospheric pressures. The faster the time dilation, the 'lighter' the pressure. Humans who were born in space often have softer bones and weaker bodies than those born on planets with gravity. If a spacefarer attempts to live on a planet, they can die from gravitic pressures, an inability to pump blood due to their weakened heart, and other such issues. The higher the gravity, the more deadly the effect."
+
+Fiona quickly picks up on the analogy. "If someone from Earth travels to space, they won't have much issue. A strong body can cope with a lighter gravitic pressure, no problem. But the opposite is not true."
+
+"Exactly." Rebecca replies. "In the same way, a surface-dwelling human cannot travel and live freely in the deepest depths of an ocean. If they tried, their bodies would explode from the pressure. Now that you and these other people have adapted to living inside a 250x-accelerated time dilation index, you cannot easily return to normalspace. It would be like teleporting into the deepest depths of the ocean. You'd most likely die immediately."
+
+Kar chuffs fearfully. "Then... why did Butterfly live? Is it only because her body is so strong?"
+
+"Yes. But that was only a temporary measure. You can forcibly resist Time Dilation Sickness by virtue of sheer bodily power, but attempting to do so will not leave you uninjured. You will still suffer on some level, as Blinker is suffering now."
+
+Rebecca smiles.
+
+"Blinker is lucky. She will recover. She merely needs to re-acclimate to the time dilation index of Chrona. Once she does, she will be just fine. But unfortunately, the same is not true for the rest of you..."
+
+Rebecca pokes a finger against Jason's chest. "You are weak in body. If you had been the one to leave Chrona, you might have perished immediately. Kar and Blinker's children, likewise, were born inside Chrona and have already fully adapted to its environment. They will not simply die if they enter the physical world; they may even implode due to the temporal pressure around them, transforming into a micro-singularity and disappearing an instant later."
+
+Kar's eyes practically pop out of his head. "Hurgh! That sounds awful! What the heck, Little Orchid! Are you telling me my babies are stuck here?"
+
+"I'm afraid I am, Kar." Rebecca says consolingly, walking around to pat his scaled shoulder. "But... as long as you live inside Chrona, you won't have any troubles. This dimension is so isolated, the Plague probably won't be able to find it. It would make for a solid backup base, a fallback location in case the Milky Way becomes fully compromised."
+
+Jason's eyes darken. "Only if I want to damn humanity like I've damned myself. Anyone I bring here won't be able to leave or their freaking bodies will implode. That's really fucked-up, Rebecca. I'll have to find other solutions."
+
+"What about the Cube?" Fiona asks. "It has much lower TDR's than Chrona. Lower TDRs should mean less chance of suffering from Time Dilation Sickness, right?"
+
+"That's a fair point." Rebecca says, somewhat hesitantly. "We have a Time Dilation Zone that exists at a ratio of 1:4 inside the Remnant Oasis. You might remember it, Jason, as it's where Kar's people, and the Lizardmen, lived. The lower the TDR, the less likely one is to suffer from major effects of Time Dilation Sickness."
+
+"Maybe I could find a way to decelerate someone from Chrona's insane 250x speed to something more like 200x, then 150x, 100x, and so on, until they can return to normalspace." Jason suggests.
+
+"It's worth a shot, but the Volgrim have done plenty of tests with time acceleration in the ancient past. It won't go as well as you'd expect." Rebecca says.
+
+Jason falls silent. So do the others.
+
+"I'll have to keep using the Dronesmith for now." Jason says quietly. "I originally used it so I could stay inside Chrona but maintain a presence in realspace. But now, it seems the Dronesmith is my _only_ link to realspace. And that means... I can't bring Phoebe here. I'd subject her and the baby to Time Dilation Sickness if they ever wanted to leave. She wouldn't like that."
+
+"But you can't leave to go and see her." Fiona says quietly, only now realizing the weight of the situation.
+
+"That's right." Jason mutters. "I can't see my wife in person. I can't leave here to hold my son. I can't bring them here, either, or else they would have to stay here forever. In short... Phoebe and I... can't be together anymore. Not physically, at least."
+
+A somber mood takes the Wordsmith's mind.
+
+Jason gazes ahead blankly, feeling as if a planet has just fallen upon his shoulders, one he has no choice but to bear its weight, much like Atlas holding up the Earth.
+
+"This changes everything for me." Jason says softly.
