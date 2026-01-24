@@ -113,10 +113,11 @@ def update_readme(path, wordcount_data, is_root=False):
         f.write(content + new_section)
 
 def main():
-    root_dir = os.getcwd()
+    # Use the parent directory of this script as the root
+    root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     global_data = {}
     
-    exclude_dirs = {'.git', '.vscode', '__pycache__'}
+    exclude_dirs = {'.git', '.vscode', '__pycache__', '.utils'}
     exclude_files = {'wordcounter.py', 'update_counts.bat', 'AgentWordCounterPlan.md', 'global_index.json'}
 
     for item in sorted(os.listdir(root_dir)):

@@ -9,10 +9,10 @@ This plan outlines the implementation of an automated wordcounting utility for t
 - Provide a simple one-click update mechanism.
 
 ## Components
-1. **`wordcounter.py`**: A Python script that handles the heavy lifting of cleaning and counting.
-2. **`update_counts.bat`**: A batch file to run the Python script.
+1. **`.utils/wordcounter.py`**: A Python script that handles the heavy lifting of cleaning and counting.
+2. **`update_counts.bat`**: A batch file in the root to run the Python script.
 3. **`index.json`**: Per-folder index files for programmatic access.
-4. **`global_index.json`**: A root-level index file for cumulative totals.
+4. **`.utils/global_index.json`**: A root-level index file for cumulative totals.
 5. **`README.md` Updates**: Automated formatting of wordcounts into folder and root readmes.
 
 ## Cleaning Logic

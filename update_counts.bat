@@ -1,3 +1,3 @@
 @echo off
-python wordcounter.py
+python .utils\wordcounter.py
 pause
