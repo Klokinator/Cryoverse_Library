@@ -1,23 +1,36 @@
-[
-  {
-    "subreddit": "TheCryopodToHell",
-    "replies": "",
-    "author": "Theactualguy",
-    "created_utc": 1474934829.0,
-    "score": 3,
-    "body": "That was deep. Actually, all of your works are. Me, I kinda rush to write them, never thinking beforehand, always writing on impulse. But I can see the work you've put into it! ",
-    "edited": false,
-    "author_flair_css_class": null,
-    "downs": 0,
-    "author_flair_richtext": [],
-    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That was deep. Actually, all of your works are. Me, I kinda rush to write them, never thinking beforehand, always writing on impulse. But I can see the work you&amp;#39;ve put into it! &lt;/p&gt;\n&lt;/div&gt;",
-    "distinguished": null,
-    "stickied": false,
-    "author_flair_text_color": null,
-    "created": 1474934829.0,
-    "author_flair_text": null,
-    "controversiality": 0,
-    "depth": 0,
-    "ups": 3
-  }
-]
+{
+  "subreddit": "TheCryopodToHell",
+  "author": "Klokinator",
+  "created": 1474912341.0,
+  "created_utc": 1474912341.0,
+  "edited": false,
+  "ups": 67,
+  "downs": 0,
+  "score": 67,
+  "upvote_ratio": 0.93,
+  "title": "An older post from one of my previous WP Entries. A man is given super powers, but at what cost?",
+  "gilded": 0,
+  "replies": [
+    {
+      "subreddit": "TheCryopodToHell",
+      "author": "Theactualguy",
+      "created": 1474934829.0,
+      "created_utc": 1474934829.0,
+      "edited": false,
+      "ups": 3,
+      "downs": 0,
+      "score": 3,
+      "controversiality": 0,
+      "body": "That was deep. Actually, all of your works are. Me, I kinda rush to write them, never thinking beforehand, always writing on impulse. But I can see the work you've put into it! ",
+      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That was deep. Actually, all of your works are. Me, I kinda rush to write them, never thinking beforehand, always writing on impulse. But I can see the work you&amp;#39;ve put into it! &lt;/p&gt;\n&lt;/div&gt;",
+      "author_flair_text": null,
+      "author_flair_richtext": [],
+      "author_flair_text_color": null,
+      "author_flair_css_class": null,
+      "distinguished": null,
+      "stickied": false,
+      "depth": 0,
+      "replies": ""
+    }
+  ]
+}
