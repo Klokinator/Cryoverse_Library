@@ -1,26 +1,26 @@
 {
-    "total_words": 6770,
-    "total_chars": 39672,
+    "total_words": 6834,
+    "total_chars": 40089,
     "parts": [
         {
             "name": "Xx_420BasedGOD_xX 01 -  Jan 2021 Patch Notes",
-            "words": 1088,
-            "chars": 6076
+            "words": 1112,
+            "chars": 6238
         },
         {
             "name": "Xx_420BasedGOD_xX 02 -  Feb 2021 Patch Notes",
-            "words": 1479,
-            "chars": 8671
+            "words": 1495,
+            "chars": 8774
         },
         {
             "name": "Xx_420BasedGOD_xX 03 -  March 2021 Patch Notes",
-            "words": 2692,
-            "chars": 15314
+            "words": 2708,
+            "chars": 15417
         },
         {
             "name": "Xx_420BasedGOD_xX 04 -  April 2021 Patch Notes",
-            "words": 1511,
-            "chars": 9611
+            "words": 1519,
+            "chars": 9660
         }
     ]
 }

@@ -738,7 +738,7 @@
 | Part 646 Demilas Destruction | 4,526 | 25,851 |
 | Part 647 Keen Instincts | 3,887 | 22,180 |
 | Part 648 Fallen Empire | 3,485 | 20,406 |
-| Part 650 Unarins Concession | 4,091 | 22,856 |
+| Part 649 Dolgris Guides Us | 3,254 | 19,279 |
 
 </details>
 
@@ -746,6 +746,7 @@
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
+| Part 650 Unarins Concession | 4,091 | 22,856 |
 | Part 651 Rebuilding | 3,822 | 21,786 |
 | Part 652 Beelzebubs Bluff | 3,517 | 20,113 |
 | Part 653 Demons Deal | 3,449 | 19,529 |
@@ -774,6 +775,7 @@
 | Part 676 A Dialogue With Dolgris | 4,499 | 25,418 |
 | Part 677 Chronas Biggest Loser | 4,086 | 22,654 |
 | Part 678 The King Network | 3,484 | 20,022 |
+| Part 679 Now I Can Level Up | 3,788 | 21,851 |
 | Part 680 The Power of Friendship | 3,553 | 20,255 |
 | Part 681 Im Not a Fraud | 5,143 | 28,165 |
 | Part 682 Truth and Desire | 4,268 | 23,536 |
@@ -794,15 +796,15 @@
 | Part 697 Galactic Unification | 3,738 | 20,814 |
 | Part 698 Alone Again | 5,029 | 28,148 |
 | Part 699 Humanitys Backup Plan | 3,627 | 20,211 |
-| Part 700 Unarins Obstinance | 3,866 | 21,755 |
-| Part 701 Too Easy | 3,539 | 19,848 |
 
 </details>
 
-<details><summary>Parts 701 - 729</summary>
+<details><summary>Parts 701 - 733</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
+| Part 700 Unarins Obstinance | 3,866 | 21,755 |
+| Part 701 Too Easy | 3,539 | 19,848 |
 | Part 702 Mentally Corrupted MindCore | 3,483 | 19,665 |
 | Part 703 RealitySim Online | 4,370 | 24,547 |
 | Part 704 Survivors Guilt | 3,572 | 19,577 |
@@ -832,9 +834,11 @@
 | Part 728 Making New Enemies | 4,189 | 24,336 |
 | Part 729 Unjustly Imprisoned | 3,305 | 19,071 |
 | Part 730 ASCENDED | 4,043 | 22,860 |
+| Part 731 ABOMINATIONS | 4,067 | 23,173 |
+| Part 732 Prison Break | 6,324 | 36,804 |
 
 </details>
 
 
-**Total Words:** 2,958,317
-**Total Characters:** 16,652,528
+**Total Words:** 2,975,750
+**Total Characters:** 16,753,635

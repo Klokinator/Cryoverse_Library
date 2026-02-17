@@ -1,6 +1,6 @@
 {
-    "total_words": 2958317,
-    "total_chars": 16652528,
+    "total_words": 2975750,
+    "total_chars": 16753635,
     "parts": [
         {
             "name": "Part 001 Entering the Labyrinth",
@@ -3248,6 +3248,11 @@
             "chars": 20406
         },
         {
+            "name": "Part 649 Dolgris Guides Us",
+            "words": 3254,
+            "chars": 19279
+        },
+        {
             "name": "Part 650 Unarins Concession",
             "words": 4091,
             "chars": 22856
@@ -3391,6 +3396,11 @@
             "name": "Part 678 The King Network",
             "words": 3484,
             "chars": 20022
+        },
+        {
+            "name": "Part 679 Now I Can Level Up",
+            "words": 3788,
+            "chars": 21851
         },
         {
             "name": "Part 680 The Power of Friendship",
@@ -3646,6 +3656,16 @@
             "name": "Part 730 ASCENDED",
             "words": 4043,
             "chars": 22860
+        },
+        {
+            "name": "Part 731 ABOMINATIONS",
+            "words": 4067,
+            "chars": 23173
+        },
+        {
+            "name": "Part 732 Prison Break",
+            "words": 6324,
+            "chars": 36804
         }
     ]
 }

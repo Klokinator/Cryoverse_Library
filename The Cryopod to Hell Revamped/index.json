@@ -1,6 +1,6 @@
 {
-    "total_words": 3367800,
-    "total_chars": 18926574,
+    "total_words": 3374904,
+    "total_chars": 18968019,
     "parts": [
         {
             "name": "Part 001 Entering the Labyrinth",
@@ -3753,6 +3753,11 @@
             "chars": 20431
         },
         {
+            "name": "Part 649 Dolgris Guides Us",
+            "words": 3259,
+            "chars": 19308
+        },
+        {
             "name": "Part 650 Unarins Concession",
             "words": 4096,
             "chars": 22887
@@ -3896,6 +3901,11 @@
             "name": "Part 678 The King Network",
             "words": 3489,
             "chars": 20050
+        },
+        {
+            "name": "Part 679 Now I Can Level Up",
+            "words": 3845,
+            "chars": 22137
         },
         {
             "name": "Part 680 The Power of Friendship",

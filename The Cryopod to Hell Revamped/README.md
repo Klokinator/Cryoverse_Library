@@ -860,6 +860,7 @@
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
+| Part 649 Dolgris Guides Us | 3,259 | 19,308 |
 | Part 650 Unarins Concession | 4,096 | 22,887 |
 | Part 651 Rebuilding | 3,825 | 21,808 |
 | Part 652 Beelzebubs Bluff | 3,522 | 20,142 |
@@ -889,6 +890,7 @@
 | Part 676 A Dialogue With Dolgris | 4,505 | 25,453 |
 | Part 677 Chronas Biggest Loser | 4,092 | 22,688 |
 | Part 678 The King Network | 3,489 | 20,050 |
+| Part 679 Now I Can Level Up | 3,845 | 22,137 |
 | Part 680 The Power of Friendship | 3,559 | 20,290 |
 | Part 681 Im Not a Fraud | 5,150 | 28,195 |
 | Part 682 Truth and Desire | 4,273 | 23,564 |
@@ -908,15 +910,15 @@
 | Part 696 The Wound That Never Heals | 4,138 | 24,185 |
 | Part 697 Galactic Unification | 3,742 | 20,846 |
 | Part 698 Alone Again | 5,033 | 28,171 |
-| Part 699 Humanitys Backup Plan | 3,633 | 20,245 |
-| Part 700 Unarins Obstinance | 3,871 | 21,786 |
 
 </details>
 
-<details><summary>Parts 801 - 830</summary>
+<details><summary>Parts 801 - 832</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
+| Part 699 Humanitys Backup Plan | 3,633 | 20,245 |
+| Part 700 Unarins Obstinance | 3,871 | 21,786 |
 | Part 701 Too Easy | 3,543 | 19,870 |
 | Part 702 Mentally Corrupted MindCore | 3,488 | 19,704 |
 | Part 703 RealitySim Online | 4,374 | 24,576 |
@@ -951,5 +953,5 @@
 </details>
 
 
-**Total Words:** 3,367,800
-**Total Characters:** 18,926,574
+**Total Words:** 3,374,904
+**Total Characters:** 18,968,019

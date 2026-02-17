@@ -4,12 +4,14 @@ A repository for the writing works of Klokinator, mainly featuring the work set 
 # --- Wordcounts ---
 | Series | Total Words | Total Characters |
 | --- | --- | --- |
-| One-Offs | 19,360 | 101,223 |
-| Story Starters | 12,838 | 71,437 |
-| The Cryopod to Hell Classic | 1,056,600 | 5,658,991 |
-| The Cryopod to Hell Refresh 1-730 | 2,958,317 | 16,652,528 |
-| The Cryopod to Hell Revamped | 3,367,800 | 18,926,574 |
-| The Human Hunt 1-3 | 7,354 | 42,778 |
+| Absurdverse - Stupid Humans! 1-3 | 5,049 | 29,022 |
+| One-Offs | 19,717 | 103,281 |
+| Story Starters | 12,792 | 71,175 |
+| The Cryopod to Hell Classic | 1,057,557 | 5,664,261 |
+| The Cryopod to Hell Refresh | 2,975,750 | 16,753,635 |
+| The Cryopod to Hell Revamped | 3,374,904 | 18,968,019 |
+| The Human Hunt 1-3 | 7,519 | 43,759 |
 | The Last Precursor (Complete) | 380,187 | 2,183,070 |
-| Xx_420BasedGOD_xX | 6,770 | 39,672 |
-| \[Absurdverse\] Stupid Humans! 1-3 | 5,049 | 29,022 |
+| Xx_420BasedGOD_xX | 6,834 | 40,089 |
+| _Artwork | 0 | 0 |
+| _Wiki | 0 | 0 |

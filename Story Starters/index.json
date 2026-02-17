@@ -1,6 +1,6 @@
 {
-    "total_words": 12838,
-    "total_chars": 71437,
+    "total_words": 12792,
+    "total_chars": 71175,
     "parts": [
         {
             "name": "Demons And Cyborgs - Part 001",
@@ -9,8 +9,8 @@
         },
         {
             "name": "Forbidden Cargo - Part 001",
-            "words": 6580,
-            "chars": 36765
+            "words": 6534,
+            "chars": 36503
         }
     ]
 }

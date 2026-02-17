@@ -1,6 +1,6 @@
 {
-    "total_words": 7354,
-    "total_chars": 42778,
+    "total_words": 7519,
+    "total_chars": 43759,
     "parts": [
         {
             "name": "The Human Hunt - Part 001",
@@ -9,13 +9,13 @@
         },
         {
             "name": "The Human Hunt - Part 002",
-            "words": 2159,
-            "chars": 12527
+            "words": 2242,
+            "chars": 13010
         },
         {
             "name": "The Human Hunt - Part 003",
-            "words": 3503,
-            "chars": 20167
+            "words": 3585,
+            "chars": 20665
         }
     ]
 }

@@ -1,66 +1,66 @@
 {
-    "total_words": 19360,
-    "total_chars": 101223,
+    "total_words": 19717,
+    "total_chars": 103281,
     "parts": [
         {
             "name": "Buyable Power",
-            "words": 826,
-            "chars": 4046
+            "words": 865,
+            "chars": 4284
         },
         {
             "name": "Humanity's AI",
-            "words": 2023,
-            "chars": 11141
+            "words": 2060,
+            "chars": 11347
         },
         {
             "name": "Mild Inconvenience Note",
-            "words": 517,
-            "chars": 2726
+            "words": 531,
+            "chars": 2820
         },
         {
             "name": "My Cat Kills Monsters",
-            "words": 625,
-            "chars": 3345
+            "words": 671,
+            "chars": 3627
         },
         {
             "name": "My Dog is a WHAT",
-            "words": 2543,
-            "chars": 13348
+            "words": 2585,
+            "chars": 13571
         },
         {
             "name": "Stalker",
-            "words": 1750,
-            "chars": 8774
+            "words": 1753,
+            "chars": 8790
         },
         {
             "name": "Summoned Succubus",
-            "words": 1210,
-            "chars": 6201
+            "words": 1248,
+            "chars": 6414
         },
         {
             "name": "THE ENEMY IS COMING",
-            "words": 1038,
-            "chars": 5841
+            "words": 1070,
+            "chars": 6032
         },
         {
             "name": "The Australian Empire",
-            "words": 679,
-            "chars": 3429
+            "words": 706,
+            "chars": 3586
         },
         {
             "name": "Tutorial Mode",
-            "words": 1558,
-            "chars": 8545
+            "words": 1583,
+            "chars": 8676
         },
         {
             "name": "[CEU] Romance Buds in Christmas",
-            "words": 2146,
-            "chars": 11046
+            "words": 2200,
+            "chars": 11352
         },
         {
             "name": "[CEU] The Deadliest Marksman",
             "words": 4445,
-            "chars": 22781
+            "chars": 22782
         }
     ]
 }
