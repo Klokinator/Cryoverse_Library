@@ -2559,8 +2559,8 @@
         ]
     },
     "The Cryopod to Hell Refresh": {
-        "total_words": 2975750,
-        "total_chars": 16753635,
+        "total_words": 2988177,
+        "total_chars": 16821884,
         "parts": [
             {
                 "name": "Part 001 Entering the Labyrinth",
@@ -6226,6 +6226,21 @@
                 "name": "Part 732 Prison Break",
                 "words": 6324,
                 "chars": 36804
+            },
+            {
+                "name": "Part 733 Making a Mindverse",
+                "words": 4071,
+                "chars": 22679
+            },
+            {
+                "name": "Part 734 One Last Goodbye",
+                "words": 3873,
+                "chars": 20905
+            },
+            {
+                "name": "Part 735 Genetic Manipulation",
+                "words": 4483,
+                "chars": 24665
             }
         ]
     },

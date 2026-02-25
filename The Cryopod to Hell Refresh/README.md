@@ -799,7 +799,7 @@
 
 </details>
 
-<details><summary>Parts 701 - 733</summary>
+<details><summary>Parts 701 - 736</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
@@ -836,9 +836,12 @@
 | Part 730 ASCENDED | 4,043 | 22,860 |
 | Part 731 ABOMINATIONS | 4,067 | 23,173 |
 | Part 732 Prison Break | 6,324 | 36,804 |
+| Part 733 Making a Mindverse | 4,071 | 22,679 |
+| Part 734 One Last Goodbye | 3,873 | 20,905 |
+| Part 735 Genetic Manipulation | 4,483 | 24,665 |
 
 </details>
 
 
-**Total Words:** 2,975,750
-**Total Characters:** 16,753,635
+**Total Words:** 2,988,177
+**Total Characters:** 16,821,884
