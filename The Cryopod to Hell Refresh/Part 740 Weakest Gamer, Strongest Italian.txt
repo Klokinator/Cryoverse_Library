@@ -1,0 +1,321 @@
+Part 740: Weakest Gamer, Strongest Italian
+
+_Far-Future Era. Day 20, AJR. Chrona._
+
+One realspace-day before the Cube successfully swallowed the Sharmur system, back inside the hidden dimension created by the First Wordsmith, a mere two Chrona-weeks had passed.
+
+Previously, Timothy had chosen to unlock the Pawn Summoning System, while Ferral had chosen the Dungeon Creation System instead.
+
+Two weeks was not a lot of time. For Psions, it was practically no time at all. Any Psion worth their salt would have made essentially zero progress improving their fundamental abilities, outside maybe some minor adjustments to a specific psionic application. Perhaps, if they were truly focused, they might have been able to learn a new skill and reach a minor level of accomplishment with it.
+
+But those sorts of Psions were not the same as Ferral. After two weeks of hard work, Ferral had reached Level 7 in the King Network! Each level was important, compounding on the choices made in levels prior. Thus, when Ferral competed against his fellow Psions, the ones who had easily oppressed him before he obtained the King Network, he was able to beat them in singular combat almost half the time!
+
+This was a huge change in status for Ferral. Compared to before when he wouldn't win one out of a hundred fights, now he could even hold his own against Dunal, the publicly recognized strongest young Psion inside Chrona!
+
+Ferral was not the only one who had made great gains. Though she was often busy with other matters, Fiona had advanced to Level 5 and obtained access to the Talent Tree. If she had more time to spare, she probably could have advanced further, but she made up for this lack of leveling speed with a great number of items she had deconstructed and crafted.
+
+Marigold was the last person added to the King Network. Even so, she was level 7! She had obtained several new skills, and had strengthened her body considerably. Unlike the others, she held little interest in acquiring magical abilities, and preferred focusing on brute force.
+
+Finally, there was the unassuming leader of the group, Timothy Hiro. He had reached level 9, and finally finished up a daily quest with enough EXP to allow him to reach level 10. In this time, he had acquired more than a few skills, and though most were Common or Uncommon skills, he had been very deliberate in picking options that would shore up his weaknesses.
+
+...........
+
+Timothy Hiro - Human/Chrona
+
+Level 9 | Newbie | Bottom Mortal
+
+Exp: 415/433
+
+HP: 111/111
+
+AP: 2/2 | MP: 25/25
+
+STR 10 | DEX 10
+
+INT 9 | WIS 8
+
+DEF 9 | RES 9
+
+CHA 8 | LUK 10
+
+CON 10 | END 11
+
+...........
+
+Timothy grinned as he looked at the final Daily Quest that would push him over a five-day hurdle. He accepted the rewards, and his eyes lit up once he saw the words appear before him.
+
+...........
+
+_Level 10 Achieved._
+
+_First Reward: Shop System Unlocked._
+
+_Second Reward: Choose one of three rewards - [+50 HP] [+1 Basic Stat] [Gain new random Resistance (+10-100%)]_
+
+_Third Reward: Choose from one of six new Rare skills - [3x Active Skill (Will be immediately usable)] or [3x Passive Skill]_
+
+_Fourth Reward: Improve two of your skills by +1 levels. You cannot improve the same skill multiple times._
+
+...........
+
+Timothy was sitting out by a fountain in the middle of town. He jumped up and grinned like an idiot before hopping around excitedly.
+
+"Shop! I got access to the Shop! Finally!! Ohh, this is a milestone! A real milestone!!"
+
+Unfortunately, nobody else was there to share the moment with him, but that was okay. Ferral was training with the other Psions, and Marigold was hanging out with her friends. Naturally, Fiona was busy using her skills to fix things like usual.
+
+Timothy wasn't bothered. He'd been grinding daily quests for five long days to advance from Level 9 to Level 10. He didn't need to share the moment with anyone to be excited himself.
+
+"**Congratulations.**" Umi said, her speck of light flickering into existence with zero fanfare... or _enthusiasm_. "**You have reached the bare minimum milestone to call yourself a Low Mortal. With your current skillset, you are barely a match for the weakest of Demon Lords.**"
+
+Her words were pointed and rude, but that didn't bother Timothy. He had grown used to her way of speaking. Instead, he perked up his ears at the real meaning behind her words.
+
+"Wait, I'm finally on the level of a Demon Lord?" Timothy asked.
+
+"**In the strictest sense, affirmative.**" Umi beeped. She sounded tired. "**After all, you now possess a handful of magical abilities. This is more than some Lords possess. However, there are still many Demons Lords who would defeat you with little effort.**"
+
+Timothy wasn't cowed. "Even if true, that's still amazing! I've been noticing my body felt a little stronger after all my training!"
+
+Timothy's ability to eat and digest food had improved quite a bit as time went on. He'd specially leveled up one of the skills he obtained twice to assist with digestion, allowing him to eat more food and thus increase the workload in the daily quests.
+
+This was important because using the original EXP scaling, he had needed to wait longer and longer between level-ups due to the slowly decreasing relative value of his daily quest rewards.
+
+...........
+
+**Efficient Eating L3 [Active Skill] [Mundane] [Utility] [6 Hour Cooldown]**
+
+_The Player gains the ability to digest and absorb the nutrients of any food consumed in the next 15 minutes by an additional 45%. The Player will more efficiently convert their calories and protein into muscle, but can also gain weight much more quickly._
+
+...........
+
+Not only had the cooldown dropped by a couple of hours, but his digestion efficiency had risen from 20% to 45%. He no longer suffered brutal stomach-aches after eating sessions, and his muscles had more protein to work with as well.
+
+He did fear at first that all this eating would make him fat, but because of all his hard work and training, that fear hadn't come to pass. His body fat level was the same as three weeks ago, before he obtained his powers. More importantly, his muscles had grown to a point that he could actually notice them when he looked in a mirror. He wasn't a bodybuilder by any means, and even his girlfriend looked more muscular than he did, but he had definitely made great strides in his physical development.
+
+Timothy was taller now too. He had grown a full inch, though that was more a result of a late puberty growth spurt than due to his powers.
+
+After Timothy calmed down, he started accepting the rewards.
+
+The first reward was the one he was most excited for, but he decided to put it off for last. Instead, he started by pondering the second reward.
+
+"This choice isn't as easy as it seems." Timothy muttered to himself. "My HP is 111, so +50 is nearly a 50% increase. It's also a nice visible increase. It's easy to see how big of a gain I'll make. But +1 to any Basic Stat is a huge deal too."
+
+The King Network had never offered him this reward before. After all, the system only showed values on a relative scale of 1-20. Therefore, +1 to a stat was actually like taking 1/20th of a step toward the apex power of the galaxy! It had to reflect a massive amount of strength that he could gain. A single +1 was probably way more impactful than +50 HP, especially as he already knew Ferral and Marigold both had 200+ HP.
+
+"Marigold is already way stronger than me. It wouldn't make sense to try and do what she's already doing, but worse. I don't think the HP boost is a good choice." Timothy reasoned. "But what about obtaining a new Resistance?"
+
+Timothy thought about that option too. Resistances were a huge deal. As a Psion, Ferral had an innate 100% Resistance to suffocation. This meant he could traverse the vacuum of the Void with no threat of asphyxiation, since Psions didn't need to breathe.
+
+But there were all sorts of things one could gain resistance to. What if Timothy rolled somewhat low and 'only' obtained a 25% Fire Resistance? Sure, he wouldn't be immune to fire, but he could stand in sweltering heat a lot more easily, and a burn on his skin would do less damage, not to mention it would hurt less!
+
+A moderate 50% roll could be huge too. Halving the damage taken from an element was a big deal. What if he obtained 50% Physical Resistance? Suddenly an entire arsenal of attacks would barely even make him flinch. Even the full-bodied punch of Emperor Belial might not kill him on the spot! He'd be hurting for sure, but he wouldn't die!
+
+Thus, he had to at least consider the option of choosing a Resistance.
+
+Ultimately though, Timothy shook his head.
+
+"I have a LUK of 10. This is only average. We've confirmed that LUK affects the rolls inside Lootboxes and other such things, which means it would likely affect the roll of my Resistance. Ferral's LUK is actually worse than mine, but Marigold has 15 LUK! So she'd probably have a better time picking this option than me."
+
+With that thought process concluded, Timothy decided to choose to upgrade a basic stat. He hemmed and hawed for a long time.
+
+"Should I try and boost up one of my low-ranking stats? Should I improve on my strengths? Or should I boost something like LUK, which probably won't increase in any way unless I use these meta-means?"
+
+Timothy's highest stat was Endurance at 11. His lowest was a tie between Wisdom and Charisma, at 8.
+
+"My Crocodile Form increases my STR, DEX, CON, and HP by 60% out of water and 120% in water. I still can't use the ability, but that's a huge scaling increase. My Mind of Focus skill raises my INT and WIS by 55%, and I can actually use that skill right now!"
+
+Timothy thought for a long while. In doing so, he made an important discovery.
+
+"How am I being this dense? INT and WIS directly influence my mana. I can use the higher mana to activate stronger skills. I can boost both of them with my Mind of Focus skill. Furthermore, nobody ever complained about being too smart! It's obvious what my choice should be."
+
+Timothy finally made a choice. He picked INT, elevating it from 9 to 10. 
+
+The moment Timothy chose the option, he fell into a daze.
+
+Something changed inside Timothy. He couldn't explain what it was. When he looked around, the world felt... a little different. Not hugely different. It wasn't as if he became a super genius, but he noticed the details of the world around him a little bit more than before.
+
+Going from a 9 to a 10 meant he went from slightly below average to right about the average intelligence of other Sentients in the universe. This meant his general 'smarts' increased by one standard deviation, which was more than most people would gain in a lifetime, but it was also hard to describe with words. Timothy couldn't tell if it had any immediate effects on his current brainpower.
+
+What he could tell was that his Mana suddenly jumped from 25 all the way to 45!
+
+"45 Mana! I nearly doubled it with one stat-up! Now that's a big increase right there!"
+
+Timothy turned giddy with excitement, but he quickly recovered his wits. After that, he chose the third reward, which made six completely different options appear before him.
+
+...........
+
+**Sage's Insight [Active Skill] [Rare] [Utility] [Mana Cost 10] [Cooldown 1 Hour]**
+
+_Momentarily maxes out WIS for the sake of improving mental flow. Only useful for acquiring answers to troublesome questions. Cannot give answers to questions beyond the ability of the Player, but can spontaneously improve one's creativity for five seconds, allowing them to reach a conclusion they normally might not otherwise._
+
+**Divine Blaze [Active Skill] [Rare] [Enchantment] [Mana Cost 1/min (Sustained)] [Cooldown 0]**
+
+_Enables the Player to temporarily enchant a melee weapon with a light and flame effect that deals a base 50% additional damage to most enemies, and up to 200% extra damage against enemies weak to Fire or Divine attacks. Enemies resistant to both effects will take reduced damage. Remains active on the enchanted weapon until deactivated or until mana is depleted._
+
+**Stalking Shadow [Active Skill] [Rare] [Stealth] [AP Cost 1/hour] [Cooldown 1 Hour]**
+
+_Enables a Player to blend in with the darkness and become nearly invisible to all enemies lacking Darkvision. Player will also gain Darkvision themselves. Beware though, as light will burn the Player in this state, with extreme light dealing heavy damage and potentially leading to Injured states._
+
+**Compounding Returns [Passive Skill] [Rare] [Growth]**
+
+_When training one's body, this skill will grant +10% additional stat growth so long as the training method does not involve the King Network's internal reward structure. Thus if an action would increase a Player's STR stat by .001, it will increase by .0011 instead. This effect is permanent and affects all stats._
+
+**Flow State [Passive Skill] [Rare] [Stats] [Toggle]**
+
+_A Toggle ability that allows the Player to choose from one of three passive bonuses at any given time. These stats can only be swapped if Player is not currently in battle._
+
+_Option 1 [Warrior's Physique]: +1 to STR and DEF._
+
+_Option 2 [Wizard's Mind]: +1 to INT and WIS._
+
+_Option 3 [Wanderer's Fortitude]: +1 to DEX and END._
+
+**Universal Translator [Passive Skill] [Rare] [Utility]**
+
+_Player gains the ability to communicate with any being as long as they are Living or Unliving. Player can speak and write in any language fluently. Player can understand all languages._
+
+...........
+
+Timothy stared at the six options for a long, long time. He was frozen in shock, completely at a loss with choice paralysis.
+
+"Holy... shit..." Timothy eventually said, though he couldn't seem to get out much more than that. "This... this is the hardest choice of my life!"
+
+The ability to instantly solve any issue that was currently blocking up his brain pathways?
+
+A powerful enchantment ability that would be useful in just about any combat situation?
+
+A stealth ability for avoiding or assassinating strong enemies, sneaking around enemy bases, and otherwise having his way with those who lived in the dark?
+
+Improving all his body's natural gains over time with compounding returns?
+
+An easily toggled option that would boost two of his stats by +1?
+
+Not to mention the ability to understand any goddamn language in the cosmos??
+
+What the hell was he supposed to choose?!
+
+Timothy rubbed his face until his skin turned red. "Bwaaaaahhhhh..."
+
+He didn't even know what noise he made. It was a mixture of elation and despair in tandem. How could he be happy when a choice this difficult was sitting before him now?
+
+"Universal Translator is _soooo_ good." Timothy groaned. "Doesn't it mean I could talk to animals? Bugs? Alien empires? Fish? Birds? It literally says _all_ living and Unliving things. I can't talk to the dead, it seems, but who cares? Fuuuuuuck, it's such a cool power."
+
+Timothy knew from his mom that his dad had been able to understand any language via his Wordsmithing. It didn't seem like much, but it was genuinely such a practical power that would likely come in handy many times in the future. It was hard not to immediately pick it.
+
+But then, what about the Compounding Returns ability? It didn't seem extreme, but it would definitely add up over time as long as he kept lifting weights.
+
+And! There was another reason he was thinking of picking it.
+
+"I have the option with this level up to strengthen two skills. If I pick Compounding Returns, I can immediately make it stronger and start compounding harder, faster. It's a fantastic synergy."
+
+_Buuuuuut..._
+
+Timothy grimaced. "The active skills are good too. Not as good as the passives, but my bigger problem is I don't have any really good active skills yet. All I do is choose passive skills, time after time. They're great for not having any requirements, but not so great for making use of my AP and MP. I need a really good combat ability..."
+
+Thus, the enchanted blade skill was also looking really tempting to Timothy.
+
+There were simply too many options. Timothy realized this time he would have to take a pause and ask the other Players for their thoughts. Ferral and Fiona, especially, would have important thoughts on the matter. Marigold... less so. She enjoyed leveling up, but Timothy could tell she wasn't taking it nearly as seriously as he, Ferral, and Fiona were.
+
+That left the Store. Since Timothy wasn't going to pick a skill or level up any skills yet, he finally grinned and tapped the Store button.
+
+Suddenly, Timothy felt his eyes being forced shut. A strange sleepiness fell over him, but he wasn't exactly tired. Instead, his mind drifted off, and his consciousness appeared inside a bazaar of some sort, a place where there were dozens of stalls with people standing in front of them.
+
+"Hey kid! You're the first customer! Come on over here and buy some scrolls!" A fat man with a beard shouted.
+
+"No no, don't listen to that guy, come over here! Helmets! I've got lots of helmets!" Another fat man with a beard shouted.
+
+Timothy blinked twice. He looked around, and realized that at every stall, there was the same guy, over and over, seemingly copy-pasted 800 times. He had the same voice, the same face, but different clothes depending on the stall.
+
+"Uh... what is this place?" Timothy asked, bewildered.
+
+"Haha, you hear that, Giuseppe? This kid doesn't know where he is!" One of the fat men shouted.
+
+"I'm telling you Giuseppe, kids these days ain't got no brains!" Another fat man shouted.
+
+Timothy squinted his eyes. "You're all... named... Giuseppe?"
+
+"No kidding, kid! Looks like you're not as empty in the head as we first thought, eh??" The Giuseppe in front of a book shop said.
+
+...
+
+Timothy spent a few minutes walking around. He was complete baffled by the appearance of this completely random duplicated guy who he'd never seen before. Whoever Giuseppe was, he was everywhere!
+
+"...I'm guessing this is the King Network's Shop?" Timothy eventually asked.
+
+"That's right! Hey kid, come on over! I'll sell you a magnifying glass! Just twenty-five gold coins! What'cha say, huh?" Giuseppe asked. "Helps you read books! You like books, kid? Of course you do! Who doesn't like books??"
+
+"Forget that guy, he doesn't know what he's talking about!" A different Giuseppe said. "Come on over here, kid. I've got swords! Fire swords, ice swords, sword-swords, all kinds of swords! All starting at the low-low price of just 4,592 gold coins! It's a steal you don't wanna miss!"
+
+"Matches! Come and spark some matches!" Another Giuseppe shouted. "Light stuff on fire! Burn buildings down! These are Grade-A matches perfect for the enterprising arsonist lookin' to cause some trouble!"
+
+"Magic staffs! Get yerrr magic staffs!" Yet another Giuseppe shouted. "Staff of Magic Missile! Staff of Necrotic Light! Staff of Dick Destruction! All kinds of staffs for a mage wanting to cause mayhem!!"
+
+Timothy closed his eyes. He was starting to feel dizzy from all the shouting.
+
+"I... wait, can everyone just quiet down for a minute? You're all shouting too loud..."
+
+"Oh, sorry, kid." One of the closest Giuseppes said. He quickly lowered his voice. "_Acne pooooowder, come'n git yer acne powder... make a bully break out in zits... just a measly 50 gold..._"
+
+Timothy sighed. He opened his eyes, then wandered from one booth to another. Shockingly, though there was a lot of weird and random stuff here, the sheer breadth of the offerings made him stagger on his feet.
+
+The Shop had everything. Literally everything! Even crazy powerful relics that made his eyes pop!
+
+There was just... one small problem.
+
+"I. Um. I don't have any money." Timothy said sheepishly.
+
+All at once, the entire market fell silent.
+
+"What he said?" One of the Giuseppes asked. "Did I hear this kid right? No money?"
+
+"He's a penniless pauper. Mamma mia!" Another Giuseppe lamented. "Comin' in here, wastin' our time."
+
+"Kid if you ain't got no gold, why you even lookin' around?" Another Giuseppe scolded. "Go kill some monsters and make some money! It ain't that hard! The whole bloody system is built around it!"
+
+"Um... do you guys trade items for gold?" Timothy asked.
+
+"You wanna trade? You got stuff to barter, kid?" Giuseppe, the closest one, asked.
+
+"Not a lot..." Timothy admitted. "I have... uh... lemme check..."
+
+Timothy checked his inventory. He found the Common Longsword he'd picked up in his first week.
+
+"How much for this?" Timothy asked.
+
+The nearest Giuseppe squinted his eyes. He looked at the sword, then directed a look of disgust Timothy's way.
+
+"That... thing? Kid, that's junk. I'll give you five gold coins for it, and that's me being nice!"
+
+"F-five?" Timothy asked, ready to burst into tears. "It's a perfectly good sword though. No damage to it, nice and sharp, good quality steel..."
+
+"If it's that good, then why're you sellin' it, eh? You tryin'a pull one over on ol' Giuseppe?" The fat man asked. "Show me something good!"
+
+Timothy sighed. He put the Longsword back into his inventory, then after a moment, he carefully pulled something else out.
+
+"Um... here's 0.15kgs of Trifrancium... is this worth anyth-"
+
+"HOOOOLY MOTHER OF MEDUSA!" Giuseppe screamed, nearly jumping out of his clothes. "What are you tryin'a do, blow the whole god-damned place to kingdom come?! Put that away, you shit-for-brains! That's way too rare for any of us to mess with!"
+
+Timothy nearly burst into tears again. The sword was garbage, the Trifrancium was too rare. Weren't these guys just deliberately making things difficult for him?
+
+"I... um... I guess I'll come back another time..." Timothy said lamely, as he stuffed the Trifrancium back inside his Inventory.
+
+After a few moments, Timothy deactivated the shop and disappeared, leaving the army of clones behind.
+
+"Kids these days!" Giuseppe exclaimed. "I've heard of playing with fire, but that was ridiculous!"
+
+...
+
+Timothy arrived back in Chrona with a splitting headache.
+
+"Good lord... the Shop is not useful to me now at ALL. Quests don't give me any gold either. How the hell am I supposed to earn money so I can buy stuff?"
+
+He remembered what one of the Giuseppes said.
+
+"Don't tell me the only way to earn gold is by killing monsters? If that's the case then... it looks like my peaceful days of grinding daily quests are over!"
+
+Timothy shook his head helplessly.
+
+"Looks like me and Ferral are going to have to run a dungeon. There's no other way. I should talk to him first though... just in case."
+
+With that, he made his decision, turned on his heel, and started strolling southward, toward the Psion Enclave.
