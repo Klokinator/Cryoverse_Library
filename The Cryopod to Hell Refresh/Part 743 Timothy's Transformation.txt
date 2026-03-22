@@ -236,7 +236,7 @@ _A versatile set of armor that grants the Player the ability to camouflage thems
 
 **Comes with Active Skill: Octopus Form [Active Skill] [Uncommon] [Transformation] [Offense] [5(10) Mana (Sustained) OR 1(1) AP (Activated)] [No Cooldown]**
 
-_Octopus Form sprouts six tentacles out of the Player's back. This form is only useable underwater. It allows the user to wield multiple additional weapons, up to six 1H weapons or three 2H weapons, in addition to the Player's base two limbs. The Octopus Tentacles cannot be controlled by the player and are fully automated. The player can revert back to their original form for free at any time._
+_Octopus Form sprouts six tentacles out of the Player's back. It allows the user to wield multiple additional weapons, up to six 1H weapons or three 2H weapons, in addition to the Player's base two limbs. The Octopus Tentacles cannot be controlled by the player and are fully automated. The player can revert back to their original form for free at any time._
 
 ...
 
@@ -268,7 +268,7 @@ Raavul bowed her head and blinked all of her eyes in unison.
 
 [Yes. It seems that you wish to make me a Player in your King Network. This was not what I had in mind when I asked you before... but Ferral managed to convince me this was the right way to do things.]
 
-[A teacher's dignity must not be infringed.] Ferral said, repeating the same words he'd said to Timothy previously. [If things had shaken out properly, you should have been the first person Timothy invited. As things are now, being the second is not such a bad result. Hopefully, we will be able to add the others as Players next, once Timothy earns more slots.]
+[A teacher's dignity must not be infringed.] Ferral said, repeating the same words he'd said to Timothy previously. [If things had shaken out properly, you should have been the first Volgrim Timothy invited. As things are now, being the second is not such a bad result. Hopefully, we will be able to add the others as Players next, once Timothy earns more slots.]
 
 Timothy nodded. "That's the plan. So, Raavul, are you ready to join us?"
 

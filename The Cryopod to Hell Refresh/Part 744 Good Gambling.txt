@@ -1,0 +1,351 @@
+Part 744: Good Gambling
+
+_Far-Future Era. Day 20, AJR. Chrona._
+
+Raavul's emergence as a Player did not end up causing much fanfare. Only the other Players present knew it would happen, and they were all close friends with one another, barring the semi-outsider, Paimon. Even though he had spent a few weeks mingling with the others, the Demon Grunt wasn't well-known in Chrona beyond his curious identity as the sole demon in the folded space.
+
+Raavul's body glowed with a faint light for several seconds. After she entered the King Network, Timothy and Ferral took some time to introduce her to how the game worked. As a Psion, the concept of 'video games' was entirely alien to her. She was not like Ferral, who played video games to alleviate his boredom. Raavul was a devoted cultivator whose heart knew only the love of growing stronger through diligent meditation upon her ancestor's insights.
+
+Thus, when Raavul finally opened up her Character sheet for the first time, she had absolutely no idea what anything meant.
+
+...
+
+**Aspirator Raavul - Psion/Chrona/Volgrim**
+
+_Level 10 - Aspirator | Mortal_
+
+_HP 444/444_
+
+_AP 22/22 | PP 124/124_
+
+_STR 10 | DEX 12_
+
+_INT 13 | WIS 14_
+
+_DEF 12 | RES 12_
+
+_CHA 13 | LUK 11_
+
+_CON 9 | END 12_
+
+_Resistances: Asphyxiation: 100%. Telepathy: 68%. Confusion: 72%. Charm: 32%. Piercing: 18%. Blunt: 14%._
+
+_Weaknesses: Magic: 13%. Poison 35%._
+
+_Active Skills: Psionic Teacher, Accelerated Projectiles, Atomic Adjustment, (25 Others)_
+
+_Passive Skills: Player's Body, Player's Mind (Toggle), Psionic Flight, Precision Psionics (Novice), Spatial Psionics (Amateur), Multiclass Lifeform_
+
+_Talent Slots: 0/1_
+
+_Prestige: N/A_
+
+...
+
+Timothy felt himself momentarily blanking out from surprise when he saw Raavul's page. He pulled up Ferral's page, and the comparison was... interesting, to say the least.
+
+...
+
+**Learner Ferral - Psion/Chrona/Volgrim**
+
+_Level 7 - Learner | Low Mortal_
+
+_HP 514/514_
+
+_AP 14/14 | PP 78/78_
+
+_STR 11 | DEX 11_
+
+_INT 10 | WIS 9_
+
+_DEF 11 | RES 10_
+
+_CHA 7 | LUK 9_
+
+_CON 11 | END 13_
+
+_Resistances: Piercing: 45%. Blunt: 32%. Asphyxiation: 100%. Elemental: 22%. Telepathy: 45%_
+
+_Weaknesses: Magic: 21%._
+
+_Active Skills: Psionic Slam, Psionic Pull, Psionic Telepathy (14 Others)_
+
+_Passive Skills: Player's Body, Player's Mind (Toggle), Psionic Flight, Multiclass Lifeform_
+
+_Talent Slots: 0/1_
+
+_Prestige: N/A_
+
+...
+
+The biggest thing Timothy noticed was that despite an entire level of Psionic power separating Ferral and his teacher, Raavul's stats were not impressively better than his. To be precise, Raavul's stats in total might have had a point or two more than Ferral, but she was not holistically superior to him in all categories. In fact, Ferral had a much bigger HP pool, a little more STR, and so on. Her biggest gains were in her available Action Points and Psionic Points.
+
+In the King Network, adding even a single primary stat point meant the other entity had taken a step up toward the apex of observable power in the universe. There were only 20 points at most, so in theory the strongest life forms in the universe were a 20 and the weakest were a 1.
+
+Despite this, to only be one or two points stronger than Ferral, Raavul didn't seem that much more impressive than her student.
+
+That was until Timothy noticed the huge gap in skills. She started out with way more skills than Ferral, and on top of that, she even possessed two Psionic Disciplines, namely Precision Psionics and Investigative Psionics.
+
+"Wait, Raavul is already level 10?" Timothy asked doubtfully. "Every other player started at Level 1. Why not her, Umi?"
+
+A speck of light flickered into existence beside Timothy. When the AI spoke, naturally, only he could hear her.
+
+"**The King Network is a living system. It will, on occasion, auto-balance itself. It is designed primarily for low-ranking Sentients to amass strength and climbs the ranks of power. Adding high-ranking Sentients to the King Network is not advised. The results will end in disappointment.**"
+
+Timothy's expression darkened. Raavul ultimately ended up in a similar position to Ferral, with reduced EXP and loot gains. If he really were to invite Blinker, she might start out at Level 50, or perhaps even higher. That would mean she would miss out on the easiest levels to increase and would need to spend ages obtaining meager gains.
+
+Even now, he was strongly reconsidering whether or not he should invite the other Psions to the system after all. Crocodiles were a lot more plentiful in Chrona, and they would get more out of the system too.
+
+There were also people like Rebecca. Was she considered an advanced life form? Would she receive massive debuffs and penalties too? Timothy wasn't sure, and it was the uncertainty that bugged him.
+
+[Teacher Raavul, tell us about the Skills you've acquired.] Ferral said. [Open up your inventory, then write down the words shown under all the skills.]
+
+Raavul, despite being older and wiser than Ferral, was a complete blank slate when it came to understanding anything video game related. She reluctantly became the student, obeying his commands as she whipped out ten different pens and paper pads, rapidly writing down all the details of her character. Most of the skills were self explanatory, but a few were _extremely_ interesting.
+
+...
+
+**Psionic Teacher [Active Skill] [Common] [Growth] [AP X-Cost] [PP X-Cost]**
+
+_A skill designed for entities who may not be exceptionally strong themselves, but who possess the gift of imparting wisdom and insights upon others. The Player may pay any amount of AP or PP or both to initiate a Lecture. The Player cannot begin regenerating their lost resources until the Lecture is completed._
+
+_Lecture: The Player may impart their knowledge of Psionics or other owned Skills and abilities onto other Players. This knowledge is less profound and less powerful than the Player's existing abilities, but as Psionic Teacher improves, so do the quality of the skills it can impart._
+
+_Note: The amount of AP and/or PP spent to initiate a Lecture affects the length of the Lecture and the quality of the information taught. Greater costs allow for greater rewards, but also incur greater time costs as well._
+
+_Note: The Player who initiates this skill can only pass down 25% of their maximum capability with any skills to other Players. Additionally, this skill is also 25% less effective on non-Players than it already is on Players._
+
+_Note: When choosing to level this skill, the Player can choose to improve its skill-level, or improve its rarity. Both can be improved separately, bypassing the usual limit of one skill improvement per level-up._
+
+...
+
+Timothy's jaw dropped. When he read the description for Raavul's main active ability, he felt like he was going insane.
+
+Even though her ability seemingly only started as a Common rarity, which was obviously the worst it could be, he could only imagine just how frightening the ability would become as she leveled it up. It was a huge pity she'd lost out on ten initial levels... those would have given Raavul a huge advantage once she caught up to the other Players.
+
+"My god, Raavul!" Timothy exclaimed. "This ability is borderline useless now, but if you pump lots of skill points into it, it's going to blow everyone else's skills out of the water!! You struck gold!"
+
+Raavul did not appear as impressed. Or rather, it would be more accurate to say she didn't understand how the skill worked at all.
+
+[I can roughly grasp the words used in this text, but I feel as if they are hidden behind many abstractions I am unfamiliar with.] Raavul said. [What are 'resources'? How do I lose them? Is losing my resources bad?]
+
+[Teacher, Resources are your Action Points and Psionic Points.] Ferral explained. [They allow you to activate your Skills. They also generally regenerate over time. For example, I regenerate 1% of my lost Psionic Points every minute. According to your skill, if you lecture for one standard time unit, the AP you spend would not begin regenerating until the lecture is complete.]
+
+Raavul nodded, but it was clear she was still lost. She reminded Timothy of an old grandma trying to understand _Mario_ or _Pokemon_ for the first time.
+
+While Ferral helpfully took his time explaining things to Raavul, Timothy looked at the other information she had written down.
+
+...
+
+**Precision Psionics (Novice) [Passive Skill] [Class]**
+
+_Precision Psionics focuses not on overwhelming power, but on extremely fine-tuned control of a Psion's telekinesis and other senses. Psions specializing in this branch of Psionics may eventually reach a point where they can rearrange atoms and nuclei at will. Pairs well with Body Manipulation and Creation Psionics._
+
+_This skill does not currently have any effect. It is merely a representation of knowledge the Player has amassed outside of the King Network. If the Player ranks this skill up, their knowledge of this information will expand proportionately and immediately. If the Player acquires knowledge outside the King Network, this skill can also rank up automatically._
+
+**Spatial Psionics (Amateur) [Passive Skill] [Class]**
+
+_Spatial Psionics focuses on manipulating the Void in various ways. At the lowest level, it can allow one to traverse greater and greater distances with ease or attack their foes through the tearing of space. At the highest levels, a Psion can even construct dimensions within reality, folded spaces capable of holding objects and allowing life to flourish. This branch of Psionics pairs well with Temporal Psionics and Creation Psionics._
+
+_This skill does not currently have any effect. It is merely a representation of knowledge the Player has amassed outside of the King Network. If the Player ranks this skill up, their knowledge of this information will expand proportionately and immediately. If the Player acquires knowledge outside the King Network, this skill can also rank up automatically._
+
+...
+
+Timothy's expression turned grim. Based on the information presented by these two skills, it seemed Raavul had a big headstart on her students in that she had already acquired two Psionic Specializations, but now she would run into the problem of being too spoiled for choice.
+
+Every single one of her major skills was a contender for being ranked up. That meant the two skill-ups she acquired sometimes through leveling would need to be pondered carefully.
+
+On the other hand, the fact that she could rank up her Specializations just by studying and meditating meant they weren't _completely_ essential to level up. But if Raavul truly intended to reach a level someday where she could prevent Chrona from collapsing through her own power, then she would need to advance her specializations even faster than her Teacher skill.
+
+Timothy looked over even more of his skills, then sighed deeply.
+
+Her skills were formidable. Of all the Players currently active, Raavul was the strongest. It was true she was not the most powerful individual in the sense of first and second place being separated by a vast chasm, but as long as she was diligent with her leveling, she would likely never be surpassed by Ferral, let alone the other Psions.
+
+With all of this in mind, Timothy eventually turned his attention away from Raavul's Character sheet. As a Psion and a Player, Ferral was a better choice to educate her. Timothy had his own concerns.
+
+While Raavul and the others continued to chat, Timothy looked at his inventory. He still had two Rare Skill Lootboxes to open, and an Uncommon Lootbox as well.
+
+When he opened the two Rare boxes, he was presented with many powerful and tempting skills. But ultimately, he decided to stick with his original plan. He chose the skills of Divine Blaze and Flow State which he had previously locked, finally giving himself a proper fighting ability, as well as a way to boost his stats.
+
+_Next time I level up, if I get offered skill rank-ups, I'm picking these two skills. I need to see how the skills change. While I don't like using Crocodile Form, it did receive huge improvements each time I leveled it up. And the Octopus Armor is pretty sick too._
+
+The fact it was slimy and it looked really stupid didn't change the fact that it was an easy to use and extremely practical ability. Timothy even started thinking about what would happen if he equipped six 1-handed swords in each tentacle's grasp. Would Divine Blaze light them all on fire? Would the cost increase per sword equipped? What about wielding other weapons?
+
+At the moment, Timothy only had the one common Longsword. But... wasn't forging swords actually relatively easy? He could probably ask his mom to create a whole batch of decent starter weapons. Not to mention his dad had left guns and other such weapons lying around.
+
+_Doesn't have to just be swords either._ Timothy thought. _Maces, axes, daggers, polearms... there's a lot of variety in what weapons are available, come to think of it._
+
+Timothy frowned. _I don't actually know how adept at combat these external arms are. They move mostly on autopilot, only taking general mental commands from me. Are they as good at combat as I am? Are they better at combat than me? Do they come with smart AI inside? Can they improve? I should find out when I'm training with Blinker later!_
+
+_If they're only as good at shooting guns or swinging swords around as I am, then I'm going to need to do a LOT of training to become even decently competent. On the other hand, if they're way better at combat than me, that would be great, but it would also suck if they didn't get any better as I improved my own skills._
+
+Timothy continued to think and ponder for a while before he turned his attention back to the final Skill Lootbox. The final one was an Uncommon box, so when he opened it, it presented him with three new skills. However, one of them jumped out at him and shook him to his core.
+
+...
+
+Skillforging [Active Skill] [Uncommon (Unique)] [Upgrading] [Mana Cost 0] [AP Cost 0] [Cooldown 365 Days]
+
+_As a descendant of one capable of shaping reality, you can obtain the ability to reforge your own reality. Once per year, from the Player's temporal frame of reference, the Player may activate this skill to rank up any other skill permanently. Skillforging may not be used to rank up itself. Skillforging may not be used to improve the skills of other Players._
+
+_After activation, this skill may not be used again until one Terran year has passed. If the Player forgets to activate this skill after is is ready, no matter how much time passes, once activated the skill still requires a one-year cooldown._
+
+...
+
+Timothy's eyes widened. His pupils shrunk. He stared, slack-jawed, at the incredible skill before him. He couldn't even believe what he was seeing.
+
+This was a skill that guaranteed him a permanent way of ranking up all his skills. Even when level-ups started slowing to a trickle, he would be guaranteed the ability to upgrade any of his skills once per year!
+
+Ranking up skills was a big deal. Between the Eye of Yredelemnul obtaining entirely new powers and Crocodile Form's strengths becoming more pronounced while its weaknesses faded away, every rank up made a huge difference in the power of a skill.
+
+The other two options were good in their own ways, but Timothy picked Skillforging without hesitation. Immediately, he started thinking about how he could either improve its rarity or rank it up. Once it was improved, surely the cooldown would reduce, or it would gain new effects! Spending rank-up points on a skill that ranked up other skills might seem a little absurd, but what if he could get it to the point where it allowed him to rank up a skill every few months, or every month, or god forbid every week or two?!
+
+Wouldn't that be absurd?!
+
+After thinking for a few moments, Timothy decided to activate Runeforging. He triggered it to improve his newly acquired Flow State Skill.
+
+...
+
+**Flow State (L2) [Passive Skill] [Rare] [Stats] [Toggle]**
+
+_A Toggle ability that allows the Player to choose from one of three passive bonuses at any given time. These stats can only be swapped if Player is not currently in battle._
+
+_Option 1 [Warrior's Physique]: +1.25 to STR and DEF._
+
+_Option 2 [Wizard's Mind]: +1.25 to INT and WIS._
+
+_Option 3 [Wanderer's Fortitude]: +1.25 to DEX and END._
+
+...
+
+Timothy improved Flow State, causing it to improve stats by 1.25, up from 1. This meant it had gained a 25% improvement!
+
+Timothy immediately toggled Flow State, but no matter which option he chose, his stats only increased by 1 point.
+
+Frowning, Timothy decided to question Umi about the matter.
+
+"Umi, why can't my stats rise by more than 1? Isn't this upgrade... a little useless?"
+
+A speck of light flickered into existence before Timothy's eyes.
+
+"**The stat page is not completely accurate in the numbers it depicts. Stats are always rounded down if they have not reached the level of becoming a whole number. A stat of 14 could mean 14.01, or it could mean 14.99. Thus, when you see someone with a stat of a certain numerical level, you should always assume they are 'at least' that strong. This also means reaching a stat value of 20 is essentially impossible. Once you scan enough Entities, you will see increasingly fewer Sentients with stat values reaching the apex of power in the universe.**"
+
+"**Additionally,**" Umi continued, "**True stat values can have tens or even hundreds of digits. The rounded values you see on the stat page should always be taken as approximations.**"
+
+Timothy nodded. "I see. Is there any way for me to see the exact stat values of myself and other entities?"
+
+"**You do not possess this ability at the present time.**" Umi replied blandly.
+
+"Does that mean I could acquire it in the future?" Timothy asked, his eyes lighting up.
+
+"**You do not possess this ability at the present time.**" Umi repeated.
+
+Timothy's face fell. He decided not to continue with his line of questioning. Umi vanished once again, and Timothy smiled in satisfaction.
+
+_It's still a 25% improvement. I bet Flow State will become extremely useful in the future. I shouldn't underestimate it. Sigh! I have too many skills that need to be leveled up! A Player's life is never dull._
+
+After he finally acquired his new Skills, Timothy took a good long look at the thirty Tier 1 Lootboxes he had yet to open.
+
+_I could level all these boxes up to the next tier, but right now I really could use quantity over quality. Hmm. How about this... I'll turn 9 boxes into three Tier 2 items, and leave the remaining 21 as Tier 1. That should do._
+
+Timothy wasn't just lacking a good quantity of basic _stuff_ to work with; he also wanted to test and see what sort of stuff he could get.
+
+As such, Timothy started opening basic Lootboxes one after the other. Each time, a basic item would appear, a skill, or at least materials he could use for crafting.
+
+"Bandages, looks like they can heal an injured state five minutes after being applied. Ten Lightstones to help see in the dark. Oh, a new dagger! It's nothing special, but it's good to have more weapons for my Octopus Form..."
+
+As Timothy pulled out items, he started chatting with Paimon and Marigold, soliciting their opinions.
+
+"What good is half a ton of steel going to do for you?" Marigold asked. "Just pick the poisoned arrows."
+
+"I disagree." Paimon interjected. "The description says the arrows are only effective on weak lifeforms. The steel might be useful for your mother's crafting skills."
+
+Timothy nodded. "I think you're right, Paimon. I'll pick the steel."
+
+When Timothy finished opening all 21 of the Tier 1 Lootboxes, he looked at his gains. One thing he had learned was that 'Tier 1' did not mean 'only Common' items. It seemed to mean 'mostly Common Items, along with weaker Uncommon items'. Unlike the Skill Lootboxes which only gave skills, Tiered Lootboxes primarily gave items, but they did also occasionally offer skills. Some of the stuff he obtained included...
+
+...
+
+**Tin Compass [Item] [Common] [Utility]**
+
+_Points north. Always. Even underground, underwater, and in dimensions where north does not conventionally exist. In those cases, it points toward the nearest approximation of north, which is sometimes unsettling. Does not interact with any navigation skills. Cannot be improved further. It simply points north._
+
+**Pauper's Fortune [Passive Skill] [Common] [Loot] [No Cost]**
+
+_Any time the Player would receive an outcome that results in zero gold, zero loot, and zero experience, such as a failed crafting attempt, a missed skill check, or a creature that drops nothing, they instead receive a single copper coin from an indeterminate source. The coin glows with a faint warm light._
+
+**Damp Towel [Item] [Common] [Accessory] [Utility]**
+
+_A standard cotton towel that is perpetually moist. Grants +5% Fire Resistance when draped over the head and reduces the negative effects of arid environments. Will never mold, and can be used as a slight thirst quencher, though the liquid contained within tastes somewhat musky._
+
+**Popping Pebble [Active Skill] [Common] [Ranged] [Distraction] [1 MP] [No Cooldown]**
+
+_Conjures a small, smooth stone in the Player's hand which can be thrown or fired from a suitable projectile launcher. Deals very little damage. Explodes in a flash of light on impact while also generating an audible popping noise. Useful for grabbing the attention of other entities._
+
+**Quick Calcs [Passive Skill] [Common] [Utility] [Mental]**
+
+_Unlocks a virtual calculator in the Player's HUD. The Player can instantly calculate things such as trajectories, vendor discounts, and tax rates without having to stop and think. Especially useful for Biological Inferiors who are extremely slow of mind and need assistance doing basic tasks._
+
+...
+
+Obtaining some extra skills was nice, and while nothing was too incredible, and he obtained a lot more basic crafting materials than actual useful devices, he was still quite happy to give himself a decent deal of diversity. Even though it seemed the King Network used Gold Coins for its internal transactions, he thought being able to acquire Copper Coins instead of nothing whatsoever was at least slightly useful.
+
+All that was left now were the three Tier 2 Lootboxes.
+
+Timothy opened them up, and with help from the others, he started choosing his loot.
+
+...
+
+**Double Jump [Active Skill] [Uncommon] [Movement] [1 MP] [Cooldown 0]**
+
+_By briefly condensing mana under the soles of their feet, the Player can kick off thin air to perform a second jump mid-flight. Useful for a variety of purposes. With good timing, can be used to save a Player from fall damage. Can only be used once per 'jump instance'._
+
+**Sword of Justice [Item] [Common (Growth)] [1 Handed Sword] [Soulbound]**
+
+_A blade once wielded by an ancient figure of legend. Starts out weak, but whenever the Player kills an enemy designated 'evil', the sword strengthens slightly. If the player ever kills an innocent, the sword shatters, and the player is inflicted with -1 to all stats for 24 hours according to the player's frame of reference._
+
+_The blade increases its rarity and power for every 1000 evildoers kills. The sword gains new effects for every 10,000 evildoers killed. The sword will grow stronger when evildoers are killed even if it is not equipped. Unequipping the sword will not prevent it from breaking and inflicting its curse if the Player kills an innocent._
+
+_While the Sword of Justice is Soulbound, all sources of great evil will glow an appropriate shade of red in the Player's vision._
+
+**Desert Striders [Item] [Uncommon] [Footwear] [Mobility]**
+
+_Loose-fitting, highly breathable pants favored by deep-dune nomads. Reduces all movement speed penalties associated with walking through difficult terrain such as deep sand, thick mud, or heavy snow by 50%. Zero defensive benefits._
+
+...
+
+With these Lootbox rewards, Timothy had obtained additional useful items, and even a skill he thought was neat as heck.
+
+Timothy looked at his MP. He'd already regenerated a small chunk of it in the thirty minutes spent browsing the contents of all these Lootboxes, so he stood up, readied himself, and jumped in the air.
+
+"Hup!"
+
+Timothy leaped upward, and then, through some unknown force of magic, he jumped again! He double-jumped as if stepping on an unseen platform, doubling his original jump height!
+
+...Only for the new ability to make him cry out in alarm as his body itself was unaccustomed to such a maneuver. Timothy flailed his arms and fell forward, slamming onto his face and chest.
+
+"Oof!! Aaa... oww..." Timothy groaned.
+
+It was a lot like trying to jump down a flight of stairs. He simply wasn't prepared to 'fall' that far, and as such, he nearly broke a rib when he landed.
+
+"Oh no, are you okay Timmy?!" Marigold asked, quickly jumping over to his side.
+
+She helped him up, as did Paimon. Timothy grimaced, feeling like an idiot for the umpteenth time that day.
+
+"I'm fine. Just wasn't prepared for the return to the ground. The skill is really cool, but I'm gonna need to practice with it."
+
+At that moment, a haughty voice bellowed. "Darn right you are, young man! You're gonna need lots of training, all of you! That's why I've come to whip your pale butts into shape!"
+
+Timothy and the others jerked their heads to look in the same direction, where they saw Monster Queen Blinker levitating downward, her arms crossed and her back upright, like a figure of legend descending from on high.
+
+"I hear you guys are planning to go into a Dungeon, eh? Well not BEFORE I take you to the cleaners and make sure you know how to properly fight!"
+
+Ferral cocked his head. [What does cleaning have to do with training our combat skills?]
+
+"It's called that because if you don't perform well, I'll be cleaning your clock!" Blinker shot back.
+
+Ferral looked at Timothy.
+
+[Non-Volgrim figures of speech truly confound me.]
+
+"It's best not to think too deeply about it." Timothy replied consolingly.
+
+Their days of hellish training were about to begin.
