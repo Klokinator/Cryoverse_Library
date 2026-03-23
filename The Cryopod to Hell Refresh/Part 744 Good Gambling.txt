@@ -182,7 +182,7 @@ Timothy continued to think and ponder for a while before he turned his attention
 
 ...
 
-Skillforging [Active Skill] [Uncommon (Unique)] [Upgrading] [Mana Cost 0] [AP Cost 0] [Cooldown 365 Days]
+**Skillforging [Active Skill] [Uncommon (Unique)] [Upgrading] [Mana Cost 0] [AP Cost 0] [Cooldown 365 Days]**
 
 _As a descendant of one capable of shaping reality, you can obtain the ability to reforge your own reality. Once per year, from the Player's temporal frame of reference, the Player may activate this skill to rank up any other skill permanently. Skillforging may not be used to rank up itself. Skillforging may not be used to improve the skills of other Players._
 
@@ -200,7 +200,7 @@ The other two options were good in their own ways, but Timothy picked Skillforgi
 
 Wouldn't that be absurd?!
 
-After thinking for a few moments, Timothy decided to activate Runeforging. He triggered it to improve his newly acquired Flow State Skill.
+After thinking for a few moments, Timothy decided to activate Skillforging. He triggered it to improve his newly acquired Flow State Skill.
 
 ...
 
@@ -302,7 +302,7 @@ _By briefly condensing mana under the soles of their feet, the Player can kick o
 
 _A blade once wielded by an ancient figure of legend. Starts out weak, but whenever the Player kills an enemy designated 'evil', the sword strengthens slightly. If the player ever kills an innocent, the sword shatters, and the player is inflicted with -1 to all stats for 24 hours according to the player's frame of reference._
 
-_The blade increases its rarity and power for every 1000 evildoers kills. The sword gains new effects for every 10,000 evildoers killed. The sword will grow stronger when evildoers are killed even if it is not equipped. Unequipping the sword will not prevent it from breaking and inflicting its curse if the Player kills an innocent._
+_The blade increases its rarity and power for every 1000 evildoers killed. The sword gains new effects for every 10,000 evildoers killed. The sword will grow stronger when evildoers are killed even if it is not equipped. Unequipping the sword will not prevent it from breaking and inflicting its curse if the Player kills an innocent._
 
 _While the Sword of Justice is Soulbound, all sources of great evil will glow an appropriate shade of red in the Player's vision._
 
