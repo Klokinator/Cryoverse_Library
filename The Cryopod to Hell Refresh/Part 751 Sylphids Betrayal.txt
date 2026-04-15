@@ -6,9 +6,9 @@ Timothy trembled with fear as he realized he was well and truly alone. He had no
 
 The only option he had left was to talk his way out of this, but how could he do that when his mind was in complete disarray?! It was like a stampede of panic-bison were storming through his mind, shutting out all rational thoughts.
 
-"Sylphid, don't do this! I am an Envoy!!" Timothy screamed. "You're making a huge mistake!!"
+"Sylphid, don't do this! I am an Emissary!!" Timothy screamed. "You're making a huge mistake!!"
 
-Unfortunately, even if his words were completely true, he had completely lost any appearance of an Envoy's demeanor. He looked more like a panicking child to the powerful woman who dutifully maintained a tight grip on his throat.
+Unfortunately, even if his words were completely true, he had completely lost any appearance of an Emissary's demeanor. He looked more like a panicking child to the powerful woman who dutifully maintained a tight grip on his throat.
 
 "Hahaha! You're still speaking those tired lines!" Sylphid cackled. "All the while, trembling and pissing yourself like the vermin you are! I knew from the very beginning you were a thief from the Milky Way! Did you think our intelligence was so weak we couldn't recognize _Psions?!_ We've been planning an invasion of the Milky Way for eons! Of course we would know what the Milky Way's dominant species looked like!"
 
@@ -56,7 +56,7 @@ All of a sudden, the way Timothy's thoughts manifested themselves began to chang
 
 Sylphid's eyes widened. She screamed as an unknown power suddenly erupted in Timothy's mind, traced backward through her telepathic attack, and slammed into her psyche like a hammer against an anvil.
 
-Ashenzari's 32nd Envoy was sent flying backward, violently thrown from Timothy's body as if an orc had uppercut her chin. She hurtled partway out of the secret chamber and crashed onto her back, coughing out a huge mouthful of blood. The full power of the telepathic attack she had planned to unleash on Timothy had instead been reflected at her, with extra power to spare!
+Ashenzari's 32nd Emissary was sent flying backward, violently thrown from Timothy's body as if an orc had uppercut her chin. She hurtled partway out of the secret chamber and crashed onto her back, coughing out a huge mouthful of blood. The full power of the telepathic attack she had planned to unleash on Timothy had instead been reflected at her, with extra power to spare!
 
 Timothy had no time to waste. He tried to get up, but the power that was pinning him to the ground seemed to come from the statue, not Sylphid herself. However, with Sylphid's grip no longer on Timothy's throat, the statue seemed to lose its channelled effectiveness. Timothy felt the force holding him down weakening, little by little.
 
@@ -90,7 +90,7 @@ He became capable of focusing one hundred percent of his attention on the situat
 
 _Analysis: I have 11 level-up rewards I can use to potentially break out of this situation, including leveling a pair of skills at a time. However, one of the level-ups did not offer me a pair of skill levels, so I can only level up two skills 10 times._
 
-_Conjecture: Even if I break free of my bonds and make it past Sylphid, I will likely perish after exiting the chamber. There are too many powerful elites in the city, and potentially other Envoys as well._
+_Conjecture: Even if I break free of my bonds and make it past Sylphid, I will likely perish after exiting the chamber. There are too many powerful elites in the city, and potentially other Emissarys as well._
 
 _Analysis: Combat will not win the day. I must use the power of my mind at 100% efficiency._
 
@@ -172,13 +172,13 @@ In addition to the two skills he had leveled up, Timothy obtained two brand new 
 
 **Yredelemnul's Disdain [Active Skill] [Unique] [MP Cost 25 or AP Cost 4] [Cooldown 10 Mins]**
 
-_You have begin to tap more deeply into the powers of a fallen Ruler. You can now dominate the minds of other Sentients and scare them into fleeing, surrendering, or even devoting themselves to you. A failed activation of this ability may have no effect on a Sentient, or it may embolden them, making them much more hostile toward you._
+_You have begun to tap more deeply into the powers of a fallen Ruler. You can now dominate the minds of other Sentients and scare them into fleeing, surrendering, or even devoting themselves to you. A failed activation of this ability may have no effect on a Sentient, or it may embolden them, making them much more hostile toward you._
 
 _This skill is most effective on Sentients far weaker than you. It dramatically loses effectiveness the more powerful a Sentient is._
 
 **Yredelemnul's Rage [Active Skill] [Unique] [MP Cost 30 or AP Cost 5] [Cooldown 20 Seconds]**
 
-_You have begin to tap more deeply into the powers of a fallen Ruler. You can now unleash a sight-based attack that strikes with concussive force. This skill's power is heavily based on the Player's stats, particularly the strength of their mind, their INT, their WIS, and their accumulated knowledge._
+_You have begun to tap more deeply into the powers of a fallen Ruler. You can now unleash a sight-based attack that strikes with concussive force. This skill's power is heavily based on the Player's stats, particularly the strength of their mind, their INT, their WIS, and their accumulated knowledge._
 
 _This skill can hurt an enemy as if the Player punched them, or it can strike with the force of a cannon, and it can hit even harder than that under certain circumstances. Players with weak minds will be unable to tap into the full power of [**Yredelemnul's Rage**]._
 
@@ -220,7 +220,7 @@ With this, he improved both of his new skills to Level 6, and this empowered the
 
 **Yredelemnul's Disdain [Active Skill] [Unique] [MP Cost 10 or AP Cost 1] [Cooldown 10 Mins]**
 
-_You have begin to tap more deeply into the powers of a fallen Ruler. You can now dominate the minds of other Sentients and scare them into fleeing, surrendering, or even devoting themselves to you. A failed activation of this ability may have no effect on a Sentient, or it may embolden them, making them much more hostile toward you._
+_You have begun to tap more deeply into the powers of a fallen Ruler. You can now dominate the minds of other Sentients and scare them into fleeing, surrendering, or even devoting themselves to you. A failed activation of this ability may have no effect on a Sentient, or it may embolden them, making them much more hostile toward you._
 
 _This skill is effective on Sentients **somewhat stronger** than you. It dramatically loses effectiveness the more powerful a Sentient is beyond that threshold._
 
@@ -232,7 +232,7 @@ _Improved: Successful activations of this skill are more likely to cause a Senti
 
 **Yredelemnul's Rage [Active Skill] [Unique] [MP Cost 15 or AP Cost 2] [Cooldown 20 Seconds]**
 
-_You have begin to tap more deeply into the powers of a fallen Ruler. You can now unleash a sight-based attack that strikes with concussive force. This skill's power is heavily based on the Player's stats, particularly the strength of their mind, their INT, their WIS, and their accumulated knowledge._
+_You have begun to tap more deeply into the powers of a fallen Ruler. You can now unleash a sight-based attack that strikes with concussive force. This skill's power is heavily based on the Player's stats, particularly the strength of their mind, their INT, their WIS, and their accumulated knowledge._
 
 _This skill can hurt an enemy as if the Player punched them, or it can strike with the force of a cannon, and it can hit even harder than that under certain circumstances. Players with weak minds will be unable to tap into the full power of [**Yredelemnul's Rage**]._
 
@@ -266,29 +266,29 @@ Timothy slapped the T-REX on his chest, causing his pitch-black Spectre armor to
 
 "You're gonna pay, you bitch." Timothy hissed. "Mind-raping scum like you deserve to DIE."
 
-Timothy's rage boiled as he met the gaze of the Envoy. He'd never felt so enraged in all his life as he felt right now.
+Timothy's rage boiled as he met the gaze of the Emissary. He'd never felt so enraged in all his life as he felt right now.
 
 Just as Timothy was about to activate Divine Blaze and cut her down, a masculine voice spoke from behind Sylphid, outside the chamber beyond Timothy's view.
 
 "Well well, Sylphid. You failed, as I thought you would. Useless, as always."
 
-Timothy's heart dropped. A figure wearing a golden mask strolled into view. He was tall and slender; Timothy recognized him as the Envoy that had been out in the forest when Timothy met his gaze a few days before.
+Timothy's heart dropped. A figure wearing a golden mask strolled into view. He was tall and slender; Timothy recognized him as the Emissary that had been out in the forest when Timothy met his gaze a few days before.
 
 "It's you?" Timothy asked, stunned.
 
-Timothy shivered. Killing Sylphid and escaping had a slim chance of success. She was injured, weakened. But this new Envoy had a much more powerful presence than her. He wasn't hurt, and his guard was up.
+Timothy shivered. Killing Sylphid and escaping had a slim chance of success. She was injured, weakened. But this new Emissary had a much more powerful presence than her. He wasn't hurt, and his guard was up.
 
-"Envoy Faceless!" Sylphid coughed, turning on her heel to look at the gold-masked man with a mixture of fear and anger. "When did you return?!"
+"Emissary Faceless!" Sylphid coughed, turning on her heel to look at the gold-masked man with a mixture of fear and anger. "When did you return?!"
 
-"Long enough ago that I was able to witness the sight of your body sent flying. It seems your 'prey' had more bite than you expected? And now you've ended up in such a pitiful position... shouldn't you be on your knees, thanking me for saving your life? Another minute and you'd have died to this fellow's primitive weapon. What a pitiful end for an Envoy that would be."
+"Long enough ago that I was able to witness the sight of your body sent flying. It seems your 'prey' had more bite than you expected? And now you've ended up in such a pitiful position... shouldn't you be on your knees, thanking me for saving your life? Another minute and you'd have died to this fellow's primitive weapon. What a pitiful end for an Emissary that would be."
 
-Whoever 'Faceless' was, it was clear he wasn't an Envoy on the same level as Sylphid, but one ranked considerably higher than her. Timothy wasn't certain if Faceless was Sylphid's superior, like a commanding officer, or something similar, but it did seem the two of them had an internal conflict. 
+Whoever 'Faceless' was, it was clear he wasn't an Emissary on the same level as Sylphid, but one ranked considerably higher than her. Timothy wasn't certain if Faceless was Sylphid's superior, like a commanding officer, or something similar, but it did seem the two of them had an internal conflict. 
 
 Perhaps they were semi-equals in named position, but Faceless and Sylphid were competing for rewards from a superior even higher up than them? Timothy didn't have enough information to make a determination.
 
 "I have the situation under control!" Sylphid snapped. "Stay out of my business!"
 
-"Oh, but it isn't 'your' business anymore." Faceless said smoothly. "This was your last chance, remember? You've disappointed Ashenzari for the last time. By the end of the day, your Blessing will be revoked. You are an Envoy no longer."
+"Oh, but it isn't 'your' business anymore." Faceless said smoothly. "This was your last chance, remember? You've disappointed Ashenzari for the last time. By the end of the day, your Blessing will be revoked. You are an Emissary no longer."
 
 Timothy couldn't see Faceless's expression beneath the mask, but the sound of a smile was unmistakable in his voice. He was clearly _very_ pleased about what had happened.
 
@@ -304,7 +304,7 @@ A scorching red beam of energy suddenly fired from Timothy's eyes.
 
 **ZOT!!!**
 
-It crashed against Faceless's chest with the impact of a tank cannon firing at point-blank range. The masked Envoy's body went flying backward in a U-shape. He slammed into the wall hard enough to send fragments of granite and stone flying in all directions.
+It crashed against Faceless's chest with the impact of a tank cannon firing at point-blank range. The masked Emissary's body went flying backward in a U-shape. He slammed into the wall hard enough to send fragments of granite and stone flying in all directions.
 
 The corners of Timothy's mouth curled up, ever so slightly.
 
@@ -344,7 +344,7 @@ But first, there was another matter to attend...
 
 "Stop!!" Sylphid cried, a moment too late. She jumped to her feet, having mostly recovered from the mental attack earlier. Her expression was grim as Faceless turned to meet her gaze. "You can't do this! He's a true heir of the Dark Ones! His status is higher than yours!"
 
-"You always were an eyesore." Faceless said with venomous intent. He raised his dagger, and Sylphid belatedly realized she didn't have a weapon, only her bare hands. "You're are Ashenzari's Envoy no longer. Even better, I have proof you're a traitor to my god. That means I can _dispose_ of you."
+"You always were an eyesore." Faceless said with venomous intent. He raised his dagger, and Sylphid belatedly realized she didn't have a weapon, only her bare hands. "You are Ashenzari's Emissary no longer. Even better, I have proof you're a traitor to my god. That means I can _dispose_ of you."
 
 Faceless started to swing his blade down. But at that moment, something struck him from the side.
 
@@ -402,7 +402,7 @@ Timothy's eyes nearly popped out of his head. He was so shocked he forgot to bre
 
 "Oh... shit!"
 
-He couldn't kill Faceless. The Envoy was too powerful! He had a body on par with Bael, which really showed how powerful Yredelemnul's Rage was to send him flying twice.
+He couldn't kill Faceless. The Emissary was too powerful! He had a body on par with Bael, which really showed how powerful Yredelemnul's Rage was to send him flying twice.
 
 "He has been blessed by Ashenzari, my liege!" Sylphid explained. "Ordinary weapons cannot kill him. Hurry, we must go before the guards arrive!"
 

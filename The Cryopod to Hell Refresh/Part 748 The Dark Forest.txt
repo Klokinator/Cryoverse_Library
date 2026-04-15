@@ -184,13 +184,13 @@ Timothy activated his Eye of Yredelemnul skill. He scanned a few of the creature
 
 ...
 
-**Envoy of Ashenzari - Dark Forest - Supreme Existence**
+**Emissary of Ashenzari - Dark Forest - Supreme Existence**
 
-_A powerful adherent of the cult of Ashenzari. An elite capable of fighting ten other Sentients at the same time. Fast and strong, their lacking defense is improved by the quality of their armor. Ashenzari's Envoys possess the power to tap into nature itself, making them especially deadly in dense woodlands._
+_A powerful adherent of the cult of Ashenzari. An elite capable of fighting ten other Sentients at the same time. Fast and strong, their lacking defense is improved by the quality of their armor. Ashenzari's Emissarys possess the power to tap into nature itself, making them especially deadly in dense woodlands._
 
 **Warrior of Ashenzari - Dark Forest - Guardian**
 
-_A high-ranking adherent of the cult of Ashenzari. A powerful warrior who fights to protect their designated Envoy. Capable of entering a Battle Rage, they can rip through the defenses of their enemies, tearing their flesh and bones apart with great ease._
+_A high-ranking adherent of the cult of Ashenzari. A powerful warrior who fights to protect their designated Emissary. Capable of entering a Battle Rage, they can rip through the defenses of their enemies, tearing their flesh and bones apart with great ease._
 
 **Priest of Ashenzari - Dark Forest - Devotee**
 
@@ -200,7 +200,7 @@ _A faithful worshiper of Ashenzari. Capable of healing their allies swiftly thro
 
 "These are strong enemies." Timothy said quietly. "We don't want to fight them. They might be the apex predators of the Dark Forest."
 
-Just as Timothy spoke, the lone Envoy atop the giant lizard suddenly turned its head. The Envoy was wearing a golden mask made in the style of a giant diamond, obscuring its face. But even so, Timothy felt as if he had been spotted.
+Just as Timothy spoke, the lone Emissary atop the giant lizard suddenly turned its head. The Emissary was wearing a golden mask made in the style of a giant diamond, obscuring its face. But even so, Timothy felt as if he had been spotted.
 
 [A powerful entity has observed your location.]
 
@@ -210,7 +210,7 @@ Another notification appeared.
 
 [A powerful entity has recognized that you are a devotee of a fellow Dark One. The powerful entity has lost interest in you.]
 
-The Envoy looked at Timothy for all of five seconds, then looked away. The procession continued, leaving Timothy sweating nervously until they had passed far, far out of range.
+The Emissary looked at Timothy for all of five seconds, then looked away. The procession continued, leaving Timothy sweating nervously until they had passed far, far out of range.
 
 "Was it just me, or did that strong guy look in our direction?" Marigold asked, levitating behind Timothy. "He was really scary."
 
@@ -224,7 +224,7 @@ Timothy's expression distorted. "What about the one on top of the mount?"
 
 Timothy wasn't sure why his Eye couldn't detect the creature's stats. Maybe it was because Ashenzari was one of the 'dark ones'? He didn't know who they were, but they sounded scary. It seemed they also mistook him for a fellow devotee, but he knew he wasn't one.
 
-Timothy thought for a moment, then he remembered that Yredelemnul's Eye stated it once belonged to a 'Dark One.' Could that have been what the Envoy detected?
+Timothy thought for a moment, then he remembered that Yredelemnul's Eye stated it once belonged to a 'Dark One.' Could that have been what the Emissary detected?
 
 _I'm lucky I had this skill. It caused a misunderstanding that helped us out!_ Timothy thought.
 
