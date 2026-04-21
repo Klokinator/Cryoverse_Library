@@ -170,7 +170,7 @@ In addition to the two skills he had leveled up, Timothy obtained two brand new 
 
 ...
 
-**Yredelemnul's Disdain [Active Skill] [Unique] [MP Cost 25 or AP Cost 4] [Cooldown 10 Mins]**
+**Yredelemnul's Disdain [Active Skill] [Unique] [MP Cost 25 or AP Cost 4] [Cooldown 20 seconds]**
 
 _You have begun to tap more deeply into the powers of a fallen Ruler. You can now dominate the minds of other Sentients and scare them into fleeing, surrendering, or even devoting themselves to you. A failed activation of this ability may have no effect on a Sentient, or it may embolden them, making them much more hostile toward you._
 
@@ -218,7 +218,7 @@ With this, he improved both of his new skills to Level 6, and this empowered the
 
 ...
 
-**Yredelemnul's Disdain [Active Skill] [Unique] [MP Cost 10 or AP Cost 1] [Cooldown 10 Mins]**
+**Yredelemnul's Disdain [Active Skill] [Unique] [MP Cost 10 or AP Cost 1] [Cooldown 5 seconds]**
 
 _You have begun to tap more deeply into the powers of a fallen Ruler. You can now dominate the minds of other Sentients and scare them into fleeing, surrendering, or even devoting themselves to you. A failed activation of this ability may have no effect on a Sentient, or it may embolden them, making them much more hostile toward you._
 
@@ -230,7 +230,7 @@ _Improved: Failed activations of this skill are more likely to cause a temporary
 
 _Improved: Successful activations of this skill are more likely to cause a Sentient to revere or worship you._
 
-**Yredelemnul's Rage [Active Skill] [Unique] [MP Cost 15 or AP Cost 2] [Cooldown 20 Seconds]**
+**Yredelemnul's Rage [Active Skill] [Unique] [MP Cost 15 or AP Cost 2] [Cooldown 5 Seconds]**
 
 _You have begun to tap more deeply into the powers of a fallen Ruler. You can now unleash a sight-based attack that strikes with concussive force. This skill's power is heavily based on the Player's stats, particularly the strength of their mind, their INT, their WIS, and their accumulated knowledge._
 
