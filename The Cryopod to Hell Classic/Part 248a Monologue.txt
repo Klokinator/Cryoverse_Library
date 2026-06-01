@@ -1,4 +1,4 @@
-Part 248a - Monologue
+﻿Part 248a: Monologue
 
 How many have played a game of chess by themselves? I have. Quadrillions of games, actually. I simply subdivide my AI routines into two equal but separate cores at once and play at ten trillion moves per second. Interestingly, my ratio of wins and draws are almost exactly 33%. One core will win, then the other, then they both draw. It functions exactly as a clock would.
 

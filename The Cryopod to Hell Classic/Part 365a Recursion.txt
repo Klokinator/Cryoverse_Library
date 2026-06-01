@@ -1,4 +1,4 @@
-Part 365a - Recursion
+﻿Part 365a: Recursion
 
 Sounds of people talking, mixed with unhurried footsteps and whispering were what the man awoke to. Everything sounded muddy, as if he had dunked his head underwater and was listening to someone on a nearby boat. By the time his eyes started to open, the sounds had cleared up somewhat, and the first thing he could see was the soft glow of a light directly above him. It reminded him of the light a dentist might shove into his face, except much more muted overall.
 

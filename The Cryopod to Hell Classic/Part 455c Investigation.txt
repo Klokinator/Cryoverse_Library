@@ -1,4 +1,4 @@
-Part 455c - Investigation
+﻿Part 455c: Investigation
 
 _Queen moves from E1 to E4. Black's turn. Bishop moves from F4 to H6, retreating from the sudden appearance of the queen. It's a trap. How should White respond? Obviously, since I'm playing both sides, I can't fall into my own trap, but how do I go about avoiding it? Perhaps if I-_
 
