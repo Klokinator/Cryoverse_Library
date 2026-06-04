@@ -1,6 +1,6 @@
 {
     "total_words": 19717,
-    "total_chars": 103281,
+    "total_chars": 103283,
     "parts": [
         {
             "name": "Buyable Power",
@@ -25,7 +25,7 @@
         {
             "name": "My Dog is a WHAT",
             "words": 2585,
-            "chars": 13571
+            "chars": 13573
         },
         {
             "name": "Stalker",

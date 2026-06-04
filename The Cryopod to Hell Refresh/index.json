@@ -1,6 +1,6 @@
 {
-    "total_words": 2988177,
-    "total_chars": 16821884,
+    "total_words": 3105435,
+    "total_chars": 17485332,
     "parts": [
         {
             "name": "Part 001 Entering the Labyrinth",
@@ -749,13 +749,8 @@
         },
         {
             "name": "Part 150 Archangels and Emperors",
-            "words": 5655,
-            "chars": 32168
-        },
-        {
-            "name": "Part 150-5 The Illusory Realm",
-            "words": 4598,
-            "chars": 26121
+            "words": 10216,
+            "chars": 58090
         },
         {
             "name": "Part 151 Battle of the Blades",
@@ -2810,7 +2805,7 @@
         {
             "name": "Part 561 Milky Ways Agent",
             "words": 3590,
-            "chars": 20557
+            "chars": 20556
         },
         {
             "name": "Part 562 Parahuman Corps",
@@ -3290,7 +3285,7 @@
         {
             "name": "Part 657 Operation Birdcage",
             "words": 3521,
-            "chars": 20287
+            "chars": 20288
         },
         {
             "name": "Part 658 President Steven Johannesburg",
@@ -3305,7 +3300,7 @@
         {
             "name": "Part 660 Hidekis Evolution",
             "words": 3671,
-            "chars": 20428
+            "chars": 20427
         },
         {
             "name": "Part 661 Blacksite 41",
@@ -3344,8 +3339,8 @@
         },
         {
             "name": "Part 668 Temporal Divergence",
-            "words": 6739,
-            "chars": 38213
+            "words": 6740,
+            "chars": 38214
         },
         {
             "name": "Part 669 Double Drone Decision",
@@ -3355,12 +3350,12 @@
         {
             "name": "Part 670 Mindcores v2",
             "words": 4048,
-            "chars": 22647
+            "chars": 22645
         },
         {
             "name": "Part 671 Area 51 Assault",
             "words": 4065,
-            "chars": 23069
+            "chars": 23068
         },
         {
             "name": "Part 672 Emperor Ose VS Cat Mask",
@@ -3390,7 +3385,7 @@
         {
             "name": "Part 677 Chronas Biggest Loser",
             "words": 4086,
-            "chars": 22654
+            "chars": 22653
         },
         {
             "name": "Part 678 The King Network",
@@ -3420,12 +3415,12 @@
         {
             "name": "Part 683 Swim and Smash",
             "words": 3572,
-            "chars": 19921
+            "chars": 19923
         },
         {
             "name": "Part 684 Levels and Loot",
-            "words": 4726,
-            "chars": 27316
+            "words": 4720,
+            "chars": 27278
         },
         {
             "name": "Part 685 Clarity of Mind",
@@ -3464,8 +3459,8 @@
         },
         {
             "name": "Part 692 Healing Barbatos",
-            "words": 3585,
-            "chars": 20486
+            "words": 3587,
+            "chars": 20511
         },
         {
             "name": "Part 693 Creators Conspiracy",
@@ -3509,8 +3504,8 @@
         },
         {
             "name": "Part 701 Too Easy",
-            "words": 3539,
-            "chars": 19848
+            "words": 3538,
+            "chars": 19842
         },
         {
             "name": "Part 702 Mentally Corrupted MindCore",
@@ -3640,7 +3635,7 @@
         {
             "name": "Part 727 Making New Friends",
             "words": 3769,
-            "chars": 22107
+            "chars": 22108
         },
         {
             "name": "Part 728 Making New Enemies",
@@ -3665,7 +3660,7 @@
         {
             "name": "Part 732 Prison Break",
             "words": 6324,
-            "chars": 36804
+            "chars": 36805
         },
         {
             "name": "Part 733 Making a Mindverse",
@@ -3681,6 +3676,136 @@
             "name": "Part 735 Genetic Manipulation",
             "words": 4483,
             "chars": 24665
+        },
+        {
+            "name": "Part 736 Two-Faced",
+            "words": 3988,
+            "chars": 22170
+        },
+        {
+            "name": "Part 737 The Great Era",
+            "words": 5320,
+            "chars": 30556
+        },
+        {
+            "name": "Part 738 Master and Pupil",
+            "words": 4138,
+            "chars": 23452
+        },
+        {
+            "name": "Part 739 Experimentation",
+            "words": 3737,
+            "chars": 21783
+        },
+        {
+            "name": "Part 740 Weakest Gamer Strongest Italian",
+            "words": 3973,
+            "chars": 22315
+        },
+        {
+            "name": "Part 741 Psions Wish",
+            "words": 3664,
+            "chars": 20624
+        },
+        {
+            "name": "Part 742 Skill Issue",
+            "words": 4009,
+            "chars": 22807
+        },
+        {
+            "name": "Part 743 Timothys Transformation",
+            "words": 4289,
+            "chars": 23929
+        },
+        {
+            "name": "Part 744 Good Gambling",
+            "words": 4454,
+            "chars": 25748
+        },
+        {
+            "name": "Part 745 Training Montage",
+            "words": 3668,
+            "chars": 20681
+        },
+        {
+            "name": "Part 746 Fionas New System",
+            "words": 3129,
+            "chars": 17408
+        },
+        {
+            "name": "Part 747 Entering the Dungeon",
+            "words": 4143,
+            "chars": 23430
+        },
+        {
+            "name": "Part 748 The Dark Forest",
+            "words": 3504,
+            "chars": 19976
+        },
+        {
+            "name": "Part 749 Im His Envoy",
+            "words": 4907,
+            "chars": 27947
+        },
+        {
+            "name": "Part 750 The Golden Glade",
+            "words": 4662,
+            "chars": 26363
+        },
+        {
+            "name": "Part 751 Sylphids Betrayal",
+            "words": 5254,
+            "chars": 29763
+        },
+        {
+            "name": "Part 752 Escape",
+            "words": 4538,
+            "chars": 25567
+        },
+        {
+            "name": "Part 753 Defeated Disgraced",
+            "words": 6171,
+            "chars": 35049
+        },
+        {
+            "name": "Part 754 Departing the Darkness",
+            "words": 5987,
+            "chars": 33523
+        },
+        {
+            "name": "Part 755 Lovers Spat",
+            "words": 4658,
+            "chars": 25773
+        },
+        {
+            "name": "Part 756 Timothys Trial",
+            "words": 5351,
+            "chars": 30083
+        },
+        {
+            "name": "Part 757 Timothys Tribulation",
+            "words": 6209,
+            "chars": 35733
+        },
+        {
+            "name": "Part 758 Mind Breaker",
+            "words": 4186,
+            "chars": 23831
+        },
+        {
+            "name": "Part 759 Champion of Creation",
+            "words": 4856,
+            "chars": 27611
+        },
+        {
+            "name": "Part 760 Old Golds Hold",
+            "words": 4839,
+            "chars": 26737
+        },
+        {
+            "name": "Part 761 Heroic Rebirth",
+            "words": 3665,
+            "chars": 20807
         }
     ]
 }

@@ -7,7 +7,7 @@
 | Humanity's AI | 2,060 | 11,347 |
 | Mild Inconvenience Note | 531 | 2,820 |
 | My Cat Kills Monsters | 671 | 3,627 |
-| My Dog is a WHAT | 2,585 | 13,571 |
+| My Dog is a WHAT | 2,585 | 13,573 |
 | Stalker | 1,753 | 8,790 |
 | Summoned Succubus | 1,248 | 6,414 |
 | THE ENEMY IS COMING | 1,070 | 6,032 |
@@ -17,4 +17,4 @@
 | [CEU] The Deadliest Marksman | 4,445 | 22,782 |
 
 **Total Words:** 19,717
-**Total Characters:** 103,281
+**Total Characters:** 103,283

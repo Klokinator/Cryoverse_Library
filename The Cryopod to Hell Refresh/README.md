@@ -168,7 +168,7 @@
 | Part 147 The Trojan Horse | 5,088 | 28,892 |
 | Part 148 Scattered Chaos | 4,757 | 27,120 |
 | Part 149 The Infinity King | 3,675 | 20,530 |
-| Part 150 Archangels and Emperors | 5,655 | 32,168 |
+| Part 150 Archangels and Emperors | 10,216 | 58,090 |
 
 </details>
 
@@ -176,7 +176,6 @@
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
-| Part 150-5 The Illusory Realm | 4,598 | 26,121 |
 | Part 151 Battle of the Blades | 4,771 | 27,121 |
 | Part 152 Battle of the Souls | 6,875 | 39,105 |
 | Part 153 Deaths Arrival | 3,718 | 20,821 |
@@ -226,6 +225,7 @@
 | Part 197 Consequences | 4,667 | 25,217 |
 | Part 198 Jepthaths Origin | 4,550 | 25,537 |
 | Part 199 Jepthaths Burden | 4,468 | 25,113 |
+| Part 200 Jepthaths Inheritance | 4,740 | 26,842 |
 
 </details>
 
@@ -233,7 +233,6 @@
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
-| Part 200 Jepthaths Inheritance | 4,740 | 26,842 |
 | Part 201 Jepthaths Domination | 4,352 | 24,691 |
 | Part 202 Jepthaths Ultimatum | 6,238 | 35,733 |
 | Part 203 Jepthaths Resolve | 6,761 | 39,083 |
@@ -283,6 +282,7 @@
 | Part 247 Jasons Attack | 3,607 | 20,671 |
 | Part 248 Wordsmithexe | 4,267 | 23,898 |
 | Part 249 Maras Great Escape | 3,113 | 17,827 |
+| Part 250 The Battle Brothers Resurgence | 3,304 | 18,525 |
 
 </details>
 
@@ -290,7 +290,6 @@
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
-| Part 250 The Battle Brothers Resurgence | 3,304 | 18,525 |
 | Part 251 Swift Soul Searching | 4,103 | 22,646 |
 | Part 252 Astral Soul-Eater | 6,533 | 36,191 |
 | Part 253 Lazarus Tower | 3,637 | 20,391 |
@@ -340,6 +339,7 @@
 | Part 297 How to Kill a Wordsmith | 5,791 | 33,463 |
 | Part 298 Reviving the Fallen | 3,822 | 22,351 |
 | Part 299 Mephistos Screw-up | 3,536 | 19,689 |
+| Part 300 First Hells Return | 4,106 | 23,376 |
 
 </details>
 
@@ -347,7 +347,6 @@
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
-| Part 300 First Hells Return | 4,106 | 23,376 |
 | Part 301 Archangels Rampage | 4,600 | 26,402 |
 | Part 302 Raphaels Secret | 2,562 | 14,829 |
 | Part 303 The Unifier | 2,975 | 17,123 |
@@ -397,6 +396,7 @@
 | Part 347 Phoebes Request | 3,767 | 21,071 |
 | Part 348 Changelings | 4,226 | 24,457 |
 | Part 349 Hope Awakens | 3,878 | 21,232 |
+| Part 350 Oses Ascension | 4,057 | 22,920 |
 
 </details>
 
@@ -404,7 +404,6 @@
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
-| Part 350 Oses Ascension | 4,057 | 22,920 |
 | Part 351 Belials Choice | 4,231 | 23,355 |
 | Part 352 New Allies | 3,977 | 22,593 |
 | Part 353 Jasons Speech | 3,905 | 21,767 |
@@ -454,6 +453,7 @@
 | Part 397 Baels Return | 4,326 | 24,270 |
 | Part 398 Order to Chaos | 3,714 | 21,573 |
 | Part 399 Cosmic Corruption | 3,720 | 21,422 |
+| Part 400 Gallaxs Fall | 3,394 | 19,067 |
 
 </details>
 
@@ -461,7 +461,6 @@
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
-| Part 400 Gallaxs Fall | 3,394 | 19,067 |
 | Part 401 Samuels Strength | 3,891 | 22,088 |
 | Part 402 Emerging from Her Shell | 3,943 | 21,911 |
 | Part 403 Psion Realization | 3,454 | 19,847 |
@@ -511,6 +510,7 @@
 | Part 447 Making a Choice | 3,448 | 19,284 |
 | Part 448 Lindas Love | 4,485 | 24,465 |
 | Part 449 Ambush on Diabolus | 3,771 | 21,643 |
+| Part 450 Sects Strike the Shadows | 4,534 | 26,271 |
 
 </details>
 
@@ -518,7 +518,6 @@
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
-| Part 450 Sects Strike the Shadows | 4,534 | 26,271 |
 | Part 451 Oasis Journey | 3,395 | 19,752 |
 | Part 452 Meeting Marie | 3,487 | 19,761 |
 | Part 453 Jasons Inadequacy | 3,571 | 20,138 |
@@ -568,6 +567,7 @@
 | Part 497 Myriad Deity | 3,278 | 18,923 |
 | Part 498 Battle Across Numaria | 4,122 | 23,696 |
 | Part 499 Summoning The Devil | 4,400 | 24,842 |
+| Part 500 APEX COSMIC | 4,102 | 22,928 |
 
 </details>
 
@@ -575,7 +575,6 @@
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
-| Part 500 APEX COSMIC | 4,102 | 22,928 |
 | Part 501 PRIMORDIAL PREDATOR | 3,896 | 22,696 |
 | Part 502 Future Protagonist | 3,699 | 20,409 |
 | Part 503 The Spynet Sphere | 4,064 | 23,468 |
@@ -625,6 +624,7 @@
 | Part 547 Unwanted Visitor | 3,804 | 21,098 |
 | Part 548 Future Apex Predator | 3,985 | 22,684 |
 | Part 549 Bubblegum Battlesuit | 4,164 | 23,576 |
+| Part 550 Chrona Advancements | 3,480 | 19,805 |
 
 </details>
 
@@ -632,7 +632,6 @@
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
-| Part 550 Chrona Advancements | 3,480 | 19,805 |
 | Part 551 Flashpoint | 3,607 | 19,879 |
 | Part 552 The Great Debate | 4,098 | 23,279 |
 | Part 553 Counter-Attack | 5,288 | 28,998 |
@@ -643,7 +642,7 @@
 | Part 558 Matriarch Calanthra | 3,583 | 20,485 |
 | Part 559 Eye of Yredelemnul | 4,063 | 23,626 |
 | Part 560 Ancient Domains | 4,028 | 23,443 |
-| Part 561 Milky Ways Agent | 3,590 | 20,557 |
+| Part 561 Milky Ways Agent | 3,590 | 20,556 |
 | Part 562 Parahuman Corps | 3,666 | 20,218 |
 | Part 563 Deal with a Devil | 3,880 | 21,756 |
 | Part 564 Hardcore Henry | 4,396 | 24,548 |
@@ -682,6 +681,7 @@
 | Part 597 Tarnished History | 3,683 | 20,575 |
 | Part 598 The Demon Inside | 3,623 | 20,494 |
 | Part 599 Hopes Deception | 3,347 | 18,575 |
+| Part 600 Shocking Testimony | 3,294 | 19,372 |
 
 </details>
 
@@ -689,7 +689,6 @@
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
-| Part 600 Shocking Testimony | 3,294 | 19,372 |
 | Part 601 Duel of Fates | 3,528 | 20,233 |
 | Part 602 Devourer | 3,745 | 20,905 |
 | Part 603 HUMAN NO MORE | 3,722 | 21,050 |
@@ -739,6 +738,7 @@
 | Part 647 Keen Instincts | 3,887 | 22,180 |
 | Part 648 Fallen Empire | 3,485 | 20,406 |
 | Part 649 Dolgris Guides Us | 3,254 | 19,279 |
+| Part 650 Unarins Concession | 4,091 | 22,856 |
 
 </details>
 
@@ -746,17 +746,16 @@
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
-| Part 650 Unarins Concession | 4,091 | 22,856 |
 | Part 651 Rebuilding | 3,822 | 21,786 |
 | Part 652 Beelzebubs Bluff | 3,517 | 20,113 |
 | Part 653 Demons Deal | 3,449 | 19,529 |
 | Part 654 Torn Dimension | 3,687 | 21,035 |
 | Part 655 Buddhabubs Battle | 3,441 | 20,001 |
 | Part 656 Aevum Argent | 3,389 | 19,637 |
-| Part 657 Operation Birdcage | 3,521 | 20,287 |
+| Part 657 Operation Birdcage | 3,521 | 20,288 |
 | Part 658 President Steven Johannesburg | 3,938 | 22,533 |
 | Part 659 AMBITION | 3,658 | 20,542 |
-| Part 660 Hidekis Evolution | 3,671 | 20,428 |
+| Part 660 Hidekis Evolution | 3,671 | 20,427 |
 | Part 661 Blacksite 41 | 4,037 | 23,103 |
 | Part 662 Project Iron Bone | 3,864 | 22,447 |
 | Part 663 Russias Secret Hero | 3,723 | 20,816 |
@@ -764,23 +763,23 @@
 | Part 665 Nadias Body-Brain Drain | 3,746 | 20,738 |
 | Part 666 HELL ON EARTH | 3,981 | 22,572 |
 | Part 667 Hellspawn vs Heavenspawn | 3,680 | 20,906 |
-| Part 668 Temporal Divergence | 6,739 | 38,213 |
+| Part 668 Temporal Divergence | 6,740 | 38,214 |
 | Part 669 Double Drone Decision | 3,841 | 21,677 |
-| Part 670 Mindcores v2 | 4,048 | 22,647 |
-| Part 671 Area 51 Assault | 4,065 | 23,069 |
+| Part 670 Mindcores v2 | 4,048 | 22,645 |
+| Part 671 Area 51 Assault | 4,065 | 23,068 |
 | Part 672 Emperor Ose VS Cat Mask | 4,078 | 21,978 |
 | Part 673 Father Why | 3,636 | 20,136 |
 | Part 674 Superior Sasha | 3,459 | 19,624 |
 | Part 675 Marco Snaps | 3,721 | 20,975 |
 | Part 676 A Dialogue With Dolgris | 4,499 | 25,418 |
-| Part 677 Chronas Biggest Loser | 4,086 | 22,654 |
+| Part 677 Chronas Biggest Loser | 4,086 | 22,653 |
 | Part 678 The King Network | 3,484 | 20,022 |
 | Part 679 Now I Can Level Up | 3,788 | 21,851 |
 | Part 680 The Power of Friendship | 3,553 | 20,255 |
 | Part 681 Im Not a Fraud | 5,143 | 28,165 |
 | Part 682 Truth and Desire | 4,268 | 23,536 |
-| Part 683 Swim and Smash | 3,572 | 19,921 |
-| Part 684 Levels and Loot | 4,726 | 27,316 |
+| Part 683 Swim and Smash | 3,572 | 19,923 |
+| Part 684 Levels and Loot | 4,720 | 27,278 |
 | Part 685 Clarity of Mind | 3,411 | 19,652 |
 | Part 686 Maximizing Gains | 3,567 | 20,474 |
 | Part 687 Pain in the Gut | 3,862 | 21,520 |
@@ -788,7 +787,7 @@
 | Part 689 Fionas Ascension | 3,782 | 21,903 |
 | Part 690 Journeys Beginning | 4,004 | 22,939 |
 | Part 691 The Burning Deity | 4,053 | 23,272 |
-| Part 692 Healing Barbatos | 3,585 | 20,486 |
+| Part 692 Healing Barbatos | 3,587 | 20,511 |
 | Part 693 Creators Conspiracy | 3,771 | 21,678 |
 | Part 694 Hyphytes | 4,217 | 24,016 |
 | Part 695 A Brothers Love | 2,841 | 16,539 |
@@ -796,15 +795,15 @@
 | Part 697 Galactic Unification | 3,738 | 20,814 |
 | Part 698 Alone Again | 5,029 | 28,148 |
 | Part 699 Humanitys Backup Plan | 3,627 | 20,211 |
+| Part 700 Unarins Obstinance | 3,866 | 21,755 |
 
 </details>
 
-<details><summary>Parts 701 - 736</summary>
+<details><summary>Parts 701 - 750</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
-| Part 700 Unarins Obstinance | 3,866 | 21,755 |
-| Part 701 Too Easy | 3,539 | 19,848 |
+| Part 701 Too Easy | 3,538 | 19,842 |
 | Part 702 Mentally Corrupted MindCore | 3,483 | 19,665 |
 | Part 703 RealitySim Online | 4,370 | 24,547 |
 | Part 704 Survivors Guilt | 3,572 | 19,577 |
@@ -830,18 +829,51 @@
 | Part 724 The Ancient Volgrim Empire | 3,559 | 21,166 |
 | Part 725 Deep Space Horrors | 3,947 | 22,916 |
 | Part 726 Philosophical Stagnation | 3,565 | 20,333 |
-| Part 727 Making New Friends | 3,769 | 22,107 |
+| Part 727 Making New Friends | 3,769 | 22,108 |
 | Part 728 Making New Enemies | 4,189 | 24,336 |
 | Part 729 Unjustly Imprisoned | 3,305 | 19,071 |
 | Part 730 ASCENDED | 4,043 | 22,860 |
 | Part 731 ABOMINATIONS | 4,067 | 23,173 |
-| Part 732 Prison Break | 6,324 | 36,804 |
+| Part 732 Prison Break | 6,324 | 36,805 |
 | Part 733 Making a Mindverse | 4,071 | 22,679 |
 | Part 734 One Last Goodbye | 3,873 | 20,905 |
 | Part 735 Genetic Manipulation | 4,483 | 24,665 |
+| Part 736 Two-Faced | 3,988 | 22,170 |
+| Part 737 The Great Era | 5,320 | 30,556 |
+| Part 738 Master and Pupil | 4,138 | 23,452 |
+| Part 739 Experimentation | 3,737 | 21,783 |
+| Part 740 Weakest Gamer Strongest Italian | 3,973 | 22,315 |
+| Part 741 Psions Wish | 3,664 | 20,624 |
+| Part 742 Skill Issue | 4,009 | 22,807 |
+| Part 743 Timothys Transformation | 4,289 | 23,929 |
+| Part 744 Good Gambling | 4,454 | 25,748 |
+| Part 745 Training Montage | 3,668 | 20,681 |
+| Part 746 Fionas New System | 3,129 | 17,408 |
+| Part 747 Entering the Dungeon | 4,143 | 23,430 |
+| Part 748 The Dark Forest | 3,504 | 19,976 |
+| Part 749 Im His Envoy | 4,907 | 27,947 |
+| Part 750 The Golden Glade | 4,662 | 26,363 |
+
+</details>
+
+<details><summary>Parts 751 - 761</summary>
+
+| Part Name | Word Count | Character Count |
+| --- | --- | --- |
+| Part 751 Sylphids Betrayal | 5,254 | 29,763 |
+| Part 752 Escape | 4,538 | 25,567 |
+| Part 753 Defeated Disgraced | 6,171 | 35,049 |
+| Part 754 Departing the Darkness | 5,987 | 33,523 |
+| Part 755 Lovers Spat | 4,658 | 25,773 |
+| Part 756 Timothys Trial | 5,351 | 30,083 |
+| Part 757 Timothys Tribulation | 6,209 | 35,733 |
+| Part 758 Mind Breaker | 4,186 | 23,831 |
+| Part 759 Champion of Creation | 4,856 | 27,611 |
+| Part 760 Old Golds Hold | 4,839 | 26,737 |
+| Part 761 Heroic Rebirth | 3,665 | 20,807 |
 
 </details>
 
 
-**Total Words:** 2,988,177
-**Total Characters:** 16,821,884
+**Total Words:** 3,105,435
+**Total Characters:** 17,485,332
