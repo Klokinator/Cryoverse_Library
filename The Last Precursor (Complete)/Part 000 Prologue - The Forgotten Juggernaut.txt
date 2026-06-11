@@ -520,7 +520,7 @@ This time, Umi's robotic voice fills with concern. "**Precursor? Why do you keep
 
 "**Terran.**" 4131 repeats. "**This term is unfamiliar. Please elaborate.**"
 
-"**Terran. Human,**" Umi adds. "**...Synthmind 4131. I believe that my internal chronometer is not functioning correctly. Please inform me. ****How long was I in suspended hibernation mode?**"
+"**Terran. Human,**" Umi adds. "**...Synthmind 4131. I believe that my internal chronometer is not functioning correctly. Please inform me. How long was I in suspended hibernation mode?**"
 
 "**I do not possess the answer to your query.**" Synthmind 4131 states. "**Information regarding the Precursors is sparse at best. As it stands, all Precursor vessels appear to have become inactive following the deaths and disappearances of their crews. This mass extinction event occurred approximately [ONE HUNDRED SEVENTEEN MILLION, SEVEN HUNDRED THOUSAND] orbital cycles ago.**"
 
