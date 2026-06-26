@@ -808,7 +808,7 @@
 | Part 703 RealitySim Online | 4,370 | 24,547 |
 | Part 704 Survivors Guilt | 3,572 | 19,577 |
 | Part 705 Respect | 3,977 | 21,776 |
-| Part 706 False Reality | 3,407 | 19,055 |
+| Part 706 False Reality | 3,408 | 19,061 |
 | Part 707 A Woman Now | 3,709 | 20,005 |
 | Part 708 Sarabiya | 3,965 | 22,463 |
 | Part 709 Sphinx Slaughter | 3,674 | 20,464 |
@@ -856,7 +856,7 @@
 
 </details>
 
-<details><summary>Parts 751 - 761</summary>
+<details><summary>Parts 751 - 765</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
@@ -871,9 +871,13 @@
 | Part 759 Champion of Creation | 4,856 | 27,611 |
 | Part 760 Old Golds Hold | 4,839 | 26,737 |
 | Part 761 Heroic Rebirth | 3,665 | 20,807 |
+| Part 762 Fish Out of Water | 5,492 | 30,044 |
+| Part 763 Family Reunion | 5,446 | 29,592 |
+| Part 764 Futuristic Feast | 5,153 | 28,687 |
+| Part 765 Sphinxs Origins | 3,957 | 21,693 |
 
 </details>
 
 
-**Total Words:** 3,105,435
-**Total Characters:** 17,485,332
+**Total Words:** 3,125,484
+**Total Characters:** 17,595,354

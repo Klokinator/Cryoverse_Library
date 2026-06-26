@@ -2559,8 +2559,8 @@
         ]
     },
     "The Cryopod to Hell Refresh": {
-        "total_words": 3105435,
-        "total_chars": 17485332,
+        "total_words": 3125484,
+        "total_chars": 17595354,
         "parts": [
             {
                 "name": "Part 001 Entering the Labyrinth",
@@ -6089,8 +6089,8 @@
             },
             {
                 "name": "Part 706 False Reality",
-                "words": 3407,
-                "chars": 19055
+                "words": 3408,
+                "chars": 19061
             },
             {
                 "name": "Part 707 A Woman Now",
@@ -6366,6 +6366,26 @@
                 "name": "Part 761 Heroic Rebirth",
                 "words": 3665,
                 "chars": 20807
+            },
+            {
+                "name": "Part 762 Fish Out of Water",
+                "words": 5492,
+                "chars": 30044
+            },
+            {
+                "name": "Part 763 Family Reunion",
+                "words": 5446,
+                "chars": 29592
+            },
+            {
+                "name": "Part 764 Futuristic Feast",
+                "words": 5153,
+                "chars": 28687
+            },
+            {
+                "name": "Part 765 Sphinxs Origins",
+                "words": 3957,
+                "chars": 21693
             }
         ]
     },
