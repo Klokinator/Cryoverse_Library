@@ -856,7 +856,7 @@
 
 </details>
 
-<details><summary>Parts 751 - 765</summary>
+<details><summary>Parts 751 - 766</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
@@ -875,9 +875,10 @@
 | Part 763 Family Reunion | 5,446 | 29,592 |
 | Part 764 Futuristic Feast | 5,153 | 28,687 |
 | Part 765 Sphinxs Origins | 3,957 | 21,693 |
+| Part 766 A New Berthold | 4,975 | 27,297 |
 
 </details>
 
 
-**Total Words:** 3,125,484
-**Total Characters:** 17,595,354
+**Total Words:** 3,130,459
+**Total Characters:** 17,622,651

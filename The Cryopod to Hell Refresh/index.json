@@ -1,6 +1,6 @@
 {
-    "total_words": 3125484,
-    "total_chars": 17595354,
+    "total_words": 3130459,
+    "total_chars": 17622651,
     "parts": [
         {
             "name": "Part 001 Entering the Labyrinth",
@@ -3826,6 +3826,11 @@
             "name": "Part 765 Sphinxs Origins",
             "words": 3957,
             "chars": 21693
+        },
+        {
+            "name": "Part 766 A New Berthold",
+            "words": 4975,
+            "chars": 27297
         }
     ]
 }
