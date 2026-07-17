@@ -2559,8 +2559,8 @@
         ]
     },
     "The Cryopod to Hell Refresh": {
-        "total_words": 3130459,
-        "total_chars": 17622651,
+        "total_words": 3143681,
+        "total_chars": 17697290,
         "parts": [
             {
                 "name": "Part 001 Entering the Labyrinth",
@@ -5890,7 +5890,7 @@
             {
                 "name": "Part 666 HELL ON EARTH",
                 "words": 3981,
-                "chars": 22572
+                "chars": 22567
             },
             {
                 "name": "Part 667 Hellspawn vs Heavenspawn",
@@ -6390,7 +6390,17 @@
             {
                 "name": "Part 766 A New Berthold",
                 "words": 4975,
-                "chars": 27297
+                "chars": 27302
+            },
+            {
+                "name": "Part 767 Leader of Punishment",
+                "words": 3884,
+                "chars": 21890
+            },
+            {
+                "name": "Part 768 Unbreakable Vow",
+                "words": 9338,
+                "chars": 52749
             }
         ]
     },

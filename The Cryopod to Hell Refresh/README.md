@@ -761,7 +761,7 @@
 | Part 663 Russias Secret Hero | 3,723 | 20,816 |
 | Part 664 The Weakest Superhumans | 3,735 | 20,494 |
 | Part 665 Nadias Body-Brain Drain | 3,746 | 20,738 |
-| Part 666 HELL ON EARTH | 3,981 | 22,572 |
+| Part 666 HELL ON EARTH | 3,981 | 22,567 |
 | Part 667 Hellspawn vs Heavenspawn | 3,680 | 20,906 |
 | Part 668 Temporal Divergence | 6,740 | 38,214 |
 | Part 669 Double Drone Decision | 3,841 | 21,677 |
@@ -856,7 +856,7 @@
 
 </details>
 
-<details><summary>Parts 751 - 766</summary>
+<details><summary>Parts 751 - 768</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
@@ -875,10 +875,12 @@
 | Part 763 Family Reunion | 5,446 | 29,592 |
 | Part 764 Futuristic Feast | 5,153 | 28,687 |
 | Part 765 Sphinxs Origins | 3,957 | 21,693 |
-| Part 766 A New Berthold | 4,975 | 27,297 |
+| Part 766 A New Berthold | 4,975 | 27,302 |
+| Part 767 Leader of Punishment | 3,884 | 21,890 |
+| Part 768 Unbreakable Vow | 9,338 | 52,749 |
 
 </details>
 
 
-**Total Words:** 3,130,459
-**Total Characters:** 17,622,651
+**Total Words:** 3,143,681
+**Total Characters:** 17,697,290
