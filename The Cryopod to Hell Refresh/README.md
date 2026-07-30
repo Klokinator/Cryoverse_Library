@@ -856,7 +856,7 @@
 
 </details>
 
-<details><summary>Parts 751 - 768</summary>
+<details><summary>Parts 751 - 769</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
@@ -877,10 +877,11 @@
 | Part 765 Sphinxs Origins | 3,957 | 21,693 |
 | Part 766 A New Berthold | 4,975 | 27,302 |
 | Part 767 Leader of Punishment | 3,884 | 21,890 |
-| Part 768 Unbreakable Vow | 9,338 | 52,749 |
+| Part 768 Unbreakable Vow | 9,338 | 52,746 |
+| Part 769 Heavens First Battle | 4,944 | 27,963 |
 
 </details>
 
 
-**Total Words:** 3,143,681
-**Total Characters:** 17,697,290
+**Total Words:** 3,148,625
+**Total Characters:** 17,725,250

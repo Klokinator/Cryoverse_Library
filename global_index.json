@@ -2559,8 +2559,8 @@
         ]
     },
     "The Cryopod to Hell Refresh": {
-        "total_words": 3143681,
-        "total_chars": 17697290,
+        "total_words": 3148625,
+        "total_chars": 17725250,
         "parts": [
             {
                 "name": "Part 001 Entering the Labyrinth",
@@ -6400,7 +6400,12 @@
             {
                 "name": "Part 768 Unbreakable Vow",
                 "words": 9338,
-                "chars": 52749
+                "chars": 52746
+            },
+            {
+                "name": "Part 769 Heavens First Battle",
+                "words": 4944,
+                "chars": 27963
             }
         ]
     },
