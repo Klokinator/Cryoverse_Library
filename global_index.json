@@ -2559,8 +2559,8 @@
         ]
     },
     "The Cryopod to Hell Refresh": {
-        "total_words": 3148625,
-        "total_chars": 17725250,
+        "total_words": 3153655,
+        "total_chars": 17754455,
         "parts": [
             {
                 "name": "Part 001 Entering the Labyrinth",
@@ -6404,8 +6404,13 @@
             },
             {
                 "name": "Part 769 Heavens First Battle",
-                "words": 4944,
-                "chars": 27963
+                "words": 4942,
+                "chars": 27959
+            },
+            {
+                "name": "Part 770 Strategic Objectives",
+                "words": 5032,
+                "chars": 29209
             }
         ]
     },

@@ -856,7 +856,7 @@
 
 </details>
 
-<details><summary>Parts 751 - 769</summary>
+<details><summary>Parts 751 - 770</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
@@ -878,10 +878,11 @@
 | Part 766 A New Berthold | 4,975 | 27,302 |
 | Part 767 Leader of Punishment | 3,884 | 21,890 |
 | Part 768 Unbreakable Vow | 9,338 | 52,746 |
-| Part 769 Heavens First Battle | 4,944 | 27,963 |
+| Part 769 Heavens First Battle | 4,942 | 27,959 |
+| Part 770 Strategic Objectives | 5,032 | 29,209 |
 
 </details>
 
 
-**Total Words:** 3,148,625
-**Total Characters:** 17,725,250
+**Total Words:** 3,153,655
+**Total Characters:** 17,754,455
