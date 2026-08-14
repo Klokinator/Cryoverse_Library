@@ -856,7 +856,7 @@
 
 </details>
 
-<details><summary>Parts 751 - 770</summary>
+<details><summary>Parts 751 - 771</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
@@ -879,10 +879,11 @@
 | Part 767 Leader of Punishment | 3,884 | 21,890 |
 | Part 768 Unbreakable Vow | 9,338 | 52,746 |
 | Part 769 Heavens First Battle | 4,942 | 27,959 |
-| Part 770 Strategic Objectives | 5,032 | 29,209 |
+| Part 770 Strategic Objectives | 5,032 | 29,208 |
+| Part 771 Rag Doll | 5,045 | 27,529 |
 
 </details>
 
 
-**Total Words:** 3,153,655
-**Total Characters:** 17,754,455
+**Total Words:** 3,158,700
+**Total Characters:** 17,781,983
