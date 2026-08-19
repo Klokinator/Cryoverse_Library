@@ -1,6 +1,6 @@
 {
-    "total_words": 3158700,
-    "total_chars": 17781983,
+    "total_words": 3163953,
+    "total_chars": 17810478,
     "parts": [
         {
             "name": "Part 001 Entering the Labyrinth",
@@ -3854,8 +3854,13 @@
         },
         {
             "name": "Part 771 Rag Doll",
-            "words": 5045,
-            "chars": 27529
+            "words": 5050,
+            "chars": 27568
+        },
+        {
+            "name": "Part 772 Faceless",
+            "words": 5248,
+            "chars": 28456
         }
     ]
 }

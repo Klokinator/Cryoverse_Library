@@ -856,7 +856,7 @@
 
 </details>
 
-<details><summary>Parts 751 - 771</summary>
+<details><summary>Parts 751 - 772</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
@@ -880,10 +880,11 @@
 | Part 768 Unbreakable Vow | 9,338 | 52,746 |
 | Part 769 Heavens First Battle | 4,942 | 27,959 |
 | Part 770 Strategic Objectives | 5,032 | 29,208 |
-| Part 771 Rag Doll | 5,045 | 27,529 |
+| Part 771 Rag Doll | 5,050 | 27,568 |
+| Part 772 Faceless | 5,248 | 28,456 |
 
 </details>
 
 
-**Total Words:** 3,158,700
-**Total Characters:** 17,781,983
+**Total Words:** 3,163,953
+**Total Characters:** 17,810,478
