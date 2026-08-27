@@ -1,6 +1,6 @@
 {
-    "total_words": 3163953,
-    "total_chars": 17810478,
+    "total_words": 3168432,
+    "total_chars": 17835328,
     "parts": [
         {
             "name": "Part 001 Entering the Labyrinth",
@@ -3860,7 +3860,12 @@
         {
             "name": "Part 772 Faceless",
             "words": 5248,
-            "chars": 28456
+            "chars": 28455
+        },
+        {
+            "name": "Part 773 Best of Intentions",
+            "words": 4479,
+            "chars": 24851
         }
     ]
 }

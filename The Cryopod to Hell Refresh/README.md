@@ -856,7 +856,7 @@
 
 </details>
 
-<details><summary>Parts 751 - 772</summary>
+<details><summary>Parts 751 - 773</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
@@ -881,10 +881,11 @@
 | Part 769 Heavens First Battle | 4,942 | 27,959 |
 | Part 770 Strategic Objectives | 5,032 | 29,208 |
 | Part 771 Rag Doll | 5,050 | 27,568 |
-| Part 772 Faceless | 5,248 | 28,456 |
+| Part 772 Faceless | 5,248 | 28,455 |
+| Part 773 Best of Intentions | 4,479 | 24,851 |
 
 </details>
 
 
-**Total Words:** 3,163,953
-**Total Characters:** 17,810,478
+**Total Words:** 3,168,432
+**Total Characters:** 17,835,328
