@@ -856,7 +856,7 @@
 
 </details>
 
-<details><summary>Parts 751 - 773</summary>
+<details><summary>Parts 751 - 774</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
@@ -882,10 +882,11 @@
 | Part 770 Strategic Objectives | 5,032 | 29,208 |
 | Part 771 Rag Doll | 5,050 | 27,568 |
 | Part 772 Faceless | 5,248 | 28,455 |
-| Part 773 Best of Intentions | 4,479 | 24,851 |
+| Part 773 Best of Intentions | 4,541 | 25,211 |
+| Part 774 | 4,357 | 24,190 |
 
 </details>
 
 
-**Total Words:** 3,168,432
-**Total Characters:** 17,835,328
+**Total Words:** 3,172,851
+**Total Characters:** 17,859,878

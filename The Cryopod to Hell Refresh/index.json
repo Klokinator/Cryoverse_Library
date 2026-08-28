@@ -1,6 +1,6 @@
 {
-    "total_words": 3168432,
-    "total_chars": 17835328,
+    "total_words": 3172851,
+    "total_chars": 17859878,
     "parts": [
         {
             "name": "Part 001 Entering the Labyrinth",
@@ -3864,8 +3864,13 @@
         },
         {
             "name": "Part 773 Best of Intentions",
-            "words": 4479,
-            "chars": 24851
+            "words": 4541,
+            "chars": 25211
+        },
+        {
+            "name": "Part 774",
+            "words": 4357,
+            "chars": 24190
         }
     ]
 }
