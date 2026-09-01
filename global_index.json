@@ -2559,8 +2559,8 @@
         ]
     },
     "The Cryopod to Hell Refresh": {
-        "total_words": 3172851,
-        "total_chars": 17859878,
+        "total_words": 3176647,
+        "total_chars": 17880966,
         "parts": [
             {
                 "name": "Part 001 Entering the Labyrinth",
@@ -6428,9 +6428,14 @@
                 "chars": 25211
             },
             {
-                "name": "Part 774",
-                "words": 4357,
-                "chars": 24190
+                "name": "Part 774 MindCore v4",
+                "words": 4358,
+                "chars": 24191
+            },
+            {
+                "name": "Part 775 Awakened",
+                "words": 3795,
+                "chars": 21087
             }
         ]
     },

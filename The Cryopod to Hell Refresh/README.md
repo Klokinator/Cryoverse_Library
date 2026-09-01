@@ -856,7 +856,7 @@
 
 </details>
 
-<details><summary>Parts 751 - 774</summary>
+<details><summary>Parts 751 - 775</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
@@ -883,10 +883,11 @@
 | Part 771 Rag Doll | 5,050 | 27,568 |
 | Part 772 Faceless | 5,248 | 28,455 |
 | Part 773 Best of Intentions | 4,541 | 25,211 |
-| Part 774 | 4,357 | 24,190 |
+| Part 774 MindCore v4 | 4,358 | 24,191 |
+| Part 775 Awakened | 3,795 | 21,087 |
 
 </details>
 
 
-**Total Words:** 3,172,851
-**Total Characters:** 17,859,878
+**Total Words:** 3,176,647
+**Total Characters:** 17,880,966
