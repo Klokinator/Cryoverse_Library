@@ -2559,8 +2559,8 @@
         ]
     },
     "The Cryopod to Hell Refresh": {
-        "total_words": 3176647,
-        "total_chars": 17880966,
+        "total_words": 3184869,
+        "total_chars": 17926651,
         "parts": [
             {
                 "name": "Part 001 Entering the Labyrinth",
@@ -5964,8 +5964,8 @@
             },
             {
                 "name": "Part 681 Im Not a Fraud",
-                "words": 5143,
-                "chars": 28165
+                "words": 5161,
+                "chars": 28238
             },
             {
                 "name": "Part 682 Truth and Desire",
@@ -6436,6 +6436,16 @@
                 "name": "Part 775 Awakened",
                 "words": 3795,
                 "chars": 21087
+            },
+            {
+                "name": "Part 776 Getting Clapped",
+                "words": 4089,
+                "chars": 22402
+            },
+            {
+                "name": "Part 777 Predator and Prey",
+                "words": 4115,
+                "chars": 23210
             }
         ]
     },

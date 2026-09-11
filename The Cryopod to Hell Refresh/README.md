@@ -776,7 +776,7 @@
 | Part 678 The King Network | 3,484 | 20,022 |
 | Part 679 Now I Can Level Up | 3,788 | 21,851 |
 | Part 680 The Power of Friendship | 3,553 | 20,255 |
-| Part 681 Im Not a Fraud | 5,143 | 28,165 |
+| Part 681 Im Not a Fraud | 5,161 | 28,238 |
 | Part 682 Truth and Desire | 4,268 | 23,536 |
 | Part 683 Swim and Smash | 3,572 | 19,923 |
 | Part 684 Levels and Loot | 4,720 | 27,278 |
@@ -856,7 +856,7 @@
 
 </details>
 
-<details><summary>Parts 751 - 775</summary>
+<details><summary>Parts 751 - 777</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
@@ -885,9 +885,11 @@
 | Part 773 Best of Intentions | 4,541 | 25,211 |
 | Part 774 MindCore v4 | 4,358 | 24,191 |
 | Part 775 Awakened | 3,795 | 21,087 |
+| Part 776 Getting Clapped | 4,089 | 22,402 |
+| Part 777 Predator and Prey | 4,115 | 23,210 |
 
 </details>
 
 
-**Total Words:** 3,176,647
-**Total Characters:** 17,880,966
+**Total Words:** 3,184,869
+**Total Characters:** 17,926,651
