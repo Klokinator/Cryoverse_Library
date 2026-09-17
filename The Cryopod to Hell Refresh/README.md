@@ -698,12 +698,12 @@
 | Part 607 Our Brightest Night | 3,783 | 22,135 |
 | Part 608 Friends of Phoenix | 3,530 | 20,364 |
 | Part 609 Wordsmiths Woe END OF BOOK 5 | 5,472 | 30,948 |
-| Part 610 REWIND | 6,210 | 34,256 |
+| Part 610 REWIND | 6,211 | 34,247 |
 | Part 611 Taken | 4,657 | 26,166 |
-| Part 612 The Illuminatis Haven | 6,696 | 38,035 |
+| Part 612 The Illuminatis Haven | 6,695 | 38,028 |
 | Part 613 Back to the Future | 4,605 | 26,159 |
 | Part 614 Bubble Worlds | 3,386 | 19,789 |
-| Part 615 Entering Sharmur | 4,398 | 24,768 |
+| Part 615 Entering Sharmur | 4,397 | 24,759 |
 | Part 616 Meeting the Lowborn | 3,964 | 22,265 |
 | Part 617 Meeting the Ancestors | 4,523 | 25,314 |
 | Part 618 Escape | 3,571 | 19,646 |
@@ -856,7 +856,7 @@
 
 </details>
 
-<details><summary>Parts 751 - 777</summary>
+<details><summary>Parts 751 - 778</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
@@ -887,9 +887,10 @@
 | Part 775 Awakened | 3,795 | 21,087 |
 | Part 776 Getting Clapped | 4,089 | 22,402 |
 | Part 777 Predator and Prey | 4,115 | 23,210 |
+| Part 778 | 3,896 | 20,408 |
 
 </details>
 
 
-**Total Words:** 3,184,869
-**Total Characters:** 17,926,651
+**Total Words:** 3,188,764
+**Total Characters:** 17,947,034

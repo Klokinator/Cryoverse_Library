@@ -1,6 +1,6 @@
 {
-    "total_words": 3184869,
-    "total_chars": 17926651,
+    "total_words": 3188764,
+    "total_chars": 17947034,
     "parts": [
         {
             "name": "Part 001 Entering the Labyrinth",
@@ -3049,8 +3049,8 @@
         },
         {
             "name": "Part 610 REWIND",
-            "words": 6210,
-            "chars": 34256
+            "words": 6211,
+            "chars": 34247
         },
         {
             "name": "Part 611 Taken",
@@ -3059,8 +3059,8 @@
         },
         {
             "name": "Part 612 The Illuminatis Haven",
-            "words": 6696,
-            "chars": 38035
+            "words": 6695,
+            "chars": 38028
         },
         {
             "name": "Part 613 Back to the Future",
@@ -3074,8 +3074,8 @@
         },
         {
             "name": "Part 615 Entering Sharmur",
-            "words": 4398,
-            "chars": 24768
+            "words": 4397,
+            "chars": 24759
         },
         {
             "name": "Part 616 Meeting the Lowborn",
@@ -3886,6 +3886,11 @@
             "name": "Part 777 Predator and Prey",
             "words": 4115,
             "chars": 23210
+        },
+        {
+            "name": "Part 778",
+            "words": 3896,
+            "chars": 20408
         }
     ]
 }
