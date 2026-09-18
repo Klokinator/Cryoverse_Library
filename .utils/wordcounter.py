@@ -1,6 +1,7 @@
 import os
 import re
 import json
+import fnmatch
 
 def clean_text(text_lines):
     if not text_lines:
@@ -117,20 +118,41 @@ def main():
     root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     global_data = {}
     
-    exclude_dirs = {'.git', '.vscode', '__pycache__', '.utils'}
-    exclude_files = {'wordcounter.py', 'update_counts.bat', 'AgentWordCounterPlan.md', 'global_index.json'}
+    exclude_dirs = {'.git', '.vscode', '__pycache__', '.utils', '_Books', '.githooks', '.kilo', 'images', 'legacy_comments'}
+    exclude_files = {'wordcounter.py', 'update_counts.bat', 'AgentWordCounterPlan.md', 'global_index.json', 'books.json', 'booktool.py', 'build_manifest.json', 'BOOKTOOL.md', 'smoketest.py', 'verify.py'}
 
     for item in sorted(os.listdir(root_dir)):
         item_path = os.path.join(root_dir, item)
         if os.path.isdir(item_path) and item not in exclude_dirs:
             print(f"Processing folder: {item}")
             folder_data = {"total_words": 0, "total_chars": 0, "parts": []}
-            
+
             # Sort files to maintain order
-            files = sorted([f for f in os.listdir(item_path) if f.endswith('.txt')])
-            
+            book_excludes = set()
+            try:
+                _cfg = os.path.join(root_dir, ".utils", "books.json")
+                if os.path.isfile(_cfg):
+                    with open(_cfg, 'r', encoding='utf-8') as _cf:
+                        for _b in json.load(_cf).get("books", []):
+                            if _b.get("folder") == item:
+                                for _pat in _b.get("exclude", []) or []:
+                                    book_excludes.add(_pat)
+            except Exception:
+                book_excludes = set()
+            files = sorted([f for f in os.listdir(item_path) if f.endswith('.txt') and f not in exclude_files
+                            and not any(fnmatch.fnmatch(f, _p) for _p in book_excludes)])
+
             for file in files:
                 file_path = os.path.join(item_path, file)
+                if not os.path.isfile(file_path):
+                    continue
+                # Skip nested excluded dirs (e.g. images/, legacy_comments/)
+                try:
+                    rel = os.path.relpath(file_path, item_path)
+                except Exception:
+                    rel = file
+                if any(part in exclude_dirs for part in rel.split(os.sep)[:-1]):
+                    continue
                 try:
                     with open(file_path, 'r', encoding='utf-8') as f:
                         text_lines = f.readlines()

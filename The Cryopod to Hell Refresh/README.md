@@ -887,10 +887,10 @@
 | Part 775 Awakened | 3,795 | 21,087 |
 | Part 776 Getting Clapped | 4,089 | 22,402 |
 | Part 777 Predator and Prey | 4,115 | 23,210 |
-| Part 778 | 3,896 | 20,408 |
+| Part 778 Man-to-Man Talk | 3,895 | 20,405 |
 
 </details>
 
 
-**Total Words:** 3,188,764
-**Total Characters:** 17,947,034
+**Total Words:** 3,188,763
+**Total Characters:** 17,947,031

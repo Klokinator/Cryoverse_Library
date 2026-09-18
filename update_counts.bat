@@ -1,3 +1,4 @@
 @echo off
-python .utils\wordcounter.py
+git config core.hooksPath .githooks
+python .utils\booktool.py all
 pause

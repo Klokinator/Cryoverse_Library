@@ -1,0 +1,15 @@
+#!/bin/sh
+# BookTool pre-commit hook: wordcounts + EPUB/PDF builds, then stage outputs.
+# Never blocks a commit: always exits 0, never reads stdin, never pauses.
+echo "[booktool] wordcounts + epub/pdf rebuild..."
+if command -v python >/dev/null 2>&1; then
+  python .utils/booktool.py all --quiet --hooked || echo "[booktool] warning: build had warnings (commit continues)"
+else
+  echo "[booktool] warning: python not found, skipping builds"
+fi
+git add -u 2>/dev/null
+if [ -d "_Books" ]; then git add _Books 2>/dev/null; fi
+for d in "The Cryopod to Hell Classic" "The Cryopod to Hell Refresh" "The Last Precursor (Complete)"; do
+  if [ -d "$d/images" ]; then git add "$d/images" 2>/dev/null; fi
+done
+exit 0

@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "folder": "The Cryopod to Hell Classic",
+      "title": "The Cryopod to Hell (Classic)",
+      "author": "Klokinator",
+      "cover": "_Artwork/Logos/TCTH Logo.png",
+      "enabled": true,
+      "pdf_splits": []
+    },
+    {
+      "folder": "The Cryopod to Hell Refresh",
+      "title": "The Cryopod to Hell (Refresh)",
+      "author": "Klokinator",
+      "cover": "_Artwork/Logos/TCTH Logo.png",
+      "enabled": true,
+      "pdf_splits": [292, 609]
+    },
+    {
+      "folder": "The Last Precursor (Complete)",
+      "title": "The Last Precursor",
+      "author": "Klokinator",
+      "cover": "_Artwork/Logos/TLP Logo.png",
+      "enabled": true,
+      "pdf_splits": []
+    }
+  ]
+}
