@@ -24,7 +24,7 @@ from datetime import date, datetime, timezone
 from pathlib import Path
 from xml.sax.saxutils import escape as xml_escape
 
-TOOL_VERSION = "1.1.0"
+TOOL_VERSION = "1.2.0"
 ROOT = Path(__file__).resolve().parent.parent
 UTILS = ROOT / ".utils"
 BOOKS_JSON = UTILS / "books.json"
@@ -453,6 +453,11 @@ figure.art img { max-width: 100%%; height: auto; }
 hr { margin: 1.5em 20%%; }
 p.scene { text-align: center; }
 p.titleblock { text-indent: 0; text-align: center; }
+p.coverwrap { text-indent: 0; text-align: center; margin: 0; }
+div.coverpage { text-align: center; page-break-after: always;
+  display: flex; flex-direction: column; justify-content: center;
+  align-items: center; min-height: 90vh; }
+div.coverpage img.cover { max-width: 85%%; max-height: 85vh; }
 ol.toc { text-align: left; margin: 0; padding-left: 1.5em; }
 ol.toc li { margin: 0.25em 0; }
 ol.toc a { text-decoration: none; color: inherit; }
@@ -468,9 +473,12 @@ figure.art { margin: 1em auto; }
 figure.art img { max-width: 92%%; height: auto; }
 hr { margin: 1.4em 20%%; }
 p.scene { text-align: center; }
-div.titlepage { text-align: center; page-break-after: always; padding-top: 12%%; }
+div.titlepage { text-align: center; page-break-after: always;
+  display: flex; flex-direction: column; justify-content: center;
+  align-items: center; min-height: 88vh; }
 div.titlepage p, div.tocpage p.volline, div.tocpage p.byline { text-indent: 0; }
-div.titlepage img.cover { max-width: 70%%; max-height: 45%%; }
+div.titlepage img.cover { max-width: 70%%; max-height: 60vh; }
+div.titlepage p.coverp { margin: 0 0 1em 0; }
 div.titlepage h1 { font-size: 26pt; }
 div.tocpage { page-break-after: always; text-align: left; }
 div.tocpage h1.toctitle, div.tocpage h1.booktitle { text-align: center; }
@@ -661,7 +669,7 @@ def build_epub(book, chapters, img_map):
         '<?xml version="1.0" encoding="utf-8"?>\n'
         '<html xmlns="http://www.w3.org/1999/xhtml">\n<head><title>Cover</title>'
         '<link rel="stylesheet" type="text/css" href="style.css"/></head>\n'
-        '<body><p class="titleblock"><img src="Images/%s" alt="Cover"/></p></body>\n</html>'
+        '<body><div class="coverpage"><p class="coverwrap"><img class="cover" src="Images/%s" alt="Cover"/></p></div></body>\n</html>'
         % xml_escape(cover_name)
     ) if cover_name else None
 
