@@ -1,14 +1,14 @@
 {
   "books": {
     "The Cryopod to Hell Classic": {
-      "hash": "7f78adaae86696a038146cb06f167cb571a9e96529ef294e8b261881df1ed824",
+      "hash": "4eb4ce9c6f26722499049619ed363ddc727899edf9aec5c72f03b6408f7fd260",
       "epub": "The Cryopod to Hell (Classic).epub",
       "pdfs": [
         "The Cryopod to Hell (Classic).pdf"
       ]
     },
     "The Cryopod to Hell Refresh": {
-      "hash": "be6f0fc4d7d36d8ced5056d3913ff4047c8a5e307a978dacec5b77a06ed73b88",
+      "hash": "160e52cd0dd149c297763bd162a4117702189911e70c0ae7f4a86f0bcf6da040",
       "epub": "The Cryopod to Hell (Refresh).epub",
       "pdfs": [
         "The Cryopod to Hell (Refresh) - Parts 001-292.pdf",
@@ -17,7 +17,7 @@
       ]
     },
     "The Last Precursor (Complete)": {
-      "hash": "b2ea2cd0cac5edbb15ad4ca4fbfd03b76efdb4b0d46a7a3b73fc408e49724a50",
+      "hash": "19c0a0b3e14ef597fd21dd2e12a3e191e195ef668acea6cc7655bc0f3df42e24",
       "epub": "The Last Precursor.epub",
       "pdfs": [
         "The Last Precursor.pdf"

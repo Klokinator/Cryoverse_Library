@@ -24,7 +24,7 @@ from datetime import date, datetime, timezone
 from pathlib import Path
 from xml.sax.saxutils import escape as xml_escape
 
-TOOL_VERSION = "1.2.0"
+TOOL_VERSION = "1.2.1"
 ROOT = Path(__file__).resolve().parent.parent
 UTILS = ROOT / ".utils"
 BOOKS_JSON = UTILS / "books.json"
@@ -453,11 +453,11 @@ figure.art img { max-width: 100%%; height: auto; }
 hr { margin: 1.5em 20%%; }
 p.scene { text-align: center; }
 p.titleblock { text-indent: 0; text-align: center; }
-p.coverwrap { text-indent: 0; text-align: center; margin: 0; }
+div.coverwrap { text-align: center; margin: 0; width: 100%%; }
 div.coverpage { text-align: center; page-break-after: always;
   display: flex; flex-direction: column; justify-content: center;
   align-items: center; min-height: 90vh; }
-div.coverpage img.cover { max-width: 85%%; max-height: 85vh; }
+div.coverpage img.cover { display: block; margin: 0 auto; max-width: 85%%; max-height: 85vh; }
 ol.toc { text-align: left; margin: 0; padding-left: 1.5em; }
 ol.toc li { margin: 0.25em 0; }
 ol.toc a { text-decoration: none; color: inherit; }
@@ -476,9 +476,9 @@ p.scene { text-align: center; }
 div.titlepage { text-align: center; page-break-after: always;
   display: flex; flex-direction: column; justify-content: center;
   align-items: center; min-height: 88vh; }
-div.titlepage p, div.tocpage p.volline, div.tocpage p.byline { text-indent: 0; }
-div.titlepage img.cover { max-width: 70%%; max-height: 60vh; }
-div.titlepage p.coverp { margin: 0 0 1em 0; }
+div.titlepage p, div.tocpage p.volline, div.tocpage p.byline { text-indent: 0; text-align: center; }
+div.titlepage img.cover { display: block; margin: 0 auto; max-width: 70%%; max-height: 60vh; }
+div.titlepage .coverp { margin: 0 0 1em 0; width: 100%%; text-align: center; }
 div.titlepage h1 { font-size: 26pt; }
 div.tocpage { page-break-after: always; text-align: left; }
 div.tocpage h1.toctitle, div.tocpage h1.booktitle { text-align: center; }
@@ -669,7 +669,7 @@ def build_epub(book, chapters, img_map):
         '<?xml version="1.0" encoding="utf-8"?>\n'
         '<html xmlns="http://www.w3.org/1999/xhtml">\n<head><title>Cover</title>'
         '<link rel="stylesheet" type="text/css" href="style.css"/></head>\n'
-        '<body><div class="coverpage"><p class="coverwrap"><img class="cover" src="Images/%s" alt="Cover"/></p></div></body>\n</html>'
+        '<body><div class="coverpage"><div class="coverwrap"><img class="cover" src="Images/%s" alt="Cover"/></div></div></body>\n</html>'
         % xml_escape(cover_name)
     ) if cover_name else None
 
@@ -772,7 +772,7 @@ def build_pdf_html(book, vol, vol_index, total_vols, img_map):
     elif label and label != "":
         vol_line = '<p class="volline">%s</p>' % html.escape(label)
     if has_cover:
-        cover_tag = '<p class="coverp"><img class="cover" src="%s" alt="Cover"/></p>' % (
+        cover_tag = '<div class="coverp"><img class="cover" src="%s" alt="Cover"/></div>' % (
             (ROOT / cover_src).resolve().as_uri()
         )
         titlepage = (
