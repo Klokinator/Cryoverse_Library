@@ -24,7 +24,7 @@ from datetime import date, datetime, timezone
 from pathlib import Path
 from xml.sax.saxutils import escape as xml_escape
 
-TOOL_VERSION = "1.0.0"
+TOOL_VERSION = "1.1.0"
 ROOT = Path(__file__).resolve().parent.parent
 UTILS = ROOT / ".utils"
 BOOKS_JSON = UTILS / "books.json"
@@ -453,6 +453,9 @@ figure.art img { max-width: 100%%; height: auto; }
 hr { margin: 1.5em 20%%; }
 p.scene { text-align: center; }
 p.titleblock { text-indent: 0; text-align: center; }
+ol.toc { text-align: left; margin: 0; padding-left: 1.5em; }
+ol.toc li { margin: 0.25em 0; }
+ol.toc a { text-decoration: none; color: inherit; }
 """
 
 PDF_CSS = """@page { size: Letter; margin: 2.2cm; }
@@ -466,8 +469,15 @@ figure.art img { max-width: 92%%; height: auto; }
 hr { margin: 1.4em 20%%; }
 p.scene { text-align: center; }
 div.titlepage { text-align: center; page-break-after: always; padding-top: 12%%; }
+div.titlepage p, div.tocpage p.volline, div.tocpage p.byline { text-indent: 0; }
 div.titlepage img.cover { max-width: 70%%; max-height: 45%%; }
 div.titlepage h1 { font-size: 26pt; }
+div.tocpage { page-break-after: always; text-align: left; }
+div.tocpage h1.toctitle, div.tocpage h1.booktitle { text-align: center; }
+div.tocpage p.byline, div.tocpage p.volline { text-align: center; text-indent: 0; }
+ol.toc { text-align: left; }
+ol.toc li { margin: 0.25em 0; }
+ol.toc a { color: #111; text-decoration: none; }
 """
 
 COVER_EXTS = {".png": "image/png", ".jpg": "image/jpeg", ".jpeg": "image/jpeg"}
@@ -546,6 +556,12 @@ def build_epub(book, chapters, img_map):
             '<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>'
         )
         spine_items.append('<itemref idref="cover"/>')
+    # Visible Table of Contents page: second in spine after the logo/cover
+    # page, or first when there is no cover.
+    manifest_items.append(
+        '<item id="contents" href="toc.xhtml" media-type="application/xhtml+xml"/>'
+    )
+    spine_items.append('<itemref idref="contents"/>')
     for i, f in enumerate(ordered_images):
         mt = mimetypes.guess_type(f)[0] or "image/jpeg"
         manifest_items.append(
@@ -569,6 +585,7 @@ def build_epub(book, chapters, img_map):
     nav_lis = []
     if cover_name:
         nav_lis.append('<li><a href="cover.xhtml">Cover</a></li>')
+    nav_lis.append('<li><a href="toc.xhtml">Table of Contents</a></li>')
     for c in chapters:
         nav_lis.append(
             '<li><a href="%s">%s</a></li>' % (xml_escape(c["xhtml"]), xml_escape(c["title"]))
@@ -580,13 +597,32 @@ def build_epub(book, chapters, img_map):
         '<nav epub:type="toc"><h1>Contents</h1><ol>\n%s\n</ol></nav>\n</body>\n</html>'
         % "\n".join(nav_lis)
     )
+    toc_lis = []
+    for c in chapters:
+        toc_lis.append(
+            '<li><a href="%s">%s</a></li>' % (xml_escape(c["xhtml"]), xml_escape(c["title"]))
+        )
+    toc_doc = (
+        '<?xml version="1.0" encoding="utf-8"?>\n'
+        '<html xmlns="http://www.w3.org/1999/xhtml">\n<head>'
+        '<title>Table of Contents</title>'
+        '<link rel="stylesheet" type="text/css" href="style.css"/>'
+        "</head>\n<body>\n<h1>Table of Contents</h1>\n"
+        '<ol class="toc">\n%s\n</ol>\n</body>\n</html>'
+        % "\n".join(toc_lis)
+    )
     ncx_points = []
-    for n, c in enumerate(chapters, 1):
+    ncx_points.append(
+        '<navPoint id="np0" playOrder="1">'
+        '<navLabel><text>Table of Contents</text></navLabel>'
+        '<content src="toc.xhtml"/></navPoint>'
+    )
+    for n, c in enumerate(chapters, 2):
         ncx_points.append(
             '<navPoint id="np%d" playOrder="%d">'
             '<navLabel><text>%s</text></navLabel>'
             '<content src="%s"/></navPoint>'
-            % (n, n, xml_escape(c["title"]), xml_escape(c["xhtml"]))
+            % (n - 1, n, xml_escape(c["title"]), xml_escape(c["xhtml"]))
         )
     ncx_doc = (
         '<?xml version="1.0" encoding="utf-8"?>\n'
@@ -635,6 +671,7 @@ def build_epub(book, chapters, img_map):
         z.writestr("META-INF/container.xml", container_doc, compress_type=zipfile.ZIP_DEFLATED)
         z.writestr("OEBPS/content.opf", opf_doc, compress_type=zipfile.ZIP_DEFLATED)
         z.writestr("OEBPS/nav.xhtml", nav_doc, compress_type=zipfile.ZIP_DEFLATED)
+        z.writestr("OEBPS/toc.xhtml", toc_doc, compress_type=zipfile.ZIP_DEFLATED)
         z.writestr("OEBPS/toc.ncx", ncx_doc, compress_type=zipfile.ZIP_DEFLATED)
         z.writestr("OEBPS/style.css", EPUB_CSS % (), compress_type=zipfile.ZIP_DEFLATED)
         if cover_doc:
@@ -705,39 +742,69 @@ def build_pdf_html(book, vol, vol_index, total_vols, img_map):
         return (img_dir / fname).resolve().as_uri()
 
     parts = []
+    toc_items = []
     for n, c in enumerate(vol):
         blocks = convert_chapter(c["body"], img_map, src_for)
         cls = "chapter first" if n == 0 else "chapter"
         parts.append(
-            "<h1 class=\"%s\">%s</h1>\n%s" % (cls, html.escape(c["title"]), blocks)
+            '<h1 class="%s" id="%s">%s</h1>\n%s'
+            % (cls, c["cid"], html.escape(c["title"]), blocks)
         )
-    cover_tag = ""
+        toc_items.append(
+            '<li><a href="#%s">%s</a></li>' % (c["cid"], html.escape(c["title"]))
+        )
+    toc_list = '<ol class="toc">\n%s\n</ol>' % "\n".join(toc_items)
     cover_src = book.get("cover")
-    if cover_src and (ROOT / cover_src).is_file():
-        cover_tag = '<p><img class="cover" src="%s" alt="Cover"/></p>' % (
-            (ROOT / cover_src).resolve().as_uri()
-        )
+    has_cover = bool(cover_src and (ROOT / cover_src).is_file())
     vol_line = ""
     if total_vols > 1:
-        vol_line = "<p>Volume %d of %d%s</p>" % (
+        vol_line = '<p class="volline">Volume %d of %d%s</p>' % (
             vol_index + 1, total_vols, (" &mdash; " + html.escape(label)) if label else ""
         )
     elif label and label != "":
-        vol_line = "<p>%s</p>" % html.escape(label)
+        vol_line = '<p class="volline">%s</p>' % html.escape(label)
+    if has_cover:
+        cover_tag = '<p class="coverp"><img class="cover" src="%s" alt="Cover"/></p>' % (
+            (ROOT / cover_src).resolve().as_uri()
+        )
+        titlepage = (
+            '<div class="titlepage">\n%s<h1>%s</h1>\n<p>%s</p>\n%s<p>%s</p>\n</div>\n'
+            % (
+                cover_tag,
+                html.escape(title),
+                html.escape("by " + author),
+                vol_line,
+                html.escape(date.today().isoformat()),
+            )
+        )
+        tocpage = (
+            '<div class="tocpage">\n<h1 class="toctitle">Table of Contents</h1>\n%s\n</div>\n'
+            % toc_list
+        )
+        body = titlepage + tocpage + "\n".join(parts)
+    else:
+        # No logo page: the ToC doubles as page 1 and carries the title block.
+        tocpage = (
+            '<div class="tocpage">\n<h1 class="booktitle">%s</h1>\n'
+            '<p class="byline">%s</p>\n%s<p class="byline">%s</p>\n'
+            '<h1 class="toctitle">Table of Contents</h1>\n%s\n</div>\n'
+            % (
+                html.escape(title),
+                html.escape("by " + author),
+                vol_line,
+                html.escape(date.today().isoformat()),
+                toc_list,
+            )
+        )
+        body = tocpage + "\n".join(parts)
     doc = (
         "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\"/>\n"
         "<title>%s</title>\n<style>\n%s\n</style>\n</head>\n<body>\n"
-        '<div class="titlepage">\n%s<h1>%s</h1>\n<p>%s</p>\n%s<p>%s</p>\n</div>\n'
         "%s\n</body>\n</html>"
         % (
             html.escape(title),
             PDF_CSS % (),
-            cover_tag,
-            html.escape(title),
-            html.escape("by " + author),
-            vol_line,
-            html.escape(date.today().isoformat()),
-            "\n".join(parts),
+            body,
         )
     )
     return doc
