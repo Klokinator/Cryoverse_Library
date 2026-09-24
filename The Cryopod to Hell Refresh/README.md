@@ -856,7 +856,7 @@
 
 </details>
 
-<details><summary>Parts 751 - 778</summary>
+<details><summary>Parts 751 - 779</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
@@ -887,10 +887,11 @@
 | Part 775 Awakened | 3,795 | 21,087 |
 | Part 776 Getting Clapped | 4,089 | 22,402 |
 | Part 777 Predator and Prey | 4,115 | 23,210 |
-| Part 778 Man-to-Man Talk | 3,895 | 20,405 |
+| Part 778 Man-to-Man Talk | 3,895 | 20,404 |
+| Part 779 Adrenaline | 3,906 | 22,004 |
 
 </details>
 
 
-**Total Words:** 3,188,763
-**Total Characters:** 17,947,031
+**Total Words:** 3,192,669
+**Total Characters:** 17,969,034

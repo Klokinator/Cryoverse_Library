@@ -1,6 +1,6 @@
 {
-    "total_words": 3188763,
-    "total_chars": 17947031,
+    "total_words": 3192669,
+    "total_chars": 17969034,
     "parts": [
         {
             "name": "Part 001 Entering the Labyrinth",
@@ -3890,7 +3890,12 @@
         {
             "name": "Part 778 Man-to-Man Talk",
             "words": 3895,
-            "chars": 20405
+            "chars": 20404
+        },
+        {
+            "name": "Part 779 Adrenaline",
+            "words": 3906,
+            "chars": 22004
         }
     ]
 }
