@@ -888,10 +888,10 @@
 | Part 776 Getting Clapped | 4,089 | 22,402 |
 | Part 777 Predator and Prey | 4,115 | 23,210 |
 | Part 778 Man-to-Man Talk | 3,895 | 20,404 |
-| Part 779 Adrenaline | 3,906 | 22,004 |
+| Part 779 Adrenaline | 3,906 | 22,003 |
 
 </details>
 
 
 **Total Words:** 3,192,669
-**Total Characters:** 17,969,034
+**Total Characters:** 17,969,033

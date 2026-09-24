@@ -7,6 +7,7 @@ Source .txt files are never modified; imgur->local is a build-time transform.
 """
 import argparse
 import fnmatch
+import glob
 import hashlib
 import html
 import json
@@ -24,7 +25,7 @@ from datetime import date, datetime, timezone
 from pathlib import Path
 from xml.sax.saxutils import escape as xml_escape
 
-TOOL_VERSION = "1.2.1"
+TOOL_VERSION = "1.3.0"
 ROOT = Path(__file__).resolve().parent.parent
 UTILS = ROOT / ".utils"
 BOOKS_JSON = UTILS / "books.json"
@@ -721,10 +722,15 @@ def split_volumes(chapters, splits):
     return [v for v in vols if v]
 
 
-def volume_label(vol):
+def volume_label(vol, is_last=False):
     parts = [c["part"] for c in vol if c["part"] is not None]
     if not parts:
         return ""
+    if is_last:
+        # Open-ended final volume: "610+" instead of "610-778" so the
+        # filename (and any links to it) stays stable as new parts are
+        # added to the series without shifting the upper bound.
+        return "Parts %03d+" % min(parts)
     return "Parts %03d-%03d" % (min(parts), max(parts))
 
 
@@ -743,7 +749,8 @@ def build_pdf_html(book, vol, vol_index, total_vols, img_map):
     stem = book_filestem(book)
     title = book.get("title") or book["folder"]
     author = book.get("author", "Klokinator")
-    label = volume_label(vol)
+    is_last = vol_index == total_vols - 1 and total_vols > 1
+    label = volume_label(vol, is_last=is_last)
     img_dir = ROOT / book["folder"] / book.get("image_dir", "images")
 
     def src_for(fname):
@@ -847,13 +854,33 @@ def render_pdf(html_text, out_path):
         shutil.rmtree(tmpdir, ignore_errors=True)
 
 
+def clean_stale_pdfs(stem, keep_names):
+    """Delete same-stem multi-volume PDFs in BOOKS_DIR not in keep_names.
+
+    Guards against orphaned files left behind when a naming scheme
+    changes (e.g. an open-ended volume renamed from "610-778" to
+    "610+"), so stale downloads/links don't linger next to the new one.
+    Only matches the " - Parts ..."/" - Volume ..." volume-suffixed
+    pattern so the single-file, non-split case is never touched.
+    """
+    for pattern in (" - Parts *.pdf", " - Volume *.pdf"):
+        for p in BOOKS_DIR.glob(glob.escape(stem) + pattern):
+            if p.name not in keep_names:
+                try:
+                    p.unlink()
+                    info("  removed stale: %s" % p.name)
+                except Exception as e:
+                    warn("could not remove stale %s: %s" % (p.name, e))
+
+
 def build_pdfs(book, chapters, img_map):
     stem = book_filestem(book)
     BOOKS_DIR.mkdir(parents=True, exist_ok=True)
     vols = split_volumes(chapters, book.get("pdf_splits", []))
     outputs = []
     for i, vol in enumerate(vols):
-        label = volume_label(vol)
+        is_last = i == len(vols) - 1 and len(vols) > 1
+        label = volume_label(vol, is_last=is_last)
         if len(vols) > 1 and label:
             fname = "%s - %s.pdf" % (stem, label)
         elif len(vols) > 1:
@@ -864,6 +891,7 @@ def build_pdfs(book, chapters, img_map):
         html_text = build_pdf_html(book, vol, i, len(vols), img_map)
         if render_pdf(html_text, out_path):
             outputs.append(out_path)
+    clean_stale_pdfs(stem, {p.name for p in outputs})
     return outputs
 
 
@@ -939,7 +967,8 @@ def build_book(book, args, manifest, force_images=False):
     want_outputs = [BOOKS_DIR / (stem + ".epub")]
     vols = split_volumes(chapters, book.get("pdf_splits", []))
     for i, vol in enumerate(vols):
-        label = volume_label(vol)
+        is_last = i == len(vols) - 1 and len(vols) > 1
+        label = volume_label(vol, is_last=is_last)
         if len(vols) > 1 and label:
             want_outputs.append(BOOKS_DIR / ("%s - %s.pdf" % (stem, label)))
         elif len(vols) > 1:

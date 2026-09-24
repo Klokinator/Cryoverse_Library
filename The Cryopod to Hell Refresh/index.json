@@ -1,6 +1,6 @@
 {
     "total_words": 3192669,
-    "total_chars": 17969034,
+    "total_chars": 17969033,
     "parts": [
         {
             "name": "Part 001 Entering the Labyrinth",
@@ -3895,7 +3895,7 @@
         {
             "name": "Part 779 Adrenaline",
             "words": 3906,
-            "chars": 22004
+            "chars": 22003
         }
     ]
 }
