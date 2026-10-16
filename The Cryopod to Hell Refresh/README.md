@@ -856,7 +856,7 @@
 
 </details>
 
-<details><summary>Parts 751 - 780</summary>
+<details><summary>Parts 751 - 781</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
@@ -890,9 +890,10 @@
 | Part 778 Man-to-Man Talk | 3,895 | 20,405 |
 | Part 779 Adrenaline | 3,906 | 22,003 |
 | Part 780 Transition | 4,189 | 22,715 |
+| Part 781 Neon Genesis | 4,167 | 22,770 |
 
 </details>
 
 
-**Total Words:** 3,196,858
-**Total Characters:** 17,991,749
+**Total Words:** 3,201,025
+**Total Characters:** 18,014,519

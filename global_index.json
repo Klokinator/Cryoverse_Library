@@ -2559,8 +2559,8 @@
         ]
     },
     "The Cryopod to Hell Refresh": {
-        "total_words": 3196858,
-        "total_chars": 17991749,
+        "total_words": 3201025,
+        "total_chars": 18014519,
         "parts": [
             {
                 "name": "Part 001 Entering the Labyrinth",
@@ -6461,6 +6461,11 @@
                 "name": "Part 780 Transition",
                 "words": 4189,
                 "chars": 22715
+            },
+            {
+                "name": "Part 781 Neon Genesis",
+                "words": 4167,
+                "chars": 22770
             }
         ]
     },
