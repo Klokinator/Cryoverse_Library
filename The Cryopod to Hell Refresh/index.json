@@ -1,6 +1,6 @@
 {
-    "total_words": 3201025,
-    "total_chars": 18014519,
+    "total_words": 3205543,
+    "total_chars": 18038916,
     "parts": [
         {
             "name": "Part 001 Entering the Labyrinth",
@@ -3906,6 +3906,11 @@
             "name": "Part 781 Neon Genesis",
             "words": 4167,
             "chars": 22770
+        },
+        {
+            "name": "Part 782 Jasons Echo",
+            "words": 4518,
+            "chars": 24397
         }
     ]
 }
