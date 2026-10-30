@@ -2559,8 +2559,8 @@
         ]
     },
     "The Cryopod to Hell Refresh": {
-        "total_words": 3205543,
-        "total_chars": 18038916,
+        "total_words": 3209422,
+        "total_chars": 18059936,
         "parts": [
             {
                 "name": "Part 001 Entering the Labyrinth",
@@ -6469,8 +6469,13 @@
             },
             {
                 "name": "Part 782 Jasons Echo",
-                "words": 4518,
-                "chars": 24397
+                "words": 4517,
+                "chars": 24391
+            },
+            {
+                "name": "Part 783 Contingencies",
+                "words": 3880,
+                "chars": 21026
             }
         ]
     },

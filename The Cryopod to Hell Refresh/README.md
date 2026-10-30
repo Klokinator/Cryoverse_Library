@@ -856,7 +856,7 @@
 
 </details>
 
-<details><summary>Parts 751 - 782</summary>
+<details><summary>Parts 751 - 783</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
@@ -891,10 +891,11 @@
 | Part 779 Adrenaline | 3,906 | 22,003 |
 | Part 780 Transition | 4,189 | 22,715 |
 | Part 781 Neon Genesis | 4,167 | 22,770 |
-| Part 782 Jasons Echo | 4,518 | 24,397 |
+| Part 782 Jasons Echo | 4,517 | 24,391 |
+| Part 783 Contingencies | 3,880 | 21,026 |
 
 </details>
 
 
-**Total Words:** 3,205,543
-**Total Characters:** 18,038,916
+**Total Words:** 3,209,422
+**Total Characters:** 18,059,936
