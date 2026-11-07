@@ -2559,8 +2559,8 @@
         ]
     },
     "The Cryopod to Hell Refresh": {
-        "total_words": 3209422,
-        "total_chars": 18059936,
+        "total_words": 3213266,
+        "total_chars": 18081356,
         "parts": [
             {
                 "name": "Part 001 Entering the Labyrinth",
@@ -6476,6 +6476,11 @@
                 "name": "Part 783 Contingencies",
                 "words": 3880,
                 "chars": 21026
+            },
+            {
+                "name": "Part 784 Big Brain Time",
+                "words": 3844,
+                "chars": 21420
             }
         ]
     },
