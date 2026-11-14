@@ -8,8 +8,8 @@ A repository for the writing works of Klokinator, mainly featuring the work set 
 | One-Offs | 19,717 | 103,283 |
 | Story Starters | 12,792 | 71,175 |
 | The Cryopod to Hell Classic | 1,057,603 | 5,664,989 |
-| The Cryopod to Hell Refresh | 3,213,266 | 18,081,356 |
-| The Cryopod to Hell Revamped | 3,374,904 | 18,968,019 |
+| The Cryopod to Hell Refresh | 3,217,804 | 18,106,621 |
+| The Cryopod to Hell Revamped | 2,901,663 | 16,292,166 |
 | The Human Hunt 1-3 | 7,519 | 43,759 |
 | The Last Precursor (Complete) | 380,187 | 2,183,070 |
 | Xx_420BasedGOD_xX | 6,834 | 40,089 |

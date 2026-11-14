@@ -1,6 +1,6 @@
 {
-    "total_words": 3213266,
-    "total_chars": 18081356,
+    "total_words": 3217804,
+    "total_chars": 18106621,
     "parts": [
         {
             "name": "Part 001 Entering the Labyrinth",
@@ -3921,6 +3921,11 @@
             "name": "Part 784 Big Brain Time",
             "words": 3844,
             "chars": 21420
+        },
+        {
+            "name": "Part 785 MindCore Switch-up",
+            "words": 4538,
+            "chars": 25265
         }
     ]
 }

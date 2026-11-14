@@ -799,7 +799,7 @@
 
 </details>
 
-<details><summary>Parts 701 - 750</summary>
+<details><summary>Parts 701 - 711</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
@@ -814,144 +814,9 @@
 | Part 607 Our Brightest Night | 3,788 | 22,166 |
 | Part 608 Friends of Phoenix | 3,535 | 20,394 |
 | Part 609 Wordsmiths Woe END OF BOOK 5 | 5,481 | 30,991 |
-| Part 610 REWIND | 6,213 | 34,277 |
-| Part 611 Taken | 4,660 | 26,183 |
-| Part 612 The Illuminatis Haven | 6,702 | 38,069 |
-| Part 613 Back to the Future | 4,611 | 26,189 |
-| Part 614 Bubble Worlds | 3,390 | 19,814 |
-| Part 615 Entering Sharmur | 4,402 | 24,796 |
-| Part 616 Meeting the Lowborn | 3,969 | 22,296 |
-| Part 617 Meeting the Ancestors | 4,528 | 25,347 |
-| Part 618 Escape | 3,574 | 19,665 |
-| Part 619 Cat Mask | 4,768 | 26,528 |
-| Part 620 Harold The Last Trueborn | 3,798 | 20,783 |
-| Part 621 Cat Masks Madness | 3,915 | 21,843 |
-| Part 622 THE GREAT SHATTERING | 3,456 | 19,178 |
-| Part 623 Hiro Stratagem | 3,742 | 21,002 |
-| Part 624 The New LEGION | 3,529 | 19,385 |
-| Part 625 Humanitys Pillars | 4,289 | 24,860 |
-| Part 626 Dance Dance Illuminati | 3,773 | 21,572 |
-| Part 627 The Human Conspiracy | 3,300 | 19,133 |
-| Part 628 Jason The Idiot Trueborn | 3,519 | 20,267 |
-| Part 629 Papa Vasily Sokolov | 3,763 | 20,895 |
-| Part 630 Road Trip | 3,501 | 19,271 |
-| Part 631 Oses Revelation | 4,036 | 23,253 |
-| Part 632 Ancient Rivalries | 3,757 | 21,439 |
-| Part 633 Haven Infiltration | 3,370 | 19,332 |
-| Part 634 Annoying Archseer | 3,580 | 20,198 |
-| Part 635 Shes Only a Baron | 3,613 | 20,401 |
-| Part 636 MindCores | 4,019 | 23,301 |
-| Part 637 Oses Bugs | 4,082 | 22,434 |
-| Part 638 Compromised | 4,494 | 24,782 |
-| Part 639 Overpowering Ose | 3,685 | 19,988 |
-| Part 640 Peasants Mere Peasants | 3,204 | 18,901 |
-| Part 641 The Curse of Intellect | 3,352 | 19,732 |
-| Part 642 Collapsing Empire | 3,702 | 21,387 |
-| Part 643 Myriad Escape | 3,425 | 19,896 |
-| Part 644 Mephistos Massacre | 3,891 | 22,696 |
-| Part 645 Demilas Delusions | 3,809 | 21,552 |
-| Part 646 Demilas Destruction | 4,531 | 25,883 |
-| Part 647 Keen Instincts | 3,891 | 22,206 |
-| Part 648 Fallen Empire | 3,489 | 20,431 |
-
-</details>
-
-<details><summary>Parts 751 - 800</summary>
-
-| Part Name | Word Count | Character Count |
-| --- | --- | --- |
-| Part 649 Dolgris Guides Us | 3,259 | 19,308 |
-| Part 650 Unarins Concession | 4,096 | 22,887 |
-| Part 651 Rebuilding | 3,825 | 21,808 |
-| Part 652 Beelzebubs Bluff | 3,522 | 20,142 |
-| Part 653 Demons Deal | 3,454 | 19,553 |
-| Part 654 Torn Dimension | 3,691 | 21,061 |
-| Part 655 Buddhabubs Battle | 3,446 | 20,031 |
-| Part 656 Aevum Argent | 3,393 | 19,661 |
-| Part 657 Operation Birdcage | 3,525 | 20,317 |
-| Part 658 President Steven Johannesburg | 3,943 | 22,574 |
-| Part 659 AMBITION | 3,661 | 20,562 |
-| Part 660 Hidekis Evolution | 3,676 | 20,458 |
-| Part 661 Blacksite 41 | 4,041 | 23,127 |
-| Part 662 Project Iron Bone | 3,869 | 22,476 |
-| Part 663 Russias Secret Hero | 3,729 | 20,848 |
-| Part 664 The Weakest Superhumans | 3,740 | 20,529 |
-| Part 665 Nadias Body-Brain Drain | 3,753 | 20,774 |
-| Part 666 HELL ON EARTH | 3,986 | 22,597 |
-| Part 667 Hellspawn vs Heavenspawn | 3,685 | 20,942 |
-| Part 668 Temporal Divergence | 6,743 | 38,244 |
-| Part 669 Double Drone Decision | 3,846 | 21,710 |
-| Part 670 Mindcores v2 | 4,052 | 22,671 |
-| Part 671 Area 51 Assault | 4,070 | 23,096 |
-| Part 672 Emperor Ose VS Cat Mask | 4,085 | 22,013 |
-| Part 673 Father Why | 3,640 | 20,160 |
-| Part 674 Superior Sasha | 3,463 | 19,650 |
-| Part 675 Marco Snaps | 3,725 | 20,998 |
-| Part 676 A Dialogue With Dolgris | 4,505 | 25,453 |
-| Part 677 Chronas Biggest Loser | 4,092 | 22,688 |
-| Part 678 The King Network | 3,489 | 20,050 |
-| Part 679 Now I Can Level Up | 3,845 | 22,137 |
-| Part 680 The Power of Friendship | 3,559 | 20,290 |
-| Part 681 Im Not a Fraud | 5,150 | 28,195 |
-| Part 682 Truth and Desire | 4,273 | 23,564 |
-| Part 683 Swim and Smash | 3,577 | 19,947 |
-| Part 684 Levels and Loot | 4,731 | 27,344 |
-| Part 685 Clarity of Mind | 3,416 | 19,679 |
-| Part 686 Maximizing Gains | 3,571 | 20,502 |
-| Part 687 Pain in the Gut | 3,868 | 21,547 |
-| Part 688 A New Player | 3,581 | 19,931 |
-| Part 689 Fionas Ascension | 3,787 | 21,932 |
-| Part 690 Journeys Beginning | 4,009 | 22,970 |
-| Part 691 The Burning Deity | 4,058 | 23,301 |
-| Part 692 Healing Barbatos | 3,589 | 20,514 |
-| Part 693 Creators Conspiracy | 3,776 | 21,710 |
-| Part 694 Hyphytes | 4,220 | 24,036 |
-| Part 695 A Brothers Love | 2,847 | 16,567 |
-| Part 696 The Wound That Never Heals | 4,138 | 24,185 |
-| Part 697 Galactic Unification | 3,742 | 20,846 |
-| Part 698 Alone Again | 5,033 | 28,171 |
-
-</details>
-
-<details><summary>Parts 801 - 832</summary>
-
-| Part Name | Word Count | Character Count |
-| --- | --- | --- |
-| Part 699 Humanitys Backup Plan | 3,633 | 20,245 |
-| Part 700 Unarins Obstinance | 3,871 | 21,786 |
-| Part 701 Too Easy | 3,543 | 19,870 |
-| Part 702 Mentally Corrupted MindCore | 3,488 | 19,704 |
-| Part 703 RealitySim Online | 4,374 | 24,576 |
-| Part 704 Survivors Guilt | 3,577 | 19,605 |
-| Part 705 Respect | 3,980 | 21,796 |
-| Part 706 False Reality | 3,411 | 19,080 |
-| Part 707 A Woman Now | 3,714 | 20,028 |
-| Part 708 Sarabiya | 3,968 | 22,483 |
-| Part 709 Sphinx Slaughter | 3,678 | 20,492 |
-| Part 710 Rekindled Flame | 3,852 | 21,043 |
-| Part 711 SIGIL | 3,961 | 22,113 |
-| Part 712 Grief | 3,697 | 19,883 |
-| Part 713 Sparring | 4,108 | 23,412 |
-| Part 714 Reunited | 3,796 | 20,815 |
-| Part 715 Soul Splicing | 3,903 | 21,447 |
-| Part 716 Soul Surgery | 3,605 | 19,893 |
-| Part 717 New Confidantes | 3,759 | 20,939 |
-| Part 718 Titan Tensions | 6,466 | 36,366 |
-| Part 719 Countermeasures Coalescing | 3,585 | 20,220 |
-| Part 720 The Lord of Heroes | 3,724 | 21,229 |
-| Part 721 Second Chances | 3,641 | 20,047 |
-| Part 722 Vulpanixs Will | 3,806 | 22,162 |
-| Part 723 Becoming a Founder | 3,586 | 20,694 |
-| Part 724 The Ancient Volgrim Empire | 3,565 | 21,204 |
-| Part 725 Deep Space Horrors | 3,952 | 22,946 |
-| Part 726 Philosophical Stagnation | 3,569 | 20,369 |
-| Part 727 Making New Friends | 3,774 | 22,137 |
-| Part 728 Making New Enemies | 4,194 | 24,366 |
-| Part 729 Unjustly Imprisoned | 3,309 | 19,102 |
-| Part 730 ASCENDED | 4,046 | 22,880 |
 
 </details>
 
 
-**Total Words:** 3,374,904
-**Total Characters:** 18,968,019
+**Total Words:** 2,901,663
+**Total Characters:** 16,292,166

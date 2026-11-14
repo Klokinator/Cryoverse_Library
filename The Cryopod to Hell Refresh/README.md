@@ -856,7 +856,7 @@
 
 </details>
 
-<details><summary>Parts 751 - 784</summary>
+<details><summary>Parts 751 - 785</summary>
 
 | Part Name | Word Count | Character Count |
 | --- | --- | --- |
@@ -894,9 +894,10 @@
 | Part 782 Jasons Echo | 4,517 | 24,391 |
 | Part 783 Contingencies | 3,880 | 21,026 |
 | Part 784 Big Brain Time | 3,844 | 21,420 |
+| Part 785 MindCore Switch-up | 4,538 | 25,265 |
 
 </details>
 
 
-**Total Words:** 3,213,266
-**Total Characters:** 18,081,356
+**Total Words:** 3,217,804
+**Total Characters:** 18,106,621
