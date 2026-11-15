@@ -1,6 +1,6 @@
 {
     "total_words": 3217804,
-    "total_chars": 18106621,
+    "total_chars": 18106620,
     "parts": [
         {
             "name": "Part 001 Entering the Labyrinth",
@@ -3925,7 +3925,7 @@
         {
             "name": "Part 785 MindCore Switch-up",
             "words": 4538,
-            "chars": 25265
+            "chars": 25264
         }
     ]
 }
