@@ -1,6 +1,6 @@
 {
     "total_words": 3222509,
-    "total_chars": 18132252,
+    "total_chars": 18132251,
     "parts": [
         {
             "name": "Part 001 Entering the Labyrinth",
@@ -3930,7 +3930,7 @@
         {
             "name": "Part 786 OmniRecord Overload",
             "words": 4703,
-            "chars": 25619
+            "chars": 25618
         }
     ]
 }
