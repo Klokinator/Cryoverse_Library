@@ -1,6 +1,6 @@
 {
-    "total_words": 3217804,
-    "total_chars": 18106620,
+    "total_words": 3222509,
+    "total_chars": 18132246,
     "parts": [
         {
             "name": "Part 001 Entering the Labyrinth",
@@ -3924,8 +3924,13 @@
         },
         {
             "name": "Part 785 MindCore Switch-up",
-            "words": 4538,
-            "chars": 25264
+            "words": 4540,
+            "chars": 25277
+        },
+        {
+            "name": "Part 786 OmniCore Overload",
+            "words": 4703,
+            "chars": 25613
         }
     ]
 }
