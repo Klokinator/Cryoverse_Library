@@ -2560,7 +2560,7 @@
     },
     "The Cryopod to Hell Refresh": {
         "total_words": 3222509,
-        "total_chars": 18132246,
+        "total_chars": 18132252,
         "parts": [
             {
                 "name": "Part 001 Entering the Labyrinth",
@@ -6488,9 +6488,9 @@
                 "chars": 25277
             },
             {
-                "name": "Part 786 OmniCore Overload",
+                "name": "Part 786 OmniRecord Overload",
                 "words": 4703,
-                "chars": 25613
+                "chars": 25619
             }
         ]
     },

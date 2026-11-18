@@ -895,10 +895,10 @@
 | Part 783 Contingencies | 3,880 | 21,026 |
 | Part 784 Big Brain Time | 3,844 | 21,420 |
 | Part 785 MindCore Switch-up | 4,540 | 25,277 |
-| Part 786 OmniCore Overload | 4,703 | 25,613 |
+| Part 786 OmniRecord Overload | 4,703 | 25,619 |
 
 </details>
 
 
 **Total Words:** 3,222,509
-**Total Characters:** 18,132,246
+**Total Characters:** 18,132,252
